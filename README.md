@@ -48,7 +48,7 @@ At the top of each post, add Jekyll front-matter using these categories:
 ```
 ---
 layout: project
-title: A CfP Project
+title: A PSCZSIX Project
 description: a clever subtitle for the project
 image: assets/images/aRepresentativeImageOfTheProject.jpg
 lead: Name of person who lead the project
