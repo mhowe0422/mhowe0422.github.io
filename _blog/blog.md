@@ -3,7 +3,7 @@ layout: blog
 title: Blog
 landing-title: 'Blog'
 description: Coming Events
-image:
+image: assets/images/activism3.jpg
 author: Mark Howe
 ---
 
