@@ -10,4 +10,4 @@ The [**Police Blotter**](https://codeforpittsburgh.github.io/PoliceBlotterDaily)
 
 After 18+ months of careful stewardship, the public presence of the Blotter (and other factors) led to the City's Police Department working with the WPRDC to formally publish their [data directly in a standardized, open format](http://wprdc.org/crime/). 
 
-Consider this one a mission accomplished. The blotter was retired in November 2016.
+Consider this one a mission accomplished. The historical blotter was retired in November 2016.

@@ -3,6 +3,6 @@ layout: blog
 title: Blog
 landing-title: 'Blog'
 description: null
-image: null
-author: null
+image: assets/images/CityWideApril2018.jpg
+author: Mark Howe
 ---
