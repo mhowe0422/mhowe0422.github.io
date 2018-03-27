@@ -3,7 +3,7 @@ layout: blog
 title: Blog
 landing-title: 'Blog'
 description: Coming Events
-image: assets/images/CityWideApril2018.jpg
+image:
 author: Mark Howe
 ---
 
