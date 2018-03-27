@@ -7,4 +7,8 @@ lead: Mark Howe
 url: https://codeforpittsburgh.github.io/Zone6/
 ---
 
-The [**Valuable Links**](/Zone6) 
+
+
+
+
+[**Valuable Links**](/Zone6) 
