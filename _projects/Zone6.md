@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Zone
+title: Zone 6 Links
 description: 
 image: assets/images/Zone6Shield.jpg
 lead: Mark Howe
