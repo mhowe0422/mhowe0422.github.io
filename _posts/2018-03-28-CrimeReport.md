@@ -7,13 +7,13 @@ image:
 author: Mark Howe
 ---
 
-#Zone 6 Community Crime Report 3/20 - 3/26
+# Zone 6 Community Crime Report 3/20 - 3/26
 
-##Aggravated Assault
+## Aggravated Assault
 
-###Census 2017   Esplen   200 Radcliffe St   On 3/23/18 four victims reported that they were stabbed by little known actors during a large fight. The actors fled the scene prior to police arrival. Three victims were transported to Mercy for minor stab wounds. (3/22 2355hrs) CCR 5352
+### Census 2017   Esplen   200 Radcliffe St   On 3/23/18 four victims reported that they were stabbed by little known actors during a large fight. The actors fled the scene prior to police arrival. Three victims were transported to Mercy for minor stab wounds. (3/22 2355hrs) CCR 5352
 
-###Census 2020   Elliott   700 Lorenz Ave   On 3/20/18 Officers arrested Quantel Johnson and Glenda Johnson for operating a stolen vehicle. Glenda Johnson was charged with Aggravated Assault and resisting arrest for assaulting the arresting Officer.  (3/20 0955hrs) CCR 51761
+### Census 2020   Elliott   700 Lorenz Ave   On 3/20/18 Officers arrested Quantel Johnson and Glenda Johnson for operating a stolen vehicle. Glenda Johnson was charged with Aggravated Assault and resisting arrest for assaulting the arresting Officer.  (3/20 0955hrs) CCR 51761
 
 ---
 
