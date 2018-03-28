@@ -9,6 +9,6 @@ author: Mark Howe
 
 # Blog information
 
-This area will include on going progress and updated for Zone 6
+This area will include on going progress and updates for Zone 6
 
 ---
