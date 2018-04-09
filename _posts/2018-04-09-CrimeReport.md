@@ -11,9 +11,9 @@ author: Mark Howe
 
 ## Aggravated Assault
 
-## Census 2022 Sheraden Chartiers Ave & Hillsboro St On 4/7/18 the victim reported that he was shot by an unknown actor. The victim was transported to AGH for treatment. (4/7 1945 - 1950hrs) CCR 64360 
+### Census 2022 Sheraden Chartiers Ave & Hillsboro St On 4/7/18 the victim reported that he was shot by an unknown actor. The victim was transported to AGH for treatment. (4/7 1945 - 1950hrs) CCR 64360 
 
-## Census 2022 Sheraden 1100 Faulkner St On 4/8/18 the victims reported that they were stabbed by known actors during a fight. (4/8 0100 - 0124hrs) CCR 64553
+### Census 2022 Sheraden 1100 Faulkner St On 4/8/18 the victims reported that they were stabbed by known actors during a fight. (4/8 0100 - 0124hrs) CCR 64553
 
 
 ## Theft
