@@ -1,3 +1,12 @@
+---
+layout: post
+title: Crime Report
+description: Crime Report 4/10 - 4/16
+date: 2018-04-16
+image: 
+author: Mark Howe
+---
+
 # Zone 6 Community Crime Report 4/10 - 4/16
 
 ## Aggravated Assault
