@@ -31,6 +31,6 @@ author: Mark Howe
 
 ### Census 1920 Beechview 2300 Bensonia Ave On 4/11/18 the victim reported that an unknown actor stole prescription medication and currency from an unlocked vehicle. (4/10 0100 – 0300hrs) CCR 66762
 
-##Stolen Vehicle
+## Stolen Vehicle
 
 ### Census 2017 Esplen 300 Stanhope St On 4/12/18 the victim reported that an unknown black male actor stole a vehicle that was left unattended and running. (4/12 2320hrs) CCR 67940
