@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Event Notice
-description: Event Notice 4/18
+title: This week
+description: This week 4/18
 date: 2018-04-18
 image: 
 author: Mark Howe
