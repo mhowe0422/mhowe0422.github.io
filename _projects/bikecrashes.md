@@ -7,7 +7,7 @@ lead: Mark Howe
 url: https://codeforpittsburgh.github.io/BikeCrashMap/
 ---
 
-In 2016, years of vehicular [crash data](https://data.wprdc.org/dataset/allegheny-county-crash-data) was released by Allegheny County.
+In 2017, years of vehicular [crash data](https://data.wprdc.org/dataset/allegheny-county-crash-data) was released by Allegheny County.
 
 Mark Howe pulled together a Police Blotter-inspired Bicycle [Crash Map](https://codeforpittsburgh.github.io/BikeCrashMap) and [Crash Heat Map](https://codeforpittsburgh.github.io/CrashHeatMap)
 
