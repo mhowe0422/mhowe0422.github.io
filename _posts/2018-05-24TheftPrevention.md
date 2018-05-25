@@ -3,7 +3,7 @@ layout: post
 title: Theft Prevention
 description: Hints from Zone 6
 date: 2018-05-23
-image: assets/images/Zone6Meeting.jpg
+image: 
 author: Mark Howe
 ---
 
