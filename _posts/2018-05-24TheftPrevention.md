@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Theft Prevention
-description: May 2018
+description: Theft Prevention
 date: 2018-05-24
 image: assets/images/Zone6Meeting.jpg
 author: Mark Howe
