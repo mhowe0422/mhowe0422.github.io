@@ -9,7 +9,7 @@ author: Mark Howe
 
 # Zone 6 Weekly Crimes Report
 ## 5/22/18-5/28/18
-### In order to protect the privacy of involved parties, ll addresses listed below are BLOCK NUMBERS instead of precise residences.
+### In order to protect the privacy of involved parties, all addresses listed below are BLOCK NUMBERS instead of precise residences.
 
 ## Aggravated Assault
 ### Census 2018 Sheraden Bergman St & Ashlyn St On 5/21/18 witnesses reported hearing several gunshots followed by a large bang. One witness observed an SUV that was crashed into a parked vehicle. The SUV was occupied by a black male and a black female. The occupants quickly fled the scene prior to police arrival. The Officers observed several bullet holes in the crashed and abandoned SUV. The driver was described as a black male, 18 years old wearing a blue denim jacket. The passenger was described as a black female wearing a gray sweatshirt. (5/21 2010hrs) CCR 95596
