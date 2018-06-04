@@ -2,7 +2,7 @@
 layout: post
 title: Crime Report
 description: Crime Report 5/29 - 6/04
-date: 2018-06-04
+date: 2018-06-03
 image: 
 author: Mark Howe
 ---
