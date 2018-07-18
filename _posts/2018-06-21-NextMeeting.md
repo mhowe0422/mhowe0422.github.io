@@ -10,7 +10,13 @@ author: Mark Howe
 
 
 # July Meeting 
-## AGENDA TBD
+## AGENDA 
+### National Night Out planning
+### Develop September meeting training plan
+### How to get better attendance and tools to announce activities
+### No meeting in August
+### September Meeting is 4th Monday (9/24)
+
 ## Zone 6 Public Safety Council
 ## 6:30 PM, Monday, July 23, 2018
 ## Banksville Park Community Center
