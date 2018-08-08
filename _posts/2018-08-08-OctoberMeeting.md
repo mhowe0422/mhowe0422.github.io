@@ -1,3 +1,5 @@
+---
+layout: post
 title: Zone 6 October Meeting
 description: October 2018
 date: 2018-08-08
