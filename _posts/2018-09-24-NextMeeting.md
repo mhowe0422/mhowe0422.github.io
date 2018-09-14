@@ -9,7 +9,7 @@ author: Mark Howe
 
 
 
-# September Meeting is 4th Monday (9/24) please plan to meet with us to plan 2018/2019
+# September Meeting is 4th Monday (9/24) 6:30pm please plan to meet with us to plan 2018/2019
 
 ## Zone 6 Public Safety Council
 ## Banksville Park Community Center
@@ -19,3 +19,6 @@ author: Mark Howe
 
 ### If you are interested in serving on the Zone 6 Council please contact Pat Friess (harleybabe54@hotmail.com) or Debra Bailey (dj0y@andrew.cmu.edu)
 
+# Coming Monday, October 22, 2018 at 6:30 PM 
+## OCTOBER IS NATIONAL FIRE PREVENTION MONTH
+## Special Presentation by the Pittsburgh Bureau of Fire
