@@ -2,7 +2,7 @@
 layout: post
 title: Public Safety Council City Wide Meeting
 description: October 17 2018
-date: 2018-08-15
+date: 2018-09-19
 image: assets/images/CityWideFall2018.jpg
 author: Mark Howe
 ---
