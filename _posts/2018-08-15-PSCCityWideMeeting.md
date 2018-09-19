@@ -8,5 +8,5 @@ author: Mark Howe
 ---
 
 # Public Safety Council City Wide Meeting
-## The Public Safety Zone Council City Wide Fall Meeting is October 17th..
+## The Public Safety Zone Council City Wide Fall Meeting is October 17th.
 
