@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Police Blotter Monthly Description Totals</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="img/myicon.png">
+        <script src="js/sorttable.js"></script>
+        <style type="text/css">/* Sortable tables */
+            table.sortable thead{
+                background-color:#eee;
+                color:#666666;
+                font-weight: bold;
+                cursor: default;
+            }</style>
+    </head>
+    <body>
+        <h2>Make a table based on JSON data.</h2>
+
+        <p id="demo"></p>
+
+        <script>
+            var xmlhttp, myObj, x, txt = "";
+
+            xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function () {
+                if (this.readyState === 4 && this.status === 200) {
+                    myObj = JSON.parse(this.responseText);
+                    //console.log(myObj.valueOf());
+
+                    buildTable();
+//addData(myObj);
+
+
+                    // m = myObj['incidents'][0]['Neighborhood'];
+
+                    l = myObj['incidents'].length;
+                    console.log("length " + l);
+                    for (i = 0; i < l; i++)
+                    {
+                        txt += "<tr>";
+                        // for (j = 0; j < 18; j++)
+                        // {
+                        //m = myObj['incidents'][i];
+                        m = myObj['incidents'][i]['Zone'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Neighborhood'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Year'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Section'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Description'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Jan'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Feb'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Mar'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['May'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Jun'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Jul'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Aug'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Sep'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Oct'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Nov'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Dec'];
+                        txt += "<td>" + m + "</td>";
+                        m = myObj['incidents'][i]['Count'];
+                        txt += "<td>" + m + "</td>";
+
+                        // txt += "<td>" + m + "</td>";
+                        // }
+                        txt += "</tr>";
+                    }
+
+                    txt += "</table>";
+                    document.getElementById("demo").innerHTML = txt;
+                }
+            };
+            xmlhttp.open("GET", "./json/Zone6data.json", true);
+            xmlhttp.send();
+            function buildTable()
+            {
+                txt = "<table class='sortable' align='center' cellpadding='5' border=1>";
+
+
+                txt += "<tr>";
+                txt += "<thead>";
+                txt += "<td>Zone</td>";
+                txt += "<td>Neighborhood</td>";
+                txt += "<td>Year</td>";
+                txt += "<td>Section</td>";
+                txt += "<td>Description</td>";
+                txt += "<td>Jan</td>";
+                txt += "<td>Feb</td>";
+                txt += "<td>Mar</td>";
+                txt += "<td>May</td>";
+                txt += "<td>Jun</td>";
+                txt += "<td>Jul</td>";
+                txt += "<td>Aug</td>";
+                txt += "<td>Sep</td>";
+                txt += "<td>Oct</td>";
+                txt += "<td>Nov</td>";
+                txt += "<td>Dec</td>";
+                txt += "<td>Count</td>";
+
+                txt += "</thead></tr>";
+
+            }
+
+        </script>
+    </body>
+</html>
