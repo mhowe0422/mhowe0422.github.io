@@ -17,13 +17,14 @@ and open the template in the editor.
                 color:#666666;
                 font-weight: bold;
                 cursor: default;
-            }</style>
+            }
+
+        </style>
     </head>
     <body>
         <h2>Monthly Zone 6 based on JSON data.</h2>
 
         <p id="demo"></p>
-
         <script>
             var xmlhttp, myObj, x, txt = "";
 
@@ -31,22 +32,14 @@ and open the template in the editor.
             xmlhttp.onreadystatechange = function () {
                 if (this.readyState === 4 && this.status === 200) {
                     myObj = JSON.parse(this.responseText);
-                    //console.log(myObj.valueOf());
 
                     buildTable();
-//addData(myObj);
-
-
-                    // m = myObj['incidents'][0]['Neighborhood'];
 
                     l = myObj['incidents'].length;
                     console.log("length " + l);
                     for (i = 0; i < l; i++)
                     {
                         txt += "<tr>";
-                        // for (j = 0; j < 18; j++)
-                        // {
-                        //m = myObj['incidents'][i];
                         m = myObj['incidents'][i]['Zone'];
                         txt += "<td>" + m + "</td>";
                         m = myObj['incidents'][i]['Neighborhood'];
@@ -81,47 +74,42 @@ and open the template in the editor.
                         txt += "<td>" + m + "</td>";
                         m = myObj['incidents'][i]['Count'];
                         txt += "<td>" + m + "</td>";
-
-                        // txt += "<td>" + m + "</td>";
-                        // }
                         txt += "</tr>";
                     }
-
                     txt += "</table>";
                     document.getElementById("demo").innerHTML = txt;
                 }
             };
             xmlhttp.open("GET", ".\\json\\Zone6data.json", true);
             xmlhttp.send();
+
             function buildTable()
             {
                 txt = "<table class='sortable' align='center' cellpadding='5' border=1>";
 
-
-                txt += "<tr>";
                 txt += "<thead>";
-                txt += "<td>Zone</td>";
-                txt += "<td>Neighborhood</td>";
-                txt += "<td>Year</td>";
-                txt += "<td>Section</td>";
-                txt += "<td>Description</td>";
-                txt += "<td>Jan</td>";
-                txt += "<td>Feb</td>";
-                txt += "<td>Mar</td>";
-                txt += "<td>May</td>";
-                txt += "<td>Jun</td>";
-                txt += "<td>Jul</td>";
-                txt += "<td>Aug</td>";
-                txt += "<td>Sep</td>";
-                txt += "<td>Oct</td>";
-                txt += "<td>Nov</td>";
-                txt += "<td>Dec</td>";
-                txt += "<td>Count</td>";
-
-                txt += "</thead></tr>";
-
+                txt += "<tr>";
+                txt += "<th>Zone</th>";
+                txt += "<th>Neighborhood</th>";
+                txt += "<th>Year</th>";
+                txt += "<th>Section</th>";
+                txt += "<th>Description</th>";
+                txt += "<th>Jan</th>";
+                txt += "<th>Feb</th>";
+                txt += "<th>Mar</th>";
+                txt += "<th>May</th>";
+                txt += "<th>Jun</th>";
+                txt += "<th>Jul</th>";
+                txt += "<th>Aug</th>";
+                txt += "<th>Sep</th>";
+                txt += "<th>Oct</th>";
+                txt += "<th>Nov</th>";
+                txt += "<th>Dec</th>";
+                txt += "<th>Count</th>";
+                txt += "</tr></thead>";
             }
 
         </script>
+
     </body>
 </html>
