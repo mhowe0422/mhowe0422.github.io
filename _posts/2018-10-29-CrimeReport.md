@@ -29,3 +29,5 @@ author: Mark Howe
 
 ## Stolen Vehicle
 ### Census 2023 Banksville 300 Oakville Dr On 10/24/18 the victim reported that a known actor stole his parked vehicle with keys. (10/23 2200 - 10/24 0100hrs) CCR 210667
+
+# Remember our Police Department support during the Sq. Hill shooting
