@@ -1,8 +1,9 @@
 Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Count
 "Zone 6    ","Banksville                    ",2018,9498,"302 (Mental)",0,0,1,0,1,0,0,0,0,0,0,0,2
-"Zone 6    ","Banksville                    ",2018,9999,"9999 - (Misc. Incident):",0,1,2,3,0,1,1,1,3,0,0,0,12
+"Zone 6    ","Banksville                    ",2018,9999,"9999 - (Misc. Incident):",0,1,2,3,0,1,1,1,3,1,0,0,13
 "Zone 6    ","Banksville                    ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,2,0,2,0,1,0,4,1,0,0,0,10
-"Zone 6    ","Banksville                    ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,0,2,0,1,2,1,0,2,0,0,0,10
+"Zone 6    ","Banksville                    ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,0,2,0,1,2,1,0,2,2,0,0,12
+"Zone 6    ","Banksville                    ",2018,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Banksville                    ",2018,2702,"Aggravated Assault.",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Zone 6    ","Banksville                    ",2018,9497,"Aided Case",1,3,2,0,1,0,1,0,1,0,0,0,9
 "Zone 6    ","Banksville                    ",2018,4105(a)(1),"Bad Checks",0,0,2,0,0,0,0,0,0,0,0,0,2
@@ -14,17 +15,19 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Banksville                    ",2018,3503,"Criminal Trespass",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Zone 6    ","Banksville                    ",2018,7512,"Criminal Use of Communication",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Banksville                    ",2018,2709(a.1)(1)(ii),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Threat To Inflict Harm",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Zone 6    ","Banksville                    ",2018,9496,"Dead on Arrival (DOA)",0,1,0,3,1,0,0,1,1,0,0,0,7
+"Zone 6    ","Banksville                    ",2018,9496,"Dead on Arrival (DOA)",0,1,0,3,1,0,0,1,1,1,0,0,8
 "Zone 6    ","Banksville                    ",2018,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Banksville                    ",2018,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Banksville                    ",2018,5503,"Disorderly Conduct.",0,0,2,0,0,0,0,2,0,0,0,0,4
+"Zone 6    ","Banksville                    ",2018,5503,"Disorderly Conduct.",0,0,2,0,0,0,0,2,0,2,0,0,6
 "Zone 6    ","Banksville                    ",2018,9492,"Dog Bite",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Zone 6    ","Banksville                    ",2018,1501,"Drivers Required to be Licensed.",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Zone 6    ","Banksville                    ",2018,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Banksville                    ",2018,3802(a)(1),"DUI - General Impairment",0,0,0,0,4,0,0,0,0,0,0,0,4
 "Zone 6    ","Banksville                    ",2018,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,4,0,0,0,0,0,0,0,4
 "Zone 6    ","Banksville                    ",2018,9015,"Failure To Appear/Arrest on Attachment Order",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Banksville                    ",2018,4914(A),"False Identification to Law Enforcement",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Banksville                    ",2018,9489,"Found Property",0,0,0,0,0,1,0,1,0,0,0,0,2
-"Zone 6    ","Banksville                    ",2018,2709,"Harassment (Non-Specific)",0,0,0,1,0,1,0,0,0,0,0,0,2
+"Zone 6    ","Banksville                    ",2018,2709,"Harassment (Non-Specific)",0,0,0,1,0,1,0,0,0,1,0,0,3
 "Zone 6    ","Banksville                    ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,3,0,0,0,0,0,0,0,0,3
 "Zone 6    ","Banksville                    ",2018,2709(a)(4),"Harassment Communicates Prohibited Acts",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Banksville                    ",2018,517.8,"Home Improvement Fraud",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -36,14 +39,14 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Banksville                    ",2018,9123,"Miscellaneous Fire Other Investigation to Continue",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Banksville                    ",2018,9129,"Miscellaneous Investigation",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Banksville                    ",2018,5507,"Obstructing Highways and Passages.",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Zone 6    ","Banksville                    ",2018,9998,Overdose,0,1,0,0,0,0,0,0,1,0,0,0,2
+"Zone 6    ","Banksville                    ",2018,9998,Overdose,0,1,0,0,0,0,0,0,1,1,0,0,3
 "Zone 6    ","Banksville                    ",2018,9997,"Overdose Death",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Banksville                    ",2018,13(a)(32),"Paraphernalia - Use or Possession",2,0,0,0,4,0,0,0,0,0,0,0,6
 "Zone 6    ","Banksville                    ",2018,13(a)(16),"Possession of Controlled Substance",4,0,0,0,2,0,0,0,0,0,0,0,6
 "Zone 6    ","Banksville                    ",2018,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Banksville                    ",2018,3353,"Prohibitions in Specified Places.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Banksville                    ",2018,5902(a)(1),Prostitution,2,0,0,0,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Banksville                    ",2018,5505,"Public Drunkenness",0,0,0,0,0,0,0,2,0,0,0,0,2
+"Zone 6    ","Banksville                    ",2018,5505,"Public Drunkenness",0,0,0,0,0,0,0,2,0,2,0,0,4
 "Zone 6    ","Banksville                    ",2018,2705,"Recklessly Endangering Another Person.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Banksville                    ",2018,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Banksville                    ",2018,3929,"Retail Theft.",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -55,10 +58,11 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Banksville                    ",2018,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Zone 6    ","Banksville                    ",2018,2709(b),Stalking,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Banksville                    ",2018,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",1,0,0,0,0,0,0,0,1,0,0,0,2
+"Zone 6    ","Banksville                    ",2018,3323,"Stop Signs and Yield Signs.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Banksville                    ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,0,1,0,0,0,0,0,0,0,0,0,3
 "Zone 6    ","Banksville                    ",2018,2706,"Terroristic Threats.",3,2,0,0,0,0,1,0,0,0,0,0,6
 "Zone 6    ","Banksville                    ",2018,3922,"Theft by Deception.",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Zone 6    ","Banksville                    ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,2,1,0,0,0,0,0,0,3
+"Zone 6    ","Banksville                    ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,2,1,0,0,0,1,0,0,4
 "Zone 6    ","Banksville                    ",2018,3921,"Theft by Unlawful Taking or Disposition.",0,1,0,0,0,0,0,0,1,0,0,0,2
 "Zone 6    ","Banksville                    ",2018,3934,"Theft from Vehicle",0,0,0,2,3,0,0,4,0,0,0,0,9
 "Zone 6    ","Banksville                    ",2017,9498,"302 (Mental)",0,0,0,0,2,0,0,0,1,0,0,0,3
@@ -302,26 +306,27 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Banksville                    ",2015,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Zone 6    ","Banksville                    ",2015,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Zone 6    ","Beechview                     ",2018,9498,"302 (Mental)",1,0,1,0,1,0,4,0,1,0,0,0,8
-"Zone 6    ","Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,2,2,4,9,6,3,0,0,0,47
-"Zone 6    ","Beechview                     ",2018,4106,"Access Device Fraud",0,0,1,0,1,1,1,0,0,0,0,0,4
-"Zone 6    ","Beechview                     ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",4,3,2,0,5,0,1,1,0,0,0,0,16
-"Zone 6    ","Beechview                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,4,4,4,2,4,1,3,1,0,0,0,29
-"Zone 6    ","Beechview                     ",2018,2702,"Aggravated Assault.",3,2,0,3,2,0,6,3,5,0,0,0,24
+"Zone 6    ","Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,2,2,4,9,6,3,3,1,0,51
+"Zone 6    ","Beechview                     ",2018,5510,"Abuse of Corpse.",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Zone 6    ","Beechview                     ",2018,4106,"Access Device Fraud",0,0,1,0,1,1,1,0,0,1,0,0,5
+"Zone 6    ","Beechview                     ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",4,3,2,0,5,0,1,1,0,2,0,0,18
+"Zone 6    ","Beechview                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,4,4,4,2,4,1,3,1,3,0,0,32
+"Zone 6    ","Beechview                     ",2018,2702,"Aggravated Assault.",3,2,0,3,2,0,6,3,5,2,0,0,26
 "Zone 6    ","Beechview                     ",2018,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,9497,"Aided Case",2,2,2,3,0,2,5,4,0,0,0,0,20
 "Zone 6    ","Beechview                     ",2018,601.16(b)(2),"Any Person who urinates or defecates in, on, or about any public place w/o immediately cleaning and disposal of material",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,3301,Arson,0,0,0,0,1,0,0,0,0,0,0,0,1
-"Zone 6    ","Beechview                     ",2018,9501,"Bench Warrant",0,7,0,2,0,0,0,1,4,0,0,0,14
-"Zone 6    ","Beechview                     ",2018,3502,Burglary.,3,1,1,2,0,0,1,2,1,0,0,0,11
+"Zone 6    ","Beechview                     ",2018,9501,"Bench Warrant",0,7,0,2,0,0,0,1,4,0,2,0,16
+"Zone 6    ","Beechview                     ",2018,3502,Burglary.,3,1,1,2,0,0,1,2,1,3,0,0,14
 "Zone 6    ","Beechview                     ",2018,3714,"Careless Driving",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Beechview                     ",2018,9016,"Check on Elderly Person",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,8104,"CLASS 1 - Suspicious Package or Device",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,901,"Criminal Attempt",1,0,1,0,0,0,3,0,0,0,0,0,5
 "Zone 6    ","Beechview                     ",2018,903,"Criminal Conspiracy.",2,2,1,0,0,0,1,0,1,0,0,0,7
 "Zone 6    ","Beechview                     ",2018,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,1,0,0,0,1,0,0,0,0,0,0,2
-"Zone 6    ","Beechview                     ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,3,2,0,0,1,3,1,0,0,0,12
-"Zone 6    ","Beechview                     ",2018,3304,"Criminal Mischief.",4,6,2,4,2,1,1,1,1,0,0,0,22
-"Zone 6    ","Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,0,0,0,5
+"Zone 6    ","Beechview                     ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,3,2,0,0,1,3,1,2,0,0,14
+"Zone 6    ","Beechview                     ",2018,3304,"Criminal Mischief.",4,6,2,4,2,1,1,1,1,1,0,0,23
+"Zone 6    ","Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,3,0,0,8
 "Zone 6    ","Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,0,3
 "Zone 6    ","Beechview                     ",2018,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,9496,"Dead on Arrival (DOA)",1,0,2,0,1,1,2,0,0,0,0,0,7
@@ -340,17 +345,18 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Beechview                     ",2018,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,5121,Escape.,0,2,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Beechview                     ",2018,2710,"Ethnic Intimidation.",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Zone 6    ","Beechview                     ",2018,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,0,0,2,0,0,0,0,0,2
+"Zone 6    ","Beechview                     ",2018,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,0,0,2,0,0,1,0,0,3
 "Zone 6    ","Beechview                     ",2018,9488,"False  Burglar Alarm",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,4914,"False Identification to Law Enforcement Authorities",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Beechview                     ",2018,6106,"Firearms not to be Carried without a License.",2,0,0,0,0,0,0,0,2,0,0,0,4
 "Zone 6    ","Beechview                     ",2018,3733,"Fleeing or Attempting to Elude Police Officer",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Beechview                     ",2018,5126,"Flight to Avoid Apprehension, Trial or Punishment.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Beechview                     ",2018,9489,"Found Property",1,1,0,1,0,0,0,0,0,0,0,0,3
+"Zone 6    ","Beechview                     ",2018,4103,"Fraud. Destruct., Remov. or Conceal.of Record. Instr.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Zone 6    ","Beechview                     ",2018,4303,"General Lighting Requirements.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,"620.03 (a)","Graffiti - Prohibited Acts: No person may apply graffiti on city owned property or w/o",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,2709,"Harassment (Non-Specific)",0,0,0,1,1,0,1,1,3,0,0,0,7
-"Zone 6    ","Beechview                     ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,2,0,0,1,2,4,0,3,0,0,0,14
+"Zone 6    ","Beechview                     ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,2,0,0,1,2,4,0,3,1,0,0,15
 "Zone 6    ","Beechview                     ",2018,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,2709(a),Harassment.,1,2,1,1,1,1,0,0,0,0,0,0,7
 "Zone 6    ","Beechview                     ",2018,13(a)(31)*,"Hashish - Possession Small Amount",0,6,0,0,0,0,0,0,0,0,0,0,6
@@ -358,36 +364,36 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,4120,"Identity Theft",0,0,1,0,0,0,1,0,0,0,0,0,2
 "Zone 6    ","Beechview                     ",2018,3746,"Immediate Notice of Accident to Police Department",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Beechview                     ",2018,9093,"Indirect Criminal Contempt",0,0,0,0,0,0,2,4,2,0,0,0,8
+"Zone 6    ","Beechview                     ",2018,9093,"Indirect Criminal Contempt",0,0,0,0,0,0,2,4,2,4,0,0,12
 "Zone 6    ","Beechview                     ",2018,5506,"Loitering and Prowling at Night",1,1,0,1,0,0,0,0,0,0,0,0,3
 "Zone 6    ","Beechview                     ",2018,9504,"Lost Property",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Beechview                     ",2018,13(a)(31),"Marijuana: Possession Small Amount",3,2,2,0,0,0,0,0,4,0,0,0,11
+"Zone 6    ","Beechview                     ",2018,13(a)(31),"Marijuana: Possession Small Amount",3,2,2,0,0,0,0,0,4,2,0,0,13
 "Zone 6    ","Beechview                     ",2018,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,9129,"Miscellaneous Investigation",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Zone 6    ","Beechview                     ",2018,029,"Missing Juvenile",0,0,0,1,1,2,1,0,0,0,0,0,5
+"Zone 6    ","Beechview                     ",2018,029,"Missing Juvenile",0,0,0,1,1,2,1,0,0,1,0,0,6
 "Zone 6    ","Beechview                     ",2018,9490,"Missing Persons (18 and Over)",0,0,1,0,0,0,0,1,0,0,0,0,2
 "Zone 6    ","Beechview                     ",2018,9012,"Non-Violent Domestic",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,5507,"Obstructing Highways and Passages.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Zone 6    ","Beechview                     ",2018,9998,Overdose,1,1,0,3,0,0,2,1,0,0,0,0,8
+"Zone 6    ","Beechview                     ",2018,9998,Overdose,1,1,0,3,0,0,2,1,0,1,0,0,9
 "Zone 6    ","Beechview                     ",2018,9997,"Overdose Death",0,0,0,1,1,0,1,0,0,0,0,0,3
-"Zone 6    ","Beechview                     ",2018,13(a)(32),"Paraphernalia - Use or Possession",2,4,1,3,3,0,0,2,2,0,0,0,17
+"Zone 6    ","Beechview                     ",2018,13(a)(32),"Paraphernalia - Use or Possession",2,4,1,3,3,0,0,2,2,4,0,0,21
 "Zone 6    ","Beechview                     ",2018,4302,"Periods for Requiring Lighted Lamps.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,5902(b)(7),"Permitting place to be regularly used for prostitution",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Beechview                     ",2018,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,0,0,0,0,0,0,2,0,0,0,4
 "Zone 6    ","Beechview                     ",2018,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Zone 6    ","Beechview                     ",2018,13(a)(16),"Possession of Controlled Substance",0,2,2,0,3,0,0,2,2,0,0,0,11
+"Zone 6    ","Beechview                     ",2018,13(a)(16),"Possession of Controlled Substance",0,2,2,0,3,0,0,2,2,4,0,0,15
 "Zone 6    ","Beechview                     ",2018,912,"Possession of Weapon on School Property.",1,6,0,0,0,0,0,0,0,0,0,0,7
-"Zone 6    ","Beechview                     ",2018,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,2,0,0,0,0,0,2,0,0,0,0,4
+"Zone 6    ","Beechview                     ",2018,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,2,0,0,0,0,0,2,0,2,0,0,6
 "Zone 6    ","Beechview                     ",2018,9125,"Possible  Stolen Car Recovered",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,4706,"Prohib. on Expend. for Emission Insp Prog..",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Beechview                     ",2018,5902(b)(1),"Promoting Prostitution - Keeping Business or House",0,2,1,0,0,0,0,0,0,0,0,0,3
 "Zone 6    ","Beechview                     ",2018,2707,"Propulsion of Missiles",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,5902(a)(1),Prostitution,0,1,1,0,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Beechview                     ",2018,5505,"Public Drunkenness",2,0,2,0,1,2,0,2,0,0,0,0,9
-"Zone 6    ","Beechview                     ",2018,3925,"Receiving Stolen Property.",2,2,1,0,0,0,2,0,1,0,0,0,8
+"Zone 6    ","Beechview                     ",2018,5505,"Public Drunkenness",2,0,2,0,1,2,0,2,0,1,0,0,10
+"Zone 6    ","Beechview                     ",2018,3925,"Receiving Stolen Property.",2,2,1,0,0,0,2,0,1,1,0,0,9
 "Zone 6    ","Beechview                     ",2018,3736,"Reckless Driving",1,0,2,0,1,0,2,1,0,0,0,0,7
-"Zone 6    ","Beechview                     ",2018,2705,"Recklessly Endangering Another Person.",0,2,0,0,1,2,0,2,1,0,0,0,8
+"Zone 6    ","Beechview                     ",2018,2705,"Recklessly Endangering Another Person.",0,2,0,0,1,2,0,2,1,1,0,0,9
 "Zone 6    ","Beechview                     ",2018,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",1,0,0,1,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Beechview                     ",2018,1301,"Registration and Certificate of Title Required.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Beechview                     ",2018,1786,"Required Financial Responsibility.",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -398,15 +404,17 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Beechview                     ",2018,3701,Robbery.,2,0,0,0,0,0,3,0,2,0,0,0,7
 "Zone 6    ","Beechview                     ",2018,8106,"Shots Fired",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,4,0,2,0,2,3,0,0,0,0,11
-"Zone 6    ","Beechview                     ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,1,5,0,2,0,3,2,0,0,0,0,15
-"Zone 6    ","Beechview                     ",2018,2701,"Simple Assault.",2,14,2,4,9,7,6,9,8,0,0,0,61
+"Zone 6    ","Beechview                     ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,1,5,0,2,0,3,2,0,1,0,0,16
+"Zone 6    ","Beechview                     ",2018,2701,"Simple Assault.",2,14,2,4,9,7,6,9,8,2,0,0,63
+"Zone 6    ","Beechview                     ",2018,3323,"Stop Signs and Yield Signs.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Beechview                     ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,5,3,0,9,0,0,3,3,0,0,0,23
-"Zone 6    ","Beechview                     ",2018,2706,"Terroristic Threats.",0,3,3,0,3,3,3,6,0,0,0,0,21
+"Zone 6    ","Beechview                     ",2018,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Zone 6    ","Beechview                     ",2018,2706,"Terroristic Threats.",0,3,3,0,3,3,3,6,0,2,0,0,23
 "Zone 6    ","Beechview                     ",2018,3922,"Theft by Deception.",0,3,1,0,0,0,0,0,0,0,0,0,4
 "Zone 6    ","Beechview                     ",2018,3927,"Theft by Failure to Make Required Disp. of Funds",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Zone 6    ","Beechview                     ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,5,2,1,2,2,2,3,1,0,0,0,22
-"Zone 6    ","Beechview                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",4,7,4,0,2,1,5,2,0,0,0,0,25
-"Zone 6    ","Beechview                     ",2018,3934,"Theft from Vehicle",2,5,2,1,0,1,2,4,0,0,0,0,17
+"Zone 6    ","Beechview                     ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,5,2,1,2,2,2,3,1,3,0,0,25
+"Zone 6    ","Beechview                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",4,7,4,0,2,1,5,2,0,2,0,0,27
+"Zone 6    ","Beechview                     ",2018,3934,"Theft from Vehicle",2,5,2,1,0,1,2,4,0,1,0,0,18
 "Zone 6    ","Beechview                     ",2018,3926.C1,"THEFT OF SERVICES",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Beechview                     ",2018,4119,"Trademark Counterfeiting",0,2,0,0,0,0,0,0,0,0,0,0,2
@@ -812,62 +820,66 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Beechview                     ",2015,633.05,Vaccination,0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Beechview                     ",2015,1501(A),"Valid Drivers License Required",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,9498,"302 (Mental)",2,1,1,1,0,0,3,2,1,0,0,0,11
-"Zone 6    ","Brookline                     ",2018,9999,"9999 - (Misc. Incident):",8,3,13,5,4,3,10,4,4,0,0,0,54
+"Zone 6    ","Brookline                     ",2018,9999,"9999 - (Misc. Incident):",8,3,13,5,4,3,10,4,4,5,1,0,60
 "Zone 6    ","Brookline                     ",2018,4106,"Access Device Fraud",1,2,2,1,0,0,0,0,2,0,0,0,8
 "Zone 6    ","Brookline                     ",2018,9018,"Accidental Fire",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Brookline                     ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",3,7,2,0,0,2,0,2,2,0,0,0,18
-"Zone 6    ","Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,6,4,1,3,1,8,0,0,0,30
+"Zone 6    ","Brookline                     ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",3,7,2,0,0,2,0,2,2,4,1,0,23
+"Zone 6    ","Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,6,4,1,3,1,8,2,1,0,33
 "Zone 6    ","Brookline                     ",2018,3742,"Accidents Involving Death or Personal Injury",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,3503(b)(1)(i),"Actual Communication",0,0,2,0,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Brookline                     ",2018,2702,"Aggravated Assault.",1,0,2,1,2,1,0,2,7,0,0,0,16
+"Zone 6    ","Brookline                     ",2018,2702,"Aggravated Assault.",1,0,2,1,2,1,0,2,7,0,2,0,18
 "Zone 6    ","Brookline                     ",2018,9497,"Aided Case",4,0,3,1,4,1,2,1,1,0,0,0,17
 "Zone 6    ","Brookline                     ",2018,3301,Arson,0,0,2,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,4105(a)(1),"Bad Checks",0,0,1,0,0,1,0,1,0,0,0,0,3
-"Zone 6    ","Brookline                     ",2018,9501,"Bench Warrant",0,4,1,2,2,3,0,0,6,0,0,0,18
-"Zone 6    ","Brookline                     ",2018,3502,Burglary.,11,5,4,2,5,1,3,4,3,0,0,0,38
+"Zone 6    ","Brookline                     ",2018,9501,"Bench Warrant",0,4,1,2,2,3,0,0,6,4,0,0,22
+"Zone 6    ","Brookline                     ",2018,3502,Burglary.,11,5,4,2,5,1,3,4,3,4,0,0,42
 "Zone 6    ","Brookline                     ",2018,3714,"Careless Driving",0,0,0,0,0,2,0,0,2,0,0,0,4
 "Zone 6    ","Brookline                     ",2018,607.07,"Carrying Fascimiles of Firearms Prohibited",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,9133,"Complaint - No Citation",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,5123,Contraband.,0,0,0,0,0,0,0,0,2,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,901,"Criminal Attempt",0,1,2,0,4,1,1,0,0,0,0,0,9
-"Zone 6    ","Brookline                     ",2018,903,"Criminal Conspiracy.",0,0,2,3,0,0,0,0,3,0,0,0,8
-"Zone 6    ","Brookline                     ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,0,0,3,2,1,1,1,0,0,0,10
-"Zone 6    ","Brookline                     ",2018,3304,"Criminal Mischief.",5,3,5,3,5,3,9,6,0,0,0,0,39
-"Zone 6    ","Brookline                     ",2018,3503,"Criminal Trespass",0,1,0,0,1,1,0,2,0,0,0,0,5
+"Zone 6    ","Brookline                     ",2018,903,"Criminal Conspiracy.",0,0,2,3,0,0,0,0,3,2,0,0,10
+"Zone 6    ","Brookline                     ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,0,0,3,2,1,1,1,5,0,0,15
+"Zone 6    ","Brookline                     ",2018,3304,"Criminal Mischief.",5,3,5,3,5,3,9,6,0,4,0,0,43
+"Zone 6    ","Brookline                     ",2018,3503,"Criminal Trespass",0,1,0,0,1,1,0,2,0,2,0,0,7
 "Zone 6    ","Brookline                     ",2018,3503(b.1),"Criminal Trespass - Simple Trespasser",1,0,0,0,0,0,0,0,1,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,5533(a),"Cruelty to animals - Intentionally, knowingly or recklessly illtreats, overloads, beats, abandons or abuses an animal ",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Brookline                     ",2018,9496,"Dead on Arrival (DOA)",0,2,2,2,3,2,1,1,3,0,0,0,16
+"Zone 6    ","Brookline                     ",2018,9496,"Dead on Arrival (DOA)",0,2,2,2,3,2,1,1,3,1,0,0,17
 "Zone 6    ","Brookline                     ",2018,607.03,"Discharging Firearm or Airgun",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,5503(a)(3),"DISORDERLY CONDUCT - OBSCENE LANG/GEST",0,12,1,0,0,0,0,0,0,0,0,0,13
 "Zone 6    ","Brookline                     ",2018,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,5503,"Disorderly Conduct.",0,2,2,2,2,1,0,0,2,0,0,0,11
+"Zone 6    ","Brookline                     ",2018,633.08,"Dogs at Large Prohibited",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Brookline                     ",2018,1501,"Drivers Required to be Licensed.",0,3,0,0,0,0,2,0,0,0,0,0,5
 "Zone 6    ","Brookline                     ",2018,3309,"Driving on Roadways Laned for Traffic.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,1543,"Driving While Operating Privilege is Suspended or Revoked.",2,3,0,0,0,0,2,2,0,0,0,0,9
 "Zone 6    ","Brookline                     ",2018,9124,"Drug Investigation",1,0,1,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,3802(a)(2),"DUI - BAC >.08% <.10%",0,0,0,0,0,0,0,2,2,0,0,0,4
 "Zone 6    ","Brookline                     ",2018,3802(d)(2),"DUI - Drug - Impaired Ability",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Zone 6    ","Brookline                     ",2018,3802(a)(1),"DUI - General Impairment",2,2,0,0,0,4,0,2,4,0,0,0,14
-"Zone 6    ","Brookline                     ",2018,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Zone 6    ","Brookline                     ",2018,3802(a)(1),"DUI - General Impairment",2,2,0,0,0,4,0,2,4,2,1,0,17
+"Zone 6    ","Brookline                     ",2018,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",1,0,0,0,0,0,0,0,0,2,0,0,3
 "Zone 6    ","Brookline                     ",2018,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,4,0,0,0,0,0,0,4
-"Zone 6    ","Brookline                     ",2018,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",2,0,1,0,2,0,0,0,0,0,0,0,5
+"Zone 6    ","Brookline                     ",2018,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",2,0,1,0,2,0,0,0,0,1,0,0,6
 "Zone 6    ","Brookline                     ",2018,9015,"Failure To Appear/Arrest on Attachment Order",0,1,0,1,0,1,0,0,1,0,0,0,4
-"Zone 6    ","Brookline                     ",2018,9488,"False  Burglar Alarm",0,0,2,1,2,0,1,1,0,0,0,0,7
+"Zone 6    ","Brookline                     ",2018,9488,"False  Burglar Alarm",0,0,2,1,2,0,1,1,0,1,0,0,8
 "Zone 6    ","Brookline                     ",2018,4914,"False Identification to Law Enforcement Authorities",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,4906,"False Reports to Law Enforcement Authorities.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,4115,"Falsely Impersonating Persons Privately Employed.",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Brookline                     ",2018,4101,Forgery.,0,0,2,0,0,0,0,0,0,0,0,0,2
+"Zone 6    ","Brookline                     ",2018,5126,"Flight to Avoid Apprehension, Trial or Punishment.",0,0,0,0,0,0,0,0,0,2,0,0,2
+"Zone 6    ","Brookline                     ",2018,4101,Forgery.,0,0,2,0,0,0,0,0,0,1,0,0,3
 "Zone 6    ","Brookline                     ",2018,9017,"Found Drugs",0,0,1,0,1,0,0,0,0,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,9489,"Found Property",0,0,0,1,1,2,2,2,0,0,0,0,8
 "Zone 6    ","Brookline                     ",2018,4103,"Fraud. Destruct., Remov. or Conceal.of Record. Instr.",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Zone 6    ","Brookline                     ",2018,2709,"Harassment (Non-Specific)",1,1,3,2,1,0,0,1,0,0,0,0,9
+"Zone 6    ","Brookline                     ",2018,4303,"General Lighting Requirements.",0,0,0,0,0,0,0,0,0,2,0,0,2
+"Zone 6    ","Brookline                     ",2018,2709,"Harassment (Non-Specific)",1,1,3,2,1,0,0,1,0,1,0,0,10
 "Zone 6    ","Brookline                     ",2018,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Zone 6    ","Brookline                     ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",3,0,3,3,2,2,0,0,2,0,0,0,15
+"Zone 6    ","Brookline                     ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",3,0,3,3,2,2,0,0,2,2,0,0,17
 "Zone 6    ","Brookline                     ",2018,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,2709(a)(3),"Harassment No Legitimate Purpose",0,6,0,0,1,0,2,1,1,0,0,0,11
 "Zone 6    ","Brookline                     ",2018,2709(a),Harassment.,1,3,1,0,0,2,2,0,0,0,0,0,9
+"Zone 6    ","Brookline                     ",2018,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Zone 6    ","Brookline                     ",2018,4120,"Identity Theft",2,1,0,2,0,0,0,0,0,0,0,0,5
 "Zone 6    ","Brookline                     ",2018,9093,"Indirect Criminal Contempt",0,0,3,0,0,2,1,0,2,0,0,0,8
 "Zone 6    ","Brookline                     ",2018,2904,"Interference with Custody of Children.",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -875,7 +887,7 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Brookline                     ",2018,5506,"Loitering and Prowling at Night",0,1,0,2,3,0,0,0,0,0,0,0,6
 "Zone 6    ","Brookline                     ",2018,9504,"Lost Property",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,0,3,0,0,0,0,0,0,0,0,0,3
-"Zone 6    ","Brookline                     ",2018,13(a)(31),"Marijuana: Possession Small Amount",0,2,3,5,0,3,2,0,0,0,0,0,15
+"Zone 6    ","Brookline                     ",2018,13(a)(31),"Marijuana: Possession Small Amount",0,2,3,5,0,3,2,0,0,0,2,0,17
 "Zone 6    ","Brookline                     ",2018,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,9129,"Miscellaneous Investigation",0,1,1,0,1,0,0,0,0,0,0,0,3
 "Zone 6    ","Brookline                     ",2018,029,"Missing Juvenile",0,0,1,4,0,1,0,0,1,0,0,0,7
@@ -884,10 +896,10 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Brookline                     ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,5101,"Obstructing Admin. of Law",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,13(a)(12),"Obtaining Cont. Subst. by Fraudulent Means",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Brookline                     ",2018,9998,Overdose,0,3,2,1,2,1,1,2,1,0,0,0,13
+"Zone 6    ","Brookline                     ",2018,9998,Overdose,0,3,2,1,2,1,1,2,1,0,2,0,15
 "Zone 6    ","Brookline                     ",2018,9997,"Overdose Death",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,13(a)(33),"Paraphernalia - Delivery or Intent to Deliver",0,0,3,0,0,0,0,0,0,0,0,0,3
-"Zone 6    ","Brookline                     ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,6,4,3,2,2,2,0,0,0,19
+"Zone 6    ","Brookline                     ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,6,4,3,2,2,2,0,2,0,21
 "Zone 6    ","Brookline                     ",2018,9134,"Pedestrian Hit by Vehicle/Non-Reportable Accident",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,4302,"Periods for Requiring Lighted Lamps.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,2,0,0,0,0,0,0,0,0,0,0,2
@@ -897,9 +909,10 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Brookline                     ",2018,908,"Prohibited Offensive Weapons.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,2707,"Propulsion of Missiles",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,5505,"Public Drunkenness",0,2,0,2,2,0,0,2,4,0,0,0,12
+"Zone 6    ","Brookline                     ",2018,601.16,"Public Urination And Defecation",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Brookline                     ",2018,3925,"Receiving Stolen Property.",0,4,1,1,0,0,0,0,3,0,0,0,9
 "Zone 6    ","Brookline                     ",2018,3301(d),"Reckless Burning or Exploding",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Zone 6    ","Brookline                     ",2018,2705,"Recklessly Endangering Another Person.",2,0,0,0,0,3,3,2,2,0,0,0,12
+"Zone 6    ","Brookline                     ",2018,2705,"Recklessly Endangering Another Person.",2,0,0,0,0,3,3,2,2,2,2,0,16
 "Zone 6    ","Brookline                     ",2018,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",1,0,0,1,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,1301,"Registration and Certificate of Title Required.",0,2,0,0,0,0,2,0,0,0,0,0,4
 "Zone 6    ","Brookline                     ",2018,1786,"Required Financial Responsibility.",0,0,0,0,0,0,2,0,0,0,0,0,2
@@ -909,26 +922,26 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Brookline                     ",2018,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,1,0,0,0,0,0,0,1,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,3701,Robbery.,2,0,2,0,2,1,0,0,0,0,0,0,7
 "Zone 6    ","Brookline                     ",2018,4903,"Securing Loads in Vehicles",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Zone 6    ","Brookline                     ",2018,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,6,1,0,0,2,0,0,2,0,0,0,13
+"Zone 6    ","Brookline                     ",2018,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,6,1,0,0,2,0,0,2,0,2,0,15
 "Zone 6    ","Brookline                     ",2018,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,0,2,1,7,3,1,0,0,0,0,0,15
-"Zone 6    ","Brookline                     ",2018,2701,"Simple Assault.",6,23,9,6,1,4,2,5,8,0,0,0,64
+"Zone 6    ","Brookline                     ",2018,2701,"Simple Assault.",6,23,9,6,1,4,2,5,8,9,0,0,73
 "Zone 6    ","Brookline                     ",2018,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",1,0,0,0,0,0,1,0,0,0,0,0,2
 "Zone 6    ","Brookline                     ",2018,3323,"Stop Signs and Yield Signs.",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Brookline                     ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,11,2,1,3,1,0,2,0,0,0,0,20
+"Zone 6    ","Brookline                     ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,11,2,1,3,1,0,2,0,4,0,0,24
 "Zone 6    ","Brookline                     ",2018,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,2,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Brookline                     ",2018,2706,"Terroristic Threats.",4,1,0,4,4,3,1,0,2,0,0,0,19
+"Zone 6    ","Brookline                     ",2018,2706,"Terroristic Threats.",4,1,0,4,4,3,1,0,2,2,0,0,21
 "Zone 6    ","Brookline                     ",2018,3922,"Theft by Deception.",1,0,1,0,0,0,1,0,1,0,0,0,4
-"Zone 6    ","Brookline                     ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,7,2,3,3,1,2,2,5,0,0,0,29
-"Zone 6    ","Brookline                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,4,2,4,0,4,4,3,2,0,0,0,24
-"Zone 6    ","Brookline                     ",2018,3934,"Theft from Vehicle",2,2,13,3,3,0,3,1,5,0,0,0,32
-"Zone 6    ","Brookline                     ",2018,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Zone 6    ","Brookline                     ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,7,2,3,3,1,2,2,5,2,1,0,32
+"Zone 6    ","Brookline                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,4,2,4,0,4,4,3,2,1,1,0,26
+"Zone 6    ","Brookline                     ",2018,3934,"Theft from Vehicle",2,2,13,3,3,0,3,1,5,2,0,0,34
+"Zone 6    ","Brookline                     ",2018,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,1,0,0,0,0,0,0,0,2,0,0,3
 "Zone 6    ","Brookline                     ",2018,3926.C1,"THEFT OF SERVICES",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,3112,"Traffic-Control Signals.",0,1,0,0,0,0,0,0,2,0,0,0,3
 "Zone 6    ","Brookline                     ",2018,3334,"Turning Movements and Required Signals.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Zone 6    ","Brookline                     ",2018,3928,"Unauthorized Use of Automobile and Other Vehicles.",2,2,0,0,0,1,1,1,0,0,0,0,7
 "Zone 6    ","Brookline                     ",2018,6318,"Unlawful Contact/Communication w/ Minor",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Brookline                     ",2018,2902,"Unlawful Restraint.",0,0,2,0,0,0,0,0,4,0,0,0,6
+"Zone 6    ","Brookline                     ",2018,2902,"Unlawful Restraint.",0,0,2,0,0,0,0,0,4,2,0,0,8
 "Zone 6    ","Brookline                     ",2018,7611(a)(1),"Unlawful Use of a Computer",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Brookline                     ",2017,9498,"302 (Mental)",0,0,0,1,1,3,1,3,1,2,1,0,13
 "Zone 6    ","Brookline                     ",2017,9999,"9999 - (Misc. Incident):",2,3,5,4,6,3,8,11,13,9,7,8,79
@@ -1239,8 +1252,8 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Brookline                     ",2015,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,0,1,2
 "Zone 6    ","Brookline                     ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,3,3,2,2,0,0,0,10
 "Zone 6    ","Brookline                     ",2015,3304,"Criminal Mischief.",0,0,7,6,4,12,9,4,12,8,4,5,71
-"Zone 6    ","Brookline                     ",2015,3503,"Criminal Trespass",0,0,0,3,1,0,0,0,1,0,0,0,5
 "Zone 6    ","Brookline                     ",2015,3503(a),"Criminal Trespass",0,0,0,0,2,0,0,0,0,0,1,0,3
+"Zone 6    ","Brookline                     ",2015,3503,"Criminal Trespass",0,0,0,3,1,0,0,0,1,0,0,0,5
 "Zone 6    ","Brookline                     ",2015,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,1,0,1,0,0,0,0,0,2
 "Zone 6    ","Brookline                     ",2015,3503(b.1)(1)(iii),"Criminal Trespass/Simple Trespasser - Defacing or Damaging the Premises",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Zone 6    ","Brookline                     ",2015,7512,"Criminal Use of Communication",0,0,0,0,0,0,0,0,0,2,0,0,2
@@ -1349,9 +1362,10 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Chartiers City                ",2018,9498,"302 (Mental)",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Zone 6    ","Chartiers City                ",2018,9999,"9999 - (Misc. Incident):",1,1,3,0,0,1,0,1,0,0,0,0,7
 "Zone 6    ","Chartiers City                ",2018,4106,"Access Device Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Zone 6    ","Chartiers City                ",2018,9018,"Accidental Fire",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Zone 6    ","Chartiers City                ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,2,0,0,0,0,0,1,0,0,0,0,3
 "Zone 6    ","Chartiers City                ",2018,2702,"Aggravated Assault.",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Zone 6    ","Chartiers City                ",2018,9497,"Aided Case",0,0,1,0,1,0,0,0,0,0,0,0,2
+"Zone 6    ","Chartiers City                ",2018,9497,"Aided Case",0,0,1,0,1,0,0,0,0,1,0,0,3
 "Zone 6    ","Chartiers City                ",2018,9501,"Bench Warrant",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Chartiers City                ",2018,3502,Burglary.,1,0,0,0,0,0,0,1,0,0,0,0,2
 "Zone 6    ","Chartiers City                ",2018,6301,"Corruption of Minors.",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -1381,6 +1395,7 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Chartiers City                ",2018,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Chartiers City                ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Chartiers City                ",2018,2701,"Simple Assault.",0,1,1,1,2,0,0,0,0,0,0,0,5
+"Zone 6    ","Chartiers City                ",2018,2706,"Terroristic Threats.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Chartiers City                ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,1,0,0,1,0,0,1,0,0,0,4
 "Zone 6    ","Chartiers City                ",2018,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Zone 6    ","Chartiers City                ",2018,3934,"Theft from Vehicle",0,1,0,1,0,0,0,0,0,0,0,0,2
@@ -1485,7 +1500,7 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Chartiers City                ",2015,3934,"Theft from Vehicle",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Chartiers City                ",2015,3334,"Turning Movements and Required Signals.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Zone 6    ","Crafton Heights               ",2018,9498,"302 (Mental)",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Crafton Heights               ",2018,9999,"9999 - (Misc. Incident):",4,3,3,2,1,5,1,1,2,0,0,0,22
+"Zone 6    ","Crafton Heights               ",2018,9999,"9999 - (Misc. Incident):",4,3,3,2,1,5,1,1,2,2,0,0,24
 "Zone 6    ","Crafton Heights               ",2018,4106,"Access Device Fraud",0,1,1,0,1,0,0,1,1,0,0,0,5
 "Zone 6    ","Crafton Heights               ",2018,9018,"Accidental Fire",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Crafton Heights               ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,2,0,0,0,0,0,0,2
@@ -1495,16 +1510,16 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Crafton Heights               ",2018,9497,"Aided Case",0,0,0,2,0,0,4,0,0,0,0,0,6
 "Zone 6    ","Crafton Heights               ",2018,3301,Arson,0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Crafton Heights               ",2018,4105(a)(1),"Bad Checks",0,0,0,0,0,0,0,0,4,0,0,0,4
-"Zone 6    ","Crafton Heights               ",2018,9501,"Bench Warrant",0,2,0,4,0,1,0,2,0,0,0,0,9
-"Zone 6    ","Crafton Heights               ",2018,3502,Burglary.,1,0,2,0,0,4,2,1,1,0,0,0,11
+"Zone 6    ","Crafton Heights               ",2018,9501,"Bench Warrant",0,2,0,4,0,1,0,2,0,2,0,0,11
+"Zone 6    ","Crafton Heights               ",2018,3502,Burglary.,1,0,2,0,0,4,2,1,1,2,0,0,13
 "Zone 6    ","Crafton Heights               ",2018,3302,"Causing or Risking Catastrophe.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Crafton Heights               ",2018,903,"Criminal Conspiracy.",0,0,0,0,0,3,0,0,0,0,0,0,3
 "Zone 6    ","Crafton Heights               ",2018,3304(a)(2),"CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Crafton Heights               ",2018,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,2,1,0,0,0,0,0,0,3
 "Zone 6    ","Crafton Heights               ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,0,2,0,0,0,1,0,0,0,0,4
-"Zone 6    ","Crafton Heights               ",2018,3304,"Criminal Mischief.",3,1,3,1,0,3,1,2,1,0,0,0,15
+"Zone 6    ","Crafton Heights               ",2018,3304,"Criminal Mischief.",3,1,3,1,0,3,1,2,1,4,0,0,19
 "Zone 6    ","Crafton Heights               ",2018,3503,"Criminal Trespass",0,0,0,0,0,0,0,0,2,0,0,0,2
-"Zone 6    ","Crafton Heights               ",2018,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,0,1,1,0,0,0,2
+"Zone 6    ","Crafton Heights               ",2018,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,0,1,1,1,0,0,3
 "Zone 6    ","Crafton Heights               ",2018,5503,"Disorderly Conduct.",0,0,0,0,2,0,0,2,0,0,0,0,4
 "Zone 6    ","Crafton Heights               ",2018,633.08,"Dogs at Large Prohibited",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Crafton Heights               ",2018,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,2,0,0,1,0,0,0,0,0,0,3
@@ -1525,11 +1540,12 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Crafton Heights               ",2018,4120,"Identity Theft",0,1,0,0,1,0,0,0,0,0,0,0,2
 "Zone 6    ","Crafton Heights               ",2018,9093,"Indirect Criminal Contempt",3,0,0,2,0,0,0,0,2,0,0,0,7
 "Zone 6    ","Crafton Heights               ",2018,3332,"Limitations on Turning Around.",0,0,2,0,0,0,0,0,0,0,0,0,2
+"Zone 6    ","Crafton Heights               ",2018,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Crafton Heights               ",2018,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,2,0,0,0,0,0,1,0,0,0,3
 "Zone 6    ","Crafton Heights               ",2018,9129,"Miscellaneous Investigation",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Crafton Heights               ",2018,029,"Missing Juvenile",2,0,0,0,3,1,3,0,0,0,0,0,9
 "Zone 6    ","Crafton Heights               ",2018,9490,"Missing Persons (18 and Over)",0,0,0,0,1,1,1,0,0,0,0,0,3
-"Zone 6    ","Crafton Heights               ",2018,9998,Overdose,0,1,0,0,1,0,0,0,0,0,0,0,2
+"Zone 6    ","Crafton Heights               ",2018,9998,Overdose,0,1,0,0,1,0,0,0,0,2,0,0,4
 "Zone 6    ","Crafton Heights               ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,0,2,0,2,0,0,0,0,0,4
 "Zone 6    ","Crafton Heights               ",2018,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,2,1,0,0,0,0,0,0,3
 "Zone 6    ","Crafton Heights               ",2018,6110.1,"Possesion of Firearm by Minor",0,0,0,0,0,2,0,0,0,0,0,0,2
@@ -1541,7 +1557,8 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Crafton Heights               ",2018,5505,"Public Drunkenness",0,0,0,0,2,0,0,0,2,0,0,0,4
 "Zone 6    ","Crafton Heights               ",2018,3925,"Receiving Stolen Property.",0,0,0,0,0,2,0,0,1,0,0,0,3
 "Zone 6    ","Crafton Heights               ",2018,3736,"Reckless Driving",0,0,2,0,0,1,0,0,0,0,0,0,3
-"Zone 6    ","Crafton Heights               ",2018,2705,"Recklessly Endangering Another Person.",1,0,0,0,3,4,0,2,0,0,0,0,10
+"Zone 6    ","Crafton Heights               ",2018,2705,"Recklessly Endangering Another Person.",1,0,0,0,3,4,0,2,0,1,0,0,11
+"Zone 6    ","Crafton Heights               ",2018,9090,"Recovered Firearm",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Crafton Heights               ",2018,1301,"Registration and Certificate of Title Required.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Crafton Heights               ",2018,1786,"Required Financial Responsibility.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Crafton Heights               ",2018,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,2,0,0,0,0,0,0,0,0,2
@@ -1549,16 +1566,17 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Crafton Heights               ",2018,3701,Robbery.,1,0,1,0,0,3,0,0,0,0,0,0,5
 "Zone 6    ","Crafton Heights               ",2018,8106,"Shots Fired",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Crafton Heights               ",2018,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Zone 6    ","Crafton Heights               ",2018,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,0,0,0,0,2,2,0,0,0,0,0,5
+"Zone 6    ","Crafton Heights               ",2018,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,0,0,0,0,2,2,0,0,1,0,0,6
 "Zone 6    ","Crafton Heights               ",2018,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Zone 6    ","Crafton Heights               ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,0,2,2,1,1,0,0,0,0,0,7
-"Zone 6    ","Crafton Heights               ",2018,2701,"Simple Assault.",1,3,4,2,1,10,0,2,5,0,0,0,28
-"Zone 6    ","Crafton Heights               ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,1,0,1,0,2,3,2,1,0,0,0,10
-"Zone 6    ","Crafton Heights               ",2018,2706,"Terroristic Threats.",0,0,1,0,2,2,0,1,3,0,0,0,9
+"Zone 6    ","Crafton Heights               ",2018,2701,"Simple Assault.",1,3,4,2,1,10,0,2,5,10,0,0,38
+"Zone 6    ","Crafton Heights               ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,1,0,1,0,2,3,2,1,3,0,0,13
+"Zone 6    ","Crafton Heights               ",2018,2706,"Terroristic Threats.",0,0,1,0,2,2,0,1,3,2,0,0,11
 "Zone 6    ","Crafton Heights               ",2018,3922,"Theft by Deception.",0,1,0,0,0,0,0,0,4,0,0,0,5
-"Zone 6    ","Crafton Heights               ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,0,0,1,1,5,1,1,0,0,0,10
+"Zone 6    ","Crafton Heights               ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,0,0,1,1,5,1,1,1,0,0,11
 "Zone 6    ","Crafton Heights               ",2018,3921,"Theft by Unlawful Taking or Disposition.",3,2,0,0,0,0,0,0,1,0,0,0,6
-"Zone 6    ","Crafton Heights               ",2018,3934,"Theft from Vehicle",2,1,0,1,0,2,2,0,0,0,0,0,8
+"Zone 6    ","Crafton Heights               ",2018,3934,"Theft from Vehicle",2,1,0,1,0,2,2,0,0,0,4,0,12
+"Zone 6    ","Crafton Heights               ",2018,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Crafton Heights               ",2018,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",1,0,0,0,0,0,1,0,0,0,0,0,2
 "Zone 6    ","Crafton Heights               ",2018,3334,"Turning Movements and Required Signals.",0,0,2,0,1,0,0,0,0,0,0,0,3
 "Zone 6    ","Crafton Heights               ",2018,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,1,0,0,0,1,0,0,0,0,0,2
@@ -1856,7 +1874,8 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","East Carnegie                 ",2018,2910,"Luring a Child into a Motor Vehicle.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","East Carnegie                 ",2018,9490,"Missing Persons (18 and Over)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","East Carnegie                 ",2018,2705,"Recklessly Endangering Another Person.",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Zone 6    ","East Carnegie                 ",2018,2701,"Simple Assault.",0,3,1,2,0,0,0,0,0,0,0,0,6
+"Zone 6    ","East Carnegie                 ",2018,2701,"Simple Assault.",0,3,1,2,0,0,0,0,0,2,0,0,8
+"Zone 6    ","East Carnegie                 ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Zone 6    ","East Carnegie                 ",2018,2706,"Terroristic Threats.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","East Carnegie                 ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,0,0,0,0,0,1,0,0,0,0,2
 "Zone 6    ","East Carnegie                 ",2018,2902,"Unlawful Restraint.",0,2,0,0,0,0,0,0,0,0,0,0,2
@@ -1933,15 +1952,17 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","East Carnegie                 ",2015,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Zone 6    ","Elliott                       ",2018,9498,"302 (Mental)",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Zone 6    ","Elliott                       ",2018,9999,"9999 - (Misc. Incident):",6,3,3,0,2,1,1,1,1,0,0,0,18
-"Zone 6    ","Elliott                       ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,1,0,0,1,1,0,0,0,0,5
-"Zone 6    ","Elliott                       ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,0,0,1,1,0,2,0,1,0,0,0,7
+"Zone 6    ","Elliott                       ",2018,4106,"Access Device Fraud",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Zone 6    ","Elliott                       ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,1,0,0,1,1,0,1,0,0,6
+"Zone 6    ","Elliott                       ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,0,0,1,1,0,2,0,1,1,0,0,8
 "Zone 6    ","Elliott                       ",2018,3503(b)(1)(i),"Actual Communication",0,0,2,0,0,0,0,0,2,0,0,0,4
 "Zone 6    ","Elliott                       ",2018,2702,"Aggravated Assault.",1,1,3,0,1,0,2,3,2,0,0,0,13
-"Zone 6    ","Elliott                       ",2018,9497,"Aided Case",0,2,0,1,1,1,1,0,1,0,0,0,7
+"Zone 6    ","Elliott                       ",2018,9497,"Aided Case",0,2,0,1,1,1,1,0,1,2,0,0,9
 "Zone 6    ","Elliott                       ",2018,601.08(a),"Alcohol or Liquor Consumption on Streets or Sidewalks",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Zone 6    ","Elliott                       ",2018,7122,"Altered, Forged or Counterfeit Documents and Plates",0,0,2,0,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Elliott                       ",2018,9501,"Bench Warrant",0,9,0,0,3,4,0,2,2,0,0,0,20
-"Zone 6    ","Elliott                       ",2018,3502,Burglary.,1,0,1,2,1,0,1,1,0,0,0,0,7
+"Zone 6    ","Elliott                       ",2018,3301,Arson,0,0,0,0,0,0,0,0,0,1,0,0,1
+"Zone 6    ","Elliott                       ",2018,9501,"Bench Warrant",0,9,0,0,3,4,0,2,2,4,0,0,24
+"Zone 6    ","Elliott                       ",2018,3502,Burglary.,1,0,1,2,1,0,1,1,0,1,0,0,8
 "Zone 6    ","Elliott                       ",2018,901,"Criminal Attempt",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Elliott                       ",2018,903,"Criminal Conspiracy.",0,0,0,3,0,0,0,0,0,0,0,0,3
 "Zone 6    ","Elliott                       ",2018,2501,"Criminal Homicide.",0,0,0,0,0,1,1,0,0,0,0,0,2
@@ -1950,7 +1971,7 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Elliott                       ",2018,3304,"Criminal Mischief.",0,1,1,0,1,2,0,0,3,0,0,0,8
 "Zone 6    ","Elliott                       ",2018,3503,"Criminal Trespass",1,0,0,0,0,0,0,0,1,0,0,0,2
 "Zone 6    ","Elliott                       ",2018,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Zone 6    ","Elliott                       ",2018,9496,"Dead on Arrival (DOA)",0,0,1,0,1,0,0,0,0,0,0,0,2
+"Zone 6    ","Elliott                       ",2018,9496,"Dead on Arrival (DOA)",0,0,1,0,1,0,0,0,0,0,1,0,3
 "Zone 6    ","Elliott                       ",2018,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Zone 6    ","Elliott                       ",2018,5503,"Disorderly Conduct.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Elliott                       ",2018,2907,"Disposition of Ransom.",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -1968,9 +1989,10 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Elliott                       ",2018,3733,"Fleeing or Attempting to Elude Police Officer",0,0,1,0,1,0,0,0,0,0,0,0,2
 "Zone 6    ","Elliott                       ",2018,9017,"Found Drugs",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Elliott                       ",2018,9489,"Found Property",1,1,0,0,1,0,1,1,0,0,0,0,5
+"Zone 6    ","Elliott                       ",2018,4303,"General Lighting Requirements.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Elliott                       ",2018,2709,"Harassment (Non-Specific)",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Elliott                       ",2018,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Elliott                       ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,0,0,2,0,2,0,0,0,4
+"Zone 6    ","Elliott                       ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,0,0,2,0,2,1,0,0,5
 "Zone 6    ","Elliott                       ",2018,2709(a)(3),"Harassment No Legitimate Purpose",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Elliott                       ",2018,2709(a),Harassment.,0,0,0,0,1,1,0,0,0,0,0,0,2
 "Zone 6    ","Elliott                       ",2018,9093,"Indirect Criminal Contempt",0,0,2,2,2,0,4,0,0,0,0,0,10
@@ -1984,9 +2006,9 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Elliott                       ",2018,5101,"Obstructing Admin. of Law",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Elliott                       ",2018,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,2,2,0,0,0,0,0,0,4
 "Zone 6    ","Elliott                       ",2018,9998,Overdose,0,1,0,0,1,0,0,0,0,0,0,0,2
-"Zone 6    ","Elliott                       ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,0,0,4,0,0,0,0,0,0,4
+"Zone 6    ","Elliott                       ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,0,0,4,0,0,0,2,0,0,6
 "Zone 6    ","Elliott                       ",2018,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Zone 6    ","Elliott                       ",2018,907,"Possessing Instruments of Crime.",0,0,0,3,0,0,0,0,0,0,0,0,3
+"Zone 6    ","Elliott                       ",2018,907,"Possessing Instruments of Crime.",0,0,0,3,0,0,0,0,0,1,0,0,4
 "Zone 6    ","Elliott                       ",2018,3301(f),"Possession Incendiary/Explosive Material",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Elliott                       ",2018,13(a)(16),"Possession of Controlled Substance",0,0,2,0,2,3,2,2,0,0,0,0,11
 "Zone 6    ","Elliott                       ",2018,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,2,0,2,0,0,0,0,0,0,0,4
@@ -2007,18 +2029,18 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Elliott                       ",2018,3701,Robbery.,1,0,0,0,2,0,1,1,0,0,0,0,5
 "Zone 6    ","Elliott                       ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Zone 6    ","Elliott                       ",2018,8106,"Shots Fired",0,0,0,1,0,0,0,0,1,0,0,0,2
-"Zone 6    ","Elliott                       ",2018,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,1,0,0,1,0,0,0,0,2
-"Zone 6    ","Elliott                       ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,2,0,2,1,0,0,0,0,0,7
-"Zone 6    ","Elliott                       ",2018,2701,"Simple Assault.",3,0,3,2,4,0,3,6,6,0,0,0,27
+"Zone 6    ","Elliott                       ",2018,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,1,0,0,1,0,1,0,0,3
+"Zone 6    ","Elliott                       ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,2,0,2,1,0,0,1,0,0,8
+"Zone 6    ","Elliott                       ",2018,2701,"Simple Assault.",3,0,3,2,4,0,3,6,6,4,0,0,31
 "Zone 6    ","Elliott                       ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",1,2,0,0,2,0,3,0,0,0,0,0,8
-"Zone 6    ","Elliott                       ",2018,2706,"Terroristic Threats.",0,0,1,0,4,0,1,0,0,0,0,0,6
+"Zone 6    ","Elliott                       ",2018,2706,"Terroristic Threats.",0,0,1,0,4,0,1,0,0,2,0,0,8
 "Zone 6    ","Elliott                       ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,1,0,3,1,1,1,1,0,0,0,10
 "Zone 6    ","Elliott                       ",2018,3921,"Theft by Unlawful Taking or Disposition.",2,0,0,2,0,0,0,2,2,0,0,0,8
-"Zone 6    ","Elliott                       ",2018,3934,"Theft from Vehicle",0,0,0,0,1,0,1,0,0,0,0,0,2
+"Zone 6    ","Elliott                       ",2018,3934,"Theft from Vehicle",0,0,0,0,1,0,1,0,0,0,1,0,3
 "Zone 6    ","Elliott                       ",2018,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Zone 6    ","Elliott                       ",2018,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Elliott                       ",2018,3112,"Traffic-Control Signals.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Zone 6    ","Elliott                       ",2018,3928,"Unauthorized Use of Automobile and Other Vehicles.",1,0,0,3,0,0,0,0,0,0,0,0,4
+"Zone 6    ","Elliott                       ",2018,3928,"Unauthorized Use of Automobile and Other Vehicles.",1,0,0,3,0,0,0,0,0,1,0,0,5
 "Zone 6    ","Elliott                       ",2018,6308(a),"Underage Purchase, Consume, Possessed or Transport Liquor",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Zone 6    ","Elliott                       ",2018,4524,"Windshield Obstructions and Wipers.",0,0,1,0,0,1,0,0,0,0,0,0,2
 "Zone 6    ","Elliott                       ",2017,9498,"302 (Mental)",1,0,3,0,0,0,0,1,0,1,0,0,6
@@ -2336,11 +2358,11 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Elliott                       ",2015,4107(b)(2),"Vehicle Equipment Standards",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Zone 6    ","Elliott                       ",2015,4524,"Windshield Obstructions and Wipers.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Esplen                        ",2018,9498,"302 (Mental)",0,1,0,0,0,1,0,0,0,0,0,0,2
-"Zone 6    ","Esplen                        ",2018,9999,"9999 - (Misc. Incident):",0,2,1,0,1,1,2,0,1,0,0,0,8
+"Zone 6    ","Esplen                        ",2018,9999,"9999 - (Misc. Incident):",0,2,1,0,1,1,2,0,1,1,0,0,9
 "Zone 6    ","Esplen                        ",2018,4106,"Access Device Fraud",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Zone 6    ","Esplen                        ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,0,2,1,1,0,1,1,0,0,0,7
+"Zone 6    ","Esplen                        ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,0,2,1,1,0,1,1,0,1,0,8
 "Zone 6    ","Esplen                        ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Zone 6    ","Esplen                        ",2018,2702,"Aggravated Assault.",0,0,1,1,1,0,0,0,2,0,0,0,5
+"Zone 6    ","Esplen                        ",2018,2702,"Aggravated Assault.",0,0,1,1,1,0,0,0,2,1,0,0,6
 "Zone 6    ","Esplen                        ",2018,9497,"Aided Case",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Zone 6    ","Esplen                        ",2018,9501,"Bench Warrant",1,0,0,0,0,0,0,4,2,0,0,0,7
 "Zone 6    ","Esplen                        ",2018,3502,Burglary.,0,0,0,0,0,2,0,0,0,0,0,0,2
@@ -2356,7 +2378,7 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Esplen                        ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Esplen                        ",2018,2709(a),Harassment.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Esplen                        ",2018,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,0,2,0,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Esplen                        ",2018,13(a)(31),"Marijuana: Possession Small Amount",0,0,4,0,0,0,0,0,0,0,0,0,4
+"Zone 6    ","Esplen                        ",2018,13(a)(31),"Marijuana: Possession Small Amount",0,0,4,0,0,0,0,0,0,2,0,0,6
 "Zone 6    ","Esplen                        ",2018,029,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Esplen                        ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Esplen                        ",2018,907,"Possessing Instruments of Crime.",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -2366,12 +2388,12 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Esplen                        ",2018,3701,Robbery.,0,0,0,0,1,2,0,0,2,0,0,0,5
 "Zone 6    ","Esplen                        ",2018,8106,"Shots Fired",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Zone 6    ","Esplen                        ",2018,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Zone 6    ","Esplen                        ",2018,2701,"Simple Assault.",0,0,0,0,0,3,0,0,2,0,0,0,5
+"Zone 6    ","Esplen                        ",2018,2701,"Simple Assault.",0,0,0,0,0,3,0,0,2,1,0,0,6
 "Zone 6    ","Esplen                        ",2018,2706,"Terroristic Threats.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Esplen                        ",2018,3922,"Theft by Deception.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Zone 6    ","Esplen                        ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,2,0,0,0,0,1,0,0,0,3
 "Zone 6    ","Esplen                        ",2018,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Zone 6    ","Esplen                        ",2018,3934,"Theft from Vehicle",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Zone 6    ","Esplen                        ",2018,3934,"Theft from Vehicle",0,0,0,0,1,0,0,0,0,1,0,0,2
 "Zone 6    ","Esplen                        ",2018,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Zone 6    ","Esplen                        ",2018,3324,"Vehicle Entering or Crossing Roadway.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Esplen                        ",2018,4524,"Windshield Obstructions and Wipers.",0,0,2,0,0,0,0,0,0,0,0,0,2
@@ -2547,7 +2569,7 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Fairywood                     ",2018,9491,"Industrial Accident",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Fairywood                     ",2018,4952,"Intimidation of Witnesses or Victims",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Fairywood                     ",2018,5506,"Loitering and Prowling at Night",0,0,0,1,1,0,0,0,0,0,0,0,2
-"Zone 6    ","Fairywood                     ",2018,029,"Missing Juvenile",1,0,0,0,0,0,1,0,0,0,0,0,2
+"Zone 6    ","Fairywood                     ",2018,029,"Missing Juvenile",1,0,0,0,0,0,1,0,0,0,1,0,3
 "Zone 6    ","Fairywood                     ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Fairywood                     ",2018,6105(c)(9),"Persons Not To Possess Use Manuf, Control Firearm",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Fairywood                     ",2018,6110.1,"Possesion of Firearm by Minor",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -2565,6 +2587,7 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Fairywood                     ",2018,2706,"Terroristic Threats.",0,2,1,1,2,0,0,0,3,0,0,0,9
 "Zone 6    ","Fairywood                     ",2018,3922,"Theft by Deception.",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Fairywood                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",0,1,0,0,0,0,1,0,0,0,0,0,2
+"Zone 6    ","Fairywood                     ",2018,3934,"Theft from Vehicle",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Fairywood                     ",2018,2902,"Unlawful Restraint.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Fairywood                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Zone 6    ","Fairywood                     ",2017,9999,"9999 - (Misc. Incident):",1,0,1,0,2,0,0,1,0,0,1,0,6
@@ -2696,19 +2719,20 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Fairywood                     ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,1,0,1,3,0,0,0,5
 "Zone 6    ","Fairywood                     ",2015,3934,"Theft from Vehicle",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Zone 6    ","Oakwood                       ",2018,9498,"302 (Mental)",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Zone 6    ","Oakwood                       ",2018,9999,"9999 - (Misc. Incident):",2,0,1,0,1,0,0,0,0,0,0,0,4
+"Zone 6    ","Oakwood                       ",2018,9999,"9999 - (Misc. Incident):",2,0,1,0,1,0,0,0,0,3,0,0,7
 "Zone 6    ","Oakwood                       ",2018,4106,"Access Device Fraud",0,0,0,0,1,1,0,0,0,0,0,0,2
-"Zone 6    ","Oakwood                       ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,1,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Oakwood                       ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Zone 6    ","Oakwood                       ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,1,0,0,0,0,0,1,0,0,3
+"Zone 6    ","Oakwood                       ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,1,0,0,0,0,0,0,0,1,0,2
 "Zone 6    ","Oakwood                       ",2018,2702,"Aggravated Assault.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Oakwood                       ",2018,3502,Burglary.,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Oakwood                       ",2018,8105,"CLASS 2 - Bomb Threat",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Oakwood                       ",2018,901,"Criminal Attempt",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Zone 6    ","Oakwood                       ",2018,3304,"Criminal Mischief.",0,1,0,0,0,0,0,1,1,0,0,0,3
 "Zone 6    ","Oakwood                       ",2018,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,2,0,0,0,0,0,0,0,2
+"Zone 6    ","Oakwood                       ",2018,1501,"Drivers Required to be Licensed.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Zone 6    ","Oakwood                       ",2018,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Zone 6    ","Oakwood                       ",2018,9124,"Drug Investigation",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Zone 6    ","Oakwood                       ",2018,3802(a)(1),"DUI - General Impairment",0,0,3,0,0,0,0,0,0,0,0,0,3
+"Zone 6    ","Oakwood                       ",2018,3802(a)(1),"DUI - General Impairment",0,0,3,0,0,0,0,0,0,3,0,0,6
 "Zone 6    ","Oakwood                       ",2018,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Oakwood                       ",2018,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Zone 6    ","Oakwood                       ",2018,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -2719,6 +2743,7 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Oakwood                       ",2018,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Oakwood                       ",2018,9998,Overdose,0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Oakwood                       ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,0,0,0,0,2,0,0,0,0,2
+"Zone 6    ","Oakwood                       ",2018,13(a)(16),"Possession of Controlled Substance",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Zone 6    ","Oakwood                       ",2018,5505,"Public Drunkenness",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Oakwood                       ",2018,2705,"Recklessly Endangering Another Person.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Oakwood                       ",2018,1301,"Registration and Certificate of Title Required.",0,0,0,0,0,0,0,2,0,0,0,0,2
@@ -2726,7 +2751,8 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Oakwood                       ",2018,7513,"Restriction on Alcoholic Beverages - Open Container",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Oakwood                       ",2018,3929,"Retail Theft.",1,0,0,0,0,0,0,1,0,0,0,0,2
 "Zone 6    ","Oakwood                       ",2018,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",1,0,1,0,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Oakwood                       ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Zone 6    ","Oakwood                       ",2018,2701,"Simple Assault.",0,0,0,0,0,0,0,0,0,2,0,0,2
+"Zone 6    ","Oakwood                       ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,1,0,0,1,0,0,2
 "Zone 6    ","Oakwood                       ",2018,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Oakwood                       ",2018,3934,"Theft from Vehicle",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Zone 6    ","Oakwood                       ",2017,9498,"302 (Mental)",1,0,1,0,0,0,0,0,0,0,0,0,2
@@ -2825,10 +2851,13 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Oakwood                       ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,1,0,1,1,0,0,0,3
 "Zone 6    ","Oakwood                       ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,0,0,0,0,1,0,0,0,0,2
 "Zone 6    ","Oakwood                       ",2015,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Zone 6    ","Ridgemont                     ",2018,9498,"302 (Mental)",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Ridgemont                     ",2018,9999,"9999 - (Misc. Incident):",0,0,0,0,0,0,1,2,1,0,0,0,4
 "Zone 6    ","Ridgemont                     ",2018,4101,Forgery.,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Ridgemont                     ",2018,2709,"Harassment (Non-Specific)",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Zone 6    ","Ridgemont                     ",2018,4912,"Impersonating a Public Servant.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Zone 6    ","Ridgemont                     ",2018,2701,"Simple Assault.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Zone 6    ","Ridgemont                     ",2018,3934,"Theft from Vehicle",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Ridgemont                     ",2017,9999,"9999 - (Misc. Incident):",1,0,1,1,0,0,1,0,0,0,0,0,4
 "Zone 6    ","Ridgemont                     ",2017,9497,"Aided Case",0,0,0,0,0,0,1,0,0,0,0,1,2
 "Zone 6    ","Ridgemont                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -2879,18 +2908,19 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Ridgemont                     ",2015,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Zone 6    ","Ridgemont                     ",2015,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,9498,"302 (Mental)",2,0,1,0,2,0,2,0,0,0,0,0,7
-"Zone 6    ","Sheraden                      ",2018,9999,"9999 - (Misc. Incident):",8,8,2,2,3,4,5,7,7,0,0,0,46
-"Zone 6    ","Sheraden                      ",2018,4106,"Access Device Fraud",0,1,2,0,0,0,1,0,0,0,0,0,4
+"Zone 6    ","Sheraden                      ",2018,9999,"9999 - (Misc. Incident):",8,8,2,2,3,4,5,7,7,3,0,0,49
+"Zone 6    ","Sheraden                      ",2018,4106,"Access Device Fraud",0,1,2,0,0,0,1,0,0,1,0,0,5
 "Zone 6    ","Sheraden                      ",2018,9018,"Accidental Fire",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",1,1,1,1,1,0,2,0,0,0,0,0,7
-"Zone 6    ","Sheraden                      ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,4,4,0,2,0,0,2,2,0,0,0,15
+"Zone 6    ","Sheraden                      ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,4,4,0,2,0,0,2,2,1,0,0,16
 "Zone 6    ","Sheraden                      ",2018,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Zone 6    ","Sheraden                      ",2018,2702,"Aggravated Assault.",0,0,0,3,1,1,7,2,0,0,0,0,14
+"Zone 6    ","Sheraden                      ",2018,2702,"Aggravated Assault.",0,0,0,3,1,1,7,2,0,2,0,0,16
 "Zone 6    ","Sheraden                      ",2018,9497,"Aided Case",2,0,3,0,1,2,1,1,0,0,0,0,10
 "Zone 6    ","Sheraden                      ",2018,7122,"Altered, Forged or Counterfeit Documents and Plates",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,3301,Arson,2,0,0,0,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Sheraden                      ",2018,9501,"Bench Warrant",4,4,2,2,0,4,2,6,2,0,0,0,26
-"Zone 6    ","Sheraden                      ",2018,3502,Burglary.,4,2,0,0,3,3,4,4,6,0,0,0,26
+"Zone 6    ","Sheraden                      ",2018,94951,"Attempted Suicide",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Zone 6    ","Sheraden                      ",2018,9501,"Bench Warrant",4,4,2,2,0,4,2,6,2,1,0,0,27
+"Zone 6    ","Sheraden                      ",2018,3502,Burglary.,4,2,0,0,3,3,4,4,6,1,1,0,28
 "Zone 6    ","Sheraden                      ",2018,3714,"Careless Driving",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,3302,"Causing or Risking Catastrophe.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,6301,"Corruption of Minors.",0,0,2,0,0,0,0,0,0,0,0,0,2
@@ -2900,54 +2930,56 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Sheraden                      ",2018,3304(a)(2),"CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Zone 6    ","Sheraden                      ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,2,1,0,2,2,1,3,0,0,0,12
-"Zone 6    ","Sheraden                      ",2018,3304,"Criminal Mischief.",1,2,2,4,5,1,3,4,10,0,0,0,32
+"Zone 6    ","Sheraden                      ",2018,3304,"Criminal Mischief.",1,2,2,4,5,1,3,4,10,1,0,0,33
 "Zone 6    ","Sheraden                      ",2018,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,1,2,0,0,0,3
 "Zone 6    ","Sheraden                      ",2018,3503,"Criminal Trespass",0,0,0,0,0,0,0,2,2,0,0,0,4
 "Zone 6    ","Sheraden                      ",2018,3503(b.1)(1)(iii),"Criminal Trespass/Simple Trespasser - Defacing or Damaging the Premises",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,5533(a),"Cruelty to animals - Intentionally, knowingly or recklessly illtreats, overloads, beats, abandons or abuses an animal ",0,1,0,0,0,0,0,0,2,0,0,0,3
 "Zone 6    ","Sheraden                      ",2018,3301(d.1),"Dangerous Burning",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Sheraden                      ",2018,9496,"Dead on Arrival (DOA)",0,2,1,1,0,1,1,1,2,0,0,0,9
+"Zone 6    ","Sheraden                      ",2018,9496,"Dead on Arrival (DOA)",0,2,1,1,0,1,1,1,2,1,0,0,10
 "Zone 6    ","Sheraden                      ",2018,2707.1,"Discharge of a Firearm into Occupied Structure",1,0,0,1,1,1,0,0,0,0,0,0,4
 "Zone 6    ","Sheraden                      ",2018,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,5503,"Disorderly Conduct.",0,0,0,0,0,0,2,0,1,0,0,0,3
-"Zone 6    ","Sheraden                      ",2018,1501,"Drivers Required to be Licensed.",0,0,0,0,0,0,0,0,2,0,0,0,2
+"Zone 6    ","Sheraden                      ",2018,1501,"Drivers Required to be Licensed.",0,0,0,0,0,0,0,0,2,2,0,0,4
 "Zone 6    ","Sheraden                      ",2018,1543,"Driving While Operating Privilege is Suspended or Revoked.",3,0,0,2,0,0,0,2,3,0,0,0,10
 "Zone 6    ","Sheraden                      ",2018,3802(d)(2),"DUI - Drug - Impaired Ability",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,3802(a)(1),"DUI - General Impairment",0,0,0,0,0,0,1,0,2,0,0,0,3
 "Zone 6    ","Sheraden                      ",2018,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",2,1,1,1,0,0,0,0,0,0,0,0,5
 "Zone 6    ","Sheraden                      ",2018,5121,Escape.,0,0,0,0,0,0,1,0,0,0,0,0,1
-"Zone 6    ","Sheraden                      ",2018,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,2,1,0,0,0,0,0,0,0,3
+"Zone 6    ","Sheraden                      ",2018,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,2,1,0,0,0,0,2,0,0,5
 "Zone 6    ","Sheraden                      ",2018,9488,"False  Burglar Alarm",0,0,1,1,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,4914(A),"False Identification to Law Enforcement",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,4914,"False Identification to Law Enforcement Authorities",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,2903,"False Imprisonment.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,4906,"False Reports to Law Enforcement Authorities.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,6106,"Firearms not to be Carried without a License.",2,0,5,0,0,1,3,2,0,0,0,0,13
+"Zone 6    ","Sheraden                      ",2018,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Sheraden                      ",2018,4101,Forgery.,2,0,2,0,0,0,0,0,0,0,0,0,4
 "Zone 6    ","Sheraden                      ",2018,9017,"Found Drugs",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Zone 6    ","Sheraden                      ",2018,9489,"Found Property",0,0,1,1,1,0,1,1,0,0,0,0,5
+"Zone 6    ","Sheraden                      ",2018,9489,"Found Property",0,0,1,1,1,0,1,1,0,1,0,0,6
 "Zone 6    ","Sheraden                      ",2018,4303,"General Lighting Requirements.",1,0,0,0,0,2,0,0,0,0,0,0,3
+"Zone 6    ","Sheraden                      ",2018,9011,"Gun Related",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Sheraden                      ",2018,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,2709,"Harassment (Non-Specific)",0,2,1,1,1,0,0,0,1,0,0,0,6
-"Zone 6    ","Sheraden                      ",2018,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Zone 6    ","Sheraden                      ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,1,2,1,1,1,3,2,2,0,0,0,15
+"Zone 6    ","Sheraden                      ",2018,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,1,0,0,0,1,0,0,2
+"Zone 6    ","Sheraden                      ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,1,2,1,1,1,3,2,2,1,0,0,16
 "Zone 6    ","Sheraden                      ",2018,2709(a)(4),"Harassment Communicates Prohibited Acts",0,1,0,1,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,1,0,1,0,0,0,0,0,0,0,2
-"Zone 6    ","Sheraden                      ",2018,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,1,1,2,0,1,0,0,0,5
+"Zone 6    ","Sheraden                      ",2018,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,1,1,2,0,1,2,0,0,7
 "Zone 6    ","Sheraden                      ",2018,2709(a),Harassment.,0,0,0,0,0,2,0,0,3,0,0,0,5
 "Zone 6    ","Sheraden                      ",2018,5105,"Hindering Apprehension or Prosecution.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,4120,"Identity Theft",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Zone 6    ","Sheraden                      ",2018,9093,"Indirect Criminal Contempt",0,3,2,3,1,0,0,1,7,0,0,0,17
+"Zone 6    ","Sheraden                      ",2018,9093,"Indirect Criminal Contempt",0,3,2,3,1,0,0,1,7,4,0,0,21
 "Zone 6    ","Sheraden                      ",2018,4952,"Intimidation of Witnesses or Victims",2,0,0,1,0,0,0,0,0,0,0,0,3
 "Zone 6    ","Sheraden                      ",2018,2901,Kidnapping.,0,0,0,0,0,1,0,1,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,9504,"Lost Property",0,1,0,0,0,0,0,1,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Zone 6    ","Sheraden                      ",2018,13(a)(31),"Marijuana: Possession Small Amount",2,2,6,4,2,0,0,0,0,0,0,0,16
-"Zone 6    ","Sheraden                      ",2018,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,0,0,0,0,1,0,0,0,1
+"Zone 6    ","Sheraden                      ",2018,13(a)(31),"Marijuana: Possession Small Amount",2,2,6,4,2,0,0,0,0,3,0,0,19
+"Zone 6    ","Sheraden                      ",2018,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,0,0,0,0,1,1,0,0,2
 "Zone 6    ","Sheraden                      ",2018,2908,"Missing Children.",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Zone 6    ","Sheraden                      ",2018,029,"Missing Juvenile",3,0,1,2,2,1,1,0,2,0,0,0,12
+"Zone 6    ","Sheraden                      ",2018,029,"Missing Juvenile",3,0,1,2,2,1,1,0,2,3,0,0,15
 "Zone 6    ","Sheraden                      ",2018,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -2955,9 +2987,9 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Sheraden                      ",2018,5101,"Obstructing Admin. of Law",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,5301,"Official Oppression.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,3308,"One-Way Roadways and Rotary Traffic Islands.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Zone 6    ","Sheraden                      ",2018,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Zone 6    ","Sheraden                      ",2018,9998,Overdose,0,0,1,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Sheraden                      ",2018,9997,"Overdose Death",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Zone 6    ","Sheraden                      ",2018,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,1,2,0,0,3
+"Zone 6    ","Sheraden                      ",2018,9998,Overdose,0,0,1,0,0,0,0,0,0,1,1,0,3
+"Zone 6    ","Sheraden                      ",2018,9997,"Overdose Death",0,0,1,0,0,0,0,0,0,1,0,0,2
 "Zone 6    ","Sheraden                      ",2018,13(a)(32),"Paraphernalia - Use or Possession",8,3,2,0,2,2,4,1,0,0,0,0,22
 "Zone 6    ","Sheraden                      ",2018,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,2,0,0,0,1,0,0,0,0,0,0,5
 "Zone 6    ","Sheraden                      ",2018,6110.1,"Possesion of Firearm by Minor",0,0,2,0,0,0,1,0,0,0,0,0,3
@@ -2965,10 +2997,11 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Sheraden                      ",2018,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,1,3,1,0,0,0,5
 "Zone 6    ","Sheraden                      ",2018,13(a)(16),"Possession of Controlled Substance",0,3,7,4,3,2,4,3,2,0,0,0,28
 "Zone 6    ","Sheraden                      ",2018,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,3,3,4,3,0,4,0,0,0,0,0,17
+"Zone 6    ","Sheraden                      ",2018,3353,"Prohibitions in Specified Places.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Sheraden                      ",2018,2707,"Propulsion of Missiles",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,5902(a)(1),Prostitution,0,0,0,2,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,5902(a)(2),"Prostitution - Loitering for purpose of",0,0,0,2,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Sheraden                      ",2018,3925,"Receiving Stolen Property.",1,3,3,0,0,1,3,0,2,0,0,0,13
+"Zone 6    ","Sheraden                      ",2018,3925,"Receiving Stolen Property.",1,3,3,0,0,1,3,0,2,1,0,0,14
 "Zone 6    ","Sheraden                      ",2018,3736,"Reckless Driving",0,1,1,0,0,0,2,0,0,0,0,0,4
 "Zone 6    ","Sheraden                      ",2018,2705,"Recklessly Endangering Another Person.",2,1,0,0,2,0,2,1,1,0,0,0,9
 "Zone 6    ","Sheraden                      ",2018,9090,"Recovered Firearm",1,0,0,1,0,0,0,0,0,0,0,0,2
@@ -2977,23 +3010,23 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Sheraden                      ",2018,1107,"Restitution for Theft of Timber. ",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,3929,"Retail Theft.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,3702,"Robbery of Motor Vehicle.",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Sheraden                      ",2018,3701,Robbery.,1,2,5,0,2,1,2,1,2,0,0,0,16
+"Zone 6    ","Sheraden                      ",2018,3701,Robbery.,1,2,5,0,2,1,2,1,2,4,0,0,20
 "Zone 6    ","Sheraden                      ",2018,8106,"Shots Fired",2,0,0,1,1,0,1,2,0,0,0,0,7
 "Zone 6    ","Sheraden                      ",2018,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",1,2,2,0,0,0,0,0,0,0,0,0,5
-"Zone 6    ","Sheraden                      ",2018,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,0,2,1,2,1,0,3,0,0,0,0,10
-"Zone 6    ","Sheraden                      ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,0,1,1,1,0,4,1,5,0,0,0,14
-"Zone 6    ","Sheraden                      ",2018,2701,"Simple Assault.",6,4,3,4,4,3,3,9,4,0,0,0,40
+"Zone 6    ","Sheraden                      ",2018,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,0,2,1,2,1,0,3,0,1,0,0,11
+"Zone 6    ","Sheraden                      ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,0,1,1,1,0,4,1,5,1,0,0,15
+"Zone 6    ","Sheraden                      ",2018,2701,"Simple Assault.",6,4,3,4,4,3,3,9,4,6,0,0,46
 "Zone 6    ","Sheraden                      ",2018,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,2709.2,"Stalking Conduct or Repeatedly Communicates",0,0,0,2,0,2,0,0,0,0,0,0,4
-"Zone 6    ","Sheraden                      ",2018,3323,"Stop Signs and Yield Signs.",2,0,0,2,0,0,0,0,0,0,0,0,4
-"Zone 6    ","Sheraden                      ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,2,0,0,0,0,6,3,2,0,0,0,15
+"Zone 6    ","Sheraden                      ",2018,3323,"Stop Signs and Yield Signs.",2,0,0,2,0,0,0,0,0,1,0,0,5
+"Zone 6    ","Sheraden                      ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,2,0,0,0,0,6,3,2,5,0,0,20
 "Zone 6    ","Sheraden                      ",2018,4910,"Tampering with or Fabricating Physical Evidence.",2,0,0,0,0,0,0,0,2,0,0,0,4
 "Zone 6    ","Sheraden                      ",2018,2706,"Terroristic Threats.",3,1,4,1,2,0,2,2,1,0,0,0,16
-"Zone 6    ","Sheraden                      ",2018,3922,"Theft by Deception.",0,0,0,0,1,0,0,1,0,0,0,0,2
-"Zone 6    ","Sheraden                      ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,1,1,1,0,5,2,3,5,0,0,0,24
-"Zone 6    ","Sheraden                      ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,2,5,0,1,0,1,3,4,0,0,0,17
-"Zone 6    ","Sheraden                      ",2018,3934,"Theft from Vehicle",0,0,2,0,1,1,1,1,0,0,0,0,6
+"Zone 6    ","Sheraden                      ",2018,3922,"Theft by Deception.",0,0,0,0,1,0,0,1,0,1,0,0,3
+"Zone 6    ","Sheraden                      ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,1,1,1,0,5,2,3,5,4,0,0,28
+"Zone 6    ","Sheraden                      ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,2,5,0,1,0,1,3,4,1,0,0,18
+"Zone 6    ","Sheraden                      ",2018,3934,"Theft from Vehicle",0,0,2,0,1,1,1,1,0,10,0,0,16
 "Zone 6    ","Sheraden                      ",2018,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,3334,"Turning Movements and Required Signals.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Sheraden                      ",2018,1372,"Unauthorized Transfer or Use of Registration.",1,0,0,0,0,0,0,0,1,0,0,0,2
@@ -3001,6 +3034,7 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Sheraden                      ",2018,2902,"Unlawful Restraint.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,4904,"Unsworn Falsification to Authorities.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2018,4107(b)(2),"Vehicle Equipment Standards",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Zone 6    ","Sheraden                      ",2018,4524,"Windshield Obstructions and Wipers.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Zone 6    ","Sheraden                      ",2017,9498,"302 (Mental)",1,0,2,1,0,0,2,1,1,1,1,0,10
 "Zone 6    ","Sheraden                      ",2017,9999,"9999 - (Misc. Incident):",3,1,5,4,2,6,5,5,10,5,6,8,60
 "Zone 6    ","Sheraden                      ",2017,4106,"Access Device Fraud",1,0,3,0,0,0,1,2,0,1,0,0,8
@@ -3311,8 +3345,8 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Sheraden                      ",2015,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Sheraden                      ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,1,0,2,0,2,0,1,2,1,0,9
 "Zone 6    ","Sheraden                      ",2015,3304,"Criminal Mischief.",0,0,1,5,4,7,8,6,7,6,6,3,53
-"Zone 6    ","Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
 "Zone 6    ","Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Zone 6    ","Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
 "Zone 6    ","Sheraden                      ",2015,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Zone 6    ","Sheraden                      ",2015,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Zone 6    ","Sheraden                      ",2015,9496,"Dead on Arrival (DOA)",0,0,0,2,0,1,1,1,0,0,0,1,6
@@ -3414,23 +3448,25 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Sheraden                      ",2015,4107(b)(2),"Vehicle Equipment Standards",0,0,0,0,2,0,0,0,0,0,0,1,3
 "Zone 6    ","Sheraden                      ",2015,3322,"Vehicle Turning Left.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Sheraden                      ",2015,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",0,0,0,2,0,0,0,0,0,0,0,0,2
-"Zone 6    ","West End                      ",2018,9999,"9999 - (Misc. Incident):",1,0,0,0,0,1,0,2,1,0,0,0,5
-"Zone 6    ","West End                      ",2018,4106,"Access Device Fraud",0,0,1,0,1,0,0,0,0,0,0,0,2
+"Zone 6    ","West End                      ",2018,9999,"9999 - (Misc. Incident):",1,0,0,0,0,1,0,2,1,1,0,0,6
+"Zone 6    ","West End                      ",2018,4106,"Access Device Fraud",0,0,1,0,1,0,0,0,0,1,0,0,3
 "Zone 6    ","West End                      ",2018,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Zone 6    ","West End                      ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,2,0,1,1,0,2,0,0,0,0,8
 "Zone 6    ","West End                      ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,1,1,1,0,1,0,1,0,0,0,0,6
-"Zone 6    ","West End                      ",2018,2702,"Aggravated Assault.",1,0,0,0,1,0,2,0,0,0,0,0,4
+"Zone 6    ","West End                      ",2018,2702,"Aggravated Assault.",1,0,0,0,1,0,2,0,0,1,0,0,5
 "Zone 6    ","West End                      ",2018,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","West End                      ",2018,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","West End                      ",2018,9497,"Aided Case",1,0,0,0,1,0,0,0,0,0,0,0,2
 "Zone 6    ","West End                      ",2018,9501,"Bench Warrant",0,0,0,2,4,0,0,0,2,0,0,0,8
 "Zone 6    ","West End                      ",2018,3502,Burglary.,0,0,0,0,0,0,0,1,0,0,0,0,1
+"Zone 6    ","West End                      ",2018,1958,"Certificate of Inspection.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Zone 6    ","West End                      ",2018,903,"Criminal Conspiracy.",0,3,0,0,2,0,0,1,0,0,0,0,6
-"Zone 6    ","West End                      ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Zone 6    ","West End                      ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,1,0,0,0,1,0,0,2
 "Zone 6    ","West End                      ",2018,3304,"Criminal Mischief.",1,0,0,0,0,1,0,0,0,0,0,0,2
 "Zone 6    ","West End                      ",2018,3503,"Criminal Trespass",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","West End                      ",2018,3503(b.1),"Criminal Trespass - Simple Trespasser",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","West End                      ",2018,9496,"Dead on Arrival (DOA)",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Zone 6    ","West End                      ",2018,3503(b)(1)(iii),"Defiant Trespass - Fencing or Other Enclosure",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","West End                      ",2018,13(a)(30)*,"Delivery of Controlled Substance",0,0,0,0,2,0,0,1,0,0,0,0,3
 "Zone 6    ","West End                      ",2018,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",2,0,0,0,0,0,2,0,0,0,0,0,4
 "Zone 6    ","West End                      ",2018,"670.02  (a)","Disruptive activity prepetrataed/caused/permitted on property by owner(s)/tenant(s)/occupant(s)/invitee(s) of the property",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -3445,25 +3481,27 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","West End                      ",2018,6106,"Firearms not to be Carried without a License.",0,0,1,0,2,0,0,0,0,0,0,0,3
 "Zone 6    ","West End                      ",2018,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,1,0,0,1,0,0,0,0,2
 "Zone 6    ","West End                      ",2018,4101,Forgery.,0,1,1,0,0,0,0,0,0,0,0,0,2
-"Zone 6    ","West End                      ",2018,9489,"Found Property",1,0,0,1,0,3,0,0,1,0,0,0,6
+"Zone 6    ","West End                      ",2018,9489,"Found Property",1,0,0,1,0,3,0,0,1,1,0,0,7
 "Zone 6    ","West End                      ",2018,4303,"General Lighting Requirements.",0,0,0,0,0,0,2,2,2,0,0,0,6
 "Zone 6    ","West End                      ",2018,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Zone 6    ","West End                      ",2018,2709,"Harassment (Non-Specific)",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","West End                      ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","West End                      ",2018,4120,"Identity Theft",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Zone 6    ","West End                      ",2018,9093,"Indirect Criminal Contempt",1,0,2,0,0,0,0,0,0,0,0,0,3
 "Zone 6    ","West End                      ",2018,5506,"Loitering and Prowling at Night",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Zone 6    ","West End                      ",2018,13(a)(31),"Marijuana: Possession Small Amount",0,0,1,0,0,0,0,2,4,0,0,0,7
+"Zone 6    ","West End                      ",2018,13(a)(31),"Marijuana: Possession Small Amount",0,0,1,0,0,0,0,2,4,2,0,0,9
 "Zone 6    ","West End                      ",2018,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Zone 6    ","West End                      ",2018,9129,"Miscellaneous Investigation",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","West End                      ",2018,3333,"Moving Stopped or Parked Vehicle.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","West End                      ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Zone 6    ","West End                      ",2018,5507,"Obstructing Highways and Passages.",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","West End                      ",2018,13(a)(32),"Paraphernalia - Use or Possession",1,0,0,2,0,2,2,0,0,0,0,0,7
+"Zone 6    ","West End                      ",2018,13(a)(32),"Paraphernalia - Use or Possession",1,0,0,2,0,2,2,0,0,1,0,0,8
 "Zone 6    ","West End                      ",2018,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,2,0,0,1,0,0,0,0,3
 "Zone 6    ","West End                      ",2018,13(a)(16),"Possession of Controlled Substance",1,0,4,0,3,2,2,1,0,0,0,0,13
 "Zone 6    ","West End                      ",2018,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",1,0,0,0,2,0,4,1,0,0,0,0,8
 "Zone 6    ","West End                      ",2018,908,"Prohibited Offensive Weapons.",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Zone 6    ","West End                      ",2018,3925,"Receiving Stolen Property.",0,0,0,0,0,0,0,0,2,0,0,0,2
+"Zone 6    ","West End                      ",2018,2707,"Propulsion of Missiles",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Zone 6    ","West End                      ",2018,3925,"Receiving Stolen Property.",0,0,0,0,0,0,0,0,2,1,0,0,3
 "Zone 6    ","West End                      ",2018,2705,"Recklessly Endangering Another Person.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","West End                      ",2018,1311,"Registration Card to be Signed and Exhibited on Demand.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Zone 6    ","West End                      ",2018,1786,"Required Financial Responsibility.",1,0,0,0,0,2,0,0,0,0,0,0,3
@@ -3477,7 +3515,7 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","West End                      ",2018,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Zone 6    ","West End                      ",2018,2706,"Terroristic Threats.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Zone 6    ","West End                      ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,1,0,0,0,0,1,0,0,0,0,3
-"Zone 6    ","West End                      ",2018,3921,"Theft by Unlawful Taking or Disposition.",0,1,0,0,0,0,2,1,0,0,0,0,4
+"Zone 6    ","West End                      ",2018,3921,"Theft by Unlawful Taking or Disposition.",0,1,0,0,0,0,2,1,0,1,0,0,5
 "Zone 6    ","West End                      ",2018,3112,"Traffic-Control Signals.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","West End                      ",2018,1372,"Unauthorized Transfer or Use of Registration.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Zone 6    ","West End                      ",2018,3928,"Unauthorized Use of Automobile and Other Vehicles.",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -3707,7 +3745,7 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Westwood                      ",2018,4106,"Access Device Fraud",0,0,1,1,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Westwood                      ",2018,9018,"Accidental Fire",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Westwood                      ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,0,0,2,0,0,2,0,0,0,0,5
-"Zone 6    ","Westwood                      ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,2,1,2,1,0,0,1,0,0,0,0,8
+"Zone 6    ","Westwood                      ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,2,1,2,1,0,0,1,0,1,0,0,9
 "Zone 6    ","Westwood                      ",2018,3354,"Additional Parking Regulations.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Zone 6    ","Westwood                      ",2018,2702,"Aggravated Assault.",1,0,0,0,0,0,0,0,4,0,0,0,5
 "Zone 6    ","Westwood                      ",2018,9497,"Aided Case",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -3723,10 +3761,11 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Westwood                      ",2018,3802(a)(1),"DUI - General Impairment",0,0,2,0,0,0,1,2,0,0,0,0,5
 "Zone 6    ","Westwood                      ",2018,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,2,0,0,0,1,0,0,0,0,0,3
 "Zone 6    ","Westwood                      ",2018,4914(A),"False Identification to Law Enforcement",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Zone 6    ","Westwood                      ",2018,4101,Forgery.,1,0,0,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Westwood                      ",2018,9489,"Found Property",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Zone 6    ","Westwood                      ",2018,4101,Forgery.,1,0,0,0,0,0,0,0,0,1,0,0,2
+"Zone 6    ","Westwood                      ",2018,9017,"Found Drugs",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Zone 6    ","Westwood                      ",2018,9489,"Found Property",0,0,0,0,0,0,0,1,0,2,0,0,3
 "Zone 6    ","Westwood                      ",2018,2709,"Harassment (Non-Specific)",0,0,1,0,1,0,0,0,0,0,0,0,2
-"Zone 6    ","Westwood                      ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,0,2,1,0,0,0,0,0,3
+"Zone 6    ","Westwood                      ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,0,2,1,0,0,1,0,0,4
 "Zone 6    ","Westwood                      ",2018,9093,"Indirect Criminal Contempt",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Westwood                      ",2018,9504,"Lost Property",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Westwood                      ",2018,029,"Missing Juvenile",0,0,1,0,0,0,0,2,0,0,0,0,3
@@ -3743,14 +3782,15 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Westwood                      ",2018,3701,Robbery.,1,0,0,0,0,0,1,1,2,0,0,0,5
 "Zone 6    ","Westwood                      ",2018,8106,"Shots Fired",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Zone 6    ","Westwood                      ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,1,0,3,0,0,0,0,0,0,4
-"Zone 6    ","Westwood                      ",2018,2701,"Simple Assault.",1,0,1,2,2,0,0,7,1,0,0,0,14
+"Zone 6    ","Westwood                      ",2018,2701,"Simple Assault.",1,0,1,2,2,0,0,7,1,1,0,0,15
 "Zone 6    ","Westwood                      ",2018,2709.2,"Stalking Conduct or Repeatedly Communicates",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Zone 6    ","Westwood                      ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,1,2,1,0,2,0,0,0,0,6
-"Zone 6    ","Westwood                      ",2018,2706,"Terroristic Threats.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Zone 6    ","Westwood                      ",2018,2706,"Terroristic Threats.",1,0,0,0,0,0,0,0,0,1,0,0,2
 "Zone 6    ","Westwood                      ",2018,3922,"Theft by Deception.",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Zone 6    ","Westwood                      ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,0,0,0,1,0,4,3,0,0,0,9
+"Zone 6    ","Westwood                      ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,0,0,0,1,0,4,3,1,1,0,11
 "Zone 6    ","Westwood                      ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,0,2,0,1,0,0,1,0,0,0,0,5
-"Zone 6    ","Westwood                      ",2018,3934,"Theft from Vehicle",0,0,0,0,0,1,0,0,1,0,0,0,2
+"Zone 6    ","Westwood                      ",2018,3934,"Theft from Vehicle",0,0,0,0,0,1,0,0,1,2,0,0,4
+"Zone 6    ","Westwood                      ",2018,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Zone 6    ","Westwood                      ",2018,3334,"Turning Movements and Required Signals.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Westwood                      ",2017,9498,"302 (Mental)",0,0,0,0,0,0,0,0,0,1,0,1,2
 "Zone 6    ","Westwood                      ",2017,9999,"9999 - (Misc. Incident):",1,0,1,1,0,1,3,1,2,3,1,3,17
@@ -3949,10 +3989,15 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Windgap                       ",2018,3714,"Careless Driving",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Windgap                       ",2018,903,"Criminal Conspiracy.",0,0,0,0,4,0,0,0,0,0,0,0,4
 "Zone 6    ","Windgap                       ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Zone 6    ","Windgap                       ",2018,3304,"Criminal Mischief.",0,0,1,1,0,0,0,0,0,0,0,0,2
+"Zone 6    ","Windgap                       ",2018,3304,"Criminal Mischief.",0,0,1,1,0,0,0,0,0,2,0,0,4
+"Zone 6    ","Windgap                       ",2018,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Zone 6    ","Windgap                       ",2018,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,0,0,0,0,0,0,0,2,0,0,2
+"Zone 6    ","Windgap                       ",2018,3802(a)(1),"DUI - General Impairment",0,0,0,0,0,0,0,0,0,2,0,0,2
+"Zone 6    ","Windgap                       ",2018,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Zone 6    ","Windgap                       ",2018,5121,Escape.,0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Windgap                       ",2018,9488,"False  Burglar Alarm",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Windgap                       ",2018,2903,"False Imprisonment.",0,0,0,0,0,0,0,0,1,0,0,0,1
+"Zone 6    ","Windgap                       ",2018,4906,"False Reports to Law Enforcement Authorities.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Zone 6    ","Windgap                       ",2018,5126,"Flight to Avoid Apprehension, Trial or Punishment.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Zone 6    ","Windgap                       ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,0,0,2,0,0,0,0,0,0,0,3
 "Zone 6    ","Windgap                       ",2018,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -3971,7 +4016,8 @@ Zone,Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,O
 "Zone 6    ","Windgap                       ",2018,3323,"Stop Signs and Yield Signs.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Zone 6    ","Windgap                       ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",3,0,0,0,2,0,0,0,0,0,0,0,5
 "Zone 6    ","Windgap                       ",2018,2706,"Terroristic Threats.",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Zone 6    ","Windgap                       ",2018,3934,"Theft from Vehicle",0,0,0,0,0,0,1,1,0,0,0,0,2
+"Zone 6    ","Windgap                       ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Zone 6    ","Windgap                       ",2018,3934,"Theft from Vehicle",0,0,0,0,0,0,1,1,0,1,0,0,3
 "Zone 6    ","Windgap                       ",2017,9498,"302 (Mental)",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Zone 6    ","Windgap                       ",2017,9999,"9999 - (Misc. Incident):",1,1,0,1,0,1,1,0,0,1,1,1,8
 "Zone 6    ","Windgap                       ",2017,4106,"Access Device Fraud",0,0,0,0,0,0,0,0,0,0,1,0,1
