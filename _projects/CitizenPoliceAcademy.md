@@ -7,4 +7,4 @@ lead: Mark Howe
 url: 
 ---
 
-(/CitizenPoliceAcademy)
+[**Click for Information**](/CitizenPoliceAcademy)
