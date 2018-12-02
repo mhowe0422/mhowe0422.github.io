@@ -36,9 +36,29 @@
             "Aug": "1",
             "Sep": "3",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Banksville",
+            "Year": "2018",
+            "Section": "9018",
+            "Description": "Accidental Fire",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Zone": "Zone 6",
@@ -136,9 +156,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "9"
+            "Count": "11"
         },
         {
             "Zone": "Zone 6",
@@ -476,9 +496,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -496,9 +516,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -544,6 +564,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Banksville",
             "Year": "2018",
+            "Section": "4101",
+            "Description": "Forgery.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Banksville",
+            "Year": "2018",
             "Section": "9489",
             "Description": "Found Property",
             "Jan": "0",
@@ -556,9 +596,29 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Banksville",
+            "Year": "2018",
+            "Section": "7124",
+            "Description": "Fraudulent Use or Removal of Registration Plates",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Zone": "Zone 6",
@@ -816,9 +876,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Zone": "Zone 6",
@@ -1256,9 +1316,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
@@ -1322,6 +1382,26 @@
         },
         {
             "Zone": "Zone 6",
+            "Neighborhood": "Banksville",
+            "Year": "2018",
+            "Section": "3926.C1",
+            "Description": "THEFT OF SERVICES",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Zone": "Zone 6",
             "Neighborhood": "Beechview",
             "Year": "2018",
             "Section": "9498",
@@ -1356,9 +1436,9 @@
             "Aug": "6",
             "Sep": "3",
             "Oct": "3",
-            "Nov": "1",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "51"
+            "Count": "53"
         },
         {
             "Zone": "Zone 6",
@@ -1396,9 +1476,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -1436,9 +1516,9 @@
             "Aug": "3",
             "Sep": "1",
             "Oct": "3",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "32"
+            "Count": "35"
         },
         {
             "Zone": "Zone 6",
@@ -1456,9 +1536,9 @@
             "Aug": "3",
             "Sep": "5",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "6",
             "Dec": "0",
-            "Count": "26"
+            "Count": "32"
         },
         {
             "Zone": "Zone 6",
@@ -1556,9 +1636,9 @@
             "Aug": "1",
             "Sep": "4",
             "Oct": "0",
-            "Nov": "2",
+            "Nov": "6",
             "Dec": "0",
-            "Count": "16"
+            "Count": "20"
         },
         {
             "Zone": "Zone 6",
@@ -1656,9 +1736,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Zone": "Zone 6",
@@ -1716,9 +1796,9 @@
             "Aug": "3",
             "Sep": "1",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "14"
+            "Count": "16"
         },
         {
             "Zone": "Zone 6",
@@ -1736,9 +1816,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "1",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "23"
+            "Nov": "2",
+            "Dec": "1",
+            "Count": "26"
         },
         {
             "Zone": "Zone 6",
@@ -1816,9 +1896,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Zone": "Zone 6",
@@ -2076,9 +2156,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Zone": "Zone 6",
@@ -2256,9 +2336,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "3"
+            "Count": "5"
         },
         {
             "Zone": "Zone 6",
@@ -2516,9 +2596,9 @@
             "Aug": "4",
             "Sep": "2",
             "Oct": "4",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "12"
+            "Count": "15"
         },
         {
             "Zone": "Zone 6",
@@ -2656,9 +2736,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Zone": "Zone 6",
@@ -2736,9 +2816,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "9"
+            "Count": "11"
         },
         {
             "Zone": "Zone 6",
@@ -2776,9 +2856,9 @@
             "Aug": "2",
             "Sep": "2",
             "Oct": "4",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "21"
+            "Count": "23"
         },
         {
             "Zone": "Zone 6",
@@ -2856,9 +2936,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Zone": "Zone 6",
@@ -3176,9 +3256,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -3196,9 +3276,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "4",
             "Dec": "0",
-            "Count": "2"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -3256,9 +3336,9 @@
             "Aug": "0",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "7"
+            "Count": "9"
         },
         {
             "Zone": "Zone 6",
@@ -3316,9 +3396,9 @@
             "Aug": "2",
             "Sep": "0",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "7",
             "Dec": "0",
-            "Count": "16"
+            "Count": "23"
         },
         {
             "Zone": "Zone 6",
@@ -3336,9 +3416,9 @@
             "Aug": "9",
             "Sep": "8",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "63"
+            "Count": "66"
         },
         {
             "Zone": "Zone 6",
@@ -3376,9 +3456,9 @@
             "Aug": "3",
             "Sep": "3",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "4",
             "Dec": "0",
-            "Count": "23"
+            "Count": "27"
         },
         {
             "Zone": "Zone 6",
@@ -3436,9 +3516,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Zone": "Zone 6",
@@ -3476,9 +3556,9 @@
             "Aug": "3",
             "Sep": "1",
             "Oct": "3",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "25"
+            "Count": "27"
         },
         {
             "Zone": "Zone 6",
@@ -3496,9 +3576,9 @@
             "Aug": "2",
             "Sep": "0",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "27"
+            "Count": "28"
         },
         {
             "Zone": "Zone 6",
@@ -3616,9 +3696,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Zone": "Zone 6",
@@ -3676,9 +3756,9 @@
             "Aug": "2",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "11"
+            "Count": "13"
         },
         {
             "Zone": "Zone 6",
@@ -3696,9 +3776,9 @@
             "Aug": "4",
             "Sep": "4",
             "Oct": "5",
-            "Nov": "1",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "60"
+            "Count": "62"
         },
         {
             "Zone": "Zone 6",
@@ -3756,9 +3836,9 @@
             "Aug": "2",
             "Sep": "2",
             "Oct": "4",
-            "Nov": "1",
+            "Nov": "5",
             "Dec": "0",
-            "Count": "23"
+            "Count": "27"
         },
         {
             "Zone": "Zone 6",
@@ -3776,9 +3856,9 @@
             "Aug": "1",
             "Sep": "8",
             "Oct": "2",
-            "Nov": "1",
-            "Dec": "0",
-            "Count": "33"
+            "Nov": "2",
+            "Dec": "1",
+            "Count": "35"
         },
         {
             "Zone": "Zone 6",
@@ -3856,9 +3936,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "17"
+            "Count": "19"
         },
         {
             "Zone": "Zone 6",
@@ -3916,9 +3996,9 @@
             "Aug": "0",
             "Sep": "6",
             "Oct": "4",
-            "Nov": "0",
+            "Nov": "5",
             "Dec": "0",
-            "Count": "22"
+            "Count": "27"
         },
         {
             "Zone": "Zone 6",
@@ -4056,9 +4136,9 @@
             "Aug": "0",
             "Sep": "3",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "10"
+            "Count": "13"
         },
         {
             "Zone": "Zone 6",
@@ -4096,9 +4176,9 @@
             "Aug": "6",
             "Sep": "0",
             "Oct": "4",
-            "Nov": "0",
+            "Nov": "4",
             "Dec": "0",
-            "Count": "43"
+            "Count": "47"
         },
         {
             "Zone": "Zone 6",
@@ -4176,9 +4256,9 @@
             "Aug": "1",
             "Sep": "3",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "17"
+            "Count": "19"
         },
         {
             "Zone": "Zone 6",
@@ -4236,9 +4316,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "13"
+            "Count": "15"
         },
         {
             "Zone": "Zone 6",
@@ -4276,9 +4356,9 @@
             "Aug": "0",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "11"
+            "Count": "13"
         },
         {
             "Zone": "Zone 6",
@@ -4356,9 +4436,9 @@
             "Aug": "2",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "9"
+            "Nov": "7",
+            "Dec": "1",
+            "Count": "17"
         },
         {
             "Zone": "Zone 6",
@@ -4416,9 +4496,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Zone": "Zone 6",
@@ -4436,9 +4516,9 @@
             "Aug": "2",
             "Sep": "4",
             "Oct": "2",
-            "Nov": "1",
+            "Nov": "5",
             "Dec": "0",
-            "Count": "17"
+            "Count": "21"
         },
         {
             "Zone": "Zone 6",
@@ -4476,9 +4556,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -4544,6 +4624,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Brookline",
             "Year": "2018",
+            "Section": "4914(A)",
+            "Description": "False Identification to Law Enforcement",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Brookline",
+            "Year": "2018",
             "Section": "4914",
             "Description": "False Identification to Law Enforcement Authorities",
             "Jan": "0",
@@ -4556,9 +4656,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "2"
+            "Count": "5"
         },
         {
             "Zone": "Zone 6",
@@ -4599,6 +4699,26 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Brookline",
+            "Year": "2018",
+            "Section": "3733",
+            "Description": "Fleeing or Attempting to Elude Police Officer",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
@@ -4776,9 +4896,9 @@
             "Aug": "0",
             "Sep": "2",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "5",
             "Dec": "0",
-            "Count": "17"
+            "Count": "22"
         },
         {
             "Zone": "Zone 6",
@@ -4856,9 +4976,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "9"
+            "Count": "11"
         },
         {
             "Zone": "Zone 6",
@@ -4896,9 +5016,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -5016,9 +5136,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "3"
+            "Count": "5"
         },
         {
             "Zone": "Zone 6",
@@ -5036,9 +5156,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "2",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "17"
+            "Count": "18"
         },
         {
             "Zone": "Zone 6",
@@ -5056,9 +5176,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
@@ -5276,9 +5396,9 @@
             "Aug": "2",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "2",
+            "Nov": "9",
             "Dec": "0",
-            "Count": "21"
+            "Count": "28"
         },
         {
             "Zone": "Zone 6",
@@ -5344,6 +5464,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Brookline",
             "Year": "2018",
+            "Section": "627.02(b)(i)",
+            "Description": "Possessing a small amount of marijuana",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Brookline",
+            "Year": "2018",
             "Section": "907",
             "Description": "Possessing Instruments of Crime.",
             "Jan": "0",
@@ -5356,9 +5496,9 @@
             "Aug": "2",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -5376,9 +5516,9 @@
             "Aug": "2",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "27"
+            "Count": "30"
         },
         {
             "Zone": "Zone 6",
@@ -5456,9 +5596,9 @@
             "Aug": "2",
             "Sep": "4",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "12"
+            "Count": "15"
         },
         {
             "Zone": "Zone 6",
@@ -5524,6 +5664,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Brookline",
             "Year": "2018",
+            "Section": "3736",
+            "Description": "Reckless Driving",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "1",
+            "Count": "3"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Brookline",
+            "Year": "2018",
             "Section": "2705",
             "Description": "Recklessly Endangering Another Person.",
             "Jan": "2",
@@ -5536,9 +5696,9 @@
             "Aug": "2",
             "Sep": "2",
             "Oct": "2",
-            "Nov": "2",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Zone": "Zone 6",
@@ -5576,9 +5736,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -5596,9 +5756,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "4",
             "Dec": "0",
-            "Count": "2"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -5656,9 +5816,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "4",
             "Dec": "0",
-            "Count": "1"
+            "Count": "5"
         },
         {
             "Zone": "Zone 6",
@@ -5776,9 +5936,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Zone": "Zone 6",
@@ -5796,9 +5956,9 @@
             "Aug": "5",
             "Sep": "8",
             "Oct": "9",
-            "Nov": "0",
+            "Nov": "6",
             "Dec": "0",
-            "Count": "73"
+            "Count": "79"
         },
         {
             "Zone": "Zone 6",
@@ -5856,9 +6016,9 @@
             "Aug": "2",
             "Sep": "0",
             "Oct": "4",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "24"
+            "Count": "26"
         },
         {
             "Zone": "Zone 6",
@@ -5896,9 +6056,9 @@
             "Aug": "0",
             "Sep": "2",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "21"
+            "Count": "23"
         },
         {
             "Zone": "Zone 6",
@@ -5936,9 +6096,9 @@
             "Aug": "2",
             "Sep": "5",
             "Oct": "2",
-            "Nov": "1",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "32"
+            "Count": "34"
         },
         {
             "Zone": "Zone 6",
@@ -5956,9 +6116,9 @@
             "Aug": "3",
             "Sep": "2",
             "Oct": "1",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "26"
+            "Count": "27"
         },
         {
             "Zone": "Zone 6",
@@ -5976,9 +6136,9 @@
             "Aug": "1",
             "Sep": "5",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "9",
             "Dec": "0",
-            "Count": "34"
+            "Count": "43"
         },
         {
             "Zone": "Zone 6",
@@ -6036,9 +6196,9 @@
             "Aug": "0",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "3"
+            "Nov": "6",
+            "Dec": "1",
+            "Count": "10"
         },
         {
             "Zone": "Zone 6",
@@ -6996,9 +7156,9 @@
             "Aug": "1",
             "Sep": "2",
             "Oct": "2",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "24"
+            "Nov": "2",
+            "Dec": "1",
+            "Count": "27"
         },
         {
             "Zone": "Zone 6",
@@ -7136,9 +7296,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Zone": "Zone 6",
@@ -7399,6 +7559,26 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "4"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Crafton Heights",
+            "Year": "2018",
+            "Section": "9492",
+            "Description": "Dog Bite",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Zone": "Zone 6",
@@ -7716,9 +7896,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -8336,9 +8516,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "1"
+            "Count": "4"
         },
         {
             "Zone": "Zone 6",
@@ -8456,9 +8636,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "11"
+            "Count": "13"
         },
         {
             "Zone": "Zone 6",
@@ -8496,9 +8676,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "4",
+            "Nov": "5",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Zone": "Zone 6",
@@ -8904,6 +9084,46 @@
             "Zone": "Zone 6",
             "Neighborhood": "East Carnegie",
             "Year": "2018",
+            "Section": "13(a)(32)",
+            "Description": "Paraphernalia - Use or Possession",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "East Carnegie",
+            "Year": "2018",
+            "Section": "3925",
+            "Description": "Receiving Stolen Property.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "East Carnegie",
+            "Year": "2018",
             "Section": "2705",
             "Description": "Recklessly Endangering Another Person.",
             "Jan": "0",
@@ -9004,6 +9224,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "East Carnegie",
             "Year": "2018",
+            "Section": "3928",
+            "Description": "Unauthorized Use of Automobile and Other Vehicles.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "East Carnegie",
+            "Year": "2018",
             "Section": "2902",
             "Description": "Unlawful Restraint.",
             "Jan": "0",
@@ -9096,9 +9336,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "6"
+            "Count": "8"
         },
         {
             "Zone": "Zone 6",
@@ -9116,9 +9356,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Zone": "Zone 6",
@@ -9156,9 +9396,9 @@
             "Aug": "3",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "13"
+            "Count": "16"
         },
         {
             "Zone": "Zone 6",
@@ -9176,9 +9416,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Zone": "Zone 6",
@@ -9316,9 +9556,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "3"
+            "Count": "5"
         },
         {
             "Zone": "Zone 6",
@@ -9396,9 +9636,9 @@
             "Aug": "0",
             "Sep": "3",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Zone": "Zone 6",
@@ -9916,9 +10156,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Zone": "Zone 6",
@@ -9936,9 +10176,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "10"
+            "Count": "12"
         },
         {
             "Zone": "Zone 6",
@@ -10159,6 +10399,26 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "6"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Elliott",
+            "Year": "2018",
+            "Section": "6110.1",
+            "Description": "Possesion of Firearm by Minor",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Zone": "Zone 6",
@@ -10556,9 +10816,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "5"
+            "Count": "8"
         },
         {
             "Zone": "Zone 6",
@@ -10616,9 +10876,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Zone": "Zone 6",
@@ -10656,9 +10916,9 @@
             "Aug": "6",
             "Sep": "6",
             "Oct": "4",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "31"
+            "Count": "34"
         },
         {
             "Zone": "Zone 6",
@@ -10716,9 +10976,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Zone": "Zone 6",
@@ -10996,9 +11256,9 @@
             "Aug": "0",
             "Sep": "2",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "6"
+            "Count": "8"
         },
         {
             "Zone": "Zone 6",
@@ -11036,9 +11296,9 @@
             "Aug": "4",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "7"
+            "Count": "9"
         },
         {
             "Zone": "Zone 6",
@@ -11096,9 +11356,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Zone": "Zone 6",
@@ -11136,9 +11396,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Zone": "Zone 6",
@@ -11356,9 +11616,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "6",
             "Dec": "0",
-            "Count": "2"
+            "Count": "8"
         },
         {
             "Zone": "Zone 6",
@@ -11396,9 +11656,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Zone": "Zone 6",
@@ -11439,6 +11699,26 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Esplen",
+            "Year": "2018",
+            "Section": "5104",
+            "Description": "Resisting Arrest or Other Law Enforcement.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
@@ -11519,6 +11799,26 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "6"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Esplen",
+            "Year": "2018",
+            "Section": "4910",
+            "Description": "Tampering with or Fabricating Physical Evidence.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Zone": "Zone 6",
@@ -11696,9 +11996,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "8"
+            "Count": "10"
         },
         {
             "Zone": "Zone 6",
@@ -11756,9 +12056,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Zone": "Zone 6",
@@ -11956,9 +12256,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -12284,6 +12584,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Fairywood",
             "Year": "2018",
+            "Section": "611.04",
+            "Description": "Repeated False Alarms",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Fairywood",
+            "Year": "2018",
             "Section": "3701",
             "Description": "Robbery.",
             "Jan": "0",
@@ -12336,9 +12656,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Zone": "Zone 6",
@@ -12416,9 +12736,9 @@
             "Aug": "0",
             "Sep": "3",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Zone": "Zone 6",
@@ -12924,6 +13244,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Oakwood",
             "Year": "2018",
+            "Section": "2709(a)(5)",
+            "Description": "Harassment Communicates Repeatedly in Anonymous Manner",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Oakwood",
+            "Year": "2018",
             "Section": "2709(a)(3)",
             "Description": "Harassment No Legitimate Purpose",
             "Jan": "0",
@@ -13056,9 +13396,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
@@ -13136,9 +13476,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Zone": "Zone 6",
@@ -13176,9 +13516,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Zone": "Zone 6",
@@ -13284,6 +13624,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Ridgemont",
             "Year": "2018",
+            "Section": "9496",
+            "Description": "Dead on Arrival (DOA)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Ridgemont",
+            "Year": "2018",
             "Section": "4101",
             "Description": "Forgery.",
             "Jan": "0",
@@ -13336,9 +13696,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
@@ -13396,9 +13756,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Zone": "Zone 6",
@@ -13436,9 +13796,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Zone": "Zone 6",
@@ -13496,9 +13856,9 @@
             "Aug": "2",
             "Sep": "2",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "16"
+            "Count": "18"
         },
         {
             "Zone": "Zone 6",
@@ -13536,9 +13896,9 @@
             "Aug": "2",
             "Sep": "0",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "4",
             "Dec": "0",
-            "Count": "16"
+            "Count": "20"
         },
         {
             "Zone": "Zone 6",
@@ -13636,9 +13996,9 @@
             "Aug": "6",
             "Sep": "2",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "27"
+            "Count": "29"
         },
         {
             "Zone": "Zone 6",
@@ -13656,9 +14016,9 @@
             "Aug": "4",
             "Sep": "6",
             "Oct": "1",
-            "Nov": "1",
+            "Nov": "5",
             "Dec": "0",
-            "Count": "28"
+            "Count": "32"
         },
         {
             "Zone": "Zone 6",
@@ -13756,9 +14116,9 @@
             "Aug": "4",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "19"
+            "Count": "22"
         },
         {
             "Zone": "Zone 6",
@@ -13856,9 +14216,9 @@
             "Aug": "4",
             "Sep": "10",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "33"
+            "Count": "35"
         },
         {
             "Zone": "Zone 6",
@@ -13924,6 +14284,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Sheraden",
             "Year": "2018",
+            "Section": "7512",
+            "Description": "Criminal Use of Communication",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Sheraden",
+            "Year": "2018",
             "Section": "5533(a)",
             "Description": "Cruelty to animals - Intentionally, knowingly or recklessly illtreats, overloads, beats, abandons or abuses an animal",
             "Jan": "0",
@@ -13979,6 +14359,26 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "10"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Sheraden",
+            "Year": "2018",
+            "Section": "13(a)(30)*",
+            "Description": "Delivery of Controlled Substance",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
@@ -14176,9 +14576,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -14296,9 +14696,9 @@
             "Aug": "2",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "13"
+            "Count": "15"
         },
         {
             "Zone": "Zone 6",
@@ -14496,9 +14896,9 @@
             "Aug": "2",
             "Sep": "2",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Zone": "Zone 6",
@@ -14576,9 +14976,9 @@
             "Aug": "0",
             "Sep": "3",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Zone": "Zone 6",
@@ -14656,9 +15056,9 @@
             "Aug": "1",
             "Sep": "7",
             "Oct": "4",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "21"
+            "Count": "24"
         },
         {
             "Zone": "Zone 6",
@@ -14776,9 +15176,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "3",
-            "Nov": "0",
+            "Nov": "4",
             "Dec": "0",
-            "Count": "19"
+            "Count": "23"
         },
         {
             "Zone": "Zone 6",
@@ -14799,6 +15199,26 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Sheraden",
+            "Year": "2018",
+            "Section": "9122",
+            "Description": "Miscellaneous Fire Vehicle Investigation to Continue",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Zone": "Zone 6",
@@ -14836,9 +15256,9 @@
             "Aug": "0",
             "Sep": "2",
             "Oct": "3",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Zone": "Zone 6",
@@ -15056,9 +15476,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "5",
             "Dec": "0",
-            "Count": "22"
+            "Count": "27"
         },
         {
             "Zone": "Zone 6",
@@ -15136,9 +15556,9 @@
             "Aug": "3",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Zone": "Zone 6",
@@ -15156,9 +15576,9 @@
             "Aug": "3",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "10",
             "Dec": "0",
-            "Count": "28"
+            "Count": "38"
         },
         {
             "Zone": "Zone 6",
@@ -15176,9 +15596,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "5",
             "Dec": "0",
-            "Count": "17"
+            "Count": "22"
         },
         {
             "Zone": "Zone 6",
@@ -15556,9 +15976,9 @@
             "Aug": "9",
             "Sep": "4",
             "Oct": "6",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "46"
+            "Nov": "7",
+            "Dec": "3",
+            "Count": "56"
         },
         {
             "Zone": "Zone 6",
@@ -15676,9 +16096,9 @@
             "Aug": "0",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -15696,9 +16116,9 @@
             "Aug": "2",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "16"
+            "Count": "18"
         },
         {
             "Zone": "Zone 6",
@@ -15736,9 +16156,9 @@
             "Aug": "3",
             "Sep": "5",
             "Oct": "4",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "28"
+            "Count": "29"
         },
         {
             "Zone": "Zone 6",
@@ -15756,9 +16176,9 @@
             "Aug": "3",
             "Sep": "4",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "18"
+            "Count": "19"
         },
         {
             "Zone": "Zone 6",
@@ -15797,6 +16217,26 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Sheraden",
+            "Year": "2018",
+            "Section": "3926.C1",
+            "Description": "THEFT OF SERVICES",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
             "Dec": "0",
             "Count": "1"
         },
@@ -15944,6 +16384,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "West End",
             "Year": "2018",
+            "Section": "9498",
+            "Description": "302 (Mental)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "West End",
+            "Year": "2018",
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "1",
@@ -15956,9 +16416,9 @@
             "Aug": "2",
             "Sep": "1",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Zone": "Zone 6",
@@ -16136,9 +16596,9 @@
             "Aug": "0",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "8"
+            "Count": "10"
         },
         {
             "Zone": "Zone 6",
@@ -16179,6 +16639,26 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "West End",
+            "Year": "2018",
+            "Section": "901",
+            "Description": "Criminal Attempt",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Zone": "Zone 6",
@@ -17124,6 +17604,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "West End",
             "Year": "2018",
+            "Section": "9005",
+            "Description": "School Police",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "West End",
+            "Year": "2018",
             "Section": "2701(a)(1)",
             "Description": "Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",
             "Jan": "2",
@@ -17396,9 +17896,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Zone": "Zone 6",
@@ -17476,9 +17976,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Zone": "Zone 6",
@@ -17656,9 +18156,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Zone": "Zone 6",
@@ -17676,9 +18176,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Zone": "Zone 6",
@@ -17864,6 +18364,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Westwood",
             "Year": "2018",
+            "Section": "2709(a)(2)",
+            "Description": "Harassment by Following Person in Public Place(s)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Westwood",
+            "Year": "2018",
             "Section": "2709(a)(1)",
             "Description": "Harassment by Physical Contact, or Attempts or Threats",
             "Jan": "0",
@@ -17884,6 +18404,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Westwood",
             "Year": "2018",
+            "Section": "2709(a)(4)",
+            "Description": "Harassment Communicates Prohibited Acts",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "3",
+            "Dec": "0",
+            "Count": "3"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Westwood",
+            "Year": "2018",
             "Section": "9093",
             "Description": "Indirect Criminal Contempt",
             "Jan": "0",
@@ -17896,9 +18436,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "6",
             "Dec": "0",
-            "Count": "2"
+            "Count": "8"
         },
         {
             "Zone": "Zone 6",
@@ -18097,8 +18637,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
@@ -18196,9 +18736,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Zone": "Zone 6",
@@ -18224,6 +18764,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Westwood",
             "Year": "2018",
+            "Section": "2709.1",
+            "Description": "Stalking Conduct or Repeatedly Acts Including Follows",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Westwood",
+            "Year": "2018",
             "Section": "2709.2",
             "Description": "Stalking Conduct or Repeatedly Communicates",
             "Jan": "0",
@@ -18236,9 +18796,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "1"
+            "Count": "4"
         },
         {
             "Zone": "Zone 6",
@@ -18256,9 +18816,9 @@
             "Aug": "2",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Zone": "Zone 6",
@@ -18356,9 +18916,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Zone": "Zone 6",
@@ -18476,7 +19036,27 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "4"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Windgap",
+            "Year": "2018",
+            "Section": "3503(b)(1)(i)",
+            "Description": "Actual Communication",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
             "Dec": "0",
             "Count": "2"
         },
@@ -18516,9 +19096,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
@@ -18639,6 +19219,26 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Windgap",
+            "Year": "2018",
+            "Section": "5503",
+            "Description": "Disorderly Conduct.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
@@ -18964,6 +19564,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Windgap",
             "Year": "2018",
+            "Section": "3925",
+            "Description": "Receiving Stolen Property.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Windgap",
+            "Year": "2018",
             "Section": "3736",
             "Description": "Reckless Driving",
             "Jan": "0",
@@ -19076,9 +19696,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "6"
+            "Count": "8"
         },
         {
             "Zone": "Zone 6",
@@ -19116,9 +19736,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Zone": "Zone 6",
@@ -19156,9 +19776,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
