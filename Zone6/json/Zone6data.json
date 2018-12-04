@@ -1817,8 +1817,8 @@
             "Sep": "1",
             "Oct": "1",
             "Nov": "2",
-            "Dec": "1",
-            "Count": "26"
+            "Dec": "2",
+            "Count": "27"
         },
         {
             "Zone": "Zone 6",
@@ -3177,8 +3177,8 @@
             "Sep": "1",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "9"
+            "Dec": "1",
+            "Count": "10"
         },
         {
             "Zone": "Zone 6",
@@ -3357,8 +3357,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
@@ -3597,8 +3597,8 @@
             "Sep": "0",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "18"
+            "Dec": "2",
+            "Count": "20"
         },
         {
             "Zone": "Zone 6",
@@ -5037,8 +5037,8 @@
             "Sep": "2",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "8"
+            "Dec": "1",
+            "Count": "9"
         },
         {
             "Zone": "Zone 6",
@@ -5137,8 +5137,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "2",
-            "Dec": "0",
-            "Count": "5"
+            "Dec": "2",
+            "Count": "7"
         },
         {
             "Zone": "Zone 6",
@@ -5397,8 +5397,8 @@
             "Sep": "2",
             "Oct": "0",
             "Nov": "9",
-            "Dec": "0",
-            "Count": "28"
+            "Dec": "2",
+            "Count": "30"
         },
         {
             "Zone": "Zone 6",
@@ -5699,6 +5699,26 @@
             "Nov": "3",
             "Dec": "0",
             "Count": "17"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Brookline",
+            "Year": "2018",
+            "Section": "9090",
+            "Description": "Recovered Firearm",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
         },
         {
             "Zone": "Zone 6",
@@ -9944,6 +9964,26 @@
             "Zone": "Zone 6",
             "Neighborhood": "Elliott",
             "Year": "2018",
+            "Section": "4905",
+            "Description": "False Alarms to Agencies of Public Safety.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Zone": "Zone 6",
+            "Neighborhood": "Elliott",
+            "Year": "2018",
             "Section": "4914(A)",
             "Description": "False Identification to Law Enforcement",
             "Jan": "0",
@@ -10497,8 +10537,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "11"
+            "Dec": "2",
+            "Count": "13"
         },
         {
             "Zone": "Zone 6",
@@ -10517,8 +10557,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "4"
+            "Dec": "2",
+            "Count": "6"
         },
         {
             "Zone": "Zone 6",
@@ -11597,8 +11637,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Zone": "Zone 6",
@@ -14897,8 +14937,8 @@
             "Sep": "2",
             "Oct": "1",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "17"
+            "Dec": "1",
+            "Count": "18"
         },
         {
             "Zone": "Zone 6",
@@ -14977,8 +15017,8 @@
             "Sep": "3",
             "Oct": "0",
             "Nov": "2",
-            "Dec": "0",
-            "Count": "7"
+            "Dec": "1",
+            "Count": "8"
         },
         {
             "Zone": "Zone 6",
@@ -16117,8 +16157,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "2",
-            "Dec": "0",
-            "Count": "18"
+            "Dec": "1",
+            "Count": "19"
         },
         {
             "Zone": "Zone 6",
@@ -16977,8 +17017,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "6"
+            "Dec": "2",
+            "Count": "8"
         },
         {
             "Zone": "Zone 6",
