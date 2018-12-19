@@ -22,7 +22,7 @@ and open the template in the editor.
         </style>
     </head>
     <body>
-        <h2>Monthly Zone 6 based on JSON data.</h2>
+        <h2>Monthly Zone 6 based on yearly data.</h2>
 
         <p id="demo"></p>
         <script>
@@ -40,8 +40,6 @@ and open the template in the editor.
                     for (i = 0; i < l; i++)
                     {
                         txt += "<tr>";
-                        m = myObj['incidents'][i]['Zone'];
-                        txt += "<td>" + m + "</td>";
                         m = myObj['incidents'][i]['Neighborhood'];
                         txt += "<td>" + m + "</td>";
                         m = myObj['incidents'][i]['Year'];
@@ -91,7 +89,6 @@ and open the template in the editor.
 
                 txt += "<thead>";
                 txt += "<tr>";
-                txt += "<th>Zone</th>";
                 txt += "<th>Neighborhood</th>";
                 txt += "<th>Year</th>";
                 txt += "<th>Section</th>";
