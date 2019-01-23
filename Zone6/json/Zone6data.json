@@ -1484,6 +1484,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2019",
+            "Section": "9496",
+            "Description": "Dead on Arrival (DOA)",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2018",
             "Section": "9496",
             "Description": "Dead on Arrival (DOA)",
@@ -6864,7 +6883,7 @@
             "Year": "2019",
             "Section": "3745",
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -6876,7 +6895,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -17884,7 +17903,7 @@
             "Year": "2019",
             "Section": "3745",
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
-            "Jan": "3",
+            "Jan": "4",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -17896,7 +17915,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -18581,6 +18600,25 @@
             "Nov": "4",
             "Dec": "4",
             "Count": "28"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2019",
+            "Section": "3502",
+            "Description": "Burglary.",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -26586,7 +26624,7 @@
             "Year": "2019",
             "Section": "3736",
             "Description": "Reckless Driving",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -26598,7 +26636,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -63978,7 +64016,7 @@
             "Year": "2019",
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
-            "Jan": "3",
+            "Jan": "4",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -63990,7 +64028,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -65061,7 +65099,7 @@
             "Year": "2019",
             "Section": "3502",
             "Description": "Burglary.",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -65073,7 +65111,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -65913,6 +65951,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2019",
+            "Section": "3304(a)(5)",
+            "Description": "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2018",
             "Section": "3304(a)(5)",
             "Description": "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",
@@ -66087,7 +66144,7 @@
             "Year": "2019",
             "Section": "3503",
             "Description": "Criminal Trespass",
-            "Jan": "1",
+            "Jan": "3",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -66099,7 +66156,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -66142,25 +66199,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2017",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "3",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "3"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2017",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "1",
@@ -66176,6 +66214,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "14"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2017",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "3",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -66218,25 +66275,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2015",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "1",
-            "May": "0",
-            "Jun": "2",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "2",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "5"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2015",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -66252,6 +66290,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2015",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "2",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "2",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -69789,6 +69846,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2019",
+            "Section": "4958(a)",
+            "Description": "Intimidation  Retaliation  Obstruction Child Abuse cases - (a) Intimidation",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2018",
             "Section": "4952",
             "Description": "Intimidation of Witnesses or Victims",
@@ -70854,7 +70930,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -70873,7 +70949,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -74637,7 +74713,7 @@
             "Year": "2019",
             "Section": "3934",
             "Description": "Theft from Vehicle",
-            "Jan": "5",
+            "Jan": "6",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -74649,7 +74725,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
