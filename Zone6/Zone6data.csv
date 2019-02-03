@@ -331,6 +331,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Banksville                    ",2016,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Banksville                    ",2015,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,1,0,0,0,0,1,0,1,0,0,3
+"Banksville                    ",2019,3926.C1,"THEFT OF SERVICES",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2018,3926.C1,"THEFT OF SERVICES",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Banksville                    ",2015,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Banksville                    ",2017,3112,"Traffic-Control Signals.",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -649,7 +650,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,3746,"Immediate Notice of Accident to Police Department",0,0,1,0,0,0,0,0,0,1,0,0,2
 "Beechview                     ",2016,4912,"Impersonating a Public Servant.",0,0,0,1,2,0,0,1,0,0,0,0,4
 "Beechview                     ",2015,4912,"Impersonating a Public Servant.",0,0,0,0,0,0,0,1,0,0,1,0,2
-"Beechview                     ",2019,9093,"Indirect Criminal Contempt",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2019,9093,"Indirect Criminal Contempt",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2018,9093,"Indirect Criminal Contempt",0,0,0,0,0,0,2,4,2,4,5,1,18
 "Beechview                     ",2017,9093,"Indirect Criminal Contempt",0,0,1,0,0,0,0,0,0,0,0,2,3
 "Beechview                     ",2016,9093,"Indirect Criminal Contempt",1,0,0,0,2,0,1,3,0,2,3,0,12
@@ -1753,6 +1754,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,0,1,0,0,0,0,0,1,0,4
 "Crafton Heights               ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,1,0,1,1,0,0,0,3
 "Crafton Heights               ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,3,0,1,1,1,1,1,8
+"Crafton Heights               ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,1,3,3,1,4,5,0,1,0,1,0,21
 "Crafton Heights               ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,1,0,0,4,0,2,2,2,2,2,3,21
 "Crafton Heights               ",2016,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,1,1,0,3,2,3,0,2,1,4,3,22
@@ -1863,10 +1865,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,9124,"Drug Investigation",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Crafton Heights               ",2018,3802(d)(1)(ii),"DUI - Controlled Substance - Schedule II or III",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2017,3802(d)(2),"DUI - Drug - Impaired Ability",0,0,0,0,2,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2019,3802(a)(1),"DUI - General Impairment",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2018,3802(a)(1),"DUI - General Impairment",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Crafton Heights               ",2017,3802(a)(1),"DUI - General Impairment",3,0,0,0,0,0,0,2,0,0,0,0,5
 "Crafton Heights               ",2016,3802(a)(1),"DUI - General Impairment",0,0,0,2,0,0,4,0,0,0,0,0,6
 "Crafton Heights               ",2015,3802(a)(1),"DUI - General Impairment",0,0,0,2,0,0,0,0,2,0,0,2,6
+"Crafton Heights               ",2019,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2015,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Crafton Heights               ",2018,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Crafton Heights               ",2016,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,2,0,0,0,0,0,0,0,0,2
@@ -1905,6 +1909,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2015,4101,Forgery.,0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2018,9017,"Found Drugs",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Crafton Heights               ",2016,9017,"Found Drugs",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Crafton Heights               ",2019,9489,"Found Property",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2018,9489,"Found Property",0,0,0,1,0,2,0,0,0,0,0,1,4
 "Crafton Heights               ",2017,9489,"Found Property",0,0,0,0,1,0,0,2,3,0,0,0,6
 "Crafton Heights               ",2016,9489,"Found Property",0,0,0,0,0,0,0,0,0,0,1,1,2
@@ -1946,11 +1951,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Crafton Heights               ",2017,4912,"Impersonating a Public Servant.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2016,4912,"Impersonating a Public Servant.",0,1,0,1,0,0,1,0,0,0,0,0,3
+"Crafton Heights               ",2019,9093,"Indirect Criminal Contempt",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2018,9093,"Indirect Criminal Contempt",3,0,0,2,0,1,0,0,2,0,0,0,8
 "Crafton Heights               ",2017,9093,"Indirect Criminal Contempt",0,0,0,1,0,0,0,0,0,3,0,0,4
 "Crafton Heights               ",2016,9093,"Indirect Criminal Contempt",0,2,0,0,1,2,0,0,0,1,1,0,7
 "Crafton Heights               ",2015,9093,"Indirect Criminal Contempt",0,0,0,0,1,1,0,0,1,1,0,3,7
 "Crafton Heights               ",2015,2904,"Interference with Custody of Children.",0,0,0,0,0,0,0,0,0,0,0,2,2
+"Crafton Heights               ",2019,4952,"Intimidation of Witnesses or Victims",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2017,4952,"Intimidation of Witnesses or Victims",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Crafton Heights               ",2017,633.02(a),"License Required; 3 Months or Older",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Crafton Heights               ",2018,3332,"Limitations on Turning Around.",0,0,2,0,0,0,0,0,0,0,0,0,2
@@ -2080,6 +2087,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,2701,"Simple Assault.",9,2,5,2,2,0,4,0,2,5,9,2,42
 "Crafton Heights               ",2016,2701,"Simple Assault.",7,1,6,5,0,5,2,1,4,2,4,2,39
 "Crafton Heights               ",2015,2701,"Simple Assault.",0,0,7,3,9,9,8,4,9,9,4,0,62
+"Crafton Heights               ",2019,3323,"Stop Signs and Yield Signs.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2017,3323,"Stop Signs and Yield Signs.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Crafton Heights               ",2016,3323,"Stop Signs and Yield Signs.",2,1,0,0,0,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2019,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",3,0,0,0,0,0,0,0,0,0,0,0,3
@@ -2665,6 +2673,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,2706,"Terroristic Threats.",1,0,0,2,0,1,2,6,1,0,0,0,13
 "Elliott                       ",2016,2706,"Terroristic Threats.",0,0,1,0,1,0,0,3,0,3,2,0,10
 "Elliott                       ",2015,2706,"Terroristic Threats.",0,0,2,0,1,2,3,3,0,0,0,2,13
+"Elliott                       ",2019,3922,"Theft by Deception.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2018,3922,"Theft by Deception.",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Elliott                       ",2017,3922,"Theft by Deception.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2016,3922,"Theft by Deception.",0,0,0,2,0,0,0,0,0,0,0,0,2
@@ -3520,12 +3529,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,3503,"Criminal Trespass",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2018,3503,"Criminal Trespass",0,0,0,0,0,0,0,2,2,0,1,1,6
 "Sheraden                      ",2018,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,1,2,0,0,0,3
-"Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
 "Sheraden                      ",2017,3503(a),"Criminal Trespass",0,0,0,0,3,0,0,0,0,0,0,0,3
-"Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
+"Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
 "Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
-"Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
 "Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
+"Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2017,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,1,0,0,0,0,1,0,0,2
 "Sheraden                      ",2016,3503(b.1),"Criminal Trespass - Simple Trespasser",0,1,0,0,0,1,0,1,0,0,0,0,3
 "Sheraden                      ",2015,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,0,0,0,0,0,2,2
@@ -3775,8 +3784,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,5532(a)(3),"Neglect of Animals - Neglect of Animals  Vet Care",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,9012,"Non-Violent Domestic",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,9012,"Non-Violent Domestic",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,633.12,"Number of Pets Permitted in City Limits; Exceptions",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,4,0,0,0,0,0,4
 "Sheraden                      ",2017,3111,"Obedience to Traffic-Control Devices.",0,0,1,0,0,1,0,1,0,0,0,0,3
@@ -4249,7 +4258,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2016,4703,"Operation of Vehicle without Official Certif. of Inspection",0,2,0,0,0,0,0,0,0,2,0,0,4
 "West End                      ",2017,9998,Overdose,0,0,1,0,0,1,0,0,0,0,0,0,2
 "West End                      ",2015,602.04,"Panhandling and Prohibited Conduct",0,0,0,0,0,0,3,0,0,0,0,0,3
-"West End                      ",2019,13(a)(32),"Paraphernalia - Use or Possession",2,0,0,0,0,0,0,0,0,0,0,0,2
+"West End                      ",2019,13(a)(32),"Paraphernalia - Use or Possession",2,2,0,0,0,0,0,0,0,0,0,0,4
 "West End                      ",2018,13(a)(32),"Paraphernalia - Use or Possession",1,0,0,2,0,2,2,0,0,1,0,0,8
 "West End                      ",2017,13(a)(32),"Paraphernalia - Use or Possession",2,0,2,2,3,0,2,2,0,3,1,0,17
 "West End                      ",2016,13(a)(32),"Paraphernalia - Use or Possession",2,0,0,0,0,0,0,2,2,0,0,0,6
