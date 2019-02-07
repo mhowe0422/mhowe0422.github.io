@@ -766,7 +766,7 @@
             "Section": "9501",
             "Description": "Bench Warrant",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -777,7 +777,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -6674,7 +6674,7 @@
             "Year": "2019",
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
-            "Jan": "7",
+            "Jan": "8",
             "Feb": "1",
             "Mar": "0",
             "Apr": "0",
@@ -6686,7 +6686,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Beechview",
@@ -12070,8 +12070,8 @@
             "Year": "2019",
             "Section": "2709(a)",
             "Description": "Harassment.",
-            "Jan": "2",
-            "Feb": "0",
+            "Jan": "3",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -12082,7 +12082,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -17847,7 +17847,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "7",
-            "Feb": "0",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -17858,7 +17858,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "9"
         },
         {
             "Neighborhood": "Brookline",
@@ -18265,7 +18265,7 @@
             "Section": "3745",
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "7",
-            "Feb": "0",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -18276,7 +18276,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "9"
         },
         {
             "Neighborhood": "Brookline",
@@ -18607,7 +18607,7 @@
             "Section": "9497",
             "Description": "Aided Case",
             "Jan": "3",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -18618,7 +18618,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -33274,7 +33274,7 @@
             "Year": "2019",
             "Section": "4106",
             "Description": "Access Device Fraud",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -33286,7 +33286,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -40342,7 +40342,7 @@
             "Year": "2019",
             "Section": "3921",
             "Description": "Theft by Unlawful Taking or Disposition.",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -40354,7 +40354,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -43344,7 +43344,7 @@
             "Year": "2019",
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
-            "Jan": "3",
+            "Jan": "4",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -43356,7 +43356,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -46207,6 +46207,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "7"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2019",
+            "Section": "3802(c)",
+            "Description": "DUI - Highest Rate of Alcohol - BAC >= .16%",
+            "Jan": "0",
+            "Feb": "2",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -49691,7 +49710,7 @@
             "Section": "3736",
             "Description": "Reckless Driving",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -49702,7 +49721,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -50767,6 +50786,25 @@
             "Nov": "0",
             "Dec": "2",
             "Count": "9"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2019",
+            "Section": "2701",
+            "Description": "Simple Assault.",
+            "Jan": "0",
+            "Feb": "2",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -60460,6 +60498,25 @@
         },
         {
             "Neighborhood": "Oakwood",
+            "Year": "2019",
+            "Section": "3745",
+            "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Oakwood",
             "Year": "2018",
             "Section": "3745",
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
@@ -67415,25 +67472,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "2",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "5",
-            "Jul": "1",
-            "Aug": "3",
-            "Sep": "1",
-            "Oct": "0",
-            "Nov": "2",
-            "Dec": "3",
-            "Count": "17"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "1",
@@ -67449,6 +67487,25 @@
             "Nov": "0",
             "Dec": "2",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "2",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "5",
+            "Jul": "1",
+            "Aug": "3",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "3",
+            "Count": "17"
         },
         {
             "Neighborhood": "Sheraden",
