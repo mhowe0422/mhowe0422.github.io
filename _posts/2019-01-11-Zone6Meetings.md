@@ -2,7 +2,7 @@
 layout: post
 title: Zone 6 Meeting Schedule
 description:  Meeting Schedule 2019
-date: 2019-01-011
+date: 2019-01-11
 image: assets/images/Zone6Meeting.jpg
 author: Mark Howe
 ---
