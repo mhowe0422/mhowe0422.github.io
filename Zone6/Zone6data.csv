@@ -352,7 +352,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,0,0,2,4
 "Beechview                     ",2016,9498,"302 (Mental)",0,0,0,0,1,1,1,2,0,0,1,1,7
 "Beechview                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,2,1,0,0,3
-"Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,3,0,0,0,0,0,0,0,0,0,0,11
+"Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,4,0,0,0,0,0,0,0,0,0,0,12
 "Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,8,4,8,10,9,6,6,5,4,81
 "Beechview                     ",2017,9999,"9999 - (Misc. Incident):",7,5,10,4,5,6,9,9,8,3,6,4,76
 "Beechview                     ",2016,9999,"9999 - (Misc. Incident):",5,4,4,3,6,13,7,6,7,3,5,3,66
@@ -365,6 +365,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,4106,"Access Device Fraud",1,0,0,1,1,4,1,0,2,1,0,3,14
 "Beechview                     ",2015,4106,"Access Device Fraud",0,0,0,0,0,0,0,2,0,1,0,0,3
 "Beechview                     ",2015,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,2,0,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2019,9018,"Accidental Fire",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2017,9018,"Accidental Fire",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Beechview                     ",2016,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2015,9018,"Accidental Fire",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -1083,7 +1084,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2015,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Brookline                     ",2016,2709(a.1)(1)(i),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Disparaging Statement/Opinion",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Brookline                     ",2019,9496,"Dead on Arrival (DOA)",3,1,0,0,0,0,0,0,0,0,0,0,4
+"Brookline                     ",2019,9496,"Dead on Arrival (DOA)",3,2,0,0,0,0,0,0,0,0,0,0,5
 "Brookline                     ",2018,9496,"Dead on Arrival (DOA)",0,2,2,2,3,2,1,2,3,2,2,4,25
 "Brookline                     ",2017,9496,"Dead on Arrival (DOA)",2,1,3,2,2,0,2,1,1,2,3,0,19
 "Brookline                     ",2016,9496,"Dead on Arrival (DOA)",2,3,1,0,3,5,6,1,5,2,1,5,34
@@ -3814,8 +3815,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,5532(a)(3),"Neglect of Animals - Neglect of Animals  Vet Care",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,9012,"Non-Violent Domestic",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,9012,"Non-Violent Domestic",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,633.12,"Number of Pets Permitted in City Limits; Exceptions",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,4,0,0,0,0,0,4
 "Sheraden                      ",2017,3111,"Obedience to Traffic-Control Devices.",0,0,1,0,0,1,0,1,0,0,0,0,3
@@ -3973,7 +3974,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,4,5,5,9,1,2,2,0,1,2,34
 "Sheraden                      ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,2,0,4,0,5,1,11,1,5,3,2,36
 "Sheraden                      ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,2,4,0,0,6,1,4,2,2,23
-"Sheraden                      ",2019,2701,"Simple Assault.",9,2,0,0,0,0,0,0,0,0,0,0,11
+"Sheraden                      ",2019,2701,"Simple Assault.",9,6,0,0,0,0,0,0,0,0,0,0,15
 "Sheraden                      ",2018,2701,"Simple Assault.",6,4,4,4,4,5,3,9,6,6,9,6,66
 "Sheraden                      ",2017,2701,"Simple Assault.",2,2,15,13,6,7,3,5,6,3,2,6,70
 "Sheraden                      ",2016,2701,"Simple Assault.",4,3,4,6,4,11,3,7,7,7,9,14,79
