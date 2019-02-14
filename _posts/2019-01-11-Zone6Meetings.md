@@ -20,10 +20,12 @@ author: Mark Howe
 ## Special Presentation by the Women’s Center & Shelter DOMESTIC ABUSE                                                                         IT’S IMPACT ON FAMILIES AND NEIGHBORHOODS 
   
 
-## March 25, 2019 
+## March 25, 2019 (Updated)
 ### "Castle Doctrine" 
-### District Attorney's Office   
-### Sheraden Healthy Living Center  
+### District Attorney's Office 
+## WHEN: Monday, March 25, 2019 at 6:30 PM  
+## WHERE: Sheraden Healthy Living Center 
+### 720 Sherwood Ave. Pittsburgh 15204 
 
 
 ## April 17, 2019 
