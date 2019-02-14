@@ -10,11 +10,15 @@ author: Mark Howe
 # Coming Events for Zone 6
 ## Times and locations have to be confirmed.
 
-## February 25, 2019 
-### "Domestic Abuse" 
-### Women's Shelter & District Attorney  
-### Brookline 
+## February 25, 2019 (Updated) 
 
+### Come, Meet and Talk With Neighbors & Police About Public Safety
+### In Your Neighborhood!                                                    
+## WHEN: Monday, February 25, 2019 at 6:30 PM
+## WHERE: Brookline Teen Center
+### 520 Brookline Boulevard, Pittsburgh 15226
+## Special Presentation by the Women’s Center & Shelter DOMESTIC ABUSE                                                                         IT’S IMPACT ON FAMILIES AND NEIGHBORHOODS 
+  
 
 ## March 25, 2019 
 ### "Castle Doctrine" 
