@@ -3,7 +3,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,9498,"302 (Mental)",0,0,0,0,2,0,0,0,1,0,0,0,3
 "Banksville                    ",2016,9498,"302 (Mental)",0,0,0,0,0,0,0,2,1,0,0,0,3
 "Banksville                    ",2015,9498,"302 (Mental)",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Banksville                    ",2019,9999,"9999 - (Misc. Incident):",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Banksville                    ",2019,9999,"9999 - (Misc. Incident):",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2018,9999,"9999 - (Misc. Incident):",0,1,2,3,1,5,2,1,3,2,2,2,24
 "Banksville                    ",2017,9999,"9999 - (Misc. Incident):",2,3,1,0,3,3,3,2,3,1,1,3,25
 "Banksville                    ",2016,9999,"9999 - (Misc. Incident):",2,4,1,5,3,5,2,4,3,4,2,4,39
@@ -366,7 +366,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,4106,"Access Device Fraud",1,0,0,1,1,4,1,0,2,1,0,3,14
 "Beechview                     ",2015,4106,"Access Device Fraud",0,0,0,0,0,0,0,2,0,1,0,0,3
 "Beechview                     ",2015,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,2,0,0,0,0,0,0,0,0,0,2
-"Beechview                     ",2019,9018,"Accidental Fire",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2019,9018,"Accidental Fire",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2017,9018,"Accidental Fire",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Beechview                     ",2016,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2015,9018,"Accidental Fire",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -2153,6 +2153,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3922,"Theft by Deception.",0,1,1,1,0,1,0,1,1,0,0,0,6
 "Crafton Heights               ",2015,3922,"Theft by Deception.",0,0,0,0,0,0,1,0,0,0,1,0,2
 "Crafton Heights               ",2015,3923,"Theft by Extortion.",0,0,0,0,0,1,0,0,1,0,0,0,2
+"Crafton Heights               ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,0,0,1,2,5,1,1,1,3,1,16
 "Crafton Heights               ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,4,0,2,1,1,2,1,1,1,0,14
 "Crafton Heights               ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,0,4,2,4,5,5,3,2,1,0,27
@@ -2162,7 +2163,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3921,"Theft by Unlawful Taking or Disposition.",3,0,2,0,1,3,0,0,5,2,1,3,20
 "Crafton Heights               ",2016,3921,"Theft by Unlawful Taking or Disposition.",0,3,1,3,2,1,0,1,2,2,3,2,20
 "Crafton Heights               ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,1,3,1,6,2,0,0,3,2,19
-"Crafton Heights               ",2019,3934,"Theft from Vehicle",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2019,3934,"Theft from Vehicle",2,1,0,0,0,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2018,3934,"Theft from Vehicle",2,1,0,1,0,2,2,0,1,0,5,0,14
 "Crafton Heights               ",2017,3934,"Theft from Vehicle",1,2,0,0,5,1,2,2,1,0,3,1,18
 "Crafton Heights               ",2016,3934,"Theft from Vehicle",0,0,0,0,2,5,0,0,3,5,0,1,16
@@ -2896,6 +2897,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2016,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2017,2709(a)(3),"Harassment No Legitimate Purpose",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2015,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Esplen                        ",2019,2709(a),Harassment.,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2018,2709(a),Harassment.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2016,2709(a),Harassment.,0,0,0,1,0,0,0,0,0,0,0,1,2
 "Esplen                        ",2015,2709(a),Harassment.,0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -3478,7 +3480,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9498,"302 (Mental)",1,0,2,1,0,0,2,1,1,1,1,0,10
 "Sheraden                      ",2016,9498,"302 (Mental)",0,1,1,0,0,0,0,0,1,1,0,0,4
 "Sheraden                      ",2015,9498,"302 (Mental)",0,0,0,0,0,3,1,0,1,0,1,0,6
-"Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,0,0,0,0,0,0,0,0,0,0,0,4
+"Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,1,0,0,0,0,0,0,0,0,0,0,5
 "Sheraden                      ",2018,9999,"9999 - (Misc. Incident):",8,8,3,5,5,7,8,7,10,7,5,2,75
 "Sheraden                      ",2017,9999,"9999 - (Misc. Incident):",7,4,6,5,7,7,9,6,10,5,6,8,80
 "Sheraden                      ",2016,9999,"9999 - (Misc. Incident):",7,2,4,2,12,7,6,5,5,7,8,9,74
@@ -3491,7 +3493,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,1,1,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2018,9018,"Accidental Fire",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,9018,"Accidental Fire",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,0,0,0,0,0,0,0,0,0,0,4
+"Sheraden                      ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",3,2,0,0,0,0,0,0,0,0,0,0,5
 "Sheraden                      ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",1,1,3,1,1,2,2,0,0,0,1,0,12
 "Sheraden                      ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,1,1,3,1,1,1,0,2,1,1,13
 "Sheraden                      ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,1,0,0,3,0,0,1,1,0,8
@@ -3595,10 +3597,10 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,3503,"Criminal Trespass",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2018,3503,"Criminal Trespass",0,0,0,0,0,0,0,2,2,0,1,1,6
 "Sheraden                      ",2018,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,1,2,0,0,0,3
-"Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
 "Sheraden                      ",2017,3503(a),"Criminal Trespass",0,0,0,0,3,0,0,0,0,0,0,0,3
-"Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
+"Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
 "Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
+"Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
 "Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
 "Sheraden                      ",2017,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,1,0,0,0,0,1,0,0,2
@@ -3734,7 +3736,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,4101,Forgery.,1,0,1,0,0,0,0,2,0,0,0,0,4
 "Sheraden                      ",2015,4101,Forgery.,0,0,0,0,4,0,1,0,1,1,0,0,7
 "Sheraden                      ",2018,9017,"Found Drugs",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2019,9489,"Found Property",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2019,9489,"Found Property",2,1,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2018,9489,"Found Property",0,0,1,1,2,0,1,2,1,1,0,0,9
 "Sheraden                      ",2017,9489,"Found Property",0,0,0,1,1,2,1,0,0,0,0,0,5
 "Sheraden                      ",2016,9489,"Found Property",0,0,1,1,1,1,0,1,1,1,0,1,8
@@ -3852,8 +3854,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,5532(a)(3),"Neglect of Animals - Neglect of Animals  Vet Care",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,9012,"Non-Violent Domestic",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,9012,"Non-Violent Domestic",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,633.12,"Number of Pets Permitted in City Limits; Exceptions",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,4,0,0,0,0,0,4
 "Sheraden                      ",2017,3111,"Obedience to Traffic-Control Devices.",0,0,1,0,0,1,0,1,0,0,0,0,3
