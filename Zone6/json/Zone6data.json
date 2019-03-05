@@ -7644,7 +7644,7 @@
             "Section": "9497",
             "Description": "Aided Case",
             "Jan": "2",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -7655,7 +7655,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -41199,7 +41199,7 @@
             "Description": "Simple Assault.",
             "Jan": "4",
             "Feb": "2",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -41209,7 +41209,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -44752,7 +44752,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "4",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -44762,7 +44762,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "8"
         },
         {
             "Neighborhood": "Elliott",
@@ -45219,6 +45219,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2019",
+            "Section": "2702",
+            "Description": "Aggravated Assault.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Elliott",
@@ -68274,7 +68293,7 @@
             "Description": "Burglary.",
             "Jan": "3",
             "Feb": "3",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -68284,7 +68303,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -68635,7 +68654,7 @@
             "Description": "Contraband.",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -68645,7 +68664,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -68863,7 +68882,7 @@
             "Description": "Criminal Conspiracy.",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -68873,7 +68892,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -69167,7 +69186,7 @@
             "Description": "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -69177,7 +69196,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -71214,6 +71233,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2019",
+            "Section": "4304(a)(2)",
+            "Description": "Endangering Welfare of Children - Child Protective Services (Course of Conduct)",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2018",
             "Section": "4304(a)(1)",
             "Description": "Endangering Welfare of Children - Course of Conduct Enhanced",
@@ -71827,7 +71865,7 @@
             "Description": "Firearms not to be Carried without a License.",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -71837,7 +71875,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -72027,6 +72065,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "2",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2019",
+            "Section": "4101",
+            "Description": "Forgery.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "2",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
             "Count": "2"
         },
         {
@@ -73399,6 +73456,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2019",
+            "Section": "2901",
+            "Description": "Kidnapping.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2018",
             "Section": "2901",
             "Description": "Kidnapping.",
@@ -74388,7 +74464,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -74407,7 +74483,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -74886,7 +74962,7 @@
             "Description": "Paraphernalia - Use or Possession",
             "Jan": "2",
             "Feb": "4",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -74896,7 +74972,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "8"
         },
         {
             "Neighborhood": "Sheraden",
@@ -75201,6 +75277,25 @@
             "Nov": "0",
             "Dec": "3",
             "Count": "6"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2019",
+            "Section": "6110.1",
+            "Description": "Possesion of Firearm by Minor",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -76273,7 +76368,7 @@
             "Description": "Recklessly Endangering Another Person.",
             "Jan": "2",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -76283,7 +76378,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -76976,7 +77071,7 @@
             "Description": "Robbery.",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -76986,7 +77081,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -77470,7 +77565,7 @@
             "Description": "Simple Assault.",
             "Jan": "9",
             "Feb": "8",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -77480,7 +77575,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "17"
+            "Count": "19"
         },
         {
             "Neighborhood": "Sheraden",
@@ -77964,7 +78059,7 @@
             "Description": "Terroristic Threats.",
             "Jan": "5",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -77974,7 +78069,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "9"
         },
         {
             "Neighborhood": "Sheraden",
@@ -78287,7 +78382,7 @@
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "1",
             "Feb": "4",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -78297,7 +78392,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
@@ -79047,7 +79142,7 @@
             "Description": "Unlawful Restraint.",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -79057,7 +79152,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
