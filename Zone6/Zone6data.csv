@@ -672,8 +672,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,633.09(a),"Harboring a Nuisance; Any animal to create offensive odor, excessive noise or unsanitary condition",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Beechview                     ",2018,13(a)(31)*,"Hashish - Possession Small Amount",0,6,0,0,0,0,0,0,0,0,0,0,6
 "Beechview                     ",2015,5105,"Hindering Apprehension or Prosecution.",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2018,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Beechview                     ",2018,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2017,"473.07 (a)","Hours of Parks 0600-2300 hrs.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2015,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2019,4120,"Identity Theft",1,2,0,0,0,0,0,0,0,0,0,0,3
@@ -940,7 +940,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",7,3,6,0,4,0,1,3,5,6,8,6,49
 "Beechview                     ",2016,3921,"Theft by Unlawful Taking or Disposition.",1,3,1,0,0,5,6,7,6,0,4,2,35
 "Beechview                     ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,3,3,3,0,2,4,2,2,0,20
-"Beechview                     ",2019,3934,"Theft from Vehicle",1,14,1,0,0,0,0,0,0,0,0,0,16
+"Beechview                     ",2019,3934,"Theft from Vehicle",1,14,2,0,0,0,0,0,0,0,0,0,17
 "Beechview                     ",2018,3934,"Theft from Vehicle",2,5,3,2,1,1,2,5,1,2,1,5,30
 "Beechview                     ",2017,3934,"Theft from Vehicle",3,1,3,0,0,7,1,1,2,4,0,5,27
 "Beechview                     ",2016,3934,"Theft from Vehicle",4,3,1,3,1,10,2,5,0,5,2,2,38
@@ -983,7 +983,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2018,9499,"Violation of Auto Laws",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2016,9499,"Violation of Auto Laws",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2018,4730,"Violations of Use of Certificate of Inspection.",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Beechview                     ",2019,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2019,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2017,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",0,0,0,0,3,0,0,0,0,0,0,0,3
 "Brookline                     ",2019,9498,"302 (Mental)",3,2,0,0,0,0,0,0,0,0,0,0,5
 "Brookline                     ",2018,9498,"302 (Mental)",2,1,1,1,0,0,3,4,1,0,3,1,17
@@ -1553,7 +1553,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,0,1,0,0,1,0,0,0,2
 "Brookline                     ",2016,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2015,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Brookline                     ",2019,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2019,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,0,1,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,0,2,2,7,3,1,0,0,0,2,0,18
 "Brookline                     ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,5,0,3,2,4,4,0,1,0,5,1,25
 "Brookline                     ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,2,2,0,6,1,4,3,4,5,3,31
@@ -2180,7 +2180,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,2,1,1,2,2,0,1,0,1,4,1,17
 "Crafton Heights               ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,2,0,1,1,4,1,1,0,3,1,16
 "Crafton Heights               ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,2,3,0,1,5,0,0,0,12
-"Crafton Heights               ",2019,2701,"Simple Assault.",4,2,2,0,0,0,0,0,0,0,0,0,8
+"Crafton Heights               ",2019,2701,"Simple Assault.",4,2,3,0,0,0,0,0,0,0,0,0,9
 "Crafton Heights               ",2018,2701,"Simple Assault.",1,3,4,2,3,10,2,2,5,11,0,6,49
 "Crafton Heights               ",2017,2701,"Simple Assault.",9,2,5,2,2,0,4,0,2,5,9,2,42
 "Crafton Heights               ",2016,2701,"Simple Assault.",7,1,6,5,0,5,2,1,4,2,4,2,39
@@ -2192,7 +2192,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,1,0,1,0,2,3,2,1,4,0,1,15
 "Crafton Heights               ",2017,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",1,0,0,1,4,0,2,1,0,0,3,0,12
 "Crafton Heights               ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,2,0,0,0,0,0,0,0,0,2
-"Crafton Heights               ",2019,2706,"Terroristic Threats.",1,2,0,0,0,0,0,0,0,0,0,0,3
+"Crafton Heights               ",2019,2706,"Terroristic Threats.",1,2,1,0,0,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2018,2706,"Terroristic Threats.",0,0,1,1,2,2,0,1,3,2,0,0,12
 "Crafton Heights               ",2017,2706,"Terroristic Threats.",6,0,3,1,1,1,2,1,0,1,2,0,18
 "Crafton Heights               ",2016,2706,"Terroristic Threats.",1,2,0,2,0,4,0,1,0,0,1,4,15
@@ -2392,7 +2392,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2018,3503(b)(1)(i),"Actual Communication",0,0,2,0,0,0,0,0,2,0,0,0,4
 "Elliott                       ",2017,3732.1,"Aggravated Assault by Vehicle",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Elliott                       ",2017,3735.1,"Aggravated Assault While DUI",2,0,0,0,0,0,0,0,0,0,0,1,3
-"Elliott                       ",2019,2702,"Aggravated Assault.",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2019,2702,"Aggravated Assault.",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2018,2702,"Aggravated Assault.",1,1,3,1,1,0,2,3,2,0,3,0,17
 "Elliott                       ",2017,2702,"Aggravated Assault.",1,0,0,3,3,0,4,1,2,0,0,0,14
 "Elliott                       ",2016,2702,"Aggravated Assault.",3,2,0,0,0,0,1,0,3,0,0,0,9
@@ -2531,6 +2531,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Elliott                       ",2016,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2017,3802(e),"DUI - Minors - BAC >=.02%",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Elliott                       ",2019,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2018,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,1,3,0,3,0,1,2,0,0,0,1,11
 "Elliott                       ",2017,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",1,0,0,0,0,1,2,0,2,0,0,0,6
 "Elliott                       ",2016,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -2622,6 +2623,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2018,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2017,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2017,0291,"Located Runaway - Outside City",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Elliott                       ",2019,5506,"Loitering and Prowling at Night",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2016,5506,"Loitering and Prowling at Night",0,0,0,0,2,1,0,0,0,1,0,0,4
 "Elliott                       ",2018,9504,"Lost Property",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Elliott                       ",2016,9504,"Lost Property",0,0,0,1,0,1,0,0,0,0,0,0,2
@@ -2644,6 +2646,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,9129,"Miscellaneous Investigation",0,0,0,1,0,0,1,1,0,0,0,0,3
 "Elliott                       ",2015,9129,"Miscellaneous Investigation",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Elliott                       ",2017,2908,"Missing Children.",0,0,0,0,0,0,0,0,1,0,0,0,1
+"Elliott                       ",2019,029,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2018,029,"Missing Juvenile",0,1,1,1,1,1,0,0,1,0,0,0,6
 "Elliott                       ",2017,029,"Missing Juvenile",0,3,1,0,1,0,0,0,0,0,0,1,6
 "Elliott                       ",2016,029,"Missing Juvenile",0,0,0,1,2,0,0,0,0,1,0,0,4
@@ -2691,7 +2694,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,13(a)(16),"Possession of Controlled Substance",8,0,9,2,8,2,7,1,2,2,0,0,41
 "Elliott                       ",2016,13(a)(16),"Possession of Controlled Substance",2,6,0,5,5,10,10,8,2,0,4,0,52
 "Elliott                       ",2015,13(a)(16),"Possession of Controlled Substance",0,0,0,13,6,5,2,4,9,1,10,2,52
-"Elliott                       ",2019,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",2,2,0,0,0,0,0,0,0,0,0,0,4
+"Elliott                       ",2019,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",2,2,1,0,0,0,0,0,0,0,0,0,5
 "Elliott                       ",2018,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,2,0,2,0,0,0,0,0,0,2,6
 "Elliott                       ",2017,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",4,0,5,0,5,2,1,0,2,2,0,0,21
 "Elliott                       ",2016,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,0,0,2,2,2,0,4,0,10
@@ -2786,6 +2789,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",1,2,0,0,2,0,3,0,0,0,0,0,8
 "Elliott                       ",2017,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,2,2,0,0,0,0,1,1,2,0,0,8
 "Elliott                       ",2016,1376,"Surrender of Reg. Upon Susp. or Revocation.",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Elliott                       ",2019,4910,"Tampering with or Fabricating Physical Evidence.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2017,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Elliott                       ",2016,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,3,3,2,0,2,0,2,0,12
 "Elliott                       ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,4,0,0,0,0,0,0,0,0,4
@@ -3325,6 +3329,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,1,0,0,0,1,0,0,0,0,2
 "Oakwood                       ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,0,0,0,1,0,0,0,1
+"Oakwood                       ",2019,3304,"Criminal Mischief.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2018,3304,"Criminal Mischief.",0,1,0,0,0,0,0,1,1,0,0,0,3
 "Oakwood                       ",2017,3304,"Criminal Mischief.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Oakwood                       ",2015,3304,"Criminal Mischief.",0,0,0,1,0,0,0,1,0,2,0,0,4
@@ -3357,6 +3362,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2017,9489,"Found Property",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2016,9489,"Found Property",0,0,0,0,0,0,2,1,0,0,0,0,3
 "Oakwood                       ",2015,4103,"Fraud. Destruct., Remov. or Conceal.of Record. Instr.",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Oakwood                       ",2019,2709,"Harassment (Non-Specific)",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2017,2709,"Harassment (Non-Specific)",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,1,0,0,1,0,0,0,0,2
@@ -3939,8 +3945,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,5532(a)(3),"Neglect of Animals - Neglect of Animals  Vet Care",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,9012,"Non-Violent Domestic",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,9012,"Non-Violent Domestic",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,633.12,"Number of Pets Permitted in City Limits; Exceptions",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,4,0,0,0,0,0,4
 "Sheraden                      ",2017,3111,"Obedience to Traffic-Control Devices.",0,0,1,0,0,1,0,1,0,0,0,0,3
@@ -4551,7 +4557,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2015,3322,"Vehicle Turning Left.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "West End                      ",2019,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",1,0,0,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2017,4524,"Windshield Obstructions and Wipers.",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Westwood                      ",2019,9498,"302 (Mental)",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2019,9498,"302 (Mental)",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2017,9498,"302 (Mental)",0,0,0,0,0,0,0,0,0,1,0,1,2
 "Westwood                      ",2016,9498,"302 (Mental)",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Westwood                      ",2015,9498,"302 (Mental)",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -4724,6 +4730,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2018,029,"Missing Juvenile",0,0,1,0,0,0,0,2,0,0,0,0,3
 "Westwood                      ",2016,029,"Missing Juvenile",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Westwood                      ",2015,029,"Missing Juvenile",0,0,0,0,0,0,0,1,0,0,1,1,3
+"Westwood                      ",2019,9490,"Missing Persons (18 and Over)",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2018,9490,"Missing Persons (18 and Over)",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Westwood                      ",2016,9490,"Missing Persons (18 and Over)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Westwood                      ",2017,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,0,0,0,0,2,0,2
