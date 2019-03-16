@@ -13725,7 +13725,7 @@
             "Description": "Marijuana: Possession Small Amount",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "2",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -13735,7 +13735,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -13858,7 +13858,7 @@
             "Description": "Miscellaneous Fire Other Investigation to Continue",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -13868,7 +13868,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -14732,7 +14732,7 @@
             "Description": "Paraphernalia - Use or Possession",
             "Jan": "0",
             "Feb": "3",
-            "Mar": "2",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -14742,7 +14742,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Neighborhood": "Beechview",
@@ -15207,7 +15207,7 @@
             "Description": "Possession of Controlled Substance",
             "Jan": "0",
             "Feb": "6",
-            "Mar": "2",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -15217,7 +15217,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "10"
         },
         {
             "Neighborhood": "Beechview",
@@ -15340,7 +15340,7 @@
             "Description": "Possession w\/ Intent to Del. Controlled Substance",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "2",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -15350,7 +15350,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -17886,7 +17886,7 @@
             "Description": "Theft from Vehicle",
             "Jan": "1",
             "Feb": "14",
-            "Mar": "3",
+            "Mar": "5",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -17896,7 +17896,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "18"
+            "Count": "20"
         },
         {
             "Neighborhood": "Beechview",
@@ -24612,7 +24612,7 @@
             "Description": "Harassment by Physical Contact, or Attempts or Threats",
             "Jan": "3",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -24622,7 +24622,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -36957,6 +36957,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2019",
+            "Section": "1501",
+            "Description": "Drivers Required to be Licensed.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2017",
             "Section": "1501",
             "Description": "Drivers Required to be Licensed.",
@@ -39812,7 +39831,7 @@
             "Description": "Paraphernalia - Use or Possession",
             "Jan": "4",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -39822,7 +39841,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -42282,7 +42301,7 @@
             "Description": "Turning Movements and Required Signals.",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -42292,7 +42311,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -51033,6 +51052,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2019",
+            "Section": "627.02(b)(i)",
+            "Description": "Possessing a small amount of marijuana",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Elliott",
@@ -75532,7 +75570,7 @@
             "Description": "Paraphernalia - Use or Possession",
             "Jan": "2",
             "Feb": "4",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -75542,7 +75580,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Sheraden",
@@ -75760,7 +75798,7 @@
             "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
             "Jan": "2",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -75770,7 +75808,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -76064,7 +76102,7 @@
             "Description": "Possession of Controlled Substance",
             "Jan": "0",
             "Feb": "6",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -76074,7 +76112,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Sheraden",
@@ -76178,7 +76216,7 @@
             "Description": "Possession w\/ Intent to Del. Controlled Substance",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -76188,7 +76226,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -76767,7 +76805,7 @@
             "Description": "Receiving Stolen Property.",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -76777,7 +76815,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
