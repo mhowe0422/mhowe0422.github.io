@@ -3,7 +3,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,9498,"302 (Mental)",0,0,0,0,2,0,0,0,1,0,0,0,3
 "Banksville                    ",2016,9498,"302 (Mental)",0,0,0,0,0,0,0,2,1,0,0,0,3
 "Banksville                    ",2015,9498,"302 (Mental)",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Banksville                    ",2019,9999,"9999 - (Misc. Incident):",1,4,2,0,0,0,0,0,0,0,0,0,7
+"Banksville                    ",2019,9999,"9999 - (Misc. Incident):",1,4,3,0,0,0,0,0,0,0,0,0,8
 "Banksville                    ",2018,9999,"9999 - (Misc. Incident):",0,1,2,3,1,5,2,1,3,2,2,2,24
 "Banksville                    ",2017,9999,"9999 - (Misc. Incident):",2,3,1,0,3,3,3,2,3,1,1,3,25
 "Banksville                    ",2016,9999,"9999 - (Misc. Incident):",2,4,1,5,3,5,2,4,3,4,2,4,39
@@ -1046,11 +1046,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,4105(a)(1),"Bad Checks",0,0,1,0,0,1,0,1,0,0,0,0,3
 "Brookline                     ",2017,4105(a)(1),"Bad Checks",0,0,0,0,0,0,0,1,0,0,0,1,2
 "Brookline                     ",2016,4105(a)(1),"Bad Checks",1,0,0,0,0,0,0,1,1,0,0,2,5
+"Brookline                     ",2019,9501,"Bench Warrant",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2018,9501,"Bench Warrant",0,4,1,2,2,3,0,0,6,4,5,2,29
 "Brookline                     ",2017,9501,"Bench Warrant",6,2,4,0,0,0,4,8,0,3,2,8,37
 "Brookline                     ",2016,9501,"Bench Warrant",4,2,2,0,0,4,1,2,4,0,2,0,21
 "Brookline                     ",2015,9501,"Bench Warrant",0,0,0,2,4,2,4,2,4,2,4,4,28
-"Brookline                     ",2019,3502,Burglary.,2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2019,3502,Burglary.,2,0,1,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2018,3502,Burglary.,11,5,4,3,5,2,5,5,4,5,2,0,51
 "Brookline                     ",2017,3502,Burglary.,8,7,3,2,2,2,1,3,6,4,1,13,52
 "Brookline                     ",2016,3502,Burglary.,3,0,1,0,2,2,6,6,3,4,1,2,30
@@ -1166,6 +1167,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,5503(a)(3),"DISORDERLY CONDUCT - OBSCENE LANG/GEST",0,12,1,0,0,0,0,0,0,0,2,0,15
 "Brookline                     ",2017,5503(a)(3),"DISORDERLY CONDUCT - OBSCENE LANG/GEST",0,0,0,0,1,0,1,0,0,0,0,0,2
 "Brookline                     ",2016,5503(a)(3),"DISORDERLY CONDUCT - OBSCENE LANG/GEST",0,0,0,0,0,2,0,0,0,0,0,0,2
+"Brookline                     ",2019,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2018,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Brookline                     ",2017,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,1,0,0,1,0,0,2
 "Brookline                     ",2016,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,0,3,0,0,3
@@ -1264,7 +1266,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,5126,"Flight to Avoid Apprehension, Trial or Punishment.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Brookline                     ",2017,3310,"Following Too Closely.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2016,3310,"Following Too Closely.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2019,4101,Forgery.,0,2,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2019,4101,Forgery.,0,2,1,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2018,4101,Forgery.,0,0,3,0,0,0,0,0,0,1,0,0,4
 "Brookline                     ",2017,4101,Forgery.,0,0,0,2,1,1,0,1,0,2,2,0,9
 "Brookline                     ",2016,4101,Forgery.,1,0,0,0,0,1,1,2,1,0,0,2,8
@@ -1287,7 +1289,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2016,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,0,0,0,0,1,0,1,2
 "Brookline                     ",2015,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Brookline                     ",2019,2709,"Harassment (Non-Specific)",4,3,0,0,0,0,0,0,0,0,0,0,7
+"Brookline                     ",2019,2709,"Harassment (Non-Specific)",4,3,1,0,0,0,0,0,0,0,0,0,8
 "Brookline                     ",2018,2709,"Harassment (Non-Specific)",1,1,3,4,1,1,0,3,1,2,0,0,17
 "Brookline                     ",2017,2709,"Harassment (Non-Specific)",1,2,0,1,0,3,1,1,3,3,1,4,20
 "Brookline                     ",2016,2709,"Harassment (Non-Specific)",3,0,1,1,2,2,1,4,3,1,0,0,18
@@ -1384,7 +1386,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,3718(a),"Minor Prohib from Operating w/ Alcohol in System",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Brookline                     ",2017,425.26,Miscellaneous,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2016,425.26,Miscellaneous,0,0,0,0,0,1,0,0,0,0,1,0,2
-"Brookline                     ",2019,9123,"Miscellaneous Fire Other Investigation to Continue",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2019,9123,"Miscellaneous Fire Other Investigation to Continue",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2018,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,1,0,0,0,0,0,1,0,2
 "Brookline                     ",2017,9123,"Miscellaneous Fire Other Investigation to Continue",0,1,0,0,0,0,0,1,1,0,0,0,3
 "Brookline                     ",2016,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -2546,6 +2548,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,9015,"Failure To Appear/Arrest on Attachment Order",1,0,0,0,1,2,1,0,0,0,0,0,5
 "Elliott                       ",2016,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,1,0,0,0,0,1,0,0,2
 "Elliott                       ",2015,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,0,0,0,2,0,0,1,0,3
+"Elliott                       ",2019,4915,"Failure to Comply with Megans Law",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2017,4915,"Failure to Comply with Megans Law",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2016,4915,"Failure to Comply with Megans Law",1,1,0,0,0,0,2,0,0,0,0,0,4
 "Elliott                       ",2018,9488,"False  Burglar Alarm",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -3877,6 +3880,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,633.09(a),"Harboring a Nuisance; Any animal to create offensive odor, excessive noise or unsanitary condition",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2016,7741,"Head Lamps and Tail Lamps",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,5105,"Hindering Apprehension or Prosecution.",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2019,4120,"Identity Theft",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,4120,"Identity Theft",0,0,2,0,0,0,1,0,0,0,0,0,3
 "Sheraden                      ",2017,4120,"Identity Theft",1,1,5,0,0,0,0,1,0,0,0,1,9
 "Sheraden                      ",2016,4120,"Identity Theft",0,0,0,2,1,2,3,0,0,2,0,0,10
@@ -4928,7 +4932,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2016,5511(c)(1),"CRUELTY TO ANIMALS",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2016,5511,"Cruelty to Animals.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2017,633.20,"Dangerous Dogs",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Windgap                       ",2019,9496,"Dead on Arrival (DOA)",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Windgap                       ",2019,9496,"Dead on Arrival (DOA)",1,0,1,0,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2017,9496,"Dead on Arrival (DOA)",1,0,0,1,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2016,9496,"Dead on Arrival (DOA)",0,0,0,0,1,1,0,0,1,0,1,0,4
 "Windgap                       ",2015,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,2,1,0,1,0,0,4
