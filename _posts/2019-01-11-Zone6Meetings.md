@@ -22,7 +22,7 @@ author: Mark Howe
 
 ## March 25, 2019 (Updated)
 ### "Castle Doctrine" 
-### District Attorney's Office 
+### Ilan Zur, Deputy District Attorney
 ## WHEN: Monday, March 25, 2019 at 6:30 PM  
 ## WHERE: Sheraden Healthy Living Center 
 ### 720 Sherwood Ave. Pittsburgh 15204 
