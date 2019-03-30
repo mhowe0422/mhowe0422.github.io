@@ -615,7 +615,7 @@
             "Description": "Aided Case",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -625,7 +625,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -9085,25 +9085,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "1",
-            "Mar": "1",
-            "Apr": "2",
-            "May": "1",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "4",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "9"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2018",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -9119,6 +9100,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2018",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "1",
+            "Apr": "2",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "4",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "9"
         },
         {
             "Neighborhood": "Beechview",
@@ -12129,7 +12129,7 @@
             "Description": "Harassment (Non-Specific)",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -12139,7 +12139,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -18874,7 +18874,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "7",
             "Feb": "10",
-            "Mar": "8",
+            "Mar": "9",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -18884,7 +18884,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "25"
+            "Count": "26"
         },
         {
             "Neighborhood": "Brookline",
@@ -19311,7 +19311,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "7",
             "Feb": "4",
-            "Mar": "3",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -19321,7 +19321,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Brookline",
@@ -39389,6 +39389,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2019",
+            "Section": "13(a)(31)",
+            "Description": "Marijuana: Possession Small Amount",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "2",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2018",
             "Section": "13(a)(31)",
             "Description": "Marijuana: Possession Small Amount",
@@ -41826,7 +41845,7 @@
             "Description": "Stop Signs and Yield Signs.",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -41836,7 +41855,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -42904,6 +42923,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2019",
+            "Section": "4524",
+            "Description": "Windshield Obstructions and Wipers.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "2",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2016",
             "Section": "4524",
             "Description": "Windshield Obstructions and Wipers.",
@@ -43622,6 +43660,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "East Carnegie",
+            "Year": "2019",
+            "Section": "9496",
+            "Description": "Dead on Arrival (DOA)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
             "Count": "1"
         },
         {
@@ -53796,7 +53853,7 @@
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -53806,7 +53863,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -54281,6 +54338,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2019",
+            "Section": "3928",
+            "Description": "Unauthorized Use of Automobile and Other Vehicles.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
             "Count": "1"
         },
         {
@@ -68882,7 +68958,7 @@
             "Description": "Aided Case",
             "Jan": "3",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -68892,7 +68968,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -70231,7 +70307,7 @@
             "Description": "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -70241,7 +70317,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -70512,25 +70588,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "2",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "5",
-            "Jul": "1",
-            "Aug": "3",
-            "Sep": "1",
-            "Oct": "0",
-            "Nov": "2",
-            "Dec": "3",
-            "Count": "17"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "1",
@@ -70546,6 +70603,25 @@
             "Nov": "0",
             "Dec": "2",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "2",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "5",
+            "Jul": "1",
+            "Aug": "3",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "3",
+            "Count": "17"
         },
         {
             "Neighborhood": "Sheraden",
@@ -74859,6 +74935,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2019",
+            "Section": "13(a)(31)(i)",
+            "Description": "Marijuana - Possess Small Amt for Personal Use",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "2",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
