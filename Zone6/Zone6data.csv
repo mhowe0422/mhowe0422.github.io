@@ -69,6 +69,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,0,0,0,0,1,0,1,1,0,0,5
 "Banksville                    ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,2,0,1,0,0,0,0,0,3
 "Banksville                    ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Banksville                    ",2019,3304,"Criminal Mischief.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2018,3304,"Criminal Mischief.",1,1,0,0,0,0,0,2,1,0,0,0,5
 "Banksville                    ",2017,3304,"Criminal Mischief.",0,2,0,0,1,1,0,2,2,1,1,0,10
 "Banksville                    ",2016,3304,"Criminal Mischief.",0,0,1,1,1,3,1,1,2,0,8,1,19
@@ -480,8 +481,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,3304,"Criminal Mischief.",8,1,3,6,1,13,4,9,5,4,9,3,66
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
+"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
@@ -677,8 +678,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,633.09(a),"Harboring a Nuisance; Any animal to create offensive odor, excessive noise or unsanitary condition",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Beechview                     ",2018,13(a)(31)*,"Hashish - Possession Small Amount",0,6,0,0,0,0,0,0,0,0,0,0,6
 "Beechview                     ",2015,5105,"Hindering Apprehension or Prosecution.",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2018,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2017,"473.07 (a)","Hours of Parks 0600-2300 hrs.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2015,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2019,4120,"Identity Theft",1,2,0,0,0,0,0,0,0,0,0,0,3
@@ -1304,7 +1305,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2015,2709,"Harassment (Non-Specific)",0,0,0,3,0,0,5,1,1,1,5,3,19
 "Brookline                     ",2018,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2016,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,1,0,0,1,0,0,0,0,0,0,2
-"Brookline                     ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",3,0,1,0,0,0,0,0,0,0,0,0,4
+"Brookline                     ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",3,0,2,0,0,0,0,0,0,0,0,0,5
 "Brookline                     ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",3,0,3,4,3,6,1,3,2,2,5,2,34
 "Brookline                     ",2017,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",3,0,0,0,2,4,2,0,0,5,4,2,22
 "Brookline                     ",2016,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,2,0,2,1,4,3,5,2,0,2,2,25
@@ -3337,7 +3338,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,2,1,0,1,0,0,1,0,0,6
 "Oakwood                       ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,0,0,0,0,1,0,1,1,0,0,4
 "Oakwood                       ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Oakwood                       ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Oakwood                       ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Oakwood                       ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,1,1,0,0,1,0,0,0,2,0,5
 "Oakwood                       ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,1,0,0,0,0,1,0,0,1,3
 "Oakwood                       ",2016,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,1,0,2,2,2,0,1,1,0,0,2,12
@@ -3708,7 +3709,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,2,4,2,1,1,6,2,2,3,4,2,32
 "Sheraden                      ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,4,5,3,0,4,4,5,2,3,0,4,35
 "Sheraden                      ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,1,0,2,0,2,0,1,2,1,0,9
-"Sheraden                      ",2019,3304,"Criminal Mischief.",2,1,5,0,0,0,0,0,0,0,0,0,8
+"Sheraden                      ",2019,3304,"Criminal Mischief.",2,1,6,0,0,0,0,0,0,0,0,0,9
 "Sheraden                      ",2018,3304,"Criminal Mischief.",1,2,2,5,5,4,3,4,12,2,4,4,48
 "Sheraden                      ",2017,3304,"Criminal Mischief.",11,6,13,8,4,8,16,12,4,3,4,2,91
 "Sheraden                      ",2016,3304,"Criminal Mischief.",7,2,5,12,3,4,6,10,3,10,6,4,72
@@ -3718,8 +3719,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,1,2,0,0,0,3
 "Sheraden                      ",2017,3503(a),"Criminal Trespass",0,0,0,0,3,0,0,0,0,0,0,0,3
 "Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
-"Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
 "Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
+"Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
 "Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
 "Sheraden                      ",2017,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,1,0,0,0,0,1,0,0,2
@@ -3986,8 +3987,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,5532(a)(3),"Neglect of Animals - Neglect of Animals  Vet Care",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,9012,"Non-Violent Domestic",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,9012,"Non-Violent Domestic",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,633.12,"Number of Pets Permitted in City Limits; Exceptions",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,4,0,0,0,0,0,4
 "Sheraden                      ",2017,3111,"Obedience to Traffic-Control Devices.",0,0,1,0,0,1,0,1,0,0,0,0,3
@@ -4634,6 +4635,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2016,2702,"Aggravated Assault.",0,1,0,0,0,0,1,0,1,2,0,2,7
 "Westwood                      ",2015,2702,"Aggravated Assault.",0,0,0,0,0,0,0,0,1,0,0,2,3
 "Westwood                      ",2016,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,0,0,0,0,0,2,2
+"Westwood                      ",2019,9497,"Aided Case",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2018,9497,"Aided Case",0,0,1,0,1,1,0,0,0,0,0,0,3
 "Westwood                      ",2017,9497,"Aided Case",0,0,1,0,0,0,0,1,0,3,0,0,5
 "Westwood                      ",2016,9497,"Aided Case",1,1,1,0,1,1,2,2,1,0,1,0,11
@@ -4650,10 +4652,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2017,3502,Burglary.,0,0,0,0,2,0,0,0,0,0,0,1,3
 "Westwood                      ",2016,3502,Burglary.,0,0,0,0,2,2,2,2,1,1,2,2,14
 "Westwood                      ",2015,3502,Burglary.,0,0,1,0,1,1,2,0,0,0,0,0,5
+"Westwood                      ",2019,3714,"Careless Driving",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2016,3714,"Careless Driving",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2018,8104,"CLASS 1 - Suspicious Package or Device",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2017,901,"Criminal Attempt",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2016,901,"Criminal Attempt",1,0,0,0,1,0,0,0,0,0,1,0,3
+"Westwood                      ",2019,903,"Criminal Conspiracy.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2016,903,"Criminal Conspiracy.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Westwood                      ",2017,2501,"Criminal Homicide.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2016,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -4676,6 +4680,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2015,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Westwood                      ",2016,3503(b)(1)(iii),"Defiant Trespass - Fencing or Other Enclosure",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Westwood                      ",2019,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2019,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2018,5503,"Disorderly Conduct.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Westwood                      ",2019,9492,"Dog Bite",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2018,9492,"Dog Bite",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -4685,12 +4690,14 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2017,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,0,0,2,2,0,0,0,0,0,2,6
 "Westwood                      ",2015,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,0,0,0,0,0,0,2,2,1,2,7
 "Westwood                      ",2016,3802(d)(2),"DUI - Drug - Impaired Ability",0,0,0,0,0,0,0,0,0,0,0,2,2
+"Westwood                      ",2019,3802(a)(1),"DUI - General Impairment",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2018,3802(a)(1),"DUI - General Impairment",0,0,2,0,0,0,1,2,0,0,0,0,5
 "Westwood                      ",2017,3802(a)(1),"DUI - General Impairment",0,2,2,0,0,0,0,0,2,0,0,0,6
 "Westwood                      ",2016,3802(a)(1),"DUI - General Impairment",2,2,2,0,0,0,0,2,0,0,0,0,8
 "Westwood                      ",2015,3802(a)(1),"DUI - General Impairment",0,0,2,0,0,0,2,0,0,2,0,2,8
 "Westwood                      ",2016,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2015,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,0,0,0,0,1,0,0,0,0,2,3
+"Westwood                      ",2019,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2018,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,2,0,0,0,1,0,0,0,0,0,3
 "Westwood                      ",2017,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,2,0,0,0,0,0,2,0,0,0,4
 "Westwood                      ",2016,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",2,0,2,0,0,0,0,2,0,0,0,0,6
@@ -4801,6 +4808,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2017,4706,"Prohib. on Expend. for Emission Insp Prog..",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Westwood                      ",2015,3353,"Prohibitions in Specified Places.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2016,2707,"Propulsion of Missiles",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2019,5505,"Public Drunkenness",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2018,5505,"Public Drunkenness",0,0,0,0,0,1,0,0,0,0,0,1,2
 "Westwood                      ",2017,5505,"Public Drunkenness",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2016,5505,"Public Drunkenness",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -4820,7 +4828,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2016,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Westwood                      ",2015,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Westwood                      ",2015,7513,"Restriction on Alcoholic Beverages - Open Container",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Westwood                      ",2019,3929,"Retail Theft.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2019,3929,"Retail Theft.",1,0,1,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2018,3929,"Retail Theft.",0,0,0,0,0,1,0,0,0,0,1,0,2
 "Westwood                      ",2017,3929,"Retail Theft.",0,2,0,0,0,0,1,0,0,0,2,0,5
 "Westwood                      ",2016,3929,"Retail Theft.",1,4,1,2,3,0,0,1,1,1,0,1,15
