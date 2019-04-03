@@ -367,7 +367,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,0,0,2,4
 "Beechview                     ",2016,9498,"302 (Mental)",0,0,0,0,1,1,1,2,0,0,1,1,7
 "Beechview                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,2,1,0,0,3
-"Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,0,0,0,0,0,0,0,0,0,19
+"Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,1,0,0,0,0,0,0,0,0,20
 "Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,8,4,8,10,9,6,6,5,4,81
 "Beechview                     ",2017,9999,"9999 - (Misc. Incident):",7,5,10,4,5,6,9,9,8,3,6,4,76
 "Beechview                     ",2016,9999,"9999 - (Misc. Incident):",5,4,4,3,6,13,7,6,7,3,5,3,66
@@ -605,7 +605,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,4914,"False Identification to Law Enforcement Authorities",0,0,0,0,0,0,0,2,2,0,0,0,4
 "Beechview                     ",2016,2903,"False Imprisonment.",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Beechview                     ",2017,4906,"False Reports to Law Enforcement Authorities.",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2019,6106,"Firearms not to be Carried without a License.",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2019,6106,"Firearms not to be Carried without a License.",0,1,0,2,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2018,6106,"Firearms not to be Carried without a License.",2,0,0,0,0,0,0,0,2,0,0,0,4
 "Beechview                     ",2017,6106,"Firearms not to be Carried without a License.",0,1,1,2,2,0,3,0,0,0,2,0,11
 "Beechview                     ",2016,6106,"Firearms not to be Carried without a License.",0,0,0,0,2,0,1,0,0,0,0,0,3
@@ -627,7 +627,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9017,"Found Drugs",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Beechview                     ",2016,9017,"Found Drugs",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2015,9017,"Found Drugs",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Beechview                     ",2019,9489,"Found Property",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2019,9489,"Found Property",0,0,1,1,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2018,9489,"Found Property",1,1,0,1,0,0,0,1,0,0,4,0,8
 "Beechview                     ",2017,9489,"Found Property",0,1,2,0,1,0,0,0,2,3,1,0,10
 "Beechview                     ",2016,9489,"Found Property",2,0,1,0,0,1,0,0,1,2,0,0,7
@@ -789,6 +789,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2018,4302,"Periods for Requiring Lighted Lamps.",0,0,1,0,0,0,0,0,0,0,0,2,3
 "Beechview                     ",2018,5902(b)(7),"Permitting place to be regularly used for prostitution",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2016,1575,"Permitting Violation of Title.",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Beechview                     ",2019,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2018,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,0,0,0,0,0,0,2,0,0,0,4
 "Beechview                     ",2017,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,1,0,2,0,4,0,0,0,0,0,7
 "Beechview                     ",2016,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,0,0,1,0,2,0,0,0,3
@@ -964,9 +965,10 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,0,0,0,0,0,1,0,0,0,0,1,2
 "Beechview                     ",2017,2715,"Threat to Use Weapons of Mass Destruction",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2018,4119,"Trademark Counterfeiting",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Beechview                     ",2019,3112,"Traffic-Control Signals.",0,2,0,0,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2019,3112,"Traffic-Control Signals.",0,2,0,2,0,0,0,0,0,0,0,0,4
 "Beechview                     ",2017,3112,"Traffic-Control Signals.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2015,3112,"Traffic-Control Signals.",0,0,0,2,2,0,0,0,0,0,0,0,4
+"Beechview                     ",2019,3334,"Turning Movements and Required Signals.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2018,3334,"Turning Movements and Required Signals.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2017,3334,"Turning Movements and Required Signals.",2,0,0,0,0,0,0,0,0,0,2,0,4
 "Beechview                     ",2016,3334,"Turning Movements and Required Signals.",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -992,6 +994,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2018,4730,"Violations of Use of Certificate of Inspection.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2019,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2017,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",0,0,0,0,3,0,0,0,0,0,0,0,3
+"Beechview                     ",2019,4524,"Windshield Obstructions and Wipers.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2019,9498,"302 (Mental)",3,2,1,0,0,0,0,0,0,0,0,0,6
 "Brookline                     ",2018,9498,"302 (Mental)",2,1,1,1,0,0,3,4,1,0,3,1,17
 "Brookline                     ",2017,9498,"302 (Mental)",0,0,0,1,1,3,1,3,1,2,1,0,13
@@ -1337,7 +1340,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,517.8,"Home Improvement Fraud",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2015,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2018,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,0,1,0,1
-"Brookline                     ",2019,4120,"Identity Theft",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2019,4120,"Identity Theft",1,0,2,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2018,4120,"Identity Theft",2,1,0,2,1,0,0,0,0,0,1,2,9
 "Brookline                     ",2017,4120,"Identity Theft",1,2,4,0,0,0,1,2,0,2,4,2,18
 "Brookline                     ",2016,4120,"Identity Theft",3,2,0,3,5,4,2,0,0,2,2,2,25
@@ -3721,8 +3724,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
 "Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
 "Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
-"Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
+"Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2017,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,1,0,0,0,0,1,0,0,2
 "Sheraden                      ",2016,3503(b.1),"Criminal Trespass - Simple Trespasser",0,1,0,0,0,1,0,1,0,0,0,0,3
 "Sheraden                      ",2015,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,0,0,0,0,0,2,2
@@ -3987,8 +3990,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,5532(a)(3),"Neglect of Animals - Neglect of Animals  Vet Care",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,9012,"Non-Violent Domestic",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,9012,"Non-Violent Domestic",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,633.12,"Number of Pets Permitted in City Limits; Exceptions",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,4,0,0,0,0,0,4
 "Sheraden                      ",2017,3111,"Obedience to Traffic-Control Devices.",0,0,1,0,0,1,0,1,0,0,0,0,3
@@ -4730,7 +4733,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2015,9489,"Found Property",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Westwood                      ",2019,4103,"Fraud. Destruct., Remov. or Conceal.of Record. Instr.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2017,4303,"General Lighting Requirements.",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Westwood                      ",2019,2709,"Harassment (Non-Specific)",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2019,2709,"Harassment (Non-Specific)",0,1,0,1,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2018,2709,"Harassment (Non-Specific)",0,0,1,0,1,0,0,0,1,0,0,0,3
 "Westwood                      ",2017,2709,"Harassment (Non-Specific)",0,1,2,0,1,0,1,1,0,0,0,0,6
 "Westwood                      ",2016,2709,"Harassment (Non-Specific)",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -4868,7 +4871,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2018,2706,"Terroristic Threats.",1,0,0,0,0,0,0,0,0,1,0,0,2
 "Westwood                      ",2016,2706,"Terroristic Threats.",0,1,1,0,0,0,0,0,0,2,0,2,6
 "Westwood                      ",2015,2706,"Terroristic Threats.",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Westwood                      ",2019,3922,"Theft by Deception.",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2019,3922,"Theft by Deception.",0,1,0,1,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2018,3922,"Theft by Deception.",1,0,0,0,0,0,0,0,0,1,0,0,2
 "Westwood                      ",2017,3922,"Theft by Deception.",0,0,1,0,0,0,0,0,1,0,1,0,3
 "Westwood                      ",2016,3922,"Theft by Deception.",0,0,0,1,0,0,0,0,0,0,2,0,3
