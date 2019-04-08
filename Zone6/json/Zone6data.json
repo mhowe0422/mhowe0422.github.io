@@ -23245,7 +23245,7 @@
             "Jan": "4",
             "Feb": "0",
             "Mar": "2",
-            "Apr": "2",
+            "Apr": "4",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -23254,7 +23254,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -23416,7 +23416,7 @@
             "Jan": "2",
             "Feb": "0",
             "Mar": "2",
-            "Apr": "2",
+            "Apr": "4",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -23425,7 +23425,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "8"
         },
         {
             "Neighborhood": "Brookline",
@@ -28736,7 +28736,7 @@
             "Jan": "2",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -28745,7 +28745,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -30313,7 +30313,7 @@
             "Jan": "2",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -30322,7 +30322,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -36602,7 +36602,7 @@
             "Jan": "3",
             "Feb": "0",
             "Mar": "2",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -36611,7 +36611,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -43612,7 +43612,7 @@
             "Description": "Aided Case",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -43622,7 +43622,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "East Carnegie",
@@ -50795,7 +50795,7 @@
             "Jan": "0",
             "Feb": "1",
             "Mar": "2",
-            "Apr": "0",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -50804,7 +50804,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "5"
         },
         {
             "Neighborhood": "Elliott",
@@ -53588,7 +53588,7 @@
             "Jan": "0",
             "Feb": "7",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "3",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -53597,7 +53597,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "11"
         },
         {
             "Neighborhood": "Elliott",
@@ -53715,6 +53715,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2019",
+            "Section": "3323",
+            "Description": "Stop Signs and Yield Signs.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2017",
             "Section": "3323",
             "Description": "Stop Signs and Yield Signs.",
@@ -53759,7 +53778,7 @@
             "Jan": "0",
             "Feb": "5",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -53768,7 +53787,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Neighborhood": "Elliott",
@@ -66977,6 +66996,25 @@
         },
         {
             "Neighborhood": "Ridgemont",
+            "Year": "2019",
+            "Section": "4106",
+            "Description": "Access Device Fraud",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Ridgemont",
             "Year": "2016",
             "Section": "4106",
             "Description": "Access Device Fraud",
@@ -76060,7 +76098,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -76079,7 +76117,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -81224,6 +81262,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "11"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2019",
+            "Section": "4106",
+            "Description": "Access Device Fraud",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "West End",
@@ -87361,6 +87418,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "5"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2019",
+            "Section": "3924",
+            "Description": "Theft of Property Lost, Mislaid or Delivered by Mistake.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "West End",

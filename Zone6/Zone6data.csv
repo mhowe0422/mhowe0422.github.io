@@ -1222,7 +1222,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3802(d)(2),"DUI - Drug - Impaired Ability",2,2,0,0,0,2,2,0,0,0,0,0,8
 "Brookline                     ",2016,3802(d)(2),"DUI - Drug - Impaired Ability",0,0,0,0,2,0,1,0,0,2,0,0,5
 "Brookline                     ",2015,3802(d)(2),"DUI - Drug - Impaired Ability",0,0,2,0,4,0,1,0,0,0,0,0,7
-"Brookline                     ",2019,3802(a)(1),"DUI - General Impairment",4,0,2,2,0,0,0,0,0,0,0,0,8
+"Brookline                     ",2019,3802(a)(1),"DUI - General Impairment",4,0,2,4,0,0,0,0,0,0,0,0,10
 "Brookline                     ",2018,3802(a)(1),"DUI - General Impairment",2,2,0,0,0,4,0,2,4,2,5,2,23
 "Brookline                     ",2017,3802(a)(1),"DUI - General Impairment",5,4,4,6,10,4,1,0,6,0,5,0,45
 "Brookline                     ",2016,3802(a)(1),"DUI - General Impairment",0,0,2,2,0,2,2,2,2,2,0,3,17
@@ -1231,7 +1231,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,2,0,2,2,0,0,0,0,0,0,0,6
 "Brookline                     ",2016,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,0,0,0,2,0,0,0,0,0,2,4
 "Brookline                     ",2015,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,0,0,0,2,0,0,0,0,0,0,2
-"Brookline                     ",2019,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",2,0,2,2,0,0,0,0,0,0,0,0,6
+"Brookline                     ",2019,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",2,0,2,4,0,0,0,0,0,0,0,0,8
 "Brookline                     ",2018,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,4,0,0,0,0,2,2,8
 "Brookline                     ",2017,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",2,0,0,0,4,4,0,0,2,0,2,0,14
 "Brookline                     ",2016,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,2,0,0,0,0,0,2,0,0,4
@@ -1511,7 +1511,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,3925,"Receiving Stolen Property.",2,0,2,0,1,0,0,0,4,1,1,7,18
 "Brookline                     ",2015,3925,"Receiving Stolen Property.",0,0,0,2,0,0,0,1,2,4,2,0,11
 "Brookline                     ",2018,3301(d),"Reckless Burning or Exploding",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Brookline                     ",2019,3736,"Reckless Driving",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2019,3736,"Reckless Driving",2,0,0,2,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2018,3736,"Reckless Driving",0,0,0,0,0,0,0,0,0,0,3,1,4
 "Brookline                     ",2017,3736,"Reckless Driving",0,2,2,0,2,2,4,0,3,0,1,0,16
 "Brookline                     ",2016,3736,"Reckless Driving",0,0,0,0,0,0,2,0,0,0,0,2,4
@@ -1594,7 +1594,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",0,0,0,0,0,0,0,1,0,1,0,0,2
 "Brookline                     ",2015,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Brookline                     ",2017,2709.2,"Stalking Conduct or Repeatedly Communicates",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2019,3323,"Stop Signs and Yield Signs.",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2019,3323,"Stop Signs and Yield Signs.",2,0,0,2,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2018,3323,"Stop Signs and Yield Signs.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2016,3323,"Stop Signs and Yield Signs.",0,0,0,0,0,0,0,2,0,0,0,2,4
 "Brookline                     ",2019,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,2,2,0,0,0,0,0,0,0,0,0,4
@@ -1925,7 +1925,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,1,0,1,0,0,1,2,0,3,0,8
 "Crafton Heights               ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,2,1,0,0,0,2,0,1,0,0,6
 "Crafton Heights               ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,0,0,1,1,0,0,0,2
-"Crafton Heights               ",2019,3304,"Criminal Mischief.",3,0,2,0,0,0,0,0,0,0,0,0,5
+"Crafton Heights               ",2019,3304,"Criminal Mischief.",3,0,2,1,0,0,0,0,0,0,0,0,6
 "Crafton Heights               ",2018,3304,"Criminal Mischief.",3,1,3,2,2,4,2,3,1,5,0,2,28
 "Crafton Heights               ",2017,3304,"Criminal Mischief.",6,0,2,3,2,2,2,1,4,2,4,3,31
 "Crafton Heights               ",2016,3304,"Criminal Mischief.",2,1,0,4,1,4,5,1,3,3,1,3,28
@@ -2294,7 +2294,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2018,3732.1,"Aggravated Assault by Vehicle",0,0,1,1,0,0,0,0,0,0,0,0,2
 "East Carnegie                 ",2015,2702,"Aggravated Assault.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "East Carnegie                 ",2016,2703.1,"Aggravated Harassment by Prisoner",0,0,1,0,0,0,0,0,0,0,0,0,1
-"East Carnegie                 ",2019,9497,"Aided Case",0,0,1,0,0,0,0,0,0,0,0,0,1
+"East Carnegie                 ",2019,9497,"Aided Case",0,0,2,0,0,0,0,0,0,0,0,0,2
 "East Carnegie                 ",2018,9497,"Aided Case",0,0,0,0,0,0,0,1,1,0,0,0,2
 "East Carnegie                 ",2017,9497,"Aided Case",0,0,1,1,0,0,0,2,0,0,1,0,5
 "East Carnegie                 ",2016,9497,"Aided Case",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -2672,7 +2672,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2018,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,0,2,0,0,0,2,0,0,0,0,0,4
 "Elliott                       ",2017,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,0,0,0,3,0,0,0,0,0,0,0,3
 "Elliott                       ",2016,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,1,0,0,0,0,0,2,0,0,0,0,3
-"Elliott                       ",2019,13(a)(31),"Marijuana: Possession Small Amount",0,1,2,0,0,0,0,0,0,0,0,0,3
+"Elliott                       ",2019,13(a)(31),"Marijuana: Possession Small Amount",0,1,2,2,0,0,0,0,0,0,0,0,5
 "Elliott                       ",2018,13(a)(31),"Marijuana: Possession Small Amount",0,0,3,0,0,6,2,0,0,0,0,0,11
 "Elliott                       ",2017,13(a)(31),"Marijuana: Possession Small Amount",6,2,5,2,4,4,0,0,2,0,4,0,29
 "Elliott                       ",2016,13(a)(31),"Marijuana: Possession Small Amount",2,0,0,0,0,0,10,4,2,0,2,0,20
@@ -2819,16 +2819,17 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",5,0,2,0,0,4,0,2,0,2,0,0,15
 "Elliott                       ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,2,3,4,0,1,0,0,10
 "Elliott                       ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,3,0,0,0,2,0,0,2,0,2,9
-"Elliott                       ",2019,2701,"Simple Assault.",0,7,1,0,0,0,0,0,0,0,0,0,8
+"Elliott                       ",2019,2701,"Simple Assault.",0,7,1,3,0,0,0,0,0,0,0,0,11
 "Elliott                       ",2018,2701,"Simple Assault.",3,0,3,2,4,0,3,6,6,6,3,2,38
 "Elliott                       ",2017,2701,"Simple Assault.",7,7,5,3,6,3,5,2,3,2,4,3,50
 "Elliott                       ",2016,2701,"Simple Assault.",5,1,3,1,7,2,7,5,3,3,11,0,48
 "Elliott                       ",2015,2701,"Simple Assault.",0,0,9,0,4,5,2,4,1,0,3,1,29
 "Elliott                       ",2017,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2016,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Elliott                       ",2019,3323,"Stop Signs and Yield Signs.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2017,3323,"Stop Signs and Yield Signs.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Elliott                       ",2015,3323,"Stop Signs and Yield Signs.",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Elliott                       ",2019,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,5,0,0,0,0,0,0,0,0,0,0,5
+"Elliott                       ",2019,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,5,0,2,0,0,0,0,0,0,0,0,7
 "Elliott                       ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",1,2,0,0,2,0,3,0,0,0,0,0,8
 "Elliott                       ",2017,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,2,2,0,0,0,0,1,1,2,0,0,8
 "Elliott                       ",2016,1376,"Surrender of Reg. Upon Susp. or Revocation.",2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -3524,6 +3525,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2017,9999,"9999 - (Misc. Incident):",1,0,2,1,0,0,1,0,0,0,0,0,5
 "Ridgemont                     ",2016,9999,"9999 - (Misc. Incident):",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Ridgemont                     ",2015,9999,"9999 - (Misc. Incident):",0,0,0,0,1,1,0,1,0,0,0,0,3
+"Ridgemont                     ",2019,4106,"Access Device Fraud",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Ridgemont                     ",2016,4106,"Access Device Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Ridgemont                     ",2015,4106,"Access Device Fraud",0,0,0,1,0,0,0,0,2,0,0,1,4
 "Ridgemont                     ",2018,9018,"Accidental Fire",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -4002,8 +4004,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,5532(a)(3),"Neglect of Animals - Neglect of Animals  Vet Care",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,9012,"Non-Violent Domestic",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,9012,"Non-Violent Domestic",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,633.12,"Number of Pets Permitted in City Limits; Exceptions",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,4,0,0,0,0,0,4
 "Sheraden                      ",2017,3111,"Obedience to Traffic-Control Devices.",0,0,1,0,0,1,0,1,0,0,0,0,3
@@ -4274,6 +4276,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,9999,"9999 - (Misc. Incident):",4,0,1,0,0,3,3,1,1,0,2,3,18
 "West End                      ",2016,9999,"9999 - (Misc. Incident):",0,0,1,3,0,1,0,2,1,2,1,1,12
 "West End                      ",2015,9999,"9999 - (Misc. Incident):",0,0,1,4,2,0,2,0,0,1,0,1,11
+"West End                      ",2019,4106,"Access Device Fraud",0,0,1,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2018,4106,"Access Device Fraud",0,0,1,0,1,0,0,0,0,1,0,1,4
 "West End                      ",2017,4106,"Access Device Fraud",0,0,0,0,2,0,0,1,0,0,0,0,3
 "West End                      ",2016,4106,"Access Device Fraud",1,0,0,0,0,1,0,0,0,0,0,0,2
@@ -4597,6 +4600,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,3934,"Theft from Vehicle",0,0,0,0,2,1,0,0,0,0,0,0,3
 "West End                      ",2016,3934,"Theft from Vehicle",0,1,0,0,0,0,3,0,0,0,1,0,5
 "West End                      ",2015,3934,"Theft from Vehicle",0,0,0,0,0,1,3,1,0,0,0,0,5
+"West End                      ",2019,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2016,3926.C1,"THEFT OF SERVICES",0,0,0,1,0,0,0,0,0,0,0,0,1
 "West End                      ",2018,3926(a)(4),"Theft of services; ACQUISITION OF SERVICES - refusal to pay or offer to pay for a service (hotels and restarants)",0,0,0,0,0,0,1,0,0,0,0,0,1
 "West End                      ",2019,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",1,0,0,0,0,0,0,0,0,0,0,0,1
