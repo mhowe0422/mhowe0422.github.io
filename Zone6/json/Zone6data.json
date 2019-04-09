@@ -9180,25 +9180,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "1",
-            "Mar": "1",
-            "Apr": "2",
-            "May": "1",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "4",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "9"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2018",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -9214,6 +9195,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2018",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "1",
+            "Apr": "2",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "4",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "9"
         },
         {
             "Neighborhood": "Beechview",
@@ -12463,6 +12463,25 @@
             "Nov": "2",
             "Dec": "3",
             "Count": "17"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2019",
+            "Section": "2709(a)(4)",
+            "Description": "Harassment Communicates Prohibited Acts",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Beechview",
@@ -17184,7 +17203,7 @@
             "Jan": "1",
             "Feb": "5",
             "Mar": "8",
-            "Apr": "4",
+            "Apr": "5",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -17193,7 +17212,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "18"
+            "Count": "19"
         },
         {
             "Neighborhood": "Beechview",
@@ -21212,7 +21231,7 @@
             "Jan": "4",
             "Feb": "0",
             "Mar": "3",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -21221,7 +21240,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Brookline",
@@ -25335,7 +25354,7 @@
             "Jan": "0",
             "Feb": "3",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -25344,7 +25363,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -30028,7 +30047,7 @@
             "Jan": "4",
             "Feb": "4",
             "Mar": "4",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -30037,7 +30056,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Brookline",
@@ -35614,7 +35633,7 @@
             "Jan": "2",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -35623,7 +35642,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -38806,7 +38825,7 @@
             "Jan": "2",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -38815,7 +38834,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -53392,6 +53411,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2019",
+            "Section": "2701(a)(3)",
+            "Description": "Simple Assault - Attempts by Physical Menace",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2018",
             "Section": "2701(a)(3)",
             "Description": "Simple Assault - Attempts by Physical Menace",
@@ -53930,7 +53968,7 @@
             "Jan": "0",
             "Feb": "2",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -53939,7 +53977,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -76098,7 +76136,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -76117,7 +76155,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -87193,6 +87231,25 @@
         },
         {
             "Neighborhood": "West End",
+            "Year": "2019",
+            "Section": "3927",
+            "Description": "Theft by Failure to Make Required Disp. of Funds",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "2",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "West End",
             "Year": "2018",
             "Section": "3921(a)",
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
@@ -87275,7 +87332,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -87284,7 +87341,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "West End",
@@ -93621,7 +93678,7 @@
             "Jan": "2",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -93630,7 +93687,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Windgap",
