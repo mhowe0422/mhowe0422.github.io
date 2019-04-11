@@ -339,7 +339,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,1,0,0,1,2,0,1,1,0,4,1,13
 "Banksville                    ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,0,0,1,1,2,1,1,3,1,3,14
 "Banksville                    ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,1,0,0,1,1,0,0,0,2,6
-"Banksville                    ",2019,3921,"Theft by Unlawful Taking or Disposition.",3,1,0,0,0,0,0,0,0,0,0,0,4
+"Banksville                    ",2019,3921,"Theft by Unlawful Taking or Disposition.",3,1,0,1,0,0,0,0,0,0,0,0,5
 "Banksville                    ",2018,3921,"Theft by Unlawful Taking or Disposition.",0,1,0,0,0,2,0,1,2,1,0,1,8
 "Banksville                    ",2017,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,2,0,2,1,0,1,1,0,0,8
 "Banksville                    ",2016,3921,"Theft by Unlawful Taking or Disposition.",2,1,0,2,0,1,0,0,0,3,2,0,11
@@ -476,14 +476,14 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,3,2,4,4,3,1,0,1,4,3,0,28
 "Beechview                     ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,2,4,2,4,1,1,3,1,1,1,22
 "Beechview                     ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,3,0,2,0,0,6,0,1,12
-"Beechview                     ",2019,3304,"Criminal Mischief.",4,2,4,0,0,0,0,0,0,0,0,0,10
+"Beechview                     ",2019,3304,"Criminal Mischief.",4,2,4,1,0,0,0,0,0,0,0,0,11
 "Beechview                     ",2018,3304,"Criminal Mischief.",4,6,2,5,5,4,1,2,1,3,5,4,42
 "Beechview                     ",2017,3304,"Criminal Mischief.",5,4,2,7,5,7,1,9,4,5,3,3,55
 "Beechview                     ",2016,3304,"Criminal Mischief.",8,1,3,6,1,13,4,9,5,4,9,3,66
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
+"Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
@@ -680,8 +680,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,633.09(a),"Harboring a Nuisance; Any animal to create offensive odor, excessive noise or unsanitary condition",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Beechview                     ",2018,13(a)(31)*,"Hashish - Possession Small Amount",0,6,0,0,0,0,0,0,0,0,0,0,6
 "Beechview                     ",2015,5105,"Hindering Apprehension or Prosecution.",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2018,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2017,"473.07 (a)","Hours of Parks 0600-2300 hrs.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2015,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2019,4120,"Identity Theft",1,2,0,0,0,0,0,0,0,0,0,0,3
@@ -951,7 +951,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",7,3,6,0,4,0,1,3,5,6,8,6,49
 "Beechview                     ",2016,3921,"Theft by Unlawful Taking or Disposition.",1,3,1,0,0,5,6,7,6,0,4,2,35
 "Beechview                     ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,3,3,3,0,2,4,2,2,0,20
-"Beechview                     ",2019,3934,"Theft from Vehicle",1,14,8,1,0,0,0,0,0,0,0,0,24
+"Beechview                     ",2019,3934,"Theft from Vehicle",1,14,8,3,0,0,0,0,0,0,0,0,26
 "Beechview                     ",2018,3934,"Theft from Vehicle",2,5,3,2,1,1,2,5,1,2,1,5,30
 "Beechview                     ",2017,3934,"Theft from Vehicle",3,1,3,0,0,7,1,1,2,4,0,5,27
 "Beechview                     ",2016,3934,"Theft from Vehicle",4,3,1,3,1,10,2,5,0,5,2,2,38
@@ -1152,7 +1152,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2015,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Brookline                     ",2016,2709(a.1)(1)(i),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Disparaging Statement/Opinion",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Brookline                     ",2019,9496,"Dead on Arrival (DOA)",3,3,2,1,0,0,0,0,0,0,0,0,9
+"Brookline                     ",2019,9496,"Dead on Arrival (DOA)",3,3,2,2,0,0,0,0,0,0,0,0,10
 "Brookline                     ",2018,9496,"Dead on Arrival (DOA)",0,2,2,2,3,2,1,2,3,2,2,4,25
 "Brookline                     ",2017,9496,"Dead on Arrival (DOA)",2,1,3,2,2,0,2,1,1,2,3,0,19
 "Brookline                     ",2016,9496,"Dead on Arrival (DOA)",2,3,1,0,3,5,6,1,5,2,1,5,34
@@ -1584,7 +1584,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,5,0,3,2,4,4,0,1,0,5,1,25
 "Brookline                     ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,2,2,0,6,1,4,3,4,5,3,31
 "Brookline                     ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,0,1,2,3,1,4,0,0,1,14
-"Brookline                     ",2019,2701,"Simple Assault.",4,4,4,1,0,0,0,0,0,0,0,0,13
+"Brookline                     ",2019,2701,"Simple Assault.",4,4,4,3,0,0,0,0,0,0,0,0,15
 "Brookline                     ",2018,2701,"Simple Assault.",6,23,9,7,2,5,4,5,10,9,9,5,94
 "Brookline                     ",2017,2701,"Simple Assault.",9,7,12,3,5,7,8,8,10,6,8,4,87
 "Brookline                     ",2016,2701,"Simple Assault.",8,3,8,5,4,5,9,5,0,2,0,15,64
@@ -1897,7 +1897,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,9501,"Bench Warrant",0,4,0,3,0,2,0,0,2,2,0,2,15
 "Crafton Heights               ",2015,9501,"Bench Warrant",0,0,0,0,0,1,0,1,4,4,0,1,11
 "Crafton Heights               ",2016,9092,"Bond Forfeiture Warrant",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2019,3502,Burglary.,0,2,0,0,0,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2019,3502,Burglary.,0,2,0,1,0,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2018,3502,Burglary.,1,0,2,0,1,4,2,1,1,2,0,0,14
 "Crafton Heights               ",2017,3502,Burglary.,0,1,1,0,1,2,1,2,2,2,6,4,22
 "Crafton Heights               ",2016,3502,Burglary.,2,3,1,2,1,1,6,4,4,2,0,2,28
@@ -2046,7 +2046,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,2709,"Harassment (Non-Specific)",0,1,0,1,0,2,1,1,0,1,0,0,7
 "Crafton Heights               ",2015,2709,"Harassment (Non-Specific)",0,0,0,0,4,0,1,1,0,1,1,0,8
 "Crafton Heights               ",2018,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,0,1,1,0,0,0,0,0,0,0,0,4
+"Crafton Heights               ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,0,1,2,0,0,0,0,0,0,0,0,5
 "Crafton Heights               ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,0,0,0,0,0,1,2,0,0,1,5
 "Crafton Heights               ",2017,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,3,1,0,0,0,1,0,0,2,2,0,11
 "Crafton Heights               ",2016,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,1,1,0,0,0,2,2,0,1,0,1,8
@@ -2421,7 +2421,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,4106,"Access Device Fraud",0,0,0,1,1,0,1,0,0,0,1,0,4
 "Elliott                       ",2015,4106,"Access Device Fraud",0,0,0,1,0,0,0,1,0,0,0,0,2
 "Elliott                       ",2017,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,3,0,1,0,1,1,6
-"Elliott                       ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,1,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,1,1,0,1,1,0,2,2,1,11
 "Elliott                       ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,1,2,1,0,1,1,1,2,1,1,13
 "Elliott                       ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,0,1,2,0,1,0,1,0,0,3,9
@@ -3601,6 +3601,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2016,3701,Robbery.,0,0,0,0,0,1,0,0,0,0,0,0,1
 "Ridgemont                     ",2016,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Ridgemont                     ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,0,0,0,0,0,0,0,0,0,3
+"Ridgemont                     ",2019,2701,"Simple Assault.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Ridgemont                     ",2018,2701,"Simple Assault.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Ridgemont                     ",2017,2701,"Simple Assault.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Ridgemont                     ",2016,2701,"Simple Assault.",0,0,0,0,0,0,0,0,0,2,0,0,2
@@ -3742,8 +3743,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,3503,"Criminal Trespass",0,0,0,0,0,0,0,2,2,0,1,1,6
 "Sheraden                      ",2017,3503(a),"Criminal Trespass",0,0,0,0,3,0,0,0,0,0,0,0,3
 "Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
-"Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
 "Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
+"Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
 "Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
 "Sheraden                      ",2017,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,1,0,0,0,0,1,0,0,2
@@ -4036,7 +4037,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,9998,Overdose,0,0,0,0,0,0,0,0,1,1,1,0,3
 "Sheraden                      ",2018,9997,"Overdose Death",0,0,1,0,0,0,0,0,0,1,0,0,2
 "Sheraden                      ",2017,9997,"Overdose Death",1,1,0,0,0,1,0,0,0,0,0,0,3
-"Sheraden                      ",2019,13(a)(32),"Paraphernalia - Use or Possession",2,4,3,0,0,0,0,0,0,0,0,0,9
+"Sheraden                      ",2019,13(a)(32),"Paraphernalia - Use or Possession",2,4,3,1,0,0,0,0,0,0,0,0,10
 "Sheraden                      ",2018,13(a)(32),"Paraphernalia - Use or Possession",8,3,2,0,2,2,4,1,0,0,5,0,27
 "Sheraden                      ",2017,13(a)(32),"Paraphernalia - Use or Possession",7,7,1,10,5,2,7,3,0,10,2,4,58
 "Sheraden                      ",2016,13(a)(32),"Paraphernalia - Use or Possession",9,2,6,4,5,6,2,0,1,2,4,10,51
@@ -4048,7 +4049,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,6105(c)(9),"Persons Not To Possess Use Manuf, Control Firearm",1,0,0,0,0,0,0,1,0,0,0,0,2
 "Sheraden                      ",2015,6105(c)(9),"Persons Not To Possess Use Manuf, Control Firearm",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2017,6105(a)(2)(i),"Persons not to possess, use, manufacture, control, sell or transfer firearms: 60 days to",0,0,0,0,0,0,0,0,2,0,0,0,2
-"Sheraden                      ",2019,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,2,1,0,0,0,0,0,0,0,0,0,5
+"Sheraden                      ",2019,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,2,1,1,0,0,0,0,0,0,0,0,6
 "Sheraden                      ",2018,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,2,0,0,0,2,0,0,0,0,0,0,6
 "Sheraden                      ",2017,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",1,1,2,1,0,0,1,6,0,2,0,3,17
 "Sheraden                      ",2016,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,3,0,0,6,2,3,0,5,0,0,19
@@ -4101,7 +4102,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,601.16,"Public Urination And Defecation",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Sheraden                      ",2017,601.16,"Public Urination And Defecation",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2015,601.16,"Public Urination And Defecation",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Sheraden                      ",2019,3925,"Receiving Stolen Property.",2,0,1,0,0,0,0,0,0,0,0,0,3
+"Sheraden                      ",2019,3925,"Receiving Stolen Property.",2,0,1,1,0,0,0,0,0,0,0,0,4
 "Sheraden                      ",2018,3925,"Receiving Stolen Property.",1,4,3,0,0,2,3,0,2,1,0,0,16
 "Sheraden                      ",2017,3925,"Receiving Stolen Property.",2,2,3,0,0,0,2,4,0,0,0,6,19
 "Sheraden                      ",2016,3925,"Receiving Stolen Property.",1,0,0,2,2,2,3,3,5,4,1,2,25
@@ -4282,7 +4283,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,9999,"9999 - (Misc. Incident):",4,0,1,0,0,3,3,1,1,0,2,3,18
 "West End                      ",2016,9999,"9999 - (Misc. Incident):",0,0,1,3,0,1,0,2,1,2,1,1,12
 "West End                      ",2015,9999,"9999 - (Misc. Incident):",0,0,1,4,2,0,2,0,0,1,0,1,11
-"West End                      ",2019,4106,"Access Device Fraud",0,0,1,0,0,0,0,0,0,0,0,0,1
+"West End                      ",2019,4106,"Access Device Fraud",0,0,1,1,0,0,0,0,0,0,0,0,2
 "West End                      ",2018,4106,"Access Device Fraud",0,0,1,0,1,0,0,0,0,1,0,1,4
 "West End                      ",2017,4106,"Access Device Fraud",0,0,0,0,2,0,0,1,0,0,0,0,3
 "West End                      ",2016,4106,"Access Device Fraud",1,0,0,0,0,1,0,0,0,0,0,0,2
@@ -5003,7 +5004,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2016,5511(c)(1),"CRUELTY TO ANIMALS",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2016,5511,"Cruelty to Animals.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2017,633.20,"Dangerous Dogs",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Windgap                       ",2019,9496,"Dead on Arrival (DOA)",1,0,1,0,0,0,0,0,0,0,0,0,2
+"Windgap                       ",2019,9496,"Dead on Arrival (DOA)",1,0,1,1,0,0,0,0,0,0,0,0,3
 "Windgap                       ",2017,9496,"Dead on Arrival (DOA)",1,0,0,1,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2016,9496,"Dead on Arrival (DOA)",0,0,0,0,1,1,0,0,1,0,1,0,4
 "Windgap                       ",2015,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,2,1,0,1,0,0,4
