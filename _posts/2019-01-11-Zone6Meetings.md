@@ -35,10 +35,21 @@ author: Mark Howe
 
 
 ## May 20, 2019 
-### "Child Abuse" 
-### A Child's Place & Pittsburgh Police   
+### Come, Meet and Talk With
 
+### Neighbors & Police About Public Safety
+## WHEN: Monday, May 20, 2019 at 6:30 PM
+## WHERE: Emanuel United Methodist Church
+## 825 Lorenz Street, Pgh., PA 15220
 ### Elliott Community Group 
+
+# THE CRIME OF CHILD ABUSE
+## Reporting, Investigating & Advocacy
+
+### Presentations by
+
+### Joan Reed Mills, A Child’s Place, PA Child Advocacy Center
+### Rich Mullen, Retired Lieutenant - Allegheny County Police   
 
 
 ## June 24, 2019 
