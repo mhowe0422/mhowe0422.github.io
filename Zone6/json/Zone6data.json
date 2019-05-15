@@ -6450,7 +6450,7 @@
             "Feb": "1",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -6458,7 +6458,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -7096,7 +7096,7 @@
             "Feb": "8",
             "Mar": "3",
             "Apr": "10",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -7104,7 +7104,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "30"
+            "Count": "31"
         },
         {
             "Neighborhood": "Beechview",
@@ -9256,25 +9256,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "1",
-            "Mar": "1",
-            "Apr": "2",
-            "May": "1",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "4",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "9"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2018",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -9290,6 +9271,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2018",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "1",
+            "Apr": "2",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "4",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "9"
         },
         {
             "Neighborhood": "Beechview",
@@ -13113,7 +13113,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8",
+            "Section": "517.8(A2)",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -13132,7 +13132,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8(A2)",
+            "Section": "517.8",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -19351,7 +19351,7 @@
             "Feb": "10",
             "Mar": "9",
             "Apr": "17",
-            "May": "5",
+            "May": "6",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -19359,7 +19359,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "48"
+            "Count": "49"
         },
         {
             "Neighborhood": "Brookline",
@@ -21517,7 +21517,7 @@
             "Feb": "0",
             "Mar": "3",
             "Apr": "2",
-            "May": "1",
+            "May": "3",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -21525,7 +21525,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -21878,7 +21878,7 @@
             "Feb": "1",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -21886,7 +21886,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -22873,6 +22873,25 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "1",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2019",
+            "Section": "5503",
+            "Description": "Disorderly Conduct.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "2",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
             "Dec": "0",
             "Count": "2"
         },
@@ -28464,6 +28483,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2019",
+            "Section": "907",
+            "Description": "Possessing Instruments of Crime.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "2",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2018",
             "Section": "907",
             "Description": "Possessing Instruments of Crime.",
@@ -28889,7 +28927,7 @@
             "Feb": "0",
             "Mar": "2",
             "Apr": "3",
-            "May": "2",
+            "May": "4",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -28897,7 +28935,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "9"
         },
         {
             "Neighborhood": "Brookline",
@@ -46540,7 +46578,7 @@
             "Feb": "2",
             "Mar": "4",
             "Apr": "2",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -46548,7 +46586,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Elliott",
@@ -47129,7 +47167,7 @@
             "Feb": "2",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -47137,7 +47175,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -47727,6 +47765,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2019",
+            "Section": "9016",
+            "Description": "Check on Elderly Person",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Elliott",
@@ -56584,6 +56641,25 @@
         },
         {
             "Neighborhood": "Esplen",
+            "Year": "2019",
+            "Section": "6117",
+            "Description": "Altering or Obliterating Marks of Identification.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "2",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Esplen",
             "Year": "2016",
             "Section": "4105(a)(1)",
             "Description": "Bad Checks",
@@ -58890,7 +58966,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "2",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -58898,7 +58974,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "12"
         },
         {
             "Neighborhood": "Esplen",
@@ -59061,7 +59137,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -59069,7 +59145,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Neighborhood": "Esplen",
@@ -59146,6 +59222,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "6"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2019",
+            "Section": "13(a)(30)",
+            "Description": "Possession w\/ Intent to Del. Controlled Substance",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "2",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Esplen",
@@ -72228,7 +72323,7 @@
             "Feb": "0",
             "Mar": "3",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -72236,7 +72331,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -72323,7 +72418,7 @@
             "Feb": "1",
             "Mar": "6",
             "Apr": "6",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -72331,7 +72426,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Neighborhood": "Sheraden",
@@ -76370,7 +76465,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -76378,7 +76473,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -77827,7 +77922,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -77846,7 +77941,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -78251,7 +78346,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -78259,7 +78354,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -81044,7 +81139,7 @@
             "Feb": "8",
             "Mar": "2",
             "Apr": "2",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -81052,7 +81147,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "21"
+            "Count": "22"
         },
         {
             "Neighborhood": "Sheraden",
