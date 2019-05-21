@@ -4353,6 +4353,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2019",
+            "Section": "2713",
+            "Description": "Neglect of Care-Dependent Person",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2015",
             "Section": "9012",
             "Description": "Non-Violent Domestic",
@@ -6165,7 +6184,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -6173,7 +6192,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -13151,7 +13170,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8(A2)",
+            "Section": "517.8",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -13170,7 +13189,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8",
+            "Section": "517.8(A2)",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -20643,7 +20662,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "1",
-            "May": "2",
+            "May": "3",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -20651,7 +20670,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -26115,7 +26134,7 @@
             "Feb": "0",
             "Mar": "2",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -26123,7 +26142,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -29620,6 +29639,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2019",
+            "Section": "9094",
+            "Description": "Recovered Stolen Vehicle (OUTSIDE CITY)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -44412,7 +44450,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -44420,7 +44458,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "East Carnegie",
@@ -62348,7 +62386,7 @@
             "Feb": "1",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -62356,7 +62394,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Fairywood",
@@ -73096,25 +73134,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "1",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "1",
-            "Nov": "0",
-            "Dec": "2",
-            "Count": "4"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "2",
@@ -73130,6 +73149,25 @@
             "Nov": "2",
             "Dec": "3",
             "Count": "17"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "2",
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -78264,25 +78302,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "29",
-            "Description": "Missing Juvenile",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "1",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "029",
             "Description": "Missing Juvenile",
             "Jan": "3",
@@ -78298,6 +78317,25 @@
             "Nov": "1",
             "Dec": "3",
             "Count": "33"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "29",
+            "Description": "Missing Juvenile",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
