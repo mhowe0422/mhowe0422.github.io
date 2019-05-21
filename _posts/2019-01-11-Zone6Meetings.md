@@ -52,8 +52,15 @@ author: Mark Howe
 ### Rich Mullen, Retired Lieutenant - Allegheny County Police   
 
 
-## June 24, 2019 
+## June 24, 2019 (Confirmation required)
 ### "Bike Safety, Rules and Responsibilities for the Road" 
 ### Pgh. Police Bike Unit &  BikePGH 
 
 ### Banksville Park Community Shelter 
+
+
+## August 6, 2019 
+### National Night Out (NNO)
+### A community-building campaign that culminates annually on the first Tuesday in August. Neighborhoods across the nation host block parties, festivals, parades, cookouts and various other community events with safety demonstrations, seminars, youth events, visits from public safety personnel, and much, much more.
+
+### National Night Out promotes police-community partnerships and neighborhood camaraderie to make our neighborhoods safer, more caring places to live. Additionally, it provides a great opportunity to bring police and neighbors together under positive circumstances. The program enhances the relationship between neighbors and law enforcement while bringing back a true sense of community.
