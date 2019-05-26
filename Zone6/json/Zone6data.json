@@ -902,7 +902,7 @@
             "Feb": "2",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -910,7 +910,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -9294,25 +9294,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "2",
-            "Jun": "0",
-            "Jul": "1",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "4"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2018",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -9328,6 +9309,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "9"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2018",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "2",
+            "Jun": "0",
+            "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -20776,7 +20776,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "2",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -20784,7 +20784,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -23778,7 +23778,7 @@
             "Feb": "0",
             "Mar": "2",
             "Apr": "6",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -23786,7 +23786,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "14"
         },
         {
             "Neighborhood": "Brookline",
@@ -23873,7 +23873,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "2",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -23881,7 +23881,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -27521,7 +27521,7 @@
             "Feb": "1",
             "Mar": "2",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -27529,7 +27529,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -32119,7 +32119,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -32127,7 +32127,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -36413,7 +36413,7 @@
             "Feb": "2",
             "Mar": "1",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -36421,7 +36421,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -38731,7 +38731,7 @@
             "Feb": "2",
             "Mar": "0",
             "Apr": "0",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -38739,7 +38739,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -38864,7 +38864,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -38872,7 +38872,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -40004,7 +40004,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "2",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -40012,7 +40012,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -41315,7 +41315,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -41323,7 +41323,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -44469,7 +44469,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -44477,7 +44477,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -64944,6 +64944,25 @@
         },
         {
             "Neighborhood": "Fairywood",
+            "Year": "2019",
+            "Section": "2701(a)(3)",
+            "Description": "Simple Assault - Attempts by Physical Menace",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
             "Year": "2018",
             "Section": "2701(a)(3)",
             "Description": "Simple Assault - Attempts by Physical Menace",
@@ -65274,7 +65293,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -65282,7 +65301,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Fairywood",
@@ -76066,7 +76085,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "2",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -76074,7 +76093,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -79448,7 +79467,7 @@
             "Feb": "4",
             "Mar": "3",
             "Apr": "5",
-            "May": "4",
+            "May": "6",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -79456,7 +79475,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "18"
+            "Count": "20"
         },
         {
             "Neighborhood": "Sheraden",
@@ -82127,7 +82146,7 @@
             "Feb": "8",
             "Mar": "2",
             "Apr": "2",
-            "May": "3",
+            "May": "5",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -82135,7 +82154,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "24"
+            "Count": "26"
         },
         {
             "Neighborhood": "Sheraden",
@@ -82450,7 +82469,7 @@
             "Feb": "2",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -82458,7 +82477,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -82621,7 +82640,7 @@
             "Feb": "1",
             "Mar": "3",
             "Apr": "2",
-            "May": "4",
+            "May": "6",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -82629,7 +82648,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "17"
         },
         {
             "Neighborhood": "Sheraden",
@@ -97403,7 +97422,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -97411,7 +97430,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Windgap",
@@ -97593,7 +97612,7 @@
             "Feb": "0",
             "Mar": "2",
             "Apr": "0",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -97601,7 +97620,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Windgap",
