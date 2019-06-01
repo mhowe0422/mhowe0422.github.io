@@ -374,7 +374,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,0,0,2,4
 "Beechview                     ",2016,9498,"302 (Mental)",0,0,0,0,1,1,1,2,0,0,1,1,7
 "Beechview                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,2,1,0,0,3
-"Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,10,0,0,0,0,0,0,0,39
+"Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,11,0,0,0,0,0,0,0,40
 "Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,8,4,8,10,9,6,6,5,4,81
 "Beechview                     ",2017,9999,"9999 - (Misc. Incident):",7,5,10,4,5,6,9,9,8,3,6,4,76
 "Beechview                     ",2016,9999,"9999 - (Misc. Incident):",5,4,4,3,6,13,7,6,7,3,5,3,66
@@ -1030,7 +1030,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,9999,"9999 - (Misc. Incident):",8,14,8,8,9,8,6,8,8,13,8,10,108
 "Brookline                     ",2015,9999,"9999 - (Misc. Incident):",0,0,3,5,7,8,11,9,7,11,6,5,72
 "Brookline                     ",2017,3712,"Abandonment and Stripping of Vehicles",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Brookline                     ",2019,4106,"Access Device Fraud",2,1,0,1,0,0,0,0,0,0,0,0,4
+"Brookline                     ",2019,4106,"Access Device Fraud",2,1,0,1,1,0,0,0,0,0,0,0,5
 "Brookline                     ",2018,4106,"Access Device Fraud",1,2,2,3,0,0,0,0,2,1,0,2,13
 "Brookline                     ",2017,4106,"Access Device Fraud",0,3,6,0,2,1,4,4,1,4,1,4,30
 "Brookline                     ",2016,4106,"Access Device Fraud",2,3,2,4,4,5,3,2,1,4,3,4,37
@@ -1450,7 +1450,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,9129,"Miscellaneous Investigation",0,0,0,0,1,0,0,0,0,0,1,2,4
 "Brookline                     ",2016,9129,"Miscellaneous Investigation",0,1,1,0,1,0,0,0,0,0,0,0,3
 "Brookline                     ",2015,9129,"Miscellaneous Investigation",0,0,0,1,0,0,0,0,1,0,0,0,2
-"Brookline                     ",2019,029,"Missing Juvenile",0,1,2,1,3,0,0,0,0,0,0,0,7
+"Brookline                     ",2019,029,"Missing Juvenile",0,1,2,1,4,0,0,0,0,0,0,0,8
 "Brookline                     ",2018,029,"Missing Juvenile",0,0,1,4,0,1,0,0,1,0,0,0,7
 "Brookline                     ",2017,029,"Missing Juvenile",0,0,1,2,1,1,2,0,1,1,1,1,11
 "Brookline                     ",2016,029,"Missing Juvenile",1,1,0,1,0,0,0,0,0,0,0,1,4
@@ -1624,7 +1624,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,5,0,3,2,4,4,0,1,0,5,1,25
 "Brookline                     ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,2,2,0,6,1,4,3,4,5,3,31
 "Brookline                     ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,0,1,2,3,1,4,0,0,1,14
-"Brookline                     ",2019,2701,"Simple Assault.",4,4,4,11,8,0,0,0,0,0,0,0,31
+"Brookline                     ",2019,2701,"Simple Assault.",4,4,4,11,12,0,0,0,0,0,0,0,35
 "Brookline                     ",2018,2701,"Simple Assault.",6,23,9,7,2,5,4,5,10,9,9,5,94
 "Brookline                     ",2017,2701,"Simple Assault.",9,7,12,3,5,7,8,8,10,6,8,4,87
 "Brookline                     ",2016,2701,"Simple Assault.",8,3,8,5,4,5,9,5,0,2,0,15,64
@@ -1960,6 +1960,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,3714,"Careless Driving",0,0,0,0,0,0,0,0,2,0,0,2,4
 "Crafton Heights               ",2015,3714,"Careless Driving",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2019,1511,"Carrying and Exhibiting Drivers License on Demand.",0,0,0,0,2,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2019,6106.1,"Carrying Loaded Weapons Other Than Firearms",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2018,3302,"Causing or Risking Catastrophe.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2017,3302,"Causing or Risking Catastrophe.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Crafton Heights               ",2015,9016,"Check on Elderly Person",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -2076,7 +2077,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,2903,"False Imprisonment.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Crafton Heights               ",2015,2903,"False Imprisonment.",0,0,0,0,0,0,0,0,1,1,0,0,2
 "Crafton Heights               ",2019,4906,"False Reports to Law Enforcement Authorities.",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2019,6106,"Firearms not to be Carried without a License.",0,2,0,0,0,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2019,6106,"Firearms not to be Carried without a License.",0,2,0,0,2,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2018,6106,"Firearms not to be Carried without a License.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Crafton Heights               ",2017,6106,"Firearms not to be Carried without a License.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Crafton Heights               ",2016,6106,"Firearms not to be Carried without a License.",0,0,0,2,0,0,0,0,2,0,0,0,4
@@ -2153,7 +2154,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,9504,"Lost Property",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2015,9504,"Lost Property",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Crafton Heights               ",2019,2910,"Luring a Child into a Motor Vehicle.",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2019,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,2,2,0,0,0,0,0,0,0,6
+"Crafton Heights               ",2019,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,2,4,0,0,0,0,0,0,0,8
 "Crafton Heights               ",2018,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Crafton Heights               ",2017,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,0,0,5,0,2,0,0,4,0,11
 "Crafton Heights               ",2016,13(a)(31),"Marijuana: Possession Small Amount",0,4,0,1,0,0,0,0,0,0,0,2,7
@@ -2203,17 +2204,18 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2015,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,2,0,1,0,2,0,2,0,0,7
 "Crafton Heights               ",2018,6110.1,"Possesion of Firearm by Minor",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Crafton Heights               ",2016,6110.1,"Possesion of Firearm by Minor",0,0,0,0,0,0,0,0,2,0,0,0,2
+"Crafton Heights               ",2019,6110.2,"Possesion of Firearm with Altered Mfg. Number",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2016,6110.2,"Possesion of Firearm with Altered Mfg. Number",0,5,0,1,0,0,0,0,0,0,0,1,7
 "Crafton Heights               ",2019,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2019,907,"Possessing Instruments of Crime.",0,0,0,1,1,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2019,907,"Possessing Instruments of Crime.",0,0,0,1,3,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2018,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Crafton Heights               ",2015,907,"Possessing Instruments of Crime.",0,0,0,0,0,2,0,0,0,0,0,0,2
-"Crafton Heights               ",2019,13(a)(16),"Possession of Controlled Substance",0,0,0,0,4,0,0,0,0,0,0,0,4
+"Crafton Heights               ",2019,13(a)(16),"Possession of Controlled Substance",0,0,0,0,6,0,0,0,0,0,0,0,6
 "Crafton Heights               ",2018,13(a)(16),"Possession of Controlled Substance",0,0,2,2,4,2,1,0,0,0,0,0,11
 "Crafton Heights               ",2017,13(a)(16),"Possession of Controlled Substance",2,1,0,2,3,3,4,4,0,0,5,0,24
 "Crafton Heights               ",2016,13(a)(16),"Possession of Controlled Substance",4,7,0,1,2,2,5,2,2,2,0,2,29
 "Crafton Heights               ",2015,13(a)(16),"Possession of Controlled Substance",0,0,2,5,2,2,0,0,2,7,0,0,20
-"Crafton Heights               ",2019,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,2,0,0,2,0,0,0,0,0,0,0,4
+"Crafton Heights               ",2019,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,2,0,0,4,0,0,0,0,0,0,0,6
 "Crafton Heights               ",2018,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,2,4,0,0,0,0,0,0,6
 "Crafton Heights               ",2017,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,0,3,2,0,0,0,2,0,7
 "Crafton Heights               ",2016,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,4,0,1,2,0,0,0,1,0,0,2,10
@@ -2484,7 +2486,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,9498,"302 (Mental)",1,0,4,0,0,0,0,2,0,1,0,0,8
 "Elliott                       ",2016,9498,"302 (Mental)",1,0,0,0,1,0,0,0,0,1,0,0,3
 "Elliott                       ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,1,1,0,1,3
-"Elliott                       ",2019,9999,"9999 - (Misc. Incident):",4,2,4,2,3,0,0,0,0,0,0,0,15
+"Elliott                       ",2019,9999,"9999 - (Misc. Incident):",4,2,4,2,4,0,0,0,0,0,0,0,16
 "Elliott                       ",2018,9999,"9999 - (Misc. Incident):",6,3,3,1,4,2,2,2,3,1,3,3,33
 "Elliott                       ",2017,9999,"9999 - (Misc. Incident):",3,4,3,2,1,1,2,1,4,4,2,3,30
 "Elliott                       ",2016,9999,"9999 - (Misc. Incident):",2,3,3,2,3,1,4,8,5,1,3,6,41
@@ -2688,6 +2690,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,6106,"Firearms not to be Carried without a License.",2,0,0,0,5,1,0,3,0,1,0,0,12
 "Elliott                       ",2015,6106,"Firearms not to be Carried without a License.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Elliott                       ",2017,9493,"Fires (Self-Starting)",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Elliott                       ",2019,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2018,3733,"Fleeing or Attempting to Elude Police Officer",0,0,1,0,1,0,0,0,0,0,0,2,4
 "Elliott                       ",2017,3733,"Fleeing or Attempting to Elude Police Officer",0,0,2,0,0,0,0,0,2,0,0,0,4
 "Elliott                       ",2017,5126,"Flight to Avoid Apprehension, Trial or Punishment.",0,0,0,0,3,0,0,0,0,0,0,0,3
@@ -2856,7 +2859,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,3925,"Receiving Stolen Property.",6,4,0,1,1,0,0,0,0,0,1,0,13
 "Elliott                       ",2016,3925,"Receiving Stolen Property.",0,0,0,0,0,0,4,4,0,0,0,0,8
 "Elliott                       ",2015,3925,"Receiving Stolen Property.",0,0,1,6,3,3,0,0,0,0,0,0,13
-"Elliott                       ",2019,3736,"Reckless Driving",1,2,2,0,1,0,0,0,0,0,0,0,6
+"Elliott                       ",2019,3736,"Reckless Driving",1,2,2,0,2,0,0,0,0,0,0,0,7
 "Elliott                       ",2018,3736,"Reckless Driving",0,0,1,0,1,0,2,0,0,0,0,2,6
 "Elliott                       ",2017,3736,"Reckless Driving",1,0,1,2,0,0,2,1,2,0,0,1,10
 "Elliott                       ",2016,3736,"Reckless Driving",4,0,0,0,0,2,0,0,0,0,0,0,6
@@ -2871,6 +2874,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,9090,"Recovered Firearm",0,0,1,0,0,0,1,0,0,0,0,0,2
 "Elliott                       ",2018,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,1,0,0,1,0,0,0,0,0,0,0,2
 "Elliott                       ",2015,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Elliott                       ",2019,1301,"Registration and Certificate of Title Required.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2018,1301,"Registration and Certificate of Title Required.",0,0,4,0,0,0,0,0,0,0,0,0,4
 "Elliott                       ",2017,1301,"Registration and Certificate of Title Required.",4,0,0,0,0,0,0,0,2,0,0,0,6
 "Elliott                       ",2016,1301,"Registration and Certificate of Title Required.",0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -3203,7 +3207,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2017,3701,Robbery.,0,0,0,0,0,0,0,1,0,0,0,0,1
 "Esplen                        ",2016,3701,Robbery.,1,0,0,0,0,1,0,0,0,0,0,0,2
 "Esplen                        ",2015,3701,Robbery.,0,0,0,0,0,0,0,0,2,0,0,0,2
-"Esplen                        ",2019,8106,"Shots Fired",0,0,0,2,0,0,0,0,0,0,0,0,2
+"Esplen                        ",2019,8106,"Shots Fired",0,0,0,2,2,0,0,0,0,0,0,0,4
 "Esplen                        ",2018,8106,"Shots Fired",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Esplen                        ",2017,8106,"Shots Fired",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Esplen                        ",2016,8106,"Shots Fired",0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -3753,6 +3757,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2019,3928,"Unauthorized Use of Automobile and Other Vehicles.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Ridgemont                     ",2015,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Ridgemont                     ",2019,2902,"Unlawful Restraint.",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2019,9498,"302 (Mental)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,9498,"302 (Mental)",2,0,1,0,2,0,2,0,0,0,2,0,9
 "Sheraden                      ",2017,9498,"302 (Mental)",1,0,2,1,0,0,2,1,1,1,1,0,10
 "Sheraden                      ",2016,9498,"302 (Mental)",0,1,1,0,0,0,0,0,1,1,0,0,4
@@ -3784,14 +3789,14 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3742,"Accidents Involving Death or Personal Injury",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,3503(b)(1)(i),"Actual Communication",2,0,1,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2015,3735.1,"Aggravated Assault While DUI",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Sheraden                      ",2019,2702,"Aggravated Assault.",4,2,0,0,0,0,0,0,0,0,0,0,6
+"Sheraden                      ",2019,2702,"Aggravated Assault.",4,2,0,0,1,0,0,0,0,0,0,0,7
 "Sheraden                      ",2018,2702,"Aggravated Assault.",0,0,0,6,2,2,7,2,0,3,5,7,34
 "Sheraden                      ",2017,2702,"Aggravated Assault.",9,5,13,1,3,3,4,5,7,0,2,2,54
 "Sheraden                      ",2016,2702,"Aggravated Assault.",1,1,3,2,8,2,1,6,8,2,2,0,36
 "Sheraden                      ",2015,2702,"Aggravated Assault.",0,0,1,2,4,0,2,2,4,3,1,4,23
 "Sheraden                      ",2018,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Sheraden                      ",2019,9497,"Aided Case",3,0,1,1,2,0,0,0,0,0,0,0,7
+"Sheraden                      ",2019,9497,"Aided Case",3,0,1,1,3,0,0,0,0,0,0,0,8
 "Sheraden                      ",2018,9497,"Aided Case",2,0,3,0,2,3,2,1,1,1,0,4,19
 "Sheraden                      ",2017,9497,"Aided Case",5,3,4,0,5,1,2,4,3,1,3,3,34
 "Sheraden                      ",2016,9497,"Aided Case",3,1,0,4,3,2,3,4,0,1,3,2,26
@@ -4035,7 +4040,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,4101,Forgery.,1,0,1,0,0,0,0,2,0,0,0,0,4
 "Sheraden                      ",2015,4101,Forgery.,0,0,0,0,4,0,1,0,1,1,0,0,7
 "Sheraden                      ",2018,9017,"Found Drugs",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2019,9489,"Found Property",2,2,1,0,1,0,0,0,0,0,0,0,6
+"Sheraden                      ",2019,9489,"Found Property",2,2,1,0,2,0,0,0,0,0,0,0,7
 "Sheraden                      ",2018,9489,"Found Property",0,0,1,1,2,0,1,2,1,1,0,0,9
 "Sheraden                      ",2017,9489,"Found Property",0,0,0,1,1,2,1,0,0,0,0,0,5
 "Sheraden                      ",2016,9489,"Found Property",0,0,1,1,1,1,0,1,1,1,0,1,8
@@ -4293,7 +4298,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,1786,"Required Financial Responsibility.",2,0,0,0,0,1,0,1,0,0,0,0,4
 "Sheraden                      ",2016,1786,"Required Financial Responsibility.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2015,1786,"Required Financial Responsibility.",0,0,2,0,0,0,0,0,0,0,0,0,2
-"Sheraden                      ",2019,5104,"Resisting Arrest or Other Law Enforcement.",2,0,0,2,0,0,0,0,0,0,0,0,4
+"Sheraden                      ",2019,5104,"Resisting Arrest or Other Law Enforcement.",2,0,0,2,1,0,0,0,0,0,0,0,5
 "Sheraden                      ",2017,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,0,0,0,4,0,0,0,0,4
 "Sheraden                      ",2016,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,2,0,0,5,2,2,0,0,11
 "Sheraden                      ",2015,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,0,0,0,0,0,0,0,2,2
@@ -4339,7 +4344,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,4,5,5,9,1,2,2,0,1,2,34
 "Sheraden                      ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,2,0,4,0,5,1,11,1,5,3,2,36
 "Sheraden                      ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,2,4,0,0,6,1,4,2,2,23
-"Sheraden                      ",2019,2701,"Simple Assault.",9,8,2,2,7,0,0,0,0,0,0,0,28
+"Sheraden                      ",2019,2701,"Simple Assault.",9,8,2,2,8,0,0,0,0,0,0,0,29
 "Sheraden                      ",2018,2701,"Simple Assault.",6,4,4,4,4,5,3,9,6,6,9,6,66
 "Sheraden                      ",2017,2701,"Simple Assault.",2,2,15,13,6,7,3,5,6,3,2,6,70
 "Sheraden                      ",2016,2701,"Simple Assault.",4,3,4,6,4,11,3,7,7,7,9,14,79
@@ -4542,7 +4547,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2015,1501,"Drivers Required to be Licensed.",0,0,0,0,0,0,0,0,2,0,2,0,4
 "West End                      ",2017,3309,"Driving on Roadways Laned for Traffic.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "West End                      ",2018,3361,"Driving Vehicle at Safe Speed.",1,0,0,0,0,0,0,0,0,0,0,0,1
-"West End                      ",2019,1543,"Driving While Operating Privilege is Suspended or Revoked.",1,0,0,1,0,0,0,0,0,0,0,0,2
+"West End                      ",2019,1543,"Driving While Operating Privilege is Suspended or Revoked.",1,0,0,1,2,0,0,0,0,0,0,0,4
 "West End                      ",2018,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,0,0,0,2,2,3,5,0,0,0,12
 "West End                      ",2017,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,2,0,2,2,0,5,4,2,0,0,2,19
 "West End                      ",2016,1543,"Driving While Operating Privilege is Suspended or Revoked.",2,0,2,1,0,0,0,0,2,2,3,4,16
@@ -4685,7 +4690,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,0,0,0,0,0,2,0,0,2
 "West End                      ",2018,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,0,1,0,0,0,1,0,0,0,2
 "West End                      ",2017,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,0,2,0,0,0,2
-"West End                      ",2019,13(a)(16),"Possession of Controlled Substance",4,0,0,0,0,0,0,0,0,0,0,0,4
+"West End                      ",2019,13(a)(16),"Possession of Controlled Substance",4,0,0,0,2,0,0,0,0,0,0,0,6
 "West End                      ",2018,13(a)(16),"Possession of Controlled Substance",1,0,4,0,3,2,2,1,0,0,0,2,15
 "West End                      ",2017,13(a)(16),"Possession of Controlled Substance",0,2,2,2,2,2,2,1,2,0,2,0,17
 "West End                      ",2016,13(a)(16),"Possession of Controlled Substance",4,0,7,0,0,0,0,3,4,0,4,0,22
