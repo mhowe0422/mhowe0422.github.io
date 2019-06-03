@@ -10,7 +10,7 @@ author: Mark Howe
 # Coming Events for Zone 6
 ## Times and locations have to be confirmed.
 
-## February 25, 2019 (Updated) 
+## February 25, 2019 (Completed) 
 
 ### Come, Meet and Talk With Neighbors & Police About Public Safety
 ### In Your Neighborhood!                                                    
@@ -20,7 +20,7 @@ author: Mark Howe
 ## Special Presentation by the Women’s Center & Shelter DOMESTIC ABUSE                                                                         IT’S IMPACT ON FAMILIES AND NEIGHBORHOODS 
   
 
-## March 25, 2019 (Updated)
+## March 25, 2019 (Completed)
 ### "Castle Doctrine" 
 ### Ilan Zur, Deputy District Attorney
 ## WHEN: Monday, March 25, 2019 at 6:30 PM  
@@ -28,7 +28,7 @@ author: Mark Howe
 ### 720 Sherwood Ave. Pittsburgh 15204 
 
 
-## April 17, 2019 
+## April 17, 2019 (Completed)
 ### "City Wide" 
 
 ### Lawrenceville 
@@ -51,13 +51,17 @@ author: Mark Howe
 ### Joan Reed Mills, A Child’s Place, PA Child Advocacy Center
 ### Rich Mullen, Retired Lieutenant - Allegheny County Police   
 
-
-## June 24, 2019 (Confirmation required)
-### "Bike Safety, Rules and Responsibilities for the Road" 
-### Pgh. Police Bike Unit &  BikePGH 
+# "Fun, Safe Biking in your Neighborhood" 
+## Come, Meet and Talk With Neighbors & Police About Public Safety
+## In Your Neighborhood!
+## June 24, 2019
+## 6:30pm
+### "Fun, Safe Biking in your Neighborhood" 
+### Presented by 
+### Eric 'Erok' Boerer Advocacy Director for BikePGH 
 
 ### Banksville Park Community Shelter 
-
+### 1459 Crane Avenue, Pittsburgh, PA 15220
 
 ## August 6, 2019 
 ### National Night Out (NNO)
