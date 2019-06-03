@@ -34,7 +34,7 @@ author: Mark Howe
 ### Lawrenceville 
 
 
-## May 20, 2019 
+## May 20, 2019 (Completed)
 ### Come, Meet and Talk With
 
 ### Neighbors & Police About Public Safety
