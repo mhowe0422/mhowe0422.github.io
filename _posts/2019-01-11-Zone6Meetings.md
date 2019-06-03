@@ -55,8 +55,7 @@ author: Mark Howe
 ## Come, Meet and Talk With Neighbors & Police About Public Safety
 ## In Your Neighborhood!
 ## June 24, 2019
-## 6:30pm
-### "Fun, Safe Biking in your Neighborhood" 
+## 6:30 pm
 ### Presented by 
 ### Eric 'Erok' Boerer Advocacy Director for BikePGH 
 
