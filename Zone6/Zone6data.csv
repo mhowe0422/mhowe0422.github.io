@@ -103,6 +103,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2018,5503,"Disorderly Conduct.",0,0,2,0,0,0,0,2,0,2,0,0,6
 "Banksville                    ",2017,5503,"Disorderly Conduct.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2019,1332,"Display of Registration Plate.",0,2,0,0,0,0,0,0,0,0,0,0,2
+"Banksville                    ",2019,9492,"Dog Bite",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Banksville                    ",2018,9492,"Dog Bite",0,0,0,0,0,0,1,0,1,0,0,0,2
 "Banksville                    ",2017,9492,"Dog Bite",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Banksville                    ",2018,1501,"Drivers Required to be Licensed.",0,0,0,0,0,0,0,0,0,2,0,0,2
@@ -187,6 +188,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,2709.A1,"HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Banksville                    ",2017,2709(a),Harassment.,1,2,1,1,0,0,0,0,1,0,0,0,6
 "Banksville                    ",2015,2709(a),Harassment.,0,0,1,0,1,0,0,0,0,1,0,0,3
+"Banksville                    ",2019,517.8,"Home Improvement Fraud",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Banksville                    ",2018,517.8,"Home Improvement Fraud",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2017,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Banksville                    ",2018,4120,"Identity Theft",0,0,0,0,0,0,0,0,2,0,0,0,2
@@ -375,7 +377,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,0,0,2,4
 "Beechview                     ",2016,9498,"302 (Mental)",0,0,0,0,1,1,1,2,0,0,1,1,7
 "Beechview                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,2,1,0,0,3
-"Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,11,0,0,0,0,0,0,0,40
+"Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,12,0,0,0,0,0,0,0,41
 "Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,8,4,8,10,9,6,6,5,4,81
 "Beechview                     ",2017,9999,"9999 - (Misc. Incident):",7,5,10,4,5,6,9,9,8,3,6,4,76
 "Beechview                     ",2016,9999,"9999 - (Misc. Incident):",5,4,4,3,6,13,7,6,7,3,5,3,66
@@ -406,7 +408,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,3742,"Accidents Involving Death or Personal Injury",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2016,3503(b)(1)(i),"Actual Communication",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2015,3354,"Additional Parking Regulations.",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Beechview                     ",2019,2702,"Aggravated Assault.",0,1,4,3,2,0,0,0,0,0,0,0,10
+"Beechview                     ",2019,2702,"Aggravated Assault.",0,1,4,3,2,2,0,0,0,0,0,0,12
 "Beechview                     ",2018,2702,"Aggravated Assault.",3,2,0,4,2,1,6,3,5,2,6,1,35
 "Beechview                     ",2017,2702,"Aggravated Assault.",4,4,3,0,2,2,2,2,2,3,2,0,26
 "Beechview                     ",2016,2702,"Aggravated Assault.",0,2,0,1,3,2,2,3,1,2,3,0,19
@@ -414,7 +416,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2018,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2016,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Beechview                     ",2019,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Beechview                     ",2019,9497,"Aided Case",2,1,1,1,2,0,0,0,0,0,0,0,7
+"Beechview                     ",2019,9497,"Aided Case",2,1,1,1,2,1,0,0,0,0,0,0,8
 "Beechview                     ",2018,9497,"Aided Case",2,2,2,3,1,3,5,4,0,0,0,3,25
 "Beechview                     ",2017,9497,"Aided Case",5,2,3,4,5,1,5,3,0,3,5,3,39
 "Beechview                     ",2016,9497,"Aided Case",5,3,1,2,0,3,4,2,0,4,2,1,27
@@ -483,14 +485,14 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,3,2,4,4,3,1,0,1,4,3,0,28
 "Beechview                     ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,2,4,2,4,1,1,3,1,1,1,22
 "Beechview                     ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,3,0,2,0,0,6,0,1,12
-"Beechview                     ",2019,3304,"Criminal Mischief.",4,2,4,3,3,0,0,0,0,0,0,0,16
+"Beechview                     ",2019,3304,"Criminal Mischief.",4,2,4,3,3,1,0,0,0,0,0,0,17
 "Beechview                     ",2018,3304,"Criminal Mischief.",4,6,2,5,5,4,1,2,1,3,5,4,42
 "Beechview                     ",2017,3304,"Criminal Mischief.",5,4,2,7,5,7,1,9,4,5,3,3,55
 "Beechview                     ",2016,3304,"Criminal Mischief.",8,1,3,6,1,13,4,9,5,4,9,3,66
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
+"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
@@ -656,7 +658,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9130,"Graffiti Investigation",2,0,1,0,0,0,0,2,0,0,0,0,5
 "Beechview                     ",2016,9130,"Graffiti Investigation",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Beechview                     ",2017,9011,"Gun Related",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Beechview                     ",2019,2709,"Harassment (Non-Specific)",2,1,2,0,0,0,0,0,0,0,0,0,5
+"Beechview                     ",2019,2709,"Harassment (Non-Specific)",2,1,2,0,0,1,0,0,0,0,0,0,6
 "Beechview                     ",2018,2709,"Harassment (Non-Specific)",0,0,0,1,1,1,1,1,3,1,0,0,9
 "Beechview                     ",2017,2709,"Harassment (Non-Specific)",1,1,1,0,2,4,1,1,1,1,1,1,15
 "Beechview                     ",2016,2709,"Harassment (Non-Specific)",1,4,4,4,4,2,3,2,2,2,1,1,30
@@ -695,8 +697,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,633.09(a),"Harboring a Nuisance; Any animal to create offensive odor, excessive noise or unsanitary condition",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Beechview                     ",2018,13(a)(31)*,"Hashish - Possession Small Amount",0,6,0,0,0,0,0,0,0,0,0,0,6
 "Beechview                     ",2015,5105,"Hindering Apprehension or Prosecution.",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2018,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Beechview                     ",2018,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2017,"473.07 (a)","Hours of Parks 0600-2300 hrs.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2015,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2019,4120,"Identity Theft",1,2,0,0,0,0,0,0,0,0,0,0,3
@@ -866,7 +868,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3736,"Reckless Driving",2,0,0,0,0,1,1,0,0,0,0,0,4
 "Beechview                     ",2016,3736,"Reckless Driving",4,0,2,2,0,0,0,2,0,0,0,2,12
 "Beechview                     ",2015,3736,"Reckless Driving",0,0,0,4,0,4,0,1,0,0,0,3,12
-"Beechview                     ",2019,2705,"Recklessly Endangering Another Person.",0,2,2,4,0,0,0,0,0,0,0,0,8
+"Beechview                     ",2019,2705,"Recklessly Endangering Another Person.",0,2,2,4,0,2,0,0,0,0,0,0,10
 "Beechview                     ",2018,2705,"Recklessly Endangering Another Person.",0,2,0,0,1,3,0,2,2,1,0,3,14
 "Beechview                     ",2017,2705,"Recklessly Endangering Another Person.",1,1,2,3,1,0,3,0,2,2,0,0,15
 "Beechview                     ",2016,2705,"Recklessly Endangering Another Person.",3,0,0,0,0,2,2,0,2,0,1,0,10
@@ -933,6 +935,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,1,0,1,0,0,0,0,2
 "Beechview                     ",2015,3365,"Special Speed Limitations.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Beechview                     ",2016,2709(b),Stalking,1,0,0,0,0,0,0,0,0,0,0,1,2
+"Beechview                     ",2019,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Beechview                     ",2017,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2016,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2015,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",0,0,0,0,1,0,0,0,6,2,0,0,9
@@ -950,7 +953,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,3,0,0,0,0,0,0,3
 "Beechview                     ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Beechview                     ",2016,4104,"Tampering with Records or Identification.",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2019,2706,"Terroristic Threats.",0,1,2,0,2,0,0,0,0,0,0,0,5
+"Beechview                     ",2019,2706,"Terroristic Threats.",0,1,2,0,2,2,0,0,0,0,0,0,7
 "Beechview                     ",2018,2706,"Terroristic Threats.",0,3,3,0,3,5,3,7,0,2,0,0,26
 "Beechview                     ",2017,2706,"Terroristic Threats.",2,5,1,1,5,1,2,3,1,3,2,0,26
 "Beechview                     ",2016,2706,"Terroristic Threats.",3,4,0,1,9,4,2,0,3,1,3,3,33
@@ -1062,7 +1065,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,3503(b)(1)(i),"Actual Communication",0,0,2,0,0,0,0,0,0,0,0,4,6
 "Brookline                     ",2017,3503(b)(1)(i),"Actual Communication",0,0,0,0,0,2,0,0,0,1,0,0,3
 "Brookline                     ",2015,3735.1,"Aggravated Assault While DUI",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Brookline                     ",2019,2702,"Aggravated Assault.",2,0,1,2,5,0,0,0,0,0,0,0,10
+"Brookline                     ",2019,2702,"Aggravated Assault.",2,0,1,2,6,0,0,0,0,0,0,0,11
 "Brookline                     ",2018,2702,"Aggravated Assault.",1,0,2,1,2,1,0,2,7,0,2,0,18
 "Brookline                     ",2017,2702,"Aggravated Assault.",2,1,3,1,6,2,1,0,6,2,1,1,26
 "Brookline                     ",2016,2702,"Aggravated Assault.",3,0,0,0,2,2,3,0,1,4,1,3,19
@@ -1657,7 +1660,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,0,0,0,0,0,0,3,3
 "Brookline                     ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,2,2,0,0,2,0,0,0,6
 "Brookline                     ",2015,4911,"Tampering with Public Records of Information.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2019,2706,"Terroristic Threats.",0,3,0,0,0,2,0,0,0,0,0,0,5
+"Brookline                     ",2019,2706,"Terroristic Threats.",0,3,0,0,1,2,0,0,0,0,0,0,6
 "Brookline                     ",2018,2706,"Terroristic Threats.",4,1,0,5,5,3,1,0,2,2,3,0,26
 "Brookline                     ",2017,2706,"Terroristic Threats.",1,1,2,0,0,3,2,1,3,1,3,0,17
 "Brookline                     ",2016,2706,"Terroristic Threats.",2,0,5,2,1,3,0,3,0,1,2,0,19
@@ -3384,7 +3387,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2015,4120,"Identity Theft",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2016,4912,"Impersonating a Public Servant.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Fairywood                     ",2015,4912,"Impersonating a Public Servant.",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Fairywood                     ",2019,9093,"Indirect Criminal Contempt",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Fairywood                     ",2019,9093,"Indirect Criminal Contempt",0,0,0,0,1,2,0,0,0,0,0,0,3
 "Fairywood                     ",2018,9093,"Indirect Criminal Contempt",0,0,0,0,3,2,2,2,0,0,0,0,9
 "Fairywood                     ",2017,9093,"Indirect Criminal Contempt",0,0,0,0,0,0,0,0,0,1,0,3,4
 "Fairywood                     ",2016,9093,"Indirect Criminal Contempt",0,0,0,2,0,0,0,0,0,0,0,0,2
@@ -4172,8 +4175,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,029,"Missing Juvenile",1,1,1,0,1,0,0,0,0,0,0,0,4
 "Sheraden                      ",2018,029,"Missing Juvenile",3,0,1,2,2,1,1,0,2,3,1,3,19
 "Sheraden                      ",2017,029,"Missing Juvenile",1,1,1,2,4,4,4,0,4,1,2,2,26
-"Sheraden                      ",2016,029,"Missing Juvenile",3,3,1,5,3,2,1,4,5,2,1,3,33
 "Sheraden                      ",2016,29,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2016,029,"Missing Juvenile",3,3,1,5,3,2,1,4,5,2,1,3,33
 "Sheraden                      ",2015,029,"Missing Juvenile",0,0,1,3,1,3,1,1,0,4,3,4,21
 "Sheraden                      ",2019,9490,"Missing Persons (18 and Over)",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,0,0,0,0,0,2
