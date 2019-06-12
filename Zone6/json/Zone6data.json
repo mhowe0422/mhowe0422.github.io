@@ -9408,25 +9408,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "2",
-            "Jun": "0",
-            "Jul": "1",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "4"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2018",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -9442,6 +9423,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "9"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2018",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "2",
+            "Jun": "0",
+            "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -17699,14 +17699,14 @@
             "Mar": "8",
             "Apr": "6",
             "May": "3",
-            "Jun": "4",
+            "Jun": "6",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "27"
+            "Count": "29"
         },
         {
             "Neighborhood": "Beechview",
@@ -25641,14 +25641,14 @@
             "Mar": "1",
             "Apr": "4",
             "May": "5",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "17"
+            "Count": "18"
         },
         {
             "Neighborhood": "Brookline",
@@ -30600,14 +30600,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -31132,14 +31132,14 @@
             "Mar": "4",
             "Apr": "11",
             "May": "12",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "35"
+            "Count": "36"
         },
         {
             "Neighborhood": "Brookline",
@@ -57846,14 +57846,14 @@
             "Mar": "0",
             "Apr": "1",
             "May": "1",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Esplen",
@@ -58910,14 +58910,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "1",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Esplen",
@@ -59119,14 +59119,14 @@
             "Mar": "0",
             "Apr": "2",
             "May": "0",
-            "Jun": "2",
+            "Jun": "3",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Esplen",
@@ -59472,6 +59472,25 @@
         },
         {
             "Neighborhood": "Esplen",
+            "Year": "2019",
+            "Section": "6106",
+            "Description": "Firearms not to be Carried without a License.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
             "Year": "2017",
             "Section": "6106",
             "Description": "Firearms not to be Carried without a License.",
@@ -59488,6 +59507,25 @@
             "Nov": "0",
             "Dec": "2",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2019",
+            "Section": "3733",
+            "Description": "Fleeing or Attempting to Elude Police Officer",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Esplen",
@@ -60924,14 +60962,14 @@
             "Mar": "0",
             "Apr": "2",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Esplen",
@@ -60962,14 +61000,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "2",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Esplen",
@@ -62102,14 +62140,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "1",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Esplen",
@@ -76542,14 +76580,14 @@
             "Mar": "0",
             "Apr": "1",
             "May": "1",
-            "Jun": "0",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -77834,14 +77872,14 @@
             "Mar": "3",
             "Apr": "6",
             "May": "3",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Sheraden",
@@ -79670,25 +79708,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "029",
-            "Description": "Missing Juvenile",
-            "Jan": "3",
-            "Feb": "3",
-            "Mar": "1",
-            "Apr": "5",
-            "May": "3",
-            "Jun": "2",
-            "Jul": "1",
-            "Aug": "4",
-            "Sep": "5",
-            "Oct": "2",
-            "Nov": "1",
-            "Dec": "3",
-            "Count": "33"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "29",
             "Description": "Missing Juvenile",
             "Jan": "0",
@@ -79704,6 +79723,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "029",
+            "Description": "Missing Juvenile",
+            "Jan": "3",
+            "Feb": "3",
+            "Mar": "1",
+            "Apr": "5",
+            "May": "3",
+            "Jun": "2",
+            "Jul": "1",
+            "Aug": "4",
+            "Sep": "5",
+            "Oct": "2",
+            "Nov": "1",
+            "Dec": "3",
+            "Count": "33"
         },
         {
             "Neighborhood": "Sheraden",
@@ -85168,14 +85206,14 @@
             "Mar": "1",
             "Apr": "2",
             "May": "1",
-            "Jun": "2",
+            "Jun": "3",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "West End",
@@ -91115,14 +91153,14 @@
             "Mar": "0",
             "Apr": "2",
             "May": "2",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "West End",
@@ -102154,14 +102192,14 @@
             "Mar": "0",
             "Apr": "1",
             "May": "5",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Windgap",

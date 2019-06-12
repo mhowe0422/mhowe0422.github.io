@@ -494,8 +494,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,3304,"Criminal Mischief.",8,1,3,6,1,13,4,9,5,4,9,3,66
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
+"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
@@ -930,7 +930,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",3,3,0,0,2,1,3,2,2,0,5,1,22
 "Beechview                     ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,0,1,0,2,2,0,4,2,2,0,0,15
 "Beechview                     ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,3,0,1,0,3,5,1,1,14
-"Beechview                     ",2019,2701,"Simple Assault.",1,5,8,6,3,4,0,0,0,0,0,0,27
+"Beechview                     ",2019,2701,"Simple Assault.",1,5,8,6,3,6,0,0,0,0,0,0,29
 "Beechview                     ",2018,2701,"Simple Assault.",2,14,2,5,10,9,6,10,9,2,3,10,82
 "Beechview                     ",2017,2701,"Simple Assault.",3,12,2,7,10,8,2,5,6,9,9,13,86
 "Beechview                     ",2016,2701,"Simple Assault.",5,3,0,7,3,5,11,1,7,4,8,8,62
@@ -1348,7 +1348,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2016,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,0,0,0,0,1,0,1,2
 "Brookline                     ",2015,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Brookline                     ",2019,2709,"Harassment (Non-Specific)",4,3,1,4,5,0,0,0,0,0,0,0,17
+"Brookline                     ",2019,2709,"Harassment (Non-Specific)",4,3,1,4,5,1,0,0,0,0,0,0,18
 "Brookline                     ",2018,2709,"Harassment (Non-Specific)",1,1,3,4,1,1,0,3,1,2,0,0,17
 "Brookline                     ",2017,2709,"Harassment (Non-Specific)",1,2,0,1,0,3,1,1,3,3,1,4,20
 "Brookline                     ",2016,2709,"Harassment (Non-Specific)",3,0,1,1,2,2,1,4,3,1,0,0,18
@@ -1609,7 +1609,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,4953,"Retaliation Against Witness,Victim or Party.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2017,3702,"Robbery of Motor Vehicle.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Brookline                     ",2015,3702,"Robbery of Motor Vehicle.",0,0,0,0,0,0,0,0,0,2,0,0,2
-"Brookline                     ",2019,3701,Robbery.,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2019,3701,Robbery.,1,0,0,0,0,1,0,0,0,0,0,0,2
 "Brookline                     ",2018,3701,Robbery.,2,0,2,0,3,1,0,1,0,1,0,2,12
 "Brookline                     ",2017,3701,Robbery.,2,2,4,3,7,4,2,2,0,4,2,0,32
 "Brookline                     ",2016,3701,Robbery.,1,0,0,1,2,2,0,5,0,1,0,6,18
@@ -1637,7 +1637,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,5,0,3,2,4,4,0,1,0,5,1,25
 "Brookline                     ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,2,2,0,6,1,4,3,4,5,3,31
 "Brookline                     ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,0,1,2,3,1,4,0,0,1,14
-"Brookline                     ",2019,2701,"Simple Assault.",4,4,4,11,12,0,0,0,0,0,0,0,35
+"Brookline                     ",2019,2701,"Simple Assault.",4,4,4,11,12,1,0,0,0,0,0,0,36
 "Brookline                     ",2018,2701,"Simple Assault.",6,23,9,7,2,5,4,5,10,9,9,5,94
 "Brookline                     ",2017,2701,"Simple Assault.",9,7,12,3,5,7,8,8,10,6,8,4,87
 "Brookline                     ",2016,2701,"Simple Assault.",8,3,8,5,4,5,9,5,0,2,0,15,64
@@ -3043,7 +3043,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2016,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,1,1,2,1,0,1,0,0,0,1,0,8
 "Esplen                        ",2015,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Esplen                        ",2016,3742,"Accidents Involving Death or Personal Injury",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Esplen                        ",2019,2702,"Aggravated Assault.",0,0,0,1,1,0,0,0,0,0,0,0,2
+"Esplen                        ",2019,2702,"Aggravated Assault.",0,0,0,1,1,1,0,0,0,0,0,0,3
 "Esplen                        ",2018,2702,"Aggravated Assault.",0,0,1,1,1,0,0,0,2,1,2,0,8
 "Esplen                        ",2017,2702,"Aggravated Assault.",0,0,2,0,0,0,3,2,0,0,0,0,7
 "Esplen                        ",2015,2702,"Aggravated Assault.",0,0,0,1,1,0,1,2,0,0,0,0,5
@@ -3099,7 +3099,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2017,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,4,2,0,0,0,0,0,0,6
 "Esplen                        ",2017,13(a)(30)*,"Delivery of Controlled Substance",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2016,13(a)(30)*,"Delivery of Controlled Substance",2,2,0,0,0,0,0,0,0,0,0,0,4
-"Esplen                        ",2019,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Esplen                        ",2019,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,1,1,0,0,0,0,0,0,2
 "Esplen                        ",2015,607.03,"Discharging Firearm or Airgun",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Esplen                        ",2017,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Esplen                        ",2016,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -3110,7 +3110,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2016,9492,"Dog Bite",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2019,1501,"Drivers Required to be Licensed.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2016,1501,"Drivers Required to be Licensed.",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Esplen                        ",2019,1543,"Driving While Operating Privilege is Suspended or Revoked.",2,0,0,2,0,2,0,0,0,0,0,0,6
+"Esplen                        ",2019,1543,"Driving While Operating Privilege is Suspended or Revoked.",2,0,0,2,0,3,0,0,0,0,0,0,7
 "Esplen                        ",2018,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,2,0,0,0,0,0,0,0,1,0,3
 "Esplen                        ",2017,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,3,3,0,2,0,0,0,0,0,0,2,10
 "Esplen                        ",2016,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,2,1,0,0,0,0,0,0,0,2,0,5
@@ -3129,7 +3129,9 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2015,9488,"False  Burglar Alarm",0,0,1,0,0,0,0,0,1,0,1,0,3
 "Esplen                        ",2019,4914(A),"False Identification to Law Enforcement",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2017,2903,"False Imprisonment.",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Esplen                        ",2019,6106,"Firearms not to be Carried without a License.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Esplen                        ",2017,6106,"Firearms not to be Carried without a License.",0,0,0,0,0,0,0,0,0,0,0,2,2
+"Esplen                        ",2019,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Esplen                        ",2017,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Esplen                        ",2017,9489,"Found Property",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Esplen                        ",2016,9489,"Found Property",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -3205,9 +3207,9 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2018,601.16,"Public Urination And Defecation",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Esplen                        ",2016,3925,"Receiving Stolen Property.",0,2,0,0,0,0,0,2,0,0,0,0,4
 "Esplen                        ",2015,3925,"Receiving Stolen Property.",0,0,0,0,0,0,0,0,0,0,1,0,1
-"Esplen                        ",2019,3736,"Reckless Driving",0,0,0,2,0,0,0,0,0,0,0,0,2
+"Esplen                        ",2019,3736,"Reckless Driving",0,0,0,2,0,1,0,0,0,0,0,0,3
 "Esplen                        ",2017,3736,"Reckless Driving",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Esplen                        ",2019,2705,"Recklessly Endangering Another Person.",0,0,0,0,2,0,0,0,0,0,0,0,2
+"Esplen                        ",2019,2705,"Recklessly Endangering Another Person.",0,0,0,0,2,1,0,0,0,0,0,0,3
 "Esplen                        ",2018,2705,"Recklessly Endangering Another Person.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Esplen                        ",2017,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,2,1,0,0,0,0,3
 "Esplen                        ",2016,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -3267,7 +3269,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2017,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Esplen                        ",2016,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Esplen                        ",2015,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Esplen                        ",2019,3112,"Traffic-Control Signals.",1,0,0,0,1,0,0,0,0,0,0,0,2
+"Esplen                        ",2019,3112,"Traffic-Control Signals.",1,0,0,0,1,1,0,0,0,0,0,0,3
 "Esplen                        ",2017,3112,"Traffic-Control Signals.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2019,3334,"Turning Movements and Required Signals.",3,0,0,0,0,2,0,0,0,0,0,0,5
 "Esplen                        ",2017,3334,"Turning Movements and Required Signals.",0,0,0,0,0,0,0,0,0,0,0,3,3
@@ -4027,7 +4029,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,5121,Escape.,0,0,0,2,0,1,0,1,0,0,0,2,6
 "Sheraden                      ",2017,4523,"Exhaust Systems, Mufflers and Noise Control.",2,0,0,0,0,1,0,1,0,0,0,0,4
 "Sheraden                      ",2016,5502,"Failure of Disorderly Persons to Disperse",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Sheraden                      ",2019,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,1,1,0,0,0,0,0,0,0,2
+"Sheraden                      ",2019,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,1,1,2,0,0,0,0,0,0,4
 "Sheraden                      ",2018,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,2,1,0,0,0,0,2,1,1,7
 "Sheraden                      ",2017,9015,"Failure To Appear/Arrest on Attachment Order",0,1,1,0,2,2,0,0,0,4,0,1,11
 "Sheraden                      ",2016,9015,"Failure To Appear/Arrest on Attachment Order",1,0,3,0,0,0,0,1,0,2,1,1,9
@@ -4095,7 +4097,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Sheraden                      ",2016,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2015,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Sheraden                      ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,3,6,3,1,0,0,0,0,0,0,13
+"Sheraden                      ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,3,6,3,2,0,0,0,0,0,0,14
 "Sheraden                      ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,1,2,3,1,3,4,2,3,1,2,2,26
 "Sheraden                      ",2017,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",4,0,3,3,1,2,3,2,2,1,4,2,27
 "Sheraden                      ",2016,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,1,2,2,1,1,0,6,2,5,1,3,25
@@ -4192,8 +4194,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,029,"Missing Juvenile",1,1,1,0,1,0,0,0,0,0,0,0,4
 "Sheraden                      ",2018,029,"Missing Juvenile",3,0,1,2,2,1,1,0,2,3,1,3,19
 "Sheraden                      ",2017,029,"Missing Juvenile",1,1,1,2,4,4,4,0,4,1,2,2,26
-"Sheraden                      ",2016,029,"Missing Juvenile",3,3,1,5,3,2,1,4,5,2,1,3,33
 "Sheraden                      ",2016,29,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2016,029,"Missing Juvenile",3,3,1,5,3,2,1,4,5,2,1,3,33
 "Sheraden                      ",2015,029,"Missing Juvenile",0,0,1,3,1,3,1,1,0,4,3,4,21
 "Sheraden                      ",2019,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,0,0,0,0,0,2
 "Sheraden                      ",2018,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,0,0,0,0,0,2
@@ -4481,7 +4483,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,0,0,0,0,0,1
 "West End                      ",2016,9498,"302 (Mental)",0,0,0,0,2,0,0,1,0,0,0,0,3
 "West End                      ",2015,9498,"302 (Mental)",0,0,0,0,0,0,1,0,0,0,0,0,1
-"West End                      ",2019,9999,"9999 - (Misc. Incident):",2,2,1,2,1,2,0,0,0,0,0,0,10
+"West End                      ",2019,9999,"9999 - (Misc. Incident):",2,2,1,2,1,3,0,0,0,0,0,0,11
 "West End                      ",2018,9999,"9999 - (Misc. Incident):",1,0,0,1,0,2,0,2,2,3,1,3,15
 "West End                      ",2017,9999,"9999 - (Misc. Incident):",4,0,1,0,0,3,3,1,1,0,2,3,18
 "West End                      ",2016,9999,"9999 - (Misc. Incident):",0,0,1,3,0,1,0,2,1,2,1,1,12
@@ -4794,7 +4796,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,0,3,0,0,0,0,3
 "West End                      ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,0,0,0,0,0,2,2
 "West End                      ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,0,2,0,0,0,0,2
-"West End                      ",2019,2701,"Simple Assault.",0,1,0,2,2,0,0,0,0,0,0,0,5
+"West End                      ",2019,2701,"Simple Assault.",0,1,0,2,2,1,0,0,0,0,0,0,6
 "West End                      ",2018,2701,"Simple Assault.",3,0,0,0,1,0,0,0,0,0,0,0,4
 "West End                      ",2017,2701,"Simple Assault.",2,1,0,3,0,2,0,0,0,0,0,0,8
 "West End                      ",2016,2701,"Simple Assault.",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -5375,7 +5377,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2016,3701,Robbery.,0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2015,3701,Robbery.,0,0,0,0,1,0,0,0,1,0,0,0,2
 "Windgap                       ",2016,6304,"Sale and Use of Air Rifles. ",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Windgap                       ",2019,8106,"Shots Fired",0,0,0,1,5,0,0,0,0,0,0,0,6
+"Windgap                       ",2019,8106,"Shots Fired",0,0,0,1,5,1,0,0,0,0,0,0,7
 "Windgap                       ",2017,8106,"Shots Fired",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2016,8106,"Shots Fired",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Windgap                       ",2016,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,0,0,0,0,0,0,1,1
