@@ -8,7 +8,7 @@ author: Mark Howe
 ---
 # Child Abuse presentation by Joan Reed Mills and Richard Mullen
 
-### Joan Reed Mills and Richard Mullen explained what they do to assist abused children via the
+Joan Reed Mills and Richard Mullen explained what they do to assist abused children via the
 agency A Childs Place. Joan explained that if you see an adult or someone in authority beating
 the heck out of a child in public; ask yourself what they are doing to that child in private. They
 are not saying that you can’t discipline your child, but you cannot beat and abuse and
@@ -16,7 +16,9 @@ humiliate them. Joan shared some of the horrific stories that have happened to c
 in Allegheny County. Joan also let us know that by the time a case makes it to Court, that a lot
 of care has been put in due to the age, and nature of some of the crimes that they deal with. 
 
-### Richard Mullen, showed a Power Point presentation regarding issues of child abuse and
+---
+
+Richard Mullen, showed a Power Point presentation regarding issues of child abuse and
 answered such questions relating to grooming a child or teen for sexual abuse, what is the
 definition of a child, mental abuse, sexual abuse, physical abuse, the age that a teenager can
 legally consent to consensual sex in the commonwealth of Pennsylvania. It was shared that
