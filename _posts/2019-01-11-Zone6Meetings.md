@@ -14,7 +14,15 @@ author: Mark Howe
 
 # Coming Events for Zone 6
 
-## July 22, 2019 TBD
+## July 22, 2019 6:30pm
+### Brookline Teen Outreach Center
+### 520 Brookline Blvd, 15226
+## Pets and Alligators and Bears...Oh My!
+### A presentation addressing pets and other animals in the city.
+### David Madden, Supervisor, Animal Care and Control, City of Pittsburgh.
+
+
+
 
 ## August 6, 2019 
 ### National Night Out (NNO)
