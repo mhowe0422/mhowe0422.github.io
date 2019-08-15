@@ -480,7 +480,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2018,6301,"Corruption of Minors.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,6301,"Corruption of Minors.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2015,6301,"Corruption of Minors.",0,0,0,0,0,0,0,0,0,0,2,0,2
-"Beechview                     ",2019,901,"Criminal Attempt",0,0,0,0,0,3,0,1,0,0,0,0,4
+"Beechview                     ",2019,901,"Criminal Attempt",0,0,0,0,0,3,0,2,0,0,0,0,5
 "Beechview                     ",2018,901,"Criminal Attempt",1,0,1,0,0,0,3,0,0,1,2,0,8
 "Beechview                     ",2017,901,"Criminal Attempt",0,0,2,4,0,6,0,0,0,0,0,0,12
 "Beechview                     ",2016,901,"Criminal Attempt",2,0,0,3,2,0,2,0,0,0,0,2,11
@@ -499,7 +499,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,3304(a)(2),"CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property)",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Beechview                     ",2019,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2016,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,0,0,3,1,0,0,0,0,0,0,5
+"Beechview                     ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,0,0,3,1,0,1,0,0,0,0,6
 "Beechview                     ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,3,2,0,0,1,3,1,2,2,1,17
 "Beechview                     ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,3,2,4,4,3,1,0,1,4,3,0,28
 "Beechview                     ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,2,4,2,4,1,1,3,1,1,1,22
@@ -758,7 +758,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2018,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2018,0292,"Located Runaway - not Reported Missing",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Beechview                     ",2017,0291,"Located Runaway - Outside City",0,0,0,0,0,0,0,0,1,1,0,0,2
-"Beechview                     ",2019,5506,"Loitering and Prowling at Night",0,1,0,0,0,0,0,2,0,0,0,0,3
+"Beechview                     ",2019,5506,"Loitering and Prowling at Night",0,1,0,0,0,0,0,4,0,0,0,0,5
 "Beechview                     ",2018,5506,"Loitering and Prowling at Night",1,1,0,1,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2017,5506,"Loitering and Prowling at Night",0,2,0,3,0,0,0,0,0,0,0,0,5
 "Beechview                     ",2016,5506,"Loitering and Prowling at Night",0,0,0,0,0,2,0,1,0,0,0,0,3
@@ -1014,7 +1014,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",7,3,6,0,4,0,1,3,5,6,8,6,49
 "Beechview                     ",2016,3921,"Theft by Unlawful Taking or Disposition.",1,3,1,0,0,5,6,7,6,0,4,2,35
 "Beechview                     ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,3,3,3,0,2,4,2,2,0,20
-"Beechview                     ",2019,3934,"Theft from Vehicle",1,14,8,11,1,7,2,4,0,0,0,0,48
+"Beechview                     ",2019,3934,"Theft from Vehicle",1,14,8,11,1,7,2,5,0,0,0,0,49
 "Beechview                     ",2018,3934,"Theft from Vehicle",2,5,3,2,1,1,2,5,1,2,1,5,30
 "Beechview                     ",2017,3934,"Theft from Vehicle",3,1,3,0,0,7,1,1,2,4,0,5,27
 "Beechview                     ",2016,3934,"Theft from Vehicle",4,3,1,3,1,10,2,5,0,5,2,2,38
@@ -1068,7 +1068,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,9498,"302 (Mental)",0,0,0,1,1,3,1,3,1,2,1,0,13
 "Brookline                     ",2016,9498,"302 (Mental)",0,0,1,0,2,1,3,2,0,1,1,0,11
 "Brookline                     ",2015,9498,"302 (Mental)",0,0,0,0,1,2,0,2,0,0,2,2,9
-"Brookline                     ",2019,9999,"9999 - (Misc. Incident):",7,10,9,17,12,4,6,3,0,0,0,0,68
+"Brookline                     ",2019,9999,"9999 - (Misc. Incident):",7,10,9,17,12,4,6,4,0,0,0,0,69
 "Brookline                     ",2018,9999,"9999 - (Misc. Incident):",8,3,14,9,10,8,10,6,7,7,7,8,97
 "Brookline                     ",2017,9999,"9999 - (Misc. Incident):",6,6,8,7,13,7,11,11,13,9,7,8,106
 "Brookline                     ",2016,9999,"9999 - (Misc. Incident):",8,14,8,8,9,8,6,8,8,13,8,10,108
@@ -1186,7 +1186,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,3,5,3,5,3,4,1,0,2,0,0,27
 "Brookline                     ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,0,1,1,2,8,2,0,3,0,2,20
 "Brookline                     ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,3,3,2,2,0,0,0,10
-"Brookline                     ",2019,3304,"Criminal Mischief.",4,0,3,2,11,7,3,1,0,0,0,0,31
+"Brookline                     ",2019,3304,"Criminal Mischief.",4,0,3,2,11,7,3,2,0,0,0,0,32
 "Brookline                     ",2018,3304,"Criminal Mischief.",5,3,5,6,6,8,20,9,0,7,11,5,85
 "Brookline                     ",2017,3304,"Criminal Mischief.",6,6,6,7,9,1,7,6,13,7,6,4,78
 "Brookline                     ",2016,3304,"Criminal Mischief.",8,2,2,5,7,8,8,3,7,5,4,9,68
@@ -2059,7 +2059,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,1,0,1,0,0,1,2,0,3,0,8
 "Crafton Heights               ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,2,1,0,0,0,2,0,1,0,0,6
 "Crafton Heights               ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,0,0,1,1,0,0,0,2
-"Crafton Heights               ",2019,3304,"Criminal Mischief.",3,0,2,3,1,0,2,0,0,0,0,0,11
+"Crafton Heights               ",2019,3304,"Criminal Mischief.",3,0,2,3,1,0,2,1,0,0,0,0,12
 "Crafton Heights               ",2018,3304,"Criminal Mischief.",3,1,3,2,2,4,2,3,1,5,0,2,28
 "Crafton Heights               ",2017,3304,"Criminal Mischief.",6,0,2,3,2,2,2,1,4,2,4,3,31
 "Crafton Heights               ",2016,3304,"Criminal Mischief.",2,1,0,4,1,4,5,1,3,3,1,3,28
@@ -4060,8 +4060,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,3503,"Criminal Trespass",0,0,0,0,0,0,0,2,2,0,1,1,6
 "Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
 "Sheraden                      ",2017,3503(a),"Criminal Trespass",0,0,0,0,3,0,0,0,0,0,0,0,3
-"Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
 "Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
+"Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
 "Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
 "Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2019,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -4076,7 +4076,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,5511(c)(1),"CRUELTY TO ANIMALS",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,5533(a),"Cruelty to animals - Intentionally, knowingly or recklessly illtreats, overloads, beats, abandons or abuses an animal ",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,5533(a),"Cruelty to animals - Intentionally, knowingly or recklessly illtreats, overloads, beats, abandons or abuses an animal ",0,1,0,0,0,0,0,0,2,0,0,0,3
-"Sheraden                      ",2019,5511,"Cruelty to Animals.",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Sheraden                      ",2019,5511,"Cruelty to Animals.",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Sheraden                      ",2018,5511,"Cruelty to Animals.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2017,5511,"Cruelty to Animals.",0,0,0,0,0,1,0,0,1,0,0,1,3
 "Sheraden                      ",2015,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,2,0,0,0,2
@@ -5506,6 +5506,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2017,13(a)(31),"Marijuana: Possession Small Amount",0,2,0,0,0,0,1,0,0,0,0,0,3
 "Windgap                       ",2019,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2018,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Windgap                       ",2019,9129,"Miscellaneous Investigation",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Windgap                       ",2019,029,"Missing Juvenile",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Windgap                       ",2018,029,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2017,029,"Missing Juvenile",1,0,0,0,0,0,0,0,0,0,0,0,1
