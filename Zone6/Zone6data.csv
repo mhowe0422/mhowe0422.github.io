@@ -1009,7 +1009,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,0,3,6,2,6,0,4,4,0,1,3,32
 "Beechview                     ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,2,0,5,2,7,4,4,2,2,0,9,41
 "Beechview                     ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,2,1,2,0,3,0,3,1,2,15
-"Beechview                     ",2019,3921,"Theft by Unlawful Taking or Disposition.",0,3,2,4,1,3,7,0,0,0,0,0,20
+"Beechview                     ",2019,3921,"Theft by Unlawful Taking or Disposition.",0,3,2,4,1,3,7,1,0,0,0,0,21
 "Beechview                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",4,7,5,1,3,4,8,2,0,4,1,3,42
 "Beechview                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",7,3,6,0,4,0,1,3,5,6,8,6,49
 "Beechview                     ",2016,3921,"Theft by Unlawful Taking or Disposition.",1,3,1,0,0,5,6,7,6,0,4,2,35
@@ -2583,7 +2583,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,9498,"302 (Mental)",1,0,4,0,0,0,0,2,0,1,0,0,8
 "Elliott                       ",2016,9498,"302 (Mental)",1,0,0,0,1,0,0,0,0,1,0,0,3
 "Elliott                       ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,1,1,0,1,3
-"Elliott                       ",2019,9999,"9999 - (Misc. Incident):",4,2,4,2,4,9,3,2,0,0,0,0,30
+"Elliott                       ",2019,9999,"9999 - (Misc. Incident):",4,2,4,2,4,9,3,3,0,0,0,0,31
 "Elliott                       ",2018,9999,"9999 - (Misc. Incident):",6,3,3,1,4,2,2,2,3,1,3,3,33
 "Elliott                       ",2017,9999,"9999 - (Misc. Incident):",3,4,3,2,1,1,2,1,4,4,2,3,30
 "Elliott                       ",2016,9999,"9999 - (Misc. Incident):",2,3,3,2,3,1,4,8,5,1,3,6,41
@@ -2787,6 +2787,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,9488,"False  Burglar Alarm",7,3,3,3,1,1,1,1,2,0,1,0,23
 "Elliott                       ",2015,9488,"False  Burglar Alarm",0,0,2,4,2,4,1,0,3,2,0,0,18
 "Elliott                       ",2018,4905,"False Alarms to Agencies of Public Safety.",0,0,0,0,0,0,0,0,0,0,1,1,2
+"Elliott                       ",2019,4914(A),"False Identification to Law Enforcement",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Elliott                       ",2018,4914(A),"False Identification to Law Enforcement",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2018,4914,"False Identification to Law Enforcement Authorities",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Elliott                       ",2017,4914,"False Identification to Law Enforcement Authorities",4,0,0,0,0,0,0,0,0,0,0,0,4
@@ -3046,7 +3047,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",5,0,2,0,0,4,0,2,0,2,0,0,15
 "Elliott                       ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,2,3,4,0,1,0,0,10
 "Elliott                       ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,3,0,0,0,2,0,0,2,0,2,9
-"Elliott                       ",2019,2701,"Simple Assault.",0,7,1,4,0,5,4,3,0,0,0,0,24
+"Elliott                       ",2019,2701,"Simple Assault.",0,7,1,4,0,5,4,5,0,0,0,0,26
 "Elliott                       ",2018,2701,"Simple Assault.",3,0,3,2,4,0,3,6,6,6,3,2,38
 "Elliott                       ",2017,2701,"Simple Assault.",7,7,5,3,6,3,5,2,3,2,4,3,50
 "Elliott                       ",2016,2701,"Simple Assault.",5,1,3,1,7,2,7,5,3,3,11,0,48
@@ -3280,7 +3281,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2015,"601.04 (c) (2)","Loudspeakers  etc 0700-2200 >75dB(c) 2200-0700 >75 dB(c)",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Esplen                        ",2018,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2019,13(a)(31)(ii),"Marijuana - Possess Small Amt Intent to Distribute",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Esplen                        ",2019,13(a)(31),"Marijuana: Possession Small Amount",6,0,0,2,0,2,0,0,0,0,0,0,10
+"Esplen                        ",2019,13(a)(31),"Marijuana: Possession Small Amount",6,0,0,2,0,2,0,2,0,0,0,0,12
 "Esplen                        ",2018,13(a)(31),"Marijuana: Possession Small Amount",0,0,4,0,0,0,0,0,0,2,0,0,6
 "Esplen                        ",2017,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,0,0,2,0,0,0,0,0,0,4
 "Esplen                        ",2016,13(a)(31),"Marijuana: Possession Small Amount",2,0,0,0,0,0,0,0,0,0,2,0,4
@@ -3296,7 +3297,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2016,5507,"Obstructing Highways and Passages.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Esplen                        ",2019,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Esplen                        ",2017,3303,"Overtaking Vehicle on the Left.",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Esplen                        ",2019,13(a)(32),"Paraphernalia - Use or Possession",8,0,0,2,2,2,2,0,0,0,0,0,16
+"Esplen                        ",2019,13(a)(32),"Paraphernalia - Use or Possession",8,0,0,2,2,2,2,2,0,0,0,0,18
 "Esplen                        ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,2,0,0,0,0,0,0,0,6,0,8
 "Esplen                        ",2017,13(a)(32),"Paraphernalia - Use or Possession",0,3,1,0,0,0,0,2,2,3,0,2,13
 "Esplen                        ",2016,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,0,0,0,0,0,2,0,4,0,6
@@ -3992,7 +3993,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9501,"Bench Warrant",4,6,4,4,14,5,10,6,1,4,2,2,62
 "Sheraden                      ",2016,9501,"Bench Warrant",2,2,5,11,4,3,0,2,5,2,6,4,46
 "Sheraden                      ",2015,9501,"Bench Warrant",0,0,0,2,6,2,0,2,3,2,2,2,21
-"Sheraden                      ",2019,3502,Burglary.,3,3,2,3,0,1,3,1,0,0,0,0,16
+"Sheraden                      ",2019,3502,Burglary.,3,3,2,3,0,1,3,2,0,0,0,0,17
 "Sheraden                      ",2018,3502,Burglary.,4,2,0,1,4,3,6,5,6,1,5,3,40
 "Sheraden                      ",2017,3502,Burglary.,8,5,2,1,2,7,5,0,4,4,6,8,52
 "Sheraden                      ",2016,3502,Burglary.,4,2,2,2,6,7,6,8,2,4,6,2,51
@@ -4051,7 +4052,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,2,4,2,1,1,6,2,2,3,4,2,32
 "Sheraden                      ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,4,5,3,0,4,4,5,2,3,0,4,35
 "Sheraden                      ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,1,0,2,0,2,0,1,2,1,0,9
-"Sheraden                      ",2019,3304,"Criminal Mischief.",2,1,6,6,5,3,8,0,0,0,0,0,31
+"Sheraden                      ",2019,3304,"Criminal Mischief.",2,1,6,6,5,3,8,1,0,0,0,0,32
 "Sheraden                      ",2018,3304,"Criminal Mischief.",1,2,2,5,5,4,3,4,12,2,4,4,48
 "Sheraden                      ",2017,3304,"Criminal Mischief.",11,6,13,8,4,8,16,12,4,3,4,2,91
 "Sheraden                      ",2016,3304,"Criminal Mischief.",7,2,5,12,3,4,6,10,3,10,6,4,72
@@ -4089,7 +4090,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9496,"Dead on Arrival (DOA)",1,1,1,2,1,2,2,0,1,1,2,1,15
 "Sheraden                      ",2016,9496,"Dead on Arrival (DOA)",0,1,1,0,1,2,3,1,0,1,1,0,11
 "Sheraden                      ",2015,9496,"Dead on Arrival (DOA)",0,0,0,2,0,1,1,1,0,0,0,1,6
-"Sheraden                      ",2019,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,0,1,2,0,0,0,0,3
+"Sheraden                      ",2019,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,0,1,3,0,0,0,0,4
 "Sheraden                      ",2017,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,2,0,0,1,0,2,0,5
 "Sheraden                      ",2015,3503(b)(1)(iii),"Defiant Trespass - Fencing or Other Enclosure",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2019,3503(b)(1)(ii),"Defiant Trespass Notice Posted by Sign(s)",2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -4335,7 +4336,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Sheraden                      ",2016,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Sheraden                      ",2019,9129,"Miscellaneous Investigation",0,0,0,0,1,2,0,0,0,0,0,0,3
+"Sheraden                      ",2019,9129,"Miscellaneous Investigation",0,0,0,0,1,2,0,1,0,0,0,0,4
 "Sheraden                      ",2017,9129,"Miscellaneous Investigation",0,1,0,0,0,0,0,0,1,1,1,0,4
 "Sheraden                      ",2016,9129,"Miscellaneous Investigation",0,0,0,1,2,0,0,1,0,0,0,0,4
 "Sheraden                      ",2015,9129,"Miscellaneous Investigation",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -4345,8 +4346,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,029,"Missing Juvenile",1,1,1,0,1,3,2,0,0,0,0,0,9
 "Sheraden                      ",2018,029,"Missing Juvenile",3,0,1,2,2,1,1,0,2,3,1,3,19
 "Sheraden                      ",2017,029,"Missing Juvenile",1,1,1,2,4,4,4,0,4,1,2,2,26
-"Sheraden                      ",2016,29,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2016,029,"Missing Juvenile",3,3,1,5,3,2,1,4,5,2,1,3,33
+"Sheraden                      ",2016,29,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2015,029,"Missing Juvenile",0,0,1,3,1,3,1,1,0,4,3,4,21
 "Sheraden                      ",2019,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,1,0,0,0,0,3
 "Sheraden                      ",2018,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,0,0,0,0,0,2
@@ -4564,7 +4565,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,4910,"Tampering with or Fabricating Physical Evidence.",1,2,2,0,0,0,0,0,0,0,0,1,6
 "Sheraden                      ",2016,4910,"Tampering with or Fabricating Physical Evidence.",0,0,2,0,2,0,0,2,0,0,2,0,8
 "Sheraden                      ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,0,0,0,0,0,0,2,2
-"Sheraden                      ",2019,2706,"Terroristic Threats.",5,1,3,2,8,3,7,2,0,0,0,0,31
+"Sheraden                      ",2019,2706,"Terroristic Threats.",5,1,3,2,8,3,7,3,0,0,0,0,32
 "Sheraden                      ",2018,2706,"Terroristic Threats.",3,1,4,1,2,0,3,2,2,0,2,4,24
 "Sheraden                      ",2017,2706,"Terroristic Threats.",5,2,11,3,2,2,3,1,1,0,0,3,33
 "Sheraden                      ",2016,2706,"Terroristic Threats.",4,3,1,0,0,3,2,6,1,0,1,0,21
@@ -4576,7 +4577,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,3922,"Theft by Deception.",0,0,0,0,2,0,0,1,0,1,1,0,5
 "Sheraden                      ",2016,3923,"Theft by Extortion.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Sheraden                      ",2015,3923,"Theft by Extortion.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Sheraden                      ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,0,1,1,0,2,1,3,0,0,0,0,11
+"Sheraden                      ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,0,1,1,0,2,1,4,0,0,0,0,12
 "Sheraden                      ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,1,1,3,0,6,7,3,5,5,2,0,39
 "Sheraden                      ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,4,4,2,2,2,0,2,2,3,9,3,38
 "Sheraden                      ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,0,2,2,1,5,5,7,7,1,0,9,44
@@ -5375,7 +5376,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2017,2702,"Aggravated Assault.",0,0,0,0,0,1,1,0,0,0,1,0,3
 "Windgap                       ",2016,2702,"Aggravated Assault.",0,0,0,0,2,0,3,0,0,1,0,1,7
 "Windgap                       ",2014,2702,"Aggravated Assault.",0,0,0,0,0,0,0,0,0,0,3,0,3
-"Windgap                       ",2019,9497,"Aided Case",1,0,0,0,2,0,0,0,0,0,0,0,3
+"Windgap                       ",2019,9497,"Aided Case",1,0,0,0,2,0,0,1,0,0,0,0,4
 "Windgap                       ",2018,9497,"Aided Case",0,0,0,1,0,0,1,0,0,1,1,1,5
 "Windgap                       ",2016,9497,"Aided Case",0,0,1,0,1,0,2,0,1,0,0,0,5
 "Windgap                       ",2015,9497,"Aided Case",0,0,0,0,0,1,0,0,1,0,0,0,2
