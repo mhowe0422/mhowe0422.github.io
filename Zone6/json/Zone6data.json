@@ -20361,12 +20361,12 @@
             "May": "12",
             "Jun": "4",
             "Jul": "6",
-            "Aug": "6",
+            "Aug": "7",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "71"
+            "Count": "72"
         },
         {
             "Neighborhood": "Brookline",
@@ -21178,12 +21178,12 @@
             "May": "0",
             "Jun": "1",
             "Jul": "3",
-            "Aug": "2",
+            "Aug": "3",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Brookline",
@@ -22708,25 +22708,6 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2019",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "2",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "1",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "1",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "4"
-        },
-        {
-            "Neighborhood": "Brookline",
-            "Year": "2019",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -22742,6 +22723,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2019",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "2",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -36007,6 +36007,25 @@
         },
         {
             "Neighborhood": "Chartiers City",
+            "Year": "2019",
+            "Section": "6115",
+            "Description": "Loans on  or Lending or Giving Firearms",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "2",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Chartiers City",
             "Year": "2015",
             "Section": "13(a)(31)",
             "Description": "Marijuana: Possession Small Amount",
@@ -37157,12 +37176,12 @@
             "May": "1",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "2",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Chartiers City",
@@ -39589,12 +39608,12 @@
             "May": "0",
             "Jun": "1",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -40444,12 +40463,12 @@
             "May": "2",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "2",
+            "Aug": "4",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "8"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -40577,12 +40596,12 @@
             "May": "2",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "2",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -59653,12 +59672,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "1",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Esplen",
@@ -82824,25 +82843,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "29",
-            "Description": "Missing Juvenile",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "1",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "029",
             "Description": "Missing Juvenile",
             "Jan": "3",
@@ -82858,6 +82858,25 @@
             "Nov": "1",
             "Dec": "3",
             "Count": "33"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "29",
+            "Description": "Missing Juvenile",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -83071,7 +83090,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -83090,7 +83109,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -92865,12 +92884,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "West End",
@@ -97159,12 +97178,12 @@
             "May": "0",
             "Jun": "1",
             "Jul": "6",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Westwood",
@@ -100547,6 +100566,25 @@
             "Nov": "3",
             "Dec": "3",
             "Count": "13"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2019",
+            "Section": "3929(a)(1)",
+            "Description": "Retail Theft; takes possession of, carries away, or transfers displayed merchandise",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
