@@ -33,7 +33,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2018,2702,"Aggravated Assault.",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Banksville                    ",2017,2702,"Aggravated Assault.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Banksville                    ",2016,2702,"Aggravated Assault.",0,2,0,2,0,1,1,2,0,0,0,0,8
-"Banksville                    ",2019,9497,"Aided Case",2,0,1,0,1,0,3,1,0,0,0,0,8
+"Banksville                    ",2019,9497,"Aided Case",2,0,1,0,1,0,3,2,0,0,0,0,9
 "Banksville                    ",2018,9497,"Aided Case",1,3,2,0,1,1,1,0,1,0,2,0,12
 "Banksville                    ",2017,9497,"Aided Case",0,1,4,0,2,0,0,0,2,0,1,1,11
 "Banksville                    ",2016,9497,"Aided Case",1,2,0,0,0,0,0,1,3,1,2,0,10
@@ -159,7 +159,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,4101,Forgery.,0,0,0,0,0,0,0,1,0,0,0,0,1
 "Banksville                    ",2016,4101,Forgery.,0,0,0,0,0,0,0,0,0,0,2,0,2
 "Banksville                    ",2017,9017,"Found Drugs",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Banksville                    ",2019,9489,"Found Property",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Banksville                    ",2019,9489,"Found Property",0,0,1,0,0,0,0,1,0,0,0,0,2
 "Banksville                    ",2018,9489,"Found Property",0,0,0,0,1,1,0,1,0,0,1,0,4
 "Banksville                    ",2017,9489,"Found Property",1,1,1,1,0,0,0,0,0,0,0,0,4
 "Banksville                    ",2015,9489,"Found Property",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -350,7 +350,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,2706,"Terroristic Threats.",0,2,0,0,0,3,0,4,0,0,0,0,9
 "Banksville                    ",2016,2706,"Terroristic Threats.",0,0,0,0,0,0,0,2,1,0,0,0,3
 "Banksville                    ",2015,2706,"Terroristic Threats.",0,0,0,0,4,0,0,0,1,0,0,0,5
-"Banksville                    ",2019,3922,"Theft by Deception.",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Banksville                    ",2019,3922,"Theft by Deception.",0,0,0,1,0,0,0,1,0,0,0,0,2
 "Banksville                    ",2018,3922,"Theft by Deception.",0,0,1,0,0,0,1,1,0,0,1,0,4
 "Banksville                    ",2017,3922,"Theft by Deception.",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2016,3922,"Theft by Deception.",1,0,1,0,0,0,0,0,0,0,0,1,3
@@ -3212,7 +3212,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2016,7512,"Criminal Use of Communication",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2017,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Esplen                        ",2016,3301(d.1),"Dangerous Burning",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Esplen                        ",2019,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Esplen                        ",2019,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Esplen                        ",2018,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Esplen                        ",2016,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Esplen                        ",2015,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,0,0,0,0,1,0,1
@@ -3258,7 +3258,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2017,9489,"Found Property",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Esplen                        ",2016,9489,"Found Property",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Esplen                        ",2015,9489,"Found Property",0,0,0,0,0,3,0,0,0,0,0,0,3
-"Esplen                        ",2019,4303,"General Lighting Requirements.",0,0,0,0,0,0,2,0,0,0,0,0,2
+"Esplen                        ",2019,4303,"General Lighting Requirements.",0,0,0,0,0,0,2,2,0,0,0,0,4
 "Esplen                        ",2018,4303,"General Lighting Requirements.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2017,4303,"General Lighting Requirements.",0,0,2,0,0,0,0,1,0,3,0,0,6
 "Esplen                        ",2016,4303,"General Lighting Requirements.",0,0,0,0,0,0,0,0,0,0,2,0,2
@@ -3319,7 +3319,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2018,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2019,907,"Possessing Instruments of Crime.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2018,907,"Possessing Instruments of Crime.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Esplen                        ",2019,13(a)(16),"Possession of Controlled Substance",4,0,0,0,2,2,4,0,0,0,0,0,12
+"Esplen                        ",2019,13(a)(16),"Possession of Controlled Substance",4,0,0,0,2,2,4,2,0,0,0,0,14
 "Esplen                        ",2018,13(a)(16),"Possession of Controlled Substance",0,2,0,0,0,0,0,0,0,0,2,0,4
 "Esplen                        ",2017,13(a)(16),"Possession of Controlled Substance",0,2,3,2,0,0,0,2,2,0,0,4,15
 "Esplen                        ",2016,13(a)(16),"Possession of Controlled Substance",2,3,2,0,0,0,0,0,2,0,2,0,11
@@ -3429,7 +3429,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Fairywood                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,1,0,0,0,0,1,0,2,4
 "Fairywood                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Fairywood                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,1,0,1,1,0,0,0,0,0,0,0,4
+"Fairywood                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,1,0,1,1,0,0,1,0,0,0,0,5
 "Fairywood                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,0,0,0,0,0,0,0,2,0,3
 "Fairywood                     ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,0,2,0,1,0,0,0,1,0,0,1,7
 "Fairywood                     ",2016,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,0,0,1,1,1,0,1,1,0,6
@@ -3835,7 +3835,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2018,9498,"302 (Mental)",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Ridgemont                     ",2016,9498,"302 (Mental)",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Ridgemont                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Ridgemont                     ",2019,9999,"9999 - (Misc. Incident):",0,1,0,0,0,0,1,1,0,0,0,0,3
+"Ridgemont                     ",2019,9999,"9999 - (Misc. Incident):",0,1,0,0,0,0,1,2,0,0,0,0,4
 "Ridgemont                     ",2018,9999,"9999 - (Misc. Incident):",0,0,0,0,0,0,1,2,1,0,0,0,4
 "Ridgemont                     ",2017,9999,"9999 - (Misc. Incident):",1,0,2,1,0,0,1,0,0,0,0,0,5
 "Ridgemont                     ",2016,9999,"9999 - (Misc. Incident):",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -3947,12 +3947,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9498,"302 (Mental)",1,0,2,1,0,0,2,1,1,1,1,0,10
 "Sheraden                      ",2016,9498,"302 (Mental)",0,1,1,0,0,0,0,0,1,1,0,0,4
 "Sheraden                      ",2015,9498,"302 (Mental)",0,0,0,0,0,3,1,0,1,0,1,0,6
-"Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,3,2,8,1,8,6,4,0,0,0,0,36
+"Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,3,2,8,1,8,6,5,0,0,0,0,37
 "Sheraden                      ",2018,9999,"9999 - (Misc. Incident):",8,8,3,5,5,7,8,7,10,7,5,2,75
 "Sheraden                      ",2017,9999,"9999 - (Misc. Incident):",7,4,6,5,7,7,9,6,10,5,6,8,80
 "Sheraden                      ",2016,9999,"9999 - (Misc. Incident):",7,2,4,2,12,7,6,5,5,7,8,9,74
 "Sheraden                      ",2015,9999,"9999 - (Misc. Incident):",0,0,7,5,7,12,2,3,6,4,3,4,53
-"Sheraden                      ",2019,4106,"Access Device Fraud",3,0,0,0,0,1,0,0,0,0,0,0,4
+"Sheraden                      ",2019,4106,"Access Device Fraud",3,0,0,0,0,1,0,1,0,0,0,0,5
 "Sheraden                      ",2018,4106,"Access Device Fraud",0,1,2,1,2,0,4,0,0,3,3,1,17
 "Sheraden                      ",2017,4106,"Access Device Fraud",1,0,3,1,0,0,3,3,0,1,0,0,12
 "Sheraden                      ",2016,4106,"Access Device Fraud",2,2,0,0,1,2,3,3,1,5,2,1,22
@@ -4592,7 +4592,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,3922,"Theft by Deception.",0,0,0,0,2,0,0,1,0,1,1,0,5
 "Sheraden                      ",2016,3923,"Theft by Extortion.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Sheraden                      ",2015,3923,"Theft by Extortion.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Sheraden                      ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,0,1,1,0,2,1,5,0,0,0,0,13
+"Sheraden                      ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,0,1,1,0,2,1,6,0,0,0,0,14
 "Sheraden                      ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,1,1,3,0,6,7,3,5,5,2,0,39
 "Sheraden                      ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,4,4,2,2,2,0,2,2,3,9,3,38
 "Sheraden                      ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,0,2,2,1,5,5,7,7,1,0,9,44
