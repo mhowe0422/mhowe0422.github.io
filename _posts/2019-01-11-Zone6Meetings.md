@@ -16,8 +16,12 @@ author: Mark Howe
 
 
 ## September 23, 2019 
-### CPR & AED Training   Sheraden Sr Center
-### Details soon
+### 2 Hand CPR & AED Training
+### Sheraden Healthy Living Center
+### 720 Sherwood Ave
+### Pittsbugh PA 15204
+### 6:30pm - 8:00pm
+
 
 ## October 2019 City Wide Meeting
 ### Details soon
