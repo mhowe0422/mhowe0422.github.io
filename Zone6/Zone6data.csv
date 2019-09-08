@@ -408,7 +408,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9018,"Accidental Fire",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Beechview                     ",2016,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2015,9018,"Accidental Fire",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Beechview                     ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",2,3,0,0,2,1,0,0,0,0,0,0,8
+"Beechview                     ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",2,3,0,0,2,1,0,0,1,0,0,0,9
 "Beechview                     ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",4,3,2,1,5,1,1,1,0,3,1,1,23
 "Beechview                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",1,1,0,1,0,2,0,1,1,3,1,3,14
 "Beechview                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,0,2,3,0,3,1,1,3,5,1,21
@@ -500,7 +500,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,3304(a)(2),"CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property)",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Beechview                     ",2019,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2016,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,0,0,3,1,0,1,0,0,0,0,6
+"Beechview                     ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,0,0,3,1,0,1,1,0,0,0,7
 "Beechview                     ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,3,2,0,0,1,3,1,2,2,1,17
 "Beechview                     ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,3,2,4,4,3,1,0,1,4,3,0,28
 "Beechview                     ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,2,4,2,4,1,1,3,1,1,1,22
@@ -512,8 +512,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,1,7,1,0,0,0,0,11
-"Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
+"Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
@@ -903,7 +903,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3925,"Receiving Stolen Property.",0,0,2,0,1,0,4,0,4,0,1,0,12
 "Beechview                     ",2016,3925,"Receiving Stolen Property.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Beechview                     ",2015,3925,"Receiving Stolen Property.",0,0,0,6,0,0,0,0,0,2,1,0,9
-"Beechview                     ",2019,3736,"Reckless Driving",0,3,0,0,0,0,0,2,1,0,0,0,6
+"Beechview                     ",2019,3736,"Reckless Driving",0,3,0,0,0,0,0,2,2,0,0,0,7
 "Beechview                     ",2018,3736,"Reckless Driving",2,0,2,0,1,0,2,1,0,1,0,0,9
 "Beechview                     ",2017,3736,"Reckless Driving",2,0,0,0,0,1,1,0,0,0,0,0,4
 "Beechview                     ",2016,3736,"Reckless Driving",4,0,2,2,0,0,0,2,0,0,0,2,12
@@ -917,11 +917,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9090,"Recovered Firearm",0,1,0,0,0,0,1,0,0,0,0,0,2
 "Beechview                     ",2018,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",1,0,0,1,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2017,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",1,1,0,0,0,0,0,1,0,0,0,0,3
+"Beechview                     ",2019,1301,"Registration and Certificate of Title Required.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Beechview                     ",2018,1301,"Registration and Certificate of Title Required.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2017,1301,"Registration and Certificate of Title Required.",2,0,0,0,0,0,0,0,0,0,0,4,6
 "Beechview                     ",2016,1301,"Registration and Certificate of Title Required.",0,0,0,0,0,0,0,0,0,0,2,2,4
 "Beechview                     ",2015,1301,"Registration and Certificate of Title Required.",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Beechview                     ",2019,1786,"Required Financial Responsibility.",0,1,0,0,0,1,0,0,0,0,0,0,2
+"Beechview                     ",2019,1786,"Required Financial Responsibility.",0,1,0,0,0,1,0,0,1,0,0,0,3
 "Beechview                     ",2018,1786,"Required Financial Responsibility.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2017,1786,"Required Financial Responsibility.",0,0,0,0,0,1,0,0,0,0,0,3,4
 "Beechview                     ",2016,1786,"Required Financial Responsibility.",0,0,0,0,0,0,0,0,0,0,2,2,4
@@ -1011,12 +1012,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,3922,"Theft by Deception.",0,0,0,0,0,2,0,0,0,0,1,1,4
 "Beechview                     ",2018,3927,"Theft by Failure to Make Required Disp. of Funds",0,0,0,1,0,0,1,0,0,0,0,0,2
 "Beechview                     ",2017,3927,"Theft by Failure to Make Required Disp. of Funds",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Beechview                     ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,4,1,0,0,2,3,1,0,0,0,0,12
+"Beechview                     ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,4,1,0,0,2,3,2,1,0,0,0,14
 "Beechview                     ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,5,2,1,2,6,7,4,3,4,3,3,44
 "Beechview                     ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,0,3,6,2,6,0,4,4,0,1,3,32
 "Beechview                     ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,2,0,5,2,7,4,4,2,2,0,9,41
 "Beechview                     ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,2,1,2,0,3,0,3,1,2,15
-"Beechview                     ",2019,3921,"Theft by Unlawful Taking or Disposition.",0,3,2,4,1,3,7,2,2,0,0,0,24
+"Beechview                     ",2019,3921,"Theft by Unlawful Taking or Disposition.",0,3,2,4,1,3,7,3,3,0,0,0,26
 "Beechview                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",4,7,5,1,3,4,8,2,0,4,1,3,42
 "Beechview                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",7,3,6,0,4,0,1,3,5,6,8,6,49
 "Beechview                     ",2016,3921,"Theft by Unlawful Taking or Disposition.",1,3,1,0,0,5,6,7,6,0,4,2,35
@@ -1100,7 +1101,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,4,3,1,2,0,4,1,2,2,0,25
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",4,5,3,2,1,3,5,7,1,4,3,1,39
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,3,3,2,6,4,0,3,4,9,4,38
-"Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,1,0,0,0,43
+"Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,2,0,0,0,44
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,8,7,4,4,5,9,6,6,8,64
 "Brookline                     ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,5,6,2,3,6,5,5,7,3,9,6,63
 "Brookline                     ",2016,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",10,3,5,4,7,4,12,5,7,10,5,8,80
@@ -1189,7 +1190,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Brookline                     ",2016,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2015,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,0,1,2
-"Brookline                     ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,3,2,4,4,0,2,4,1,0,0,0,21
+"Brookline                     ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,3,2,4,4,0,2,4,2,0,0,0,22
 "Brookline                     ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,1,0,3,2,2,2,1,6,1,0,20
 "Brookline                     ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,3,5,3,5,3,4,1,0,2,0,0,27
 "Brookline                     ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,0,1,1,2,8,2,0,3,0,2,20
@@ -1200,8 +1201,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,3304,"Criminal Mischief.",8,2,2,5,7,8,8,3,7,5,4,9,68
 "Brookline                     ",2015,3304,"Criminal Mischief.",0,0,7,6,4,12,9,4,12,8,4,5,71
 "Brookline                     ",2016,902,"Criminal Solicitation.",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2019,3503,"Criminal Trespass",2,0,0,1,0,0,1,0,0,0,0,0,4
 "Brookline                     ",2019,3503(a),"Criminal Trespass",0,1,0,0,0,0,2,0,0,0,0,0,3
+"Brookline                     ",2019,3503,"Criminal Trespass",2,0,0,1,0,0,1,0,0,0,0,0,4
 "Brookline                     ",2018,3503,"Criminal Trespass",0,1,0,0,1,2,2,2,0,2,0,0,10
 "Brookline                     ",2017,3503,"Criminal Trespass",0,0,0,1,2,0,2,0,0,3,2,0,10
 "Brookline                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -1746,7 +1747,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,7,1,4,1,5,4,5,5,2,4,7,51
 "Brookline                     ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,3,1,4,2,6,9,4,4,5,4,7,55
 "Brookline                     ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,2,0,0,3,3,10,5,5,6,1,35
-"Brookline                     ",2019,3921,"Theft by Unlawful Taking or Disposition.",2,3,4,6,9,6,8,4,2,0,0,0,44
+"Brookline                     ",2019,3921,"Theft by Unlawful Taking or Disposition.",2,3,4,6,9,6,8,4,3,0,0,0,45
 "Brookline                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,4,4,8,1,6,7,5,2,5,4,2,49
 "Brookline                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",3,0,3,7,4,5,6,7,8,10,5,8,66
 "Brookline                     ",2016,3921,"Theft by Unlawful Taking or Disposition.",5,7,2,8,5,7,5,3,8,6,7,8,71
@@ -2877,7 +2878,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2015,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Elliott                       ",2017,4120,"Identity Theft",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Elliott                       ",2016,4120,"Identity Theft",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Elliott                       ",2019,9093,"Indirect Criminal Contempt",0,0,0,0,0,0,0,0,2,0,0,0,2
+"Elliott                       ",2019,9093,"Indirect Criminal Contempt",0,0,0,0,0,0,0,0,3,0,0,0,3
 "Elliott                       ",2018,9093,"Indirect Criminal Contempt",0,0,2,2,2,0,4,0,0,0,2,0,12
 "Elliott                       ",2017,9093,"Indirect Criminal Contempt",0,0,0,0,0,2,3,2,2,0,0,0,9
 "Elliott                       ",2016,9093,"Indirect Criminal Contempt",0,0,0,0,0,2,0,3,1,0,0,0,6
@@ -3176,6 +3177,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2016,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,1,1,2,1,0,1,0,0,0,1,0,8
 "Esplen                        ",2015,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Esplen                        ",2016,3742,"Accidents Involving Death or Personal Injury",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Esplen                        ",2019,3354,"Additional Parking Regulations.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Esplen                        ",2019,2702,"Aggravated Assault.",0,0,0,1,1,1,0,0,0,0,0,0,3
 "Esplen                        ",2018,2702,"Aggravated Assault.",0,0,1,1,1,0,0,0,2,1,2,0,8
 "Esplen                        ",2017,2702,"Aggravated Assault.",0,0,2,0,0,0,3,2,0,0,0,0,7
@@ -3186,7 +3188,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2016,601.08(a),"Alcohol or Liquor Consumption on Streets or Sidewalks",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Esplen                        ",2019,6117,"Altering or Obliterating Marks of Identification.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Esplen                        ",2016,4105(a)(1),"Bad Checks",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Esplen                        ",2019,9501,"Bench Warrant",0,0,0,1,0,0,4,0,0,0,0,0,5
+"Esplen                        ",2019,9501,"Bench Warrant",0,0,0,1,0,0,4,0,2,0,0,0,7
 "Esplen                        ",2018,9501,"Bench Warrant",1,0,0,2,0,0,0,4,2,0,2,0,11
 "Esplen                        ",2017,9501,"Bench Warrant",0,2,2,0,0,2,0,2,4,4,0,0,16
 "Esplen                        ",2016,9501,"Bench Warrant",0,0,2,2,0,0,0,0,0,2,2,0,8
@@ -3211,7 +3213,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2015,903,"Criminal Conspiracy.",0,0,0,1,1,0,0,0,0,0,0,0,2
 "Esplen                        ",2015,2501,"Criminal Homicide.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Esplen                        ",2017,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",1,0,1,0,0,0,0,0,0,0,0,0,2
-"Esplen                        ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Esplen                        ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,0,1,0,1,0,0,0,2
 "Esplen                        ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,1,0,2,0,1,1,0,0,0,5
 "Esplen                        ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,0,0,2,1,0,0,0,0,0,0,4
 "Esplen                        ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,0,0,0,0,0,1,0,1
@@ -3231,7 +3233,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2018,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Esplen                        ",2016,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Esplen                        ",2015,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,0,0,0,0,1,0,1
-"Esplen                        ",2019,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,2,0,0,0,0,0,0,2
+"Esplen                        ",2019,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,2,0,0,2,0,0,0,4
 "Esplen                        ",2017,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,4,2,0,0,0,0,0,0,6
 "Esplen                        ",2017,13(a)(30)*,"Delivery of Controlled Substance",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2016,13(a)(30)*,"Delivery of Controlled Substance",2,2,0,0,0,0,0,0,0,0,0,0,4
@@ -3334,7 +3336,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2018,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2019,907,"Possessing Instruments of Crime.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2018,907,"Possessing Instruments of Crime.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Esplen                        ",2019,13(a)(16),"Possession of Controlled Substance",4,0,0,0,2,2,4,2,0,0,0,0,14
+"Esplen                        ",2019,13(a)(16),"Possession of Controlled Substance",4,0,0,0,2,2,4,2,2,0,0,0,16
 "Esplen                        ",2018,13(a)(16),"Possession of Controlled Substance",0,2,0,0,0,0,0,0,0,0,2,0,4
 "Esplen                        ",2017,13(a)(16),"Possession of Controlled Substance",0,2,3,2,0,0,0,2,2,0,0,4,15
 "Esplen                        ",2016,13(a)(16),"Possession of Controlled Substance",2,3,2,0,0,0,0,0,2,0,2,0,11
@@ -3373,7 +3375,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2017,3929,"Retail Theft.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Esplen                        ",2016,3929,"Retail Theft.",0,0,0,0,0,0,1,0,2,0,0,0,3
 "Esplen                        ",2017,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,0,0,0,0,4,0,0,0,0,4
-"Esplen                        ",2019,3701,Robbery.,0,1,0,1,1,1,0,0,0,0,0,0,4
+"Esplen                        ",2019,3701,Robbery.,0,1,0,1,1,1,0,0,2,0,0,0,6
 "Esplen                        ",2018,3701,Robbery.,0,0,0,0,1,2,0,0,2,0,0,0,5
 "Esplen                        ",2017,3701,Robbery.,0,0,0,0,0,0,0,1,0,0,0,0,1
 "Esplen                        ",2016,3701,Robbery.,1,0,0,0,0,1,0,0,0,0,0,0,2
@@ -3999,7 +4001,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,2702,"Aggravated Assault.",0,0,1,2,4,0,2,2,4,3,1,4,23
 "Sheraden                      ",2018,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Sheraden                      ",2019,9497,"Aided Case",3,0,1,1,4,6,3,2,0,0,0,0,20
+"Sheraden                      ",2019,9497,"Aided Case",3,0,1,1,4,6,3,2,1,0,0,0,21
 "Sheraden                      ",2018,9497,"Aided Case",2,0,3,0,2,3,2,1,1,1,0,4,19
 "Sheraden                      ",2017,9497,"Aided Case",5,3,4,0,5,1,2,4,3,1,3,3,34
 "Sheraden                      ",2016,9497,"Aided Case",3,1,0,4,3,2,3,4,0,1,3,2,26
@@ -4095,8 +4097,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,1,2,0,0,0,3
 "Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
 "Sheraden                      ",2017,3503(a),"Criminal Trespass",0,0,0,0,3,0,0,0,0,0,0,0,3
-"Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
 "Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
+"Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
 "Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
 "Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2019,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -4291,7 +4293,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,0,0,1,0,0,0,2,0,1,3,7
 "Sheraden                      ",2016,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2019,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",1,1,0,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2019,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",1,1,0,0,0,0,0,1,0,0,0,0,3
 "Sheraden                      ",2018,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,1,0,1,0,0,0,0,1,0,0,3
 "Sheraden                      ",2017,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,1,0,0,0,0,0,0,1,1,0,3
 "Sheraden                      ",2016,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,0,0,0,0,0,1,0,1,2
