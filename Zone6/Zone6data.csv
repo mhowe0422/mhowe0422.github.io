@@ -673,7 +673,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,4101,Forgery.,0,0,0,0,0,1,2,0,0,0,0,0,3
 "Beechview                     ",2016,4101,Forgery.,0,1,0,2,0,0,4,0,0,1,0,0,8
 "Beechview                     ",2015,4101,Forgery.,0,0,0,0,0,0,2,0,0,0,1,0,3
-"Beechview                     ",2019,9017,"Found Drugs",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Beechview                     ",2019,9017,"Found Drugs",0,0,0,0,0,0,1,0,1,0,0,0,2
 "Beechview                     ",2018,9017,"Found Drugs",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,9017,"Found Drugs",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Beechview                     ",2016,9017,"Found Drugs",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -1024,7 +1024,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,0,3,6,2,6,0,4,4,0,1,3,32
 "Beechview                     ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,2,0,5,2,7,4,4,2,2,0,9,41
 "Beechview                     ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,2,1,2,0,3,0,3,1,2,15
-"Beechview                     ",2019,3921,"Theft by Unlawful Taking or Disposition.",0,3,2,4,1,3,7,3,4,0,0,0,27
+"Beechview                     ",2019,3921,"Theft by Unlawful Taking or Disposition.",0,3,2,4,1,3,7,3,5,0,0,0,28
 "Beechview                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",4,7,5,1,3,4,8,2,0,4,1,3,42
 "Beechview                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",7,3,6,0,4,0,1,3,5,6,8,6,49
 "Beechview                     ",2016,3921,"Theft by Unlawful Taking or Disposition.",1,3,1,0,0,5,6,7,6,0,4,2,35
@@ -1108,7 +1108,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,4,3,1,2,0,4,1,2,2,0,25
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",4,5,3,2,1,3,5,7,1,4,3,1,39
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,3,3,2,6,4,0,3,4,9,4,38
-"Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,4,0,0,0,46
+"Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,5,0,0,0,47
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,8,7,4,4,5,9,6,6,8,64
 "Brookline                     ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,5,6,2,3,6,5,5,7,3,9,6,63
 "Brookline                     ",2016,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",10,3,5,4,7,4,12,5,7,10,5,8,80
@@ -1128,7 +1128,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2015,2702,"Aggravated Assault.",0,0,2,1,0,6,1,1,2,1,1,0,15
 "Brookline                     ",2019,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2017,2703.1,"Aggravated Harassment by Prisoner",0,0,2,0,2,0,0,0,0,0,0,0,4
-"Brookline                     ",2019,9497,"Aided Case",3,1,1,3,0,1,3,3,3,0,0,0,18
+"Brookline                     ",2019,9497,"Aided Case",3,1,1,3,0,1,3,3,4,0,0,0,19
 "Brookline                     ",2018,9497,"Aided Case",4,0,3,3,7,2,3,3,1,1,2,4,33
 "Brookline                     ",2017,9497,"Aided Case",3,1,3,3,3,4,5,4,1,2,4,4,37
 "Brookline                     ",2016,9497,"Aided Case",3,4,3,1,5,6,2,7,1,1,5,5,43
@@ -2718,7 +2718,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,5,6,0,0,1,0,0,12
 "Elliott                       ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,3,1,2,0,1,1,2,0,0,0,0,12
 "Elliott                       ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,0,0,1,0,2,0,1,4
-"Elliott                       ",2019,3304,"Criminal Mischief.",2,2,0,3,1,1,0,3,1,0,0,0,13
+"Elliott                       ",2019,3304,"Criminal Mischief.",2,2,0,3,1,1,0,3,2,0,0,0,14
 "Elliott                       ",2018,3304,"Criminal Mischief.",0,1,1,0,3,2,0,1,3,3,1,5,20
 "Elliott                       ",2017,3304,"Criminal Mischief.",2,2,3,1,2,2,6,8,4,2,0,0,32
 "Elliott                       ",2016,3304,"Criminal Mischief.",4,5,4,1,0,1,2,2,2,3,2,2,28
@@ -2733,7 +2733,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2018,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,0,0,1,0,0,1,2
 "Elliott                       ",2017,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Elliott                       ",2019,3503(b.1)(1)(iii),"Criminal Trespass/Simple Trespasser - Defacing or Damaging the Premises",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Elliott                       ",2019,7512,"Criminal Use of Communication",2,2,0,0,0,0,0,2,0,0,0,0,6
+"Elliott                       ",2019,7512,"Criminal Use of Communication",2,2,0,0,0,0,0,2,1,0,0,0,7
 "Elliott                       ",2017,7512,"Criminal Use of Communication",0,0,4,0,2,0,0,0,2,2,0,0,10
 "Elliott                       ",2016,7512,"Criminal Use of Communication",0,0,0,0,0,0,2,2,2,0,2,0,8
 "Elliott                       ",2015,7512,"Criminal Use of Communication",0,0,0,0,4,4,0,1,2,0,0,0,11
@@ -2747,7 +2747,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2019,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,1,0,1,0,0,0,0,0,2
 "Elliott                       ",2017,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Elliott                       ",2018,3503(b)(1)(ii),"Defiant Trespass Notice Posted by Sign(s)",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Elliott                       ",2019,13(a)(30)*,"Delivery of Controlled Substance",0,2,0,0,0,0,0,2,0,0,0,0,4
+"Elliott                       ",2019,13(a)(30)*,"Delivery of Controlled Substance",0,2,0,0,0,0,0,2,1,0,0,0,5
 "Elliott                       ",2017,13(a)(30)*,"Delivery of Controlled Substance",0,0,4,0,3,0,0,0,0,0,0,0,7
 "Elliott                       ",2015,13(a)(30)*,"Delivery of Controlled Substance",0,0,0,0,4,0,0,1,2,0,0,0,7
 "Elliott                       ",2017,2707.1,"Discharge of a Firearm into Occupied Structure",0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -2784,7 +2784,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,4,0,0,2,4,0,2,0,0,2,0,14
 "Elliott                       ",2015,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,0,3,0,0,0,3,2,1,2,0,11
 "Elliott                       ",2016,3734,"Driving without Lights to Avoid Identification or Arrest",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Elliott                       ",2019,9124,"Drug Investigation",0,0,0,0,1,0,0,1,0,0,0,0,2
+"Elliott                       ",2019,9124,"Drug Investigation",0,0,0,0,1,0,0,1,1,0,0,0,3
 "Elliott                       ",2018,9124,"Drug Investigation",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Elliott                       ",2016,9124,"Drug Investigation",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Elliott                       ",2017,3802(d)(1)(i),"DUI - Controlled Substance - Schedule I",0,0,0,0,0,0,2,0,0,0,0,0,2
@@ -2994,12 +2994,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Elliott                       ",2015,907,"Possessing Instruments of Crime.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Elliott                       ",2018,3301(f),"Possession Incendiary/Explosive Material",0,0,2,0,0,0,0,0,0,0,0,0,2
-"Elliott                       ",2019,13(a)(16),"Possession of Controlled Substance",4,2,0,0,0,2,0,2,2,0,0,0,12
+"Elliott                       ",2019,13(a)(16),"Possession of Controlled Substance",4,2,0,0,0,2,0,2,3,0,0,0,13
 "Elliott                       ",2018,13(a)(16),"Possession of Controlled Substance",0,0,2,0,2,3,2,2,0,0,0,4,15
 "Elliott                       ",2017,13(a)(16),"Possession of Controlled Substance",8,0,9,2,8,2,7,1,2,2,0,0,41
 "Elliott                       ",2016,13(a)(16),"Possession of Controlled Substance",2,6,0,5,5,10,10,8,2,0,4,0,52
 "Elliott                       ",2015,13(a)(16),"Possession of Controlled Substance",0,0,0,13,6,5,2,4,9,1,10,2,52
-"Elliott                       ",2019,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",2,2,1,0,0,0,0,2,0,0,0,0,7
+"Elliott                       ",2019,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",2,2,1,0,0,0,0,2,1,0,0,0,8
 "Elliott                       ",2018,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,2,0,2,0,0,0,0,0,0,2,6
 "Elliott                       ",2017,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",4,0,5,0,5,2,1,0,2,2,0,0,21
 "Elliott                       ",2016,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,0,0,2,2,2,0,4,0,10
@@ -3686,7 +3686,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2019,9498,"302 (Mental)",0,0,0,0,1,0,0,1,0,0,0,0,2
 "Oakwood                       ",2018,9498,"302 (Mental)",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Oakwood                       ",2017,9498,"302 (Mental)",1,0,1,0,0,0,0,0,0,0,0,0,2
-"Oakwood                       ",2019,9999,"9999 - (Misc. Incident):",2,0,0,0,2,0,0,0,1,0,0,0,5
+"Oakwood                       ",2019,9999,"9999 - (Misc. Incident):",2,0,0,0,2,0,0,0,2,0,0,0,6
 "Oakwood                       ",2018,9999,"9999 - (Misc. Incident):",2,0,1,0,1,0,0,0,0,4,0,0,8
 "Oakwood                       ",2017,9999,"9999 - (Misc. Incident):",2,0,0,0,0,0,1,3,1,0,1,0,8
 "Oakwood                       ",2016,9999,"9999 - (Misc. Incident):",2,0,0,0,2,0,1,0,1,0,1,2,9
@@ -5430,7 +5430,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2019,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",0,0,0,0,0,3,0,0,0,0,0,0,3
 "Windgap                       ",2018,9498,"302 (Mental)",0,0,1,0,1,0,0,0,0,0,1,0,3
 "Windgap                       ",2017,9498,"302 (Mental)",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Windgap                       ",2019,9999,"9999 - (Misc. Incident):",2,1,0,4,0,1,0,2,1,0,0,0,11
+"Windgap                       ",2019,9999,"9999 - (Misc. Incident):",2,1,0,4,0,1,0,2,2,0,0,0,12
 "Windgap                       ",2018,9999,"9999 - (Misc. Incident):",0,0,2,1,0,2,1,0,0,1,0,0,7
 "Windgap                       ",2017,9999,"9999 - (Misc. Incident):",2,1,0,1,0,1,1,1,0,1,1,1,10
 "Windgap                       ",2016,9999,"9999 - (Misc. Incident):",0,2,0,0,2,1,1,1,1,3,0,1,12
