@@ -517,8 +517,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,1,7,1,0,0,0,0,11
-"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
+"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
@@ -733,8 +733,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2018,13(a)(31)*,"Hashish - Possession Small Amount",0,6,0,0,0,0,0,0,0,0,0,0,6
 "Beechview                     ",2015,5105,"Hindering Apprehension or Prosecution.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2019,517.8,"Home Improvement Fraud",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2018,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2017,"473.07 (a)","Hours of Parks 0600-2300 hrs.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2015,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2019,4120,"Identity Theft",1,2,0,0,0,0,2,0,3,0,0,0,8
@@ -1211,8 +1211,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,3304,"Criminal Mischief.",8,2,2,5,7,8,8,3,7,5,4,9,68
 "Brookline                     ",2015,3304,"Criminal Mischief.",0,0,7,6,4,12,9,4,12,8,4,5,71
 "Brookline                     ",2016,902,"Criminal Solicitation.",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2019,3503(a),"Criminal Trespass",0,1,0,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2019,3503,"Criminal Trespass",2,0,0,1,0,0,1,0,0,0,0,0,4
+"Brookline                     ",2019,3503(a),"Criminal Trespass",0,1,0,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2018,3503,"Criminal Trespass",0,1,0,0,1,2,2,2,0,2,0,0,10
 "Brookline                     ",2017,3503,"Criminal Trespass",0,0,0,1,2,0,2,0,0,3,2,0,10
 "Brookline                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -4131,8 +4131,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,1,2,0,0,0,3
 "Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
 "Sheraden                      ",2017,3503(a),"Criminal Trespass",0,0,0,0,3,0,0,0,0,0,0,0,3
-"Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
 "Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
+"Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
 "Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
 "Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2019,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -4419,8 +4419,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,029,"Missing Juvenile",1,1,1,0,1,3,2,2,2,0,0,0,13
 "Sheraden                      ",2018,029,"Missing Juvenile",3,0,1,2,2,1,1,0,2,3,1,3,19
 "Sheraden                      ",2017,029,"Missing Juvenile",1,1,1,2,4,4,4,0,4,1,2,2,26
-"Sheraden                      ",2016,029,"Missing Juvenile",3,3,1,5,3,2,1,4,5,2,1,3,33
 "Sheraden                      ",2016,29,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2016,029,"Missing Juvenile",3,3,1,5,3,2,1,4,5,2,1,3,33
 "Sheraden                      ",2015,029,"Missing Juvenile",0,0,1,3,1,3,1,1,0,4,3,4,21
 "Sheraden                      ",2019,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,1,0,0,0,0,3
 "Sheraden                      ",2018,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,0,0,0,0,0,2
