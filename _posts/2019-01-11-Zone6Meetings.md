@@ -19,7 +19,7 @@ author: Mark Howe
 ## Wednesday, October 16th, 2019
 ### 5:30pm - 6:30pm Light Dinner
 ### 6:30pm - 8:30pm Meeting Program
-## St. Pius IX Byzantine Catholic Church
+## St. Pius X Byzantine Catholic Church
 ## 2336 Brownsville Road
 ## Pittsburgh 15210 (Carrick)
 
