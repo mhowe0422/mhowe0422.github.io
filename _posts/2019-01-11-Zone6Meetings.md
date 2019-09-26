@@ -3,7 +3,7 @@ layout: post
 title: Zone 6 Meeting Schedule
 description:  Meeting Schedule 2019
 date: 2019-01-11
-image: assets/images/Zone6Meeting.jpg
+image: assets/images/CityWideFall2019.jpg
 author: Mark Howe
 ---
 
@@ -15,16 +15,16 @@ author: Mark Howe
 # Coming Events for Zone 6
 
 
-## September 23, 2019 
-### 2 Hand CPR & AED Training
-### Sheraden Healthy Living Center
-### 720 Sherwood Ave
-### Pittsbugh PA 15204
-### 6:30pm - 8:00pm
+# October 2019 City Wide Meeting
+## Wednesday, October 16th, 2019
+### 5:30pm - 6:30pm Light Dinner
+### 6:30pm - 8:30pm Meeting Program
+## St. Pius IX Byzantine Catholic Church
+## 2336 Brownsville Road
+## Pittsburgh 15210 (Carrick)
 
+### Come and meet with various city services.
 
-## October 2019 City Wide Meeting
-### Details soon
 
 ## November 25, 2019 TBD
 
