@@ -8164,11 +8164,11 @@
             "Jun": "2",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "5",
+            "Sep": "6",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "17"
+            "Count": "18"
         },
         {
             "Neighborhood": "Beechview",
@@ -13351,11 +13351,11 @@
             "Jun": "1",
             "Jul": "1",
             "Aug": "0",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Beechview",
@@ -13949,7 +13949,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8",
+            "Section": "517.8(A2)",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -13968,7 +13968,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8(A2)",
+            "Section": "517.8",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -33491,11 +33491,11 @@
             "Jun": "3",
             "Jul": "9",
             "Aug": "1",
-            "Sep": "3",
+            "Sep": "4",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "30"
+            "Count": "31"
         },
         {
             "Neighborhood": "Brookline",
@@ -47323,11 +47323,11 @@
             "Jun": "1",
             "Jul": "0",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "East Carnegie",
@@ -49375,11 +49375,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "East Carnegie",
@@ -51788,11 +51788,11 @@
             "Jun": "0",
             "Jul": "1",
             "Aug": "2",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Elliott",
@@ -62570,6 +62570,25 @@
         {
             "Neighborhood": "Esplen",
             "Year": "2019",
+            "Section": "3802(a)(2)",
+            "Description": "DUI - BAC >.08% <.10%",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "2",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2019",
             "Section": "3802(d)(2)",
             "Description": "DUI - Drug - Impaired Ability",
             "Jan": "0",
@@ -62581,6 +62600,25 @@
             "Jul": "2",
             "Aug": "0",
             "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2019",
+            "Section": "3802(a)(1)",
+            "Description": "DUI - General Impairment",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
@@ -73855,6 +73893,25 @@
         },
         {
             "Neighborhood": "Oakwood",
+            "Year": "2019",
+            "Section": "3934",
+            "Description": "Theft from Vehicle",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Oakwood",
             "Year": "2018",
             "Section": "3934",
             "Description": "Theft from Vehicle",
@@ -84230,25 +84287,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "029",
-            "Description": "Missing Juvenile",
-            "Jan": "3",
-            "Feb": "3",
-            "Mar": "1",
-            "Apr": "5",
-            "May": "3",
-            "Jun": "2",
-            "Jul": "1",
-            "Aug": "4",
-            "Sep": "5",
-            "Oct": "2",
-            "Nov": "1",
-            "Dec": "3",
-            "Count": "33"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "29",
             "Description": "Missing Juvenile",
             "Jan": "0",
@@ -84264,6 +84302,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "029",
+            "Description": "Missing Juvenile",
+            "Jan": "3",
+            "Feb": "3",
+            "Mar": "1",
+            "Apr": "5",
+            "May": "3",
+            "Jun": "2",
+            "Jul": "1",
+            "Aug": "4",
+            "Sep": "5",
+            "Oct": "2",
+            "Nov": "1",
+            "Dec": "3",
+            "Count": "33"
         },
         {
             "Neighborhood": "Sheraden",
@@ -84477,7 +84534,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -84496,7 +84553,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -86349,11 +86406,11 @@
             "Jun": "3",
             "Jul": "2",
             "Aug": "4",
-            "Sep": "3",
+            "Sep": "4",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "18"
+            "Count": "19"
         },
         {
             "Neighborhood": "Sheraden",
@@ -87337,11 +87394,11 @@
             "Jun": "0",
             "Jul": "2",
             "Aug": "2",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Sheraden",
@@ -88857,11 +88914,11 @@
             "Jun": "0",
             "Jul": "1",
             "Aug": "4",
-            "Sep": "3",
+            "Sep": "4",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "25"
+            "Count": "26"
         },
         {
             "Neighborhood": "Sheraden",
@@ -91821,11 +91878,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "1",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "West End",
@@ -91973,11 +92030,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "West End",
@@ -97160,11 +97217,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "West End",
@@ -98898,6 +98955,25 @@
         {
             "Neighborhood": "Westwood",
             "Year": "2019",
+            "Section": "3503(b.1)",
+            "Description": "Criminal Trespass - Simple Trespasser",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2019",
             "Section": "3503(b.1)(1)(iii)",
             "Description": "Criminal Trespass\/Simple Trespasser - Defacing or Damaging the Premises",
             "Jan": "0",
@@ -99274,6 +99350,25 @@
             "Nov": "0",
             "Dec": "2",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2019",
+            "Section": "1543",
+            "Description": "Driving While Operating Privilege is Suspended or Revoked.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
@@ -101291,6 +101386,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2019",
+            "Section": "4703",
+            "Description": "Operation of Vehicle without Official Certif. of Inspection",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2017",
             "Section": "4703",
             "Description": "Operation of Vehicle without Official Certif. of Inspection",
@@ -102010,6 +102124,25 @@
             "Nov": "2",
             "Dec": "1",
             "Count": "6"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2019",
+            "Section": "1301",
+            "Description": "Registration and Certificate of Title Required.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
@@ -103221,11 +103354,11 @@
             "Jun": "0",
             "Jul": "5",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Westwood",
