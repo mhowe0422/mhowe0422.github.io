@@ -436,7 +436,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2018,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2016,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Beechview                     ",2019,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Beechview                     ",2019,9497,"Aided Case",2,1,1,1,2,5,2,1,1,1,0,0,17
+"Beechview                     ",2019,9497,"Aided Case",2,1,1,1,2,5,2,1,1,2,0,0,18
 "Beechview                     ",2018,9497,"Aided Case",2,2,2,3,1,3,5,4,0,0,0,3,25
 "Beechview                     ",2017,9497,"Aided Case",5,2,3,4,5,1,5,3,0,3,5,3,39
 "Beechview                     ",2016,9497,"Aided Case",5,3,1,2,0,3,4,2,0,4,2,1,27
@@ -1023,7 +1023,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,3922,"Theft by Deception.",0,0,0,0,0,2,0,0,0,0,1,1,4
 "Beechview                     ",2018,3927,"Theft by Failure to Make Required Disp. of Funds",0,0,0,1,0,0,1,0,0,0,0,0,2
 "Beechview                     ",2017,3927,"Theft by Failure to Make Required Disp. of Funds",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Beechview                     ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,4,1,0,0,2,3,2,3,1,0,0,17
+"Beechview                     ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,4,1,0,0,2,3,2,3,2,0,0,18
 "Beechview                     ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,5,2,1,2,6,7,4,3,4,3,3,44
 "Beechview                     ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,0,3,6,2,6,0,4,4,0,1,3,32
 "Beechview                     ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,2,0,5,2,7,4,4,2,2,0,9,41
@@ -1132,7 +1132,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2015,2702,"Aggravated Assault.",0,0,2,1,0,6,1,1,2,1,1,0,15
 "Brookline                     ",2019,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2017,2703.1,"Aggravated Harassment by Prisoner",0,0,2,0,2,0,0,0,0,0,0,0,4
-"Brookline                     ",2019,9497,"Aided Case",3,1,1,3,0,1,3,3,4,0,0,0,19
+"Brookline                     ",2019,9497,"Aided Case",3,1,1,3,0,1,3,3,4,1,0,0,20
 "Brookline                     ",2018,9497,"Aided Case",4,0,3,3,7,2,3,3,1,1,2,4,33
 "Brookline                     ",2017,9497,"Aided Case",3,1,3,3,3,4,5,4,1,2,4,4,37
 "Brookline                     ",2016,9497,"Aided Case",3,4,3,1,5,6,2,7,1,1,5,5,43
@@ -2885,7 +2885,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,2709,"Harassment (Non-Specific)",2,0,0,0,3,1,0,1,0,0,0,0,7
 "Elliott                       ",2015,2709,"Harassment (Non-Specific)",0,0,0,2,1,0,0,0,0,0,0,0,3
 "Elliott                       ",2018,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Elliott                       ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,0,1,2,3,0,3,0,4,0,0,0,15
+"Elliott                       ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,0,1,2,3,0,3,0,4,1,0,0,16
 "Elliott                       ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,1,1,0,2,0,2,1,0,1,8
 "Elliott                       ",2017,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,1,0,0,1,0,2,1,1,1,2,1,12
 "Elliott                       ",2016,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,1,1,1,0,0,0,1,2,3,0,1,11
@@ -3111,7 +3111,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",5,0,2,0,0,4,0,2,0,2,0,0,15
 "Elliott                       ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,2,3,4,0,1,0,0,10
 "Elliott                       ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,3,0,0,0,2,0,0,2,0,2,9
-"Elliott                       ",2019,2701,"Simple Assault.",0,7,1,4,0,5,4,6,1,2,0,0,30
+"Elliott                       ",2019,2701,"Simple Assault.",0,7,1,4,0,5,4,6,1,4,0,0,32
 "Elliott                       ",2018,2701,"Simple Assault.",3,0,3,2,4,0,3,6,6,6,3,2,38
 "Elliott                       ",2017,2701,"Simple Assault.",7,7,5,3,6,3,5,2,3,2,4,3,50
 "Elliott                       ",2016,2701,"Simple Assault.",5,1,3,1,7,2,7,5,3,3,11,0,48
@@ -3126,7 +3126,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2019,3323,"Stop Signs and Yield Signs.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2017,3323,"Stop Signs and Yield Signs.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Elliott                       ",2015,3323,"Stop Signs and Yield Signs.",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Elliott                       ",2019,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,5,0,2,0,0,0,0,0,0,0,0,7
+"Elliott                       ",2019,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,5,0,2,0,0,0,0,0,2,0,0,9
 "Elliott                       ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",1,2,0,0,2,0,3,0,0,0,0,0,8
 "Elliott                       ",2017,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,2,2,0,0,0,0,1,1,2,0,0,8
 "Elliott                       ",2016,1376,"Surrender of Reg. Upon Susp. or Revocation.",2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -3135,7 +3135,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,3,3,2,0,2,0,2,0,12
 "Elliott                       ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,4,0,0,0,0,0,0,0,0,4
 "Elliott                       ",2019,1310,"Temporary Registration Cards.",0,0,0,0,0,0,0,0,2,0,0,0,2
-"Elliott                       ",2019,2706,"Terroristic Threats.",0,2,0,1,2,1,2,2,5,1,0,0,16
+"Elliott                       ",2019,2706,"Terroristic Threats.",0,2,0,1,2,1,2,2,5,2,0,0,17
 "Elliott                       ",2018,2706,"Terroristic Threats.",0,0,1,0,4,0,1,0,0,2,0,0,8
 "Elliott                       ",2017,2706,"Terroristic Threats.",1,0,0,2,0,1,2,6,1,0,0,0,13
 "Elliott                       ",2016,2706,"Terroristic Threats.",0,0,1,0,1,0,0,3,0,3,2,0,10
@@ -4021,7 +4021,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9498,"302 (Mental)",1,0,2,1,0,0,2,1,1,1,1,0,10
 "Sheraden                      ",2016,9498,"302 (Mental)",0,1,1,0,0,0,0,0,1,1,0,0,4
 "Sheraden                      ",2015,9498,"302 (Mental)",0,0,0,0,0,3,1,0,1,0,1,0,6
-"Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,3,2,8,1,8,6,5,2,0,0,0,39
+"Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,3,2,8,1,8,6,5,2,1,0,0,40
 "Sheraden                      ",2018,9999,"9999 - (Misc. Incident):",8,8,3,5,5,7,8,7,10,7,5,2,75
 "Sheraden                      ",2017,9999,"9999 - (Misc. Incident):",7,4,6,5,7,7,9,6,10,5,6,8,80
 "Sheraden                      ",2016,9999,"9999 - (Misc. Incident):",7,2,4,2,12,7,6,5,5,7,8,9,74
@@ -4612,7 +4612,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,3701,Robbery.,2,1,0,2,8,12,9,5,1,10,1,0,51
 "Sheraden                      ",2015,3701,Robbery.,0,0,1,1,1,4,7,1,1,4,3,2,25
 "Sheraden                      ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2019,8106,"Shots Fired",0,0,0,8,9,0,7,3,0,0,0,0,27
+"Sheraden                      ",2019,8106,"Shots Fired",0,0,0,8,9,0,7,3,0,1,0,0,28
 "Sheraden                      ",2018,8106,"Shots Fired",2,0,0,1,2,2,1,2,0,0,1,1,12
 "Sheraden                      ",2017,8106,"Shots Fired",1,1,1,0,1,1,3,1,0,0,3,0,12
 "Sheraden                      ",2016,8106,"Shots Fired",2,0,1,1,2,0,1,0,0,1,0,0,8
@@ -4676,7 +4676,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,3922,"Theft by Deception.",0,0,0,0,2,0,0,1,0,1,1,0,5
 "Sheraden                      ",2016,3923,"Theft by Extortion.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Sheraden                      ",2015,3923,"Theft by Extortion.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Sheraden                      ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,0,1,1,0,2,1,7,6,3,0,0,24
+"Sheraden                      ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,0,1,1,0,2,1,7,6,4,0,0,25
 "Sheraden                      ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,1,1,3,0,6,7,3,5,5,2,0,39
 "Sheraden                      ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,4,4,2,2,2,0,2,2,3,9,3,38
 "Sheraden                      ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,0,2,2,1,5,5,7,7,1,0,9,44
@@ -4686,7 +4686,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3921,"Theft by Unlawful Taking or Disposition.",11,7,4,4,4,3,8,2,1,3,7,2,56
 "Sheraden                      ",2016,3921,"Theft by Unlawful Taking or Disposition.",3,3,7,7,3,5,6,8,1,4,2,2,51
 "Sheraden                      ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,2,4,2,5,1,2,3,3,5,27
-"Sheraden                      ",2019,3934,"Theft from Vehicle",10,2,1,0,4,0,1,4,5,0,0,0,27
+"Sheraden                      ",2019,3934,"Theft from Vehicle",10,2,1,0,4,0,1,4,5,1,0,0,28
 "Sheraden                      ",2018,3934,"Theft from Vehicle",0,0,2,0,2,1,1,2,0,11,0,2,21
 "Sheraden                      ",2017,3934,"Theft from Vehicle",4,0,1,3,0,2,6,0,6,1,1,1,25
 "Sheraden                      ",2016,3934,"Theft from Vehicle",3,1,0,0,5,5,1,5,3,2,3,3,31
