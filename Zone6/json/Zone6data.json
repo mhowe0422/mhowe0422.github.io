@@ -1439,10 +1439,10 @@
             "Jul": "3",
             "Aug": "1",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Banksville",
@@ -4726,10 +4726,10 @@
             "Jul": "1",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -5566,6 +5566,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2019",
+            "Section": "3925",
+            "Description": "Receiving Stolen Property.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "2",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -6892,10 +6911,10 @@
             "Jul": "2",
             "Aug": "1",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "10"
         },
         {
             "Neighborhood": "Banksville",
@@ -7975,10 +7994,10 @@
             "Jul": "0",
             "Aug": "7",
             "Sep": "2",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "32"
+            "Count": "33"
         },
         {
             "Neighborhood": "Beechview",
@@ -9742,10 +9761,10 @@
             "Jul": "11",
             "Aug": "1",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "35"
+            "Count": "36"
         },
         {
             "Neighborhood": "Beechview",
@@ -9864,25 +9883,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "1",
-            "Mar": "1",
-            "Apr": "2",
-            "May": "1",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "4",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "9"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2018",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -9898,6 +9898,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2018",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "1",
+            "Apr": "2",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "4",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "9"
         },
         {
             "Neighborhood": "Beechview",
@@ -13968,7 +13987,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8",
+            "Section": "517.8(A2)",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -13987,7 +14006,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8(A2)",
+            "Section": "517.8",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -21161,10 +21180,10 @@
             "Jul": "11",
             "Aug": "6",
             "Sep": "8",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "50"
+            "Count": "52"
         },
         {
             "Neighborhood": "Brookline",
@@ -21408,10 +21427,10 @@
             "Jul": "7",
             "Aug": "0",
             "Sep": "7",
-            "Oct": "2",
+            "Oct": "4",
             "Nov": "0",
             "Dec": "0",
-            "Count": "30"
+            "Count": "32"
         },
         {
             "Neighborhood": "Brookline",
@@ -21541,10 +21560,10 @@
             "Jul": "3",
             "Aug": "3",
             "Sep": "4",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "20"
+            "Count": "21"
         },
         {
             "Neighborhood": "Brookline",
@@ -24163,10 +24182,10 @@
             "Jul": "0",
             "Aug": "1",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -24847,10 +24866,10 @@
             "Jul": "1",
             "Aug": "2",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -25039,6 +25058,25 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "2",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2019",
+            "Section": "3802(a)(2)",
+            "Description": "DUI - BAC >.08% <.10%",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "2",
+            "Nov": "0",
             "Dec": "0",
             "Count": "2"
         },
@@ -25246,10 +25284,10 @@
             "Jul": "4",
             "Aug": "0",
             "Sep": "2",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "22"
+            "Count": "24"
         },
         {
             "Neighborhood": "Brookline",
@@ -28761,10 +28799,10 @@
             "Jul": "2",
             "Aug": "6",
             "Sep": "0",
-            "Oct": "2",
+            "Oct": "6",
             "Nov": "0",
             "Dec": "0",
-            "Count": "18"
+            "Count": "22"
         },
         {
             "Neighborhood": "Brookline",
@@ -29274,10 +29312,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -30266,6 +30304,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2019",
+            "Section": "4302",
+            "Description": "Periods for Requiring Lighted Lamps.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "2",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -31516,10 +31573,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -31725,10 +31782,10 @@
             "Jul": "0",
             "Aug": "4",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -33321,10 +33378,10 @@
             "Jul": "0",
             "Aug": "2",
             "Sep": "2",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Brookline",
@@ -38382,6 +38439,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2019",
+            "Section": "3742.1",
+            "Description": "Accident Involv. Death\/Inj. While not Licensed",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2017",
             "Section": "3742.1",
             "Description": "Accident Involv. Death\/Inj. While not Licensed",
@@ -38705,6 +38781,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2019",
+            "Section": "3742",
+            "Description": "Accidents Involving Death or Personal Injury",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2016",
             "Section": "3503(b)(1)(i)",
             "Description": "Actual Communication",
@@ -38725,6 +38820,25 @@
         {
             "Neighborhood": "Crafton Heights",
             "Year": "2019",
+            "Section": "3732.1",
+            "Description": "Aggravated Assault by Vehicle",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2019",
             "Section": "2702",
             "Description": "Aggravated Assault.",
             "Jan": "1",
@@ -38736,10 +38850,10 @@
             "Jul": "1",
             "Aug": "0",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -39211,10 +39325,10 @@
             "Jul": "2",
             "Aug": "2",
             "Sep": "2",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -39534,10 +39648,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -41339,10 +41453,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "2",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "8"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -44968,10 +45082,10 @@
             "Jul": "0",
             "Aug": "2",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -45975,10 +46089,10 @@
             "Jul": "0",
             "Aug": "4",
             "Sep": "7",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "41"
+            "Count": "43"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -46260,10 +46374,10 @@
             "Jul": "1",
             "Aug": "3",
             "Sep": "4",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -55684,10 +55798,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -82512,10 +82626,10 @@
             "Jul": "1",
             "Aug": "1",
             "Sep": "0",
-            "Oct": "3",
+            "Oct": "4",
             "Nov": "0",
             "Dec": "0",
-            "Count": "23"
+            "Count": "24"
         },
         {
             "Neighborhood": "Sheraden",
@@ -84439,25 +84553,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "29",
-            "Description": "Missing Juvenile",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "1",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "029",
             "Description": "Missing Juvenile",
             "Jan": "3",
@@ -84473,6 +84568,25 @@
             "Nov": "1",
             "Dec": "3",
             "Count": "33"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "29",
+            "Description": "Missing Juvenile",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -98434,10 +98548,10 @@
             "Jul": "1",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Westwood",
