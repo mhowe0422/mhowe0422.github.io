@@ -782,6 +782,25 @@
         {
             "Neighborhood": "Banksville",
             "Year": "2019",
+            "Section": "601.04 (d) (1)",
+            "Description": "Apartment to Apartment 0700-2200 >10 dB(c) 2200-0700 >5dB(c)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2019",
             "Section": "94951",
             "Description": "Attempted Suicide",
             "Jan": "0",
@@ -7519,10 +7538,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "3",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Beechview",
@@ -14044,7 +14063,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8",
+            "Section": "517.8(A2)",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -14063,7 +14082,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8(A2)",
+            "Section": "517.8",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -20800,10 +20819,10 @@
             "Jul": "6",
             "Aug": "8",
             "Sep": "10",
-            "Oct": "6",
+            "Oct": "7",
             "Nov": "0",
             "Dec": "0",
-            "Count": "89"
+            "Count": "90"
         },
         {
             "Neighborhood": "Brookline",
@@ -21636,10 +21655,10 @@
             "Jul": "3",
             "Aug": "3",
             "Sep": "4",
-            "Oct": "2",
+            "Oct": "3",
             "Nov": "0",
             "Dec": "0",
-            "Count": "21"
+            "Count": "22"
         },
         {
             "Neighborhood": "Brookline",
@@ -24942,10 +24961,10 @@
             "Jul": "1",
             "Aug": "2",
             "Sep": "1",
-            "Oct": "4",
+            "Oct": "5",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Brookline",
@@ -25360,10 +25379,10 @@
             "Jul": "4",
             "Aug": "0",
             "Sep": "2",
-            "Oct": "4",
+            "Oct": "5",
             "Nov": "0",
             "Dec": "0",
-            "Count": "26"
+            "Count": "27"
         },
         {
             "Neighborhood": "Brookline",
@@ -27203,10 +27222,10 @@
             "Jul": "1",
             "Aug": "2",
             "Sep": "1",
-            "Oct": "4",
+            "Oct": "7",
             "Nov": "0",
             "Dec": "0",
-            "Count": "25"
+            "Count": "28"
         },
         {
             "Neighborhood": "Brookline",
@@ -32808,10 +32827,10 @@
             "Jul": "7",
             "Aug": "1",
             "Sep": "4",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "18"
+            "Count": "20"
         },
         {
             "Neighborhood": "Brookline",
@@ -32903,10 +32922,10 @@
             "Jul": "11",
             "Aug": "9",
             "Sep": "10",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "76"
+            "Count": "77"
         },
         {
             "Neighborhood": "Brookline",
@@ -33302,10 +33321,10 @@
             "Jul": "6",
             "Aug": "0",
             "Sep": "4",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "20"
+            "Count": "21"
         },
         {
             "Neighborhood": "Brookline",
@@ -33344,6 +33363,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "16"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2019",
+            "Section": "2718(a)(2)",
+            "Description": "Strangulation - Blocking the Nose and Mouth of the Person",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "2",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -34309,10 +34347,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -55722,10 +55760,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "4",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Neighborhood": "Elliott",
@@ -59940,10 +59978,10 @@
             "Jul": "2",
             "Aug": "2",
             "Sep": "5",
-            "Oct": "3",
+            "Oct": "5",
             "Nov": "0",
             "Dec": "0",
-            "Count": "18"
+            "Count": "20"
         },
         {
             "Neighborhood": "Elliott",
@@ -77306,10 +77344,10 @@
             "Jul": "3",
             "Aug": "1",
             "Sep": "0",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Sheraden",
@@ -79461,25 +79499,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "1",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "1",
-            "Nov": "0",
-            "Dec": "2",
-            "Count": "4"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "2",
@@ -79495,6 +79514,25 @@
             "Nov": "2",
             "Dec": "3",
             "Count": "17"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "2",
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -85647,10 +85685,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
