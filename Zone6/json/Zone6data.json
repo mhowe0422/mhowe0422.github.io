@@ -5949,6 +5949,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2019",
+            "Section": "1786",
+            "Description": "Required Financial Responsibility.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2016",
             "Section": "1786",
             "Description": "Required Financial Responsibility.",
@@ -7729,9 +7748,9 @@
             "Aug": "10",
             "Sep": "7",
             "Oct": "5",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "75"
+            "Count": "76"
         },
         {
             "Neighborhood": "Beechview",
@@ -8052,9 +8071,9 @@
             "Aug": "0",
             "Sep": "2",
             "Oct": "1",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Beechview",
@@ -10035,25 +10054,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "1",
-            "Mar": "1",
-            "Apr": "2",
-            "May": "1",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "4",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "9"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2018",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -10069,6 +10069,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2018",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "1",
+            "Apr": "2",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "4",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "9"
         },
         {
             "Neighborhood": "Beechview",
@@ -13410,9 +13429,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Beechview",
@@ -20934,9 +20953,9 @@
             "Aug": "8",
             "Sep": "10",
             "Oct": "13",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "97"
+            "Count": "98"
         },
         {
             "Neighborhood": "Brookline",
@@ -23411,25 +23430,6 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2016",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "2",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "1",
-            "Jul": "1",
-            "Aug": "3",
-            "Sep": "0",
-            "Oct": "3",
-            "Nov": "1",
-            "Dec": "0",
-            "Count": "11"
-        },
-        {
-            "Neighborhood": "Brookline",
-            "Year": "2016",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -23445,6 +23445,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2016",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "2",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "1",
+            "Aug": "3",
+            "Sep": "0",
+            "Oct": "3",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "11"
         },
         {
             "Neighborhood": "Brookline",
@@ -50726,9 +50745,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -51771,9 +51790,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -52797,9 +52816,9 @@
             "Aug": "2",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "7"
+            "Count": "9"
         },
         {
             "Neighborhood": "Elliott",
@@ -54773,9 +54792,9 @@
             "Aug": "2",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "2",
+            "Nov": "4",
             "Dec": "0",
-            "Count": "9"
+            "Count": "11"
         },
         {
             "Neighborhood": "Elliott",
@@ -56160,9 +56179,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -57547,9 +57566,9 @@
             "Aug": "0",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -57870,9 +57889,9 @@
             "Aug": "2",
             "Sep": "5",
             "Oct": "4",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "19"
+            "Count": "21"
         },
         {
             "Neighborhood": "Elliott",
@@ -57965,9 +57984,9 @@
             "Aug": "2",
             "Sep": "1",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "10"
+            "Count": "12"
         },
         {
             "Neighborhood": "Elliott",
@@ -58421,9 +58440,9 @@
             "Aug": "2",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "2",
+            "Nov": "4",
             "Dec": "0",
-            "Count": "7"
+            "Count": "9"
         },
         {
             "Neighborhood": "Elliott",
@@ -60264,9 +60283,9 @@
             "Aug": "2",
             "Sep": "5",
             "Oct": "6",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "21"
+            "Count": "22"
         },
         {
             "Neighborhood": "Elliott",
@@ -78409,9 +78428,9 @@
             "Aug": "8",
             "Sep": "4",
             "Oct": "1",
-            "Nov": "1",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "40"
+            "Count": "42"
         },
         {
             "Neighborhood": "Sheraden",
@@ -85598,7 +85617,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -85617,7 +85636,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
