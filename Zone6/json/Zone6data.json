@@ -20991,9 +20991,9 @@
             "Aug": "8",
             "Sep": "10",
             "Oct": "13",
-            "Nov": "4",
+            "Nov": "6",
             "Dec": "0",
-            "Count": "100"
+            "Count": "102"
         },
         {
             "Neighborhood": "Brookline",
@@ -21713,9 +21713,9 @@
             "Aug": "0",
             "Sep": "7",
             "Oct": "5",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "34"
+            "Count": "35"
         },
         {
             "Neighborhood": "Brookline",
@@ -23974,9 +23974,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Neighborhood": "Brookline",
@@ -24810,9 +24810,9 @@
             "Aug": "2",
             "Sep": "3",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Brookline",
@@ -50897,9 +50897,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Elliott",
@@ -80107,25 +80107,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "1",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "1",
-            "Nov": "0",
-            "Dec": "2",
-            "Count": "4"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "2",
@@ -80141,6 +80122,25 @@
             "Nov": "2",
             "Dec": "3",
             "Count": "17"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "2",
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -85439,9 +85439,9 @@
             "Aug": "2",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
@@ -86791,6 +86791,25 @@
             "Nov": "0",
             "Dec": "3",
             "Count": "6"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2019",
+            "Section": "9993",
+            "Description": "PFA Service with Weapons Supplement",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
