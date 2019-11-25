@@ -528,8 +528,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,1,7,1,0,0,0,0,11
-"Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
+"Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
@@ -1130,7 +1130,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,4,3,1,2,0,4,1,2,2,0,25
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",4,5,3,2,1,3,5,7,1,4,3,1,39
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,3,3,2,6,4,0,3,4,9,4,38
-"Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,8,6,1,0,57
+"Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,8,6,2,0,58
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,8,7,4,4,5,9,6,6,8,64
 "Brookline                     ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,5,6,2,3,6,5,5,7,3,9,6,63
 "Brookline                     ",2016,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",10,3,5,4,7,4,12,5,7,10,5,8,80
@@ -1358,7 +1358,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,2,0,2,2,0,0,0,0,0,0,0,6
 "Brookline                     ",2016,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,0,0,0,2,0,0,0,0,0,2,4
 "Brookline                     ",2015,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,0,0,0,2,0,0,0,0,0,0,2
-"Brookline                     ",2019,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",2,0,2,4,0,0,0,0,0,0,1,0,9
+"Brookline                     ",2019,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",2,0,2,4,0,0,0,0,0,0,2,0,10
 "Brookline                     ",2018,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,4,0,0,0,0,2,2,8
 "Brookline                     ",2017,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",2,0,0,0,4,4,0,0,2,0,2,0,14
 "Brookline                     ",2016,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,2,0,0,0,0,0,2,0,0,4
@@ -1597,7 +1597,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Brookline                     ",2016,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2015,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Brookline                     ",2019,9998,Overdose,5,1,0,2,3,2,5,0,1,2,0,0,21
+"Brookline                     ",2019,9998,Overdose,5,1,0,2,3,2,5,0,1,2,1,0,22
 "Brookline                     ",2018,9998,Overdose,0,3,2,2,2,2,1,2,2,0,2,3,21
 "Brookline                     ",2017,9998,Overdose,6,5,3,5,5,1,3,7,2,1,5,1,44
 "Brookline                     ",2016,9998,Overdose,0,0,0,0,0,0,0,0,1,1,1,1,4
@@ -1671,7 +1671,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,3925,"Receiving Stolen Property.",2,0,2,0,1,0,0,0,4,1,1,7,18
 "Brookline                     ",2015,3925,"Receiving Stolen Property.",0,0,0,2,0,0,0,1,2,4,2,0,11
 "Brookline                     ",2018,3301(d),"Reckless Burning or Exploding",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Brookline                     ",2019,3736,"Reckless Driving",2,0,0,2,0,3,1,0,3,0,1,0,12
+"Brookline                     ",2019,3736,"Reckless Driving",2,0,0,2,0,3,1,0,3,0,2,0,13
 "Brookline                     ",2018,3736,"Reckless Driving",0,0,0,0,0,0,0,0,0,0,3,1,4
 "Brookline                     ",2017,3736,"Reckless Driving",0,2,2,0,2,2,4,0,3,0,1,0,16
 "Brookline                     ",2016,3736,"Reckless Driving",0,0,0,0,0,0,2,0,0,0,0,2,4
@@ -2545,7 +2545,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2017,9018,"Accidental Fire",1,0,0,0,0,0,0,0,0,0,0,0,1
 "East Carnegie                 ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,1,0,0,0,0,0,0,1
 "East Carnegie                 ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,0,0,0,0,1,0,0,1
-"East Carnegie                 ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,1,0,2,1,0,0,0,1,0,5
+"East Carnegie                 ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,1,0,2,1,0,0,0,2,0,6
 "East Carnegie                 ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,0,0,2,0,0,1,0,0,3
 "East Carnegie                 ",2015,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "East Carnegie                 ",2018,3742,"Accidents Involving Death or Personal Injury",0,0,1,1,0,0,0,0,0,0,0,0,2
@@ -4084,12 +4084,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2019,3928,"Unauthorized Use of Automobile and Other Vehicles.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Ridgemont                     ",2015,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Ridgemont                     ",2019,2902,"Unlawful Restraint.",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Sheraden                      ",2019,9498,"302 (Mental)",0,0,0,0,1,1,1,2,1,1,0,0,7
+"Sheraden                      ",2019,9498,"302 (Mental)",0,0,0,0,1,1,1,2,1,1,1,0,8
 "Sheraden                      ",2018,9498,"302 (Mental)",2,0,1,0,2,0,2,0,0,0,2,0,9
 "Sheraden                      ",2017,9498,"302 (Mental)",1,0,2,1,0,0,2,1,1,1,1,0,10
 "Sheraden                      ",2016,9498,"302 (Mental)",0,1,1,0,0,0,0,0,1,1,0,0,4
 "Sheraden                      ",2015,9498,"302 (Mental)",0,0,0,0,0,3,1,0,1,0,1,0,6
-"Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,3,2,8,1,8,6,5,2,5,3,0,47
+"Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,3,2,8,1,8,6,5,2,5,4,0,48
 "Sheraden                      ",2018,9999,"9999 - (Misc. Incident):",8,8,3,5,5,7,8,7,10,7,5,2,75
 "Sheraden                      ",2017,9999,"9999 - (Misc. Incident):",7,4,6,5,7,7,9,6,10,5,6,8,80
 "Sheraden                      ",2016,9999,"9999 - (Misc. Incident):",7,2,4,2,12,7,6,5,5,7,8,9,74
@@ -4513,8 +4513,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,029,"Missing Juvenile",1,1,1,0,1,3,2,2,2,4,0,0,17
 "Sheraden                      ",2018,029,"Missing Juvenile",3,0,1,2,2,1,1,0,2,3,1,3,19
 "Sheraden                      ",2017,029,"Missing Juvenile",1,1,1,2,4,4,4,0,4,1,2,2,26
-"Sheraden                      ",2016,29,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2016,029,"Missing Juvenile",3,3,1,5,3,2,1,4,5,2,1,3,33
+"Sheraden                      ",2016,29,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2015,029,"Missing Juvenile",0,0,1,3,1,3,1,1,0,4,3,4,21
 "Sheraden                      ",2019,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,1,0,0,0,0,3
 "Sheraden                      ",2018,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,0,0,0,0,0,2
@@ -4526,8 +4526,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,9012,"Non-Violent Domestic",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2017,9012,"Non-Violent Domestic",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,9012,"Non-Violent Domestic",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,633.12,"Number of Pets Permitted in City Limits; Exceptions",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,4,0,0,0,0,0,4
 "Sheraden                      ",2017,3111,"Obedience to Traffic-Control Devices.",0,0,1,0,0,1,0,1,0,0,0,0,3
@@ -4864,7 +4864,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,9501,"Bench Warrant",0,2,0,0,0,2,0,2,2,0,2,0,10
 "West End                      ",2016,9501,"Bench Warrant",2,2,2,2,2,2,2,2,0,0,0,0,16
 "West End                      ",2015,9501,"Bench Warrant",0,0,0,0,0,0,0,4,0,0,4,0,8
-"West End                      ",2019,3502,Burglary.,0,0,0,0,0,0,1,0,0,1,0,0,2
+"West End                      ",2019,3502,Burglary.,0,0,0,0,0,0,1,0,0,1,2,0,4
 "West End                      ",2018,3502,Burglary.,0,0,0,0,0,0,0,1,0,0,0,0,1
 "West End                      ",2017,3502,Burglary.,0,0,0,0,1,1,1,0,0,1,1,0,5
 "West End                      ",2016,3502,Burglary.,0,0,0,0,0,0,1,0,1,0,0,2,4
@@ -4878,10 +4878,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2018,1958,"Certificate of Inspection.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "West End                      ",2019,1547,"Chem. Test to Det. Amt of Alcohol or Con. Subs.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "West End                      ",2019,5123,Contraband.,0,0,2,0,0,0,0,0,0,0,0,0,2
+"West End                      ",2019,901,"Criminal Attempt",0,0,0,0,0,0,0,0,0,0,2,0,2
 "West End                      ",2018,901,"Criminal Attempt",0,0,0,0,0,0,0,0,0,0,1,0,1
 "West End                      ",2017,901,"Criminal Attempt",0,0,0,0,1,0,0,0,0,0,0,1,2
 "West End                      ",2016,901,"Criminal Attempt",0,1,0,0,0,0,0,2,0,0,0,0,3
 "West End                      ",2015,901,"Criminal Attempt",0,0,0,0,0,0,0,0,0,0,1,0,1
+"West End                      ",2019,903,"Criminal Conspiracy.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "West End                      ",2018,903,"Criminal Conspiracy.",0,3,0,0,2,0,0,1,0,0,0,0,6
 "West End                      ",2016,903,"Criminal Conspiracy.",0,0,3,0,0,0,2,0,0,0,0,2,7
 "West End                      ",2015,903,"Criminal Conspiracy.",0,0,0,0,4,0,0,0,0,0,0,0,4
@@ -5084,6 +5086,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,0,0,0,0,0,2,0,0,2
 "West End                      ",2019,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,0,0,0,0,1,0,0,1
 "West End                      ",2018,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,0,1,0,0,0,1,0,0,0,2
+"West End                      ",2019,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "West End                      ",2017,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "West End                      ",2019,13(a)(16),"Possession of Controlled Substance",4,0,0,0,2,0,2,0,0,0,0,0,8
 "West End                      ",2018,13(a)(16),"Possession of Controlled Substance",1,0,4,0,3,2,2,1,0,0,0,2,15
@@ -5097,6 +5100,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2016,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,0,0,0,3,4,0,2,0,9
 "West End                      ",2015,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,2,4,4,0,0,0,1,2,0,0,13
 "West End                      ",2016,4706,"Prohib. on Expend. for Emission Insp Prog..",0,2,0,0,0,0,0,0,0,0,0,0,2
+"West End                      ",2019,908,"Prohibited Offensive Weapons.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "West End                      ",2018,908,"Prohibited Offensive Weapons.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "West End                      ",2016,908,"Prohibited Offensive Weapons.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "West End                      ",2018,3314,"Prohibiting Use of Hearing Impairment Devices.",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -5175,7 +5179,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,2,0,0,0,0,0,1,0,3
 "West End                      ",2016,4910,"Tampering with or Fabricating Physical Evidence.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "West End                      ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,2,0,0,0,0,0,0,0,0,2
-"West End                      ",2019,2706,"Terroristic Threats.",0,0,0,0,0,0,1,0,3,0,0,0,4
+"West End                      ",2019,2706,"Terroristic Threats.",0,0,0,0,0,0,1,0,3,0,2,0,6
 "West End                      ",2018,2706,"Terroristic Threats.",0,0,0,1,0,0,2,0,0,0,0,2,5
 "West End                      ",2017,2706,"Terroristic Threats.",0,0,0,0,0,3,0,0,0,0,1,0,4
 "West End                      ",2015,2706,"Terroristic Threats.",0,0,1,0,0,0,1,0,0,0,1,0,3
