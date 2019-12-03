@@ -9934,8 +9934,8 @@
             "Sep": "1",
             "Oct": "2",
             "Nov": "3",
-            "Dec": "0",
-            "Count": "40"
+            "Dec": "1",
+            "Count": "41"
         },
         {
             "Neighborhood": "Beechview",
@@ -16279,9 +16279,9 @@
             "Aug": "3",
             "Sep": "1",
             "Oct": "1",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Beechview",
@@ -23271,9 +23271,9 @@
             "Aug": "4",
             "Sep": "5",
             "Oct": "4",
-            "Nov": "2",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "31"
+            "Count": "32"
         },
         {
             "Neighborhood": "Brookline",
@@ -36520,6 +36520,25 @@
         },
         {
             "Neighborhood": "Chartiers City",
+            "Year": "2019",
+            "Section": "9496",
+            "Description": "Dead on Arrival (DOA)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Chartiers City",
             "Year": "2018",
             "Section": "9496",
             "Description": "Dead on Arrival (DOA)",
@@ -41037,8 +41056,8 @@
             "Sep": "2",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "5"
+            "Dec": "1",
+            "Count": "6"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -57034,9 +57053,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -61879,9 +61898,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Esplen",
@@ -72026,8 +72045,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "2"
+            "Dec": "1",
+            "Count": "3"
         },
         {
             "Neighborhood": "Oakwood",
@@ -74515,8 +74534,8 @@
             "Sep": "0",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Neighborhood": "Oakwood",
@@ -79663,9 +79682,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -83957,9 +83976,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "7",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "27"
+            "Count": "28"
         },
         {
             "Neighborhood": "Sheraden",
@@ -86187,7 +86206,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -86206,7 +86225,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -90114,8 +90133,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "14"
+            "Dec": "1",
+            "Count": "15"
         },
         {
             "Neighborhood": "Sheraden",
@@ -93970,9 +93989,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "19"
+            "Count": "20"
         },
         {
             "Neighborhood": "West End",
@@ -107314,6 +107333,25 @@
         },
         {
             "Neighborhood": "Windgap",
+            "Year": "2019",
+            "Section": "5511",
+            "Description": "Cruelty to Animals.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
             "Year": "2016",
             "Section": "5511",
             "Description": "Cruelty to Animals.",
@@ -107862,6 +107900,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2019",
+            "Section": "4304(a)(1)",
+            "Description": "Endangering Welfare of Children - Course of Conduct Enhanced",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Windgap",
