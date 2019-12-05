@@ -406,7 +406,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,0,0,2,4
 "Beechview                     ",2016,9498,"302 (Mental)",0,0,0,0,1,1,1,2,0,0,1,1,7
 "Beechview                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,2,1,0,0,3
-"Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,12,4,7,10,7,5,7,0,81
+"Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,12,4,7,10,7,5,7,1,82
 "Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,8,4,8,10,9,6,6,5,4,81
 "Beechview                     ",2017,9999,"9999 - (Misc. Incident):",7,5,10,4,5,6,9,9,8,3,6,4,76
 "Beechview                     ",2016,9999,"9999 - (Misc. Incident):",5,4,4,3,6,13,7,6,7,3,5,3,66
@@ -470,7 +470,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9501,"Bench Warrant",5,5,2,2,0,4,2,2,2,7,2,2,35
 "Beechview                     ",2016,9501,"Bench Warrant",2,2,3,2,8,0,6,0,0,1,0,0,24
 "Beechview                     ",2015,9501,"Bench Warrant",0,0,0,0,4,0,0,2,2,3,3,0,14
-"Beechview                     ",2019,3502,Burglary.,0,1,0,2,2,2,7,0,0,0,3,0,17
+"Beechview                     ",2019,3502,Burglary.,0,1,0,2,2,2,7,0,0,0,3,1,18
 "Beechview                     ",2018,3502,Burglary.,3,1,1,3,1,2,1,2,1,4,2,0,21
 "Beechview                     ",2017,3502,Burglary.,4,3,1,3,4,1,1,2,0,5,6,0,30
 "Beechview                     ",2016,3502,Burglary.,1,0,3,2,10,7,4,3,2,4,4,1,41
@@ -1802,7 +1802,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,3922,"Theft by Deception.",0,0,0,3,2,0,0,2,1,0,1,0,9
 "Brookline                     ",2015,3922,"Theft by Deception.",0,0,2,0,0,3,1,0,0,2,0,1,9
 "Brookline                     ",2016,3923,"Theft by Extortion.",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Brookline                     ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,6,0,4,0,3,9,1,4,3,3,0,37
+"Brookline                     ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,6,0,4,0,3,9,1,4,3,3,1,38
 "Brookline                     ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,8,4,6,3,2,4,6,5,5,3,0,50
 "Brookline                     ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,7,1,4,1,5,4,5,5,2,4,7,51
 "Brookline                     ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,3,1,4,2,6,9,4,4,5,4,7,55
@@ -4730,7 +4730,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,4,5,5,9,1,2,2,0,1,2,34
 "Sheraden                      ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,2,0,4,0,5,1,11,1,5,3,2,36
 "Sheraden                      ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,2,4,0,0,6,1,4,2,2,23
-"Sheraden                      ",2019,2701,"Simple Assault.",9,8,2,2,8,2,9,8,11,3,2,0,64
+"Sheraden                      ",2019,2701,"Simple Assault.",9,8,2,2,8,2,9,8,11,3,2,1,65
 "Sheraden                      ",2018,2701,"Simple Assault.",6,4,4,4,4,5,3,9,6,6,9,6,66
 "Sheraden                      ",2017,2701,"Simple Assault.",2,2,15,13,6,7,3,5,6,3,2,6,70
 "Sheraden                      ",2016,2701,"Simple Assault.",4,3,4,6,4,11,3,7,7,7,9,14,79
@@ -4780,7 +4780,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3921,"Theft by Unlawful Taking or Disposition.",11,7,4,4,4,3,8,2,1,3,7,2,56
 "Sheraden                      ",2016,3921,"Theft by Unlawful Taking or Disposition.",3,3,7,7,3,5,6,8,1,4,2,2,51
 "Sheraden                      ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,2,4,2,5,1,2,3,3,5,27
-"Sheraden                      ",2019,3934,"Theft from Vehicle",10,2,1,0,4,0,1,4,5,4,0,0,31
+"Sheraden                      ",2019,3934,"Theft from Vehicle",10,2,1,0,4,0,1,4,5,4,0,1,32
 "Sheraden                      ",2018,3934,"Theft from Vehicle",0,0,2,0,2,1,1,2,0,11,0,2,21
 "Sheraden                      ",2017,3934,"Theft from Vehicle",4,0,1,3,0,2,6,0,6,1,1,1,25
 "Sheraden                      ",2016,3934,"Theft from Vehicle",3,1,0,0,5,5,1,5,3,2,3,3,31
@@ -5507,7 +5507,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2017,3929,"Retail Theft.",0,2,0,0,0,0,1,0,0,0,2,0,5
 "Westwood                      ",2016,3929,"Retail Theft.",1,4,1,2,3,0,0,1,1,1,0,1,15
 "Westwood                      ",2015,3929,"Retail Theft.",0,0,1,0,2,1,0,2,1,0,3,3,13
-"Westwood                      ",2019,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Westwood                      ",2019,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,0,0,0,0,1,0,0,0,1,2
 "Westwood                      ",2017,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Westwood                      ",2016,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,0,2,0,0,1,0,0,0,1,4
 "Westwood                      ",2015,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,0,0,0,0,1,0,0,0,0,1
