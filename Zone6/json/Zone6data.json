@@ -662,8 +662,8 @@
             "Sep": "0",
             "Oct": "1",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "11"
+            "Dec": "1",
+            "Count": "12"
         },
         {
             "Neighborhood": "Banksville",
@@ -8508,9 +8508,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "7",
-            "Nov": "2",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "25"
+            "Count": "26"
         },
         {
             "Neighborhood": "Beechview",
@@ -26027,8 +26027,8 @@
             "Sep": "0",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "10"
+            "Dec": "2",
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -30663,8 +30663,8 @@
             "Sep": "2",
             "Oct": "0",
             "Nov": "4",
-            "Dec": "2",
-            "Count": "30"
+            "Dec": "4",
+            "Count": "32"
         },
         {
             "Neighborhood": "Brookline",
@@ -31233,8 +31233,8 @@
             "Sep": "2",
             "Oct": "2",
             "Nov": "2",
-            "Dec": "0",
-            "Count": "28"
+            "Dec": "2",
+            "Count": "30"
         },
         {
             "Neighborhood": "Brookline",
@@ -39213,8 +39213,8 @@
             "Sep": "0",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -39555,8 +39555,8 @@
             "Sep": "0",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -39593,8 +39593,8 @@
             "Sep": "0",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -39612,8 +39612,8 @@
             "Sep": "1",
             "Oct": "1",
             "Nov": "2",
-            "Dec": "0",
-            "Count": "10"
+            "Dec": "1",
+            "Count": "11"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -40087,8 +40087,8 @@
             "Sep": "2",
             "Oct": "2",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "13"
+            "Dec": "1",
+            "Count": "14"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -45977,8 +45977,8 @@
             "Sep": "1",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "7"
+            "Dec": "1",
+            "Count": "8"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -47288,8 +47288,8 @@
             "Sep": "4",
             "Oct": "1",
             "Nov": "3",
-            "Dec": "0",
-            "Count": "20"
+            "Dec": "1",
+            "Count": "21"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -48189,6 +48189,25 @@
             "Year": "2017",
             "Section": "633.05",
             "Description": "Vaccination",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2019",
+            "Section": "1501(A)",
+            "Description": "Valid Drivers License Required",
             "Jan": "0",
             "Feb": "0",
             "Mar": "0",
@@ -54394,8 +54413,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "2"
+            "Dec": "2",
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -57928,8 +57947,8 @@
             "Sep": "0",
             "Oct": "4",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "18"
+            "Dec": "2",
+            "Count": "20"
         },
         {
             "Neighborhood": "Elliott",
@@ -68744,6 +68763,25 @@
         },
         {
             "Neighborhood": "Fairywood",
+            "Year": "2019",
+            "Section": "5503(a)(3)",
+            "Description": "DISORDERLY CONDUCT - OBSCENE LANG\/GEST",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
             "Year": "2017",
             "Section": "5503(a)(2)",
             "Description": "DISORDERLY CONDUCT - UNREASONABLE NOISE",
@@ -69537,8 +69575,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "2"
+            "Dec": "1",
+            "Count": "3"
         },
         {
             "Neighborhood": "Fairywood",
@@ -78258,8 +78296,8 @@
             "Sep": "3",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "13"
+            "Dec": "1",
+            "Count": "14"
         },
         {
             "Neighborhood": "Sheraden",
@@ -80525,25 +80563,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "2",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "5",
-            "Jul": "1",
-            "Aug": "3",
-            "Sep": "1",
-            "Oct": "0",
-            "Nov": "2",
-            "Dec": "3",
-            "Count": "17"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "1",
@@ -80559,6 +80578,25 @@
             "Nov": "0",
             "Dec": "2",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "2",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "5",
+            "Jul": "1",
+            "Aug": "3",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "2",
+            "Dec": "3",
+            "Count": "17"
         },
         {
             "Neighborhood": "Sheraden",
@@ -86035,25 +86073,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "29",
-            "Description": "Missing Juvenile",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "1",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "029",
             "Description": "Missing Juvenile",
             "Jan": "3",
@@ -86069,6 +86088,25 @@
             "Nov": "1",
             "Dec": "3",
             "Count": "33"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "29",
+            "Description": "Missing Juvenile",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -86257,8 +86295,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -86320,7 +86358,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -86339,7 +86377,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -90265,9 +90303,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "1",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "Sheraden",
@@ -90664,9 +90702,9 @@
             "Aug": "7",
             "Sep": "6",
             "Oct": "5",
-            "Nov": "3",
+            "Nov": "4",
             "Dec": "0",
-            "Count": "29"
+            "Count": "30"
         },
         {
             "Neighborhood": "Sheraden",
@@ -91880,9 +91918,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "West End",
@@ -99651,9 +99689,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Westwood",
