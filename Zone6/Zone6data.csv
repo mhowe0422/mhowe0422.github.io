@@ -530,8 +530,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,1,7,1,0,0,1,0,12
 "Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
-"Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
+"Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
 "Beechview                     ",2016,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Beechview                     ",2015,3503,"Criminal Trespass",0,0,0,0,0,1,3,0,1,0,1,0,6
@@ -764,7 +764,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2019,4912,"Impersonating a Public Servant.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Beechview                     ",2016,4912,"Impersonating a Public Servant.",0,0,0,1,2,0,0,1,0,0,0,0,4
 "Beechview                     ",2015,4912,"Impersonating a Public Servant.",0,0,0,0,0,0,0,1,0,0,1,0,2
-"Beechview                     ",2019,9093,"Indirect Criminal Contempt",3,0,0,0,0,2,6,4,0,0,0,0,15
+"Beechview                     ",2019,9093,"Indirect Criminal Contempt",3,0,0,0,0,2,6,4,0,0,0,1,16
 "Beechview                     ",2018,9093,"Indirect Criminal Contempt",0,0,0,0,0,0,2,4,2,4,5,1,18
 "Beechview                     ",2017,9093,"Indirect Criminal Contempt",0,0,1,0,0,0,0,0,0,0,0,2,3
 "Beechview                     ",2016,9093,"Indirect Criminal Contempt",1,0,0,0,2,0,1,3,0,2,3,0,12
@@ -1133,7 +1133,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,4,3,1,2,0,4,1,2,2,0,25
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",4,5,3,2,1,3,5,7,1,4,3,1,39
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,3,3,2,6,4,0,3,4,9,4,38
-"Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,8,6,2,0,58
+"Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,8,6,2,1,59
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,8,7,4,4,5,9,6,6,8,64
 "Brookline                     ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,5,6,2,3,6,5,5,7,3,9,6,63
 "Brookline                     ",2016,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",10,3,5,4,7,4,12,5,7,10,5,8,80
@@ -1236,8 +1236,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,3304,"Criminal Mischief.",8,2,2,5,7,8,8,3,7,5,4,9,68
 "Brookline                     ",2015,3304,"Criminal Mischief.",0,0,7,6,4,12,9,4,12,8,4,5,71
 "Brookline                     ",2016,902,"Criminal Solicitation.",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2019,3503,"Criminal Trespass",2,0,0,1,0,0,1,0,0,1,1,0,6
 "Brookline                     ",2019,3503(a),"Criminal Trespass",0,1,0,0,0,0,2,0,0,0,0,0,3
+"Brookline                     ",2019,3503,"Criminal Trespass",2,0,0,1,0,0,1,0,0,1,1,0,6
 "Brookline                     ",2018,3503,"Criminal Trespass",0,1,0,0,1,2,2,2,0,2,0,0,10
 "Brookline                     ",2017,3503,"Criminal Trespass",0,0,0,1,2,0,2,0,0,3,2,0,10
 "Brookline                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -1376,6 +1376,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2019,5121,Escape.,0,0,2,0,0,2,0,0,0,0,0,0,4
 "Brookline                     ",2017,5121,Escape.,0,0,0,0,2,0,0,0,1,2,0,0,5
 "Brookline                     ",2015,5121,Escape.,0,0,0,0,0,0,0,0,2,0,0,0,2
+"Brookline                     ",2019,2710,"Ethnic Intimidation.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2016,2710,"Ethnic Intimidation.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Brookline                     ",2015,5502,"Failure of Disorderly Persons to Disperse",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Brookline                     ",2019,9015,"Failure To Appear/Arrest on Attachment Order",0,1,0,0,0,1,0,0,0,1,0,0,3
@@ -1416,7 +1417,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2019,3310,"Following Too Closely.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Brookline                     ",2017,3310,"Following Too Closely.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2016,3310,"Following Too Closely.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2019,4101,Forgery.,0,2,1,0,0,1,0,0,0,1,1,0,6
+"Brookline                     ",2019,4101,Forgery.,0,2,1,0,0,1,0,0,0,1,1,1,7
 "Brookline                     ",2018,4101,Forgery.,0,0,3,0,0,0,0,0,0,1,0,0,4
 "Brookline                     ",2017,4101,Forgery.,0,0,0,2,1,1,0,1,0,2,2,0,9
 "Brookline                     ",2016,4101,Forgery.,1,0,0,0,0,1,1,2,1,0,0,2,8
@@ -1472,7 +1473,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,2709(a)(3),"Harassment No Legitimate Purpose",0,6,0,1,1,1,2,2,2,0,0,0,15
 "Brookline                     ",2017,2709(a)(3),"Harassment No Legitimate Purpose",2,0,0,0,1,3,3,0,0,1,1,0,11
 "Brookline                     ",2016,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,2,0,2,0,0,4
-"Brookline                     ",2019,2709(a),Harassment.,0,3,0,4,0,1,1,4,2,2,0,0,17
+"Brookline                     ",2019,2709(a),Harassment.,0,3,0,4,0,1,1,4,2,2,0,1,18
 "Brookline                     ",2018,2709(a),Harassment.,1,3,1,1,1,3,3,2,1,1,2,1,20
 "Brookline                     ",2017,2709(a),Harassment.,0,1,2,3,2,1,4,2,0,5,2,0,22
 "Brookline                     ",2016,2709(a),Harassment.,1,1,0,1,2,0,5,1,1,2,2,0,16
@@ -1600,7 +1601,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Brookline                     ",2016,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2015,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Brookline                     ",2019,9998,Overdose,5,1,0,2,3,2,5,0,1,2,1,0,22
+"Brookline                     ",2019,9998,Overdose,5,1,0,2,3,2,5,0,1,2,1,1,23
 "Brookline                     ",2018,9998,Overdose,0,3,2,2,2,2,1,2,2,0,2,3,21
 "Brookline                     ",2017,9998,Overdose,6,5,3,5,5,1,3,7,2,1,5,1,44
 "Brookline                     ",2016,9998,Overdose,0,0,0,0,0,0,0,0,1,1,1,1,4
@@ -1758,7 +1759,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,5,0,3,2,4,4,0,1,0,5,1,25
 "Brookline                     ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,2,2,0,6,1,4,3,4,5,3,31
 "Brookline                     ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,0,1,2,3,1,4,0,0,1,14
-"Brookline                     ",2019,2701,"Simple Assault.",4,4,4,11,12,11,11,9,10,2,1,2,81
+"Brookline                     ",2019,2701,"Simple Assault.",4,4,4,11,12,11,11,9,10,2,1,3,82
 "Brookline                     ",2018,2701,"Simple Assault.",6,23,9,7,2,5,4,5,10,9,9,5,94
 "Brookline                     ",2017,2701,"Simple Assault.",9,7,12,3,5,7,8,8,10,6,8,4,87
 "Brookline                     ",2016,2701,"Simple Assault.",8,3,8,5,4,5,9,5,0,2,0,15,64
@@ -1791,7 +1792,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,0,0,0,0,0,0,3,3
 "Brookline                     ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,2,2,0,0,2,0,0,0,6
 "Brookline                     ",2015,4911,"Tampering with Public Records of Information.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2019,2706,"Terroristic Threats.",0,3,0,0,1,5,0,2,2,4,1,0,18
+"Brookline                     ",2019,2706,"Terroristic Threats.",0,3,0,0,1,5,0,2,2,4,1,1,19
 "Brookline                     ",2018,2706,"Terroristic Threats.",4,1,0,5,5,3,1,0,2,2,3,0,26
 "Brookline                     ",2017,2706,"Terroristic Threats.",1,1,2,0,0,3,2,1,3,1,3,0,17
 "Brookline                     ",2016,2706,"Terroristic Threats.",2,0,5,2,1,3,0,3,0,1,2,0,19
@@ -1828,7 +1829,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2019,3926(a)(4),"Theft of services; ACQUISITION OF SERVICES - refusal to pay or offer to pay for a service (hotels and restarants)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2016,3926(a)(4),"Theft of services; ACQUISITION OF SERVICES - refusal to pay or offer to pay for a service (hotels and restarants)",0,0,0,2,1,0,0,0,0,0,0,0,3
 "Brookline                     ",2015,3926(a)(4),"Theft of services; ACQUISITION OF SERVICES - refusal to pay or offer to pay for a service (hotels and restarants)",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Brookline                     ",2019,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",1,0,0,0,0,0,0,0,0,1,0,0,2
+"Brookline                     ",2019,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",1,0,0,0,0,0,0,0,0,1,0,1,3
 "Brookline                     ",2018,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Brookline                     ",2017,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,0,0,0,0,0,1,0,0,0,1,0,2
 "Brookline                     ",2016,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -2722,7 +2723,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,2702,"Aggravated Assault.",1,0,0,3,3,0,4,1,2,0,0,0,14
 "Elliott                       ",2016,2702,"Aggravated Assault.",3,2,0,0,0,0,1,0,3,0,0,0,9
 "Elliott                       ",2015,2702,"Aggravated Assault.",0,0,3,0,3,3,3,2,1,2,2,4,23
-"Elliott                       ",2019,9497,"Aided Case",0,2,1,0,1,0,0,0,0,1,2,0,7
+"Elliott                       ",2019,9497,"Aided Case",0,2,1,0,1,0,0,0,0,1,2,1,8
 "Elliott                       ",2018,9497,"Aided Case",0,2,0,1,2,1,1,0,1,3,1,1,13
 "Elliott                       ",2017,9497,"Aided Case",0,1,2,1,1,2,1,1,2,1,0,3,15
 "Elliott                       ",2016,9497,"Aided Case",1,1,1,1,1,3,3,1,1,0,2,1,16
@@ -2945,7 +2946,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,2709,"Harassment (Non-Specific)",2,0,0,0,3,1,0,1,0,0,0,0,7
 "Elliott                       ",2015,2709,"Harassment (Non-Specific)",0,0,0,2,1,0,0,0,0,0,0,0,3
 "Elliott                       ",2018,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Elliott                       ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,0,1,2,3,0,3,0,4,1,0,0,16
+"Elliott                       ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,0,1,2,3,0,3,0,4,1,0,1,17
 "Elliott                       ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,1,1,0,2,0,2,1,0,1,8
 "Elliott                       ",2017,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,1,0,0,1,0,2,1,1,1,2,1,12
 "Elliott                       ",2016,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,1,1,1,0,0,0,1,2,3,0,1,11
@@ -3798,7 +3799,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2017,4106,"Access Device Fraud",0,0,0,1,0,1,0,0,1,0,1,0,4
 "Oakwood                       ",2016,4106,"Access Device Fraud",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2015,4106,"Access Device Fraud",0,0,0,0,0,0,1,0,0,0,0,1,2
-"Oakwood                       ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,0,0,0,1,0,0,0,0,1,3
+"Oakwood                       ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,0,0,0,1,0,0,0,0,2,4
 "Oakwood                       ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,2,1,0,1,0,0,1,0,0,6
 "Oakwood                       ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,0,0,0,0,1,0,1,1,0,0,4
 "Oakwood                       ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,0,0,2,0,0,0,0,2
@@ -4105,7 +4106,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9498,"302 (Mental)",1,0,2,1,0,0,2,1,1,1,1,0,10
 "Sheraden                      ",2016,9498,"302 (Mental)",0,1,1,0,0,0,0,0,1,1,0,0,4
 "Sheraden                      ",2015,9498,"302 (Mental)",0,0,0,0,0,3,1,0,1,0,1,0,6
-"Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,3,2,8,1,8,6,5,2,5,5,0,49
+"Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,3,2,8,1,8,6,5,2,5,5,1,50
 "Sheraden                      ",2018,9999,"9999 - (Misc. Incident):",8,8,3,5,5,7,8,7,10,7,5,2,75
 "Sheraden                      ",2017,9999,"9999 - (Misc. Incident):",7,4,6,5,7,7,9,6,10,5,6,8,80
 "Sheraden                      ",2016,9999,"9999 - (Misc. Incident):",7,2,4,2,12,7,6,5,5,7,8,9,74
@@ -4228,7 +4229,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,2,4,2,1,1,6,2,2,3,4,2,32
 "Sheraden                      ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,4,5,3,0,4,4,5,2,3,0,4,35
 "Sheraden                      ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,1,0,2,0,2,0,1,2,1,0,9
-"Sheraden                      ",2019,3304,"Criminal Mischief.",2,1,6,6,5,3,8,3,3,1,0,0,38
+"Sheraden                      ",2019,3304,"Criminal Mischief.",2,1,6,6,5,3,8,3,3,1,0,1,39
 "Sheraden                      ",2018,3304,"Criminal Mischief.",1,2,2,5,5,4,3,4,12,2,4,4,48
 "Sheraden                      ",2017,3304,"Criminal Mischief.",11,6,13,8,4,8,16,12,4,3,4,2,91
 "Sheraden                      ",2016,3304,"Criminal Mischief.",7,2,5,12,3,4,6,10,3,10,6,4,72
@@ -4531,8 +4532,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,029,"Missing Juvenile",1,1,1,0,1,3,2,2,2,4,1,0,18
 "Sheraden                      ",2018,029,"Missing Juvenile",3,0,1,2,2,1,1,0,2,3,1,3,19
 "Sheraden                      ",2017,029,"Missing Juvenile",1,1,1,2,4,4,4,0,4,1,2,2,26
-"Sheraden                      ",2016,029,"Missing Juvenile",3,3,1,5,3,2,1,4,5,2,1,3,33
 "Sheraden                      ",2016,29,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2016,029,"Missing Juvenile",3,3,1,5,3,2,1,4,5,2,1,3,33
 "Sheraden                      ",2015,029,"Missing Juvenile",0,0,1,3,1,3,1,1,0,4,3,4,21
 "Sheraden                      ",2019,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,1,0,0,1,0,4
 "Sheraden                      ",2018,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,0,0,0,0,0,2
@@ -4703,7 +4704,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,3702,"Robbery of Motor Vehicle.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,3702,"Robbery of Motor Vehicle.",0,0,0,0,0,0,0,0,0,0,0,4,4
 "Sheraden                      ",2016,3702,"Robbery of Motor Vehicle.",0,0,0,1,4,1,0,3,0,0,0,0,9
-"Sheraden                      ",2019,3701,Robbery.,1,1,1,0,0,0,2,2,2,10,1,1,21
+"Sheraden                      ",2019,3701,Robbery.,1,1,1,0,0,0,2,2,2,10,1,2,22
 "Sheraden                      ",2018,3701,Robbery.,1,2,5,2,2,1,2,1,2,4,0,2,24
 "Sheraden                      ",2017,3701,Robbery.,4,3,4,3,1,3,0,0,3,2,3,2,28
 "Sheraden                      ",2016,3701,Robbery.,2,1,0,2,8,12,9,5,1,10,1,0,51
@@ -4734,7 +4735,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,4,5,5,9,1,2,2,0,1,2,34
 "Sheraden                      ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,2,0,4,0,5,1,11,1,5,3,2,36
 "Sheraden                      ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,2,4,0,0,6,1,4,2,2,23
-"Sheraden                      ",2019,2701,"Simple Assault.",9,8,2,2,8,2,9,8,11,3,2,4,68
+"Sheraden                      ",2019,2701,"Simple Assault.",9,8,2,2,8,2,9,8,11,3,2,7,71
 "Sheraden                      ",2018,2701,"Simple Assault.",6,4,4,4,4,5,3,9,6,6,9,6,66
 "Sheraden                      ",2017,2701,"Simple Assault.",2,2,15,13,6,7,3,5,6,3,2,6,70
 "Sheraden                      ",2016,2701,"Simple Assault.",4,3,4,6,4,11,3,7,7,7,9,14,79
@@ -5403,7 +5404,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2015,2709,"Harassment (Non-Specific)",0,0,1,0,0,2,0,0,0,0,1,1,5
 "Westwood                      ",2018,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Westwood                      ",2016,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,0,0,0,0,0,1,1,2
-"Westwood                      ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,1,0,0,0,0,0,0,0,1,2
 "Westwood                      ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,1,0,2,1,0,0,2,0,0,6
 "Westwood                      ",2017,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,1,0,2,0,1,0,1,0,0,0,0,5
 "Westwood                      ",2016,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,0,0,0,0,0,0,1,0,0,1,3
@@ -5604,7 +5605,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Windgap                       ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Windgap                       ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,1,0,0,0,0,1,0,2
-"Windgap                       ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,0,0,0,0,2,0,0,0,0,3
+"Windgap                       ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,0,0,0,0,2,0,0,0,1,4
 "Windgap                       ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,0,0,0,0,0,1,0,2,0,4
 "Windgap                       ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,1,0,0,1,2,1,0,0,0,0,6
 "Windgap                       ",2016,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,1,0,0,0,1,0,1,1,0,4
