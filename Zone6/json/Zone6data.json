@@ -10130,25 +10130,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2017",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "3",
-            "Jun": "2",
-            "Jul": "3",
-            "Aug": "3",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "1",
-            "Dec": "1",
-            "Count": "13"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2017",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -10164,6 +10145,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "1"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2017",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "3",
+            "Jun": "2",
+            "Jul": "3",
+            "Aug": "3",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "1",
+            "Count": "13"
         },
         {
             "Neighborhood": "Beechview",
@@ -10206,25 +10206,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2015",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "1",
-            "Jul": "3",
-            "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
-            "Nov": "1",
-            "Dec": "0",
-            "Count": "6"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2015",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -10240,6 +10221,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "5"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2015",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "3",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -21144,8 +21144,8 @@
             "Sep": "10",
             "Oct": "13",
             "Nov": "12",
-            "Dec": "3",
-            "Count": "111"
+            "Dec": "5",
+            "Count": "113"
         },
         {
             "Neighborhood": "Brookline",
@@ -23443,8 +23443,8 @@
             "Sep": "4",
             "Oct": "3",
             "Nov": "6",
-            "Dec": "2",
-            "Count": "48"
+            "Dec": "3",
+            "Count": "49"
         },
         {
             "Neighborhood": "Brookline",
@@ -26293,8 +26293,8 @@
             "Sep": "0",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "1",
-            "Count": "4"
+            "Dec": "2",
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -34558,8 +34558,8 @@
             "Sep": "3",
             "Oct": "1",
             "Nov": "2",
-            "Dec": "0",
-            "Count": "42"
+            "Dec": "1",
+            "Count": "43"
         },
         {
             "Neighborhood": "Brookline",
@@ -47839,8 +47839,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "1",
-            "Count": "8"
+            "Dec": "2",
+            "Count": "9"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -57415,8 +57415,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "3"
+            "Dec": "1",
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -68782,6 +68782,25 @@
         },
         {
             "Neighborhood": "Fairywood",
+            "Year": "2019",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
             "Year": "2016",
             "Section": "3503",
             "Description": "Criminal Trespass",
@@ -69956,6 +69975,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
+            "Year": "2019",
+            "Section": "2709(a)",
+            "Description": "Harassment.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
             "Count": "1"
         },
         {
@@ -75845,8 +75883,8 @@
             "Sep": "2",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "2"
+            "Dec": "1",
+            "Count": "3"
         },
         {
             "Neighborhood": "Oakwood",
@@ -78315,8 +78353,8 @@
             "Sep": "2",
             "Oct": "5",
             "Nov": "5",
-            "Dec": "2",
-            "Count": "51"
+            "Dec": "3",
+            "Count": "52"
         },
         {
             "Neighborhood": "Sheraden",
@@ -80734,25 +80772,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2019",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "1",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2019",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "3",
@@ -80768,6 +80787,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "13"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2019",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -80848,25 +80886,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "1",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "1",
-            "Nov": "0",
-            "Dec": "2",
-            "Count": "4"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "2",
@@ -80882,6 +80901,25 @@
             "Nov": "2",
             "Dec": "3",
             "Count": "17"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "2",
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -94541,8 +94579,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "2",
-            "Dec": "1",
-            "Count": "21"
+            "Dec": "2",
+            "Count": "22"
         },
         {
             "Neighborhood": "West End",
@@ -100146,8 +100184,8 @@
             "Sep": "2",
             "Oct": "2",
             "Nov": "2",
-            "Dec": "0",
-            "Count": "19"
+            "Dec": "1",
+            "Count": "20"
         },
         {
             "Neighborhood": "Westwood",
