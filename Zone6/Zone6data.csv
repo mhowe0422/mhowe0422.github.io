@@ -412,7 +412,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,0,0,2,4
 "Beechview                     ",2016,9498,"302 (Mental)",0,0,0,0,1,1,1,2,0,0,1,1,7
 "Beechview                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,2,1,0,0,3
-"Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,12,4,7,10,7,5,7,4,85
+"Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,12,4,7,10,7,5,7,5,86
 "Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,8,4,8,10,9,6,6,5,4,81
 "Beechview                     ",2017,9999,"9999 - (Misc. Incident):",7,5,10,4,5,6,9,9,8,3,6,4,76
 "Beechview                     ",2016,9999,"9999 - (Misc. Incident):",5,4,4,3,6,13,7,6,7,3,5,3,66
@@ -1134,12 +1134,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,9018,"Accidental Fire",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2016,9018,"Accidental Fire",0,0,0,0,0,0,0,1,0,0,0,1,2
 "Brookline                     ",2015,9018,"Accidental Fire",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Brookline                     ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",5,1,3,2,3,4,2,4,3,3,3,1,34
+"Brookline                     ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",5,1,3,2,3,4,2,4,3,3,3,2,35
 "Brookline                     ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",3,7,2,1,1,3,1,4,4,5,5,2,38
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,4,3,1,2,0,4,1,2,2,0,25
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",4,5,3,2,1,3,5,7,1,4,3,1,39
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,3,3,2,6,4,0,3,4,9,4,38
-"Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,8,6,2,6,64
+"Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,8,6,2,9,67
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,8,7,4,4,5,9,6,6,8,64
 "Brookline                     ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,5,6,2,3,6,5,5,7,3,9,6,63
 "Brookline                     ",2016,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",10,3,5,4,7,4,12,5,7,10,5,8,80
@@ -2103,7 +2103,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,2702,"Aggravated Assault.",1,0,1,4,0,2,4,2,0,1,5,0,20
 "Crafton Heights               ",2015,2702,"Aggravated Assault.",0,0,2,1,0,5,1,4,0,0,1,3,17
 "Crafton Heights               ",2018,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2019,9497,"Aided Case",2,0,0,3,1,1,3,0,0,0,0,0,10
+"Crafton Heights               ",2019,9497,"Aided Case",2,0,0,3,1,1,3,0,0,0,0,2,12
 "Crafton Heights               ",2018,9497,"Aided Case",0,0,1,3,1,0,6,0,0,1,2,1,15
 "Crafton Heights               ",2017,9497,"Aided Case",2,2,1,4,0,4,0,0,0,0,0,1,14
 "Crafton Heights               ",2016,9497,"Aided Case",2,0,1,1,1,1,1,0,0,0,1,2,10
@@ -2707,7 +2707,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,9498,"302 (Mental)",1,0,4,0,0,0,0,2,0,1,0,0,8
 "Elliott                       ",2016,9498,"302 (Mental)",1,0,0,0,1,0,0,0,0,1,0,0,3
 "Elliott                       ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,1,1,0,1,3
-"Elliott                       ",2019,9999,"9999 - (Misc. Incident):",4,2,4,2,4,9,3,3,1,2,1,2,37
+"Elliott                       ",2019,9999,"9999 - (Misc. Incident):",4,2,4,2,4,9,3,3,1,2,1,3,38
 "Elliott                       ",2018,9999,"9999 - (Misc. Incident):",6,3,3,1,4,2,2,2,3,1,3,3,33
 "Elliott                       ",2017,9999,"9999 - (Misc. Incident):",3,4,3,2,1,1,2,1,4,4,2,3,30
 "Elliott                       ",2016,9999,"9999 - (Misc. Incident):",2,3,3,2,3,1,4,8,5,1,3,6,41
@@ -4127,7 +4127,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9498,"302 (Mental)",1,0,2,1,0,0,2,1,1,1,1,0,10
 "Sheraden                      ",2016,9498,"302 (Mental)",0,1,1,0,0,0,0,0,1,1,0,0,4
 "Sheraden                      ",2015,9498,"302 (Mental)",0,0,0,0,0,3,1,0,1,0,1,0,6
-"Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,3,2,8,1,8,6,5,2,5,5,4,53
+"Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,3,2,8,1,8,6,5,2,5,5,5,54
 "Sheraden                      ",2018,9999,"9999 - (Misc. Incident):",8,8,3,5,5,7,8,7,10,7,5,2,75
 "Sheraden                      ",2017,9999,"9999 - (Misc. Incident):",7,4,6,5,7,7,9,6,10,5,6,8,80
 "Sheraden                      ",2016,9999,"9999 - (Misc. Incident):",7,2,4,2,12,7,6,5,5,7,8,9,74
