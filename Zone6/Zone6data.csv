@@ -1060,7 +1060,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",7,3,6,0,4,0,1,3,5,6,8,6,49
 "Beechview                     ",2016,3921,"Theft by Unlawful Taking or Disposition.",1,3,1,0,0,5,6,7,6,0,4,2,35
 "Beechview                     ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,3,3,3,0,2,4,2,2,0,20
-"Beechview                     ",2019,3934,"Theft from Vehicle",1,14,8,11,1,7,2,6,1,9,1,0,61
+"Beechview                     ",2019,3934,"Theft from Vehicle",1,14,8,11,1,7,2,6,1,9,1,1,62
 "Beechview                     ",2018,3934,"Theft from Vehicle",2,5,3,2,1,1,2,5,1,2,1,5,30
 "Beechview                     ",2017,3934,"Theft from Vehicle",3,1,3,0,0,7,1,1,2,4,0,5,27
 "Beechview                     ",2016,3934,"Theft from Vehicle",4,3,1,3,1,10,2,5,0,5,2,2,38
@@ -2177,7 +2177,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,7512,"Criminal Use of Communication",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Crafton Heights               ",2017,5533(a),"Cruelty to animals - Intentionally, knowingly or recklessly illtreats, overloads, beats, abandons or abuses an animal ",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Crafton Heights               ",2019,3301(d.1),"Dangerous Burning",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2019,9496,"Dead on Arrival (DOA)",1,0,0,0,0,1,0,1,2,0,0,1,6
+"Crafton Heights               ",2019,9496,"Dead on Arrival (DOA)",1,0,0,0,0,1,0,1,2,0,0,2,7
 "Crafton Heights               ",2018,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,0,1,1,1,0,1,4
 "Crafton Heights               ",2017,9496,"Dead on Arrival (DOA)",0,1,0,0,0,1,0,0,1,0,1,0,4
 "Crafton Heights               ",2016,9496,"Dead on Arrival (DOA)",2,0,0,1,0,1,1,0,3,1,0,0,9
@@ -2379,7 +2379,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2019,9998,Overdose,1,0,0,0,0,0,0,1,0,0,1,0,3
 "Crafton Heights               ",2018,9998,Overdose,0,1,0,0,1,1,0,0,0,2,0,0,5
 "Crafton Heights               ",2017,9998,Overdose,1,0,0,0,0,0,1,0,2,0,0,1,5
-"Crafton Heights               ",2019,9997,"Overdose Death",0,0,0,0,0,0,0,0,0,0,1,0,1
+"Crafton Heights               ",2019,9997,"Overdose Death",0,0,0,0,0,0,0,0,0,0,1,1,2
 "Crafton Heights               ",2017,9997,"Overdose Death",0,0,0,0,0,1,0,0,2,0,0,0,3
 "Crafton Heights               ",2019,13(a)(32),"Paraphernalia - Use or Possession",4,2,1,0,2,0,2,0,3,2,0,0,16
 "Crafton Heights               ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,0,2,0,2,0,0,0,0,0,4
@@ -4733,7 +4733,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,3701,Robbery.,0,0,1,1,1,4,7,1,1,4,3,2,25
 "Sheraden                      ",2019,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2019,8106,"Shots Fired",0,0,0,8,9,0,7,3,0,3,0,2,32
+"Sheraden                      ",2019,8106,"Shots Fired",0,0,0,8,9,0,7,3,0,3,0,3,33
 "Sheraden                      ",2018,8106,"Shots Fired",2,0,0,1,2,2,1,2,0,0,1,1,12
 "Sheraden                      ",2017,8106,"Shots Fired",1,1,1,0,1,1,3,1,0,0,3,0,12
 "Sheraden                      ",2016,8106,"Shots Fired",2,0,1,1,2,0,1,0,0,1,0,0,8
