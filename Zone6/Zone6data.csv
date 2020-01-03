@@ -543,10 +543,10 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,1,7,1,0,0,1,1,13
-"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
-"Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
+"Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
 "Beechview                     ",2016,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Beechview                     ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,5,0,0,5
@@ -603,7 +603,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2016,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,0,1,1,0,2
 "Beechview                     ",2015,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Beechview                     ",2019,5503,"Disorderly Conduct.",0,2,2,0,0,2,0,0,2,0,0,4,12
+"Beechview                     ",2019,5503,"Disorderly Conduct.",0,2,2,0,0,2,0,0,2,0,0,5,13
 "Beechview                     ",2018,5503,"Disorderly Conduct.",0,0,2,0,2,1,3,0,0,0,0,0,8
 "Beechview                     ",2017,5503,"Disorderly Conduct.",0,1,0,4,0,0,0,1,0,0,0,6,12
 "Beechview                     ",2016,5503,"Disorderly Conduct.",2,0,1,0,2,1,2,0,0,0,0,0,8
@@ -938,7 +938,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2019,5902(a)(1),Prostitution,0,0,0,0,0,0,0,0,0,0,0,2,2
 "Beechview                     ",2018,5902(a)(1),Prostitution,0,1,1,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2019,5902(a)(2),"Prostitution - Loitering for purpose of",0,0,0,0,0,0,0,0,0,0,0,2,2
-"Beechview                     ",2019,5505,"Public Drunkenness",0,2,0,4,2,2,4,0,7,1,0,4,26
+"Beechview                     ",2019,5505,"Public Drunkenness",0,2,0,4,2,2,4,0,7,1,0,5,27
 "Beechview                     ",2018,5505,"Public Drunkenness",2,0,2,0,1,3,0,2,0,1,0,0,11
 "Beechview                     ",2017,5505,"Public Drunkenness",0,0,0,2,0,0,0,5,0,0,0,1,8
 "Beechview                     ",2016,5505,"Public Drunkenness",0,2,2,1,0,0,1,1,0,0,0,0,7
@@ -1066,6 +1066,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,0,3,6,2,6,0,4,4,0,1,3,32
 "Beechview                     ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,2,0,5,2,7,4,4,2,2,0,9,41
 "Beechview                     ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,2,1,2,0,3,0,3,1,2,15
+"Beechview                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2019,3921,"Theft by Unlawful Taking or Disposition.",0,3,2,4,1,3,7,3,8,1,2,0,34
 "Beechview                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",4,7,5,1,3,4,8,2,0,4,1,3,42
 "Beechview                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",7,3,6,0,4,0,1,3,5,6,8,6,49
@@ -1784,7 +1785,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,5,0,3,2,4,4,0,1,0,5,1,25
 "Brookline                     ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,2,2,0,6,1,4,3,4,5,3,31
 "Brookline                     ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,0,1,2,3,1,4,0,0,1,14
-"Brookline                     ",2020,2701,"Simple Assault.",4,0,0,0,0,0,0,0,0,0,0,0,4
+"Brookline                     ",2020,2701,"Simple Assault.",6,0,0,0,0,0,0,0,0,0,0,0,6
 "Brookline                     ",2019,2701,"Simple Assault.",4,4,4,11,12,11,11,9,10,2,1,7,86
 "Brookline                     ",2018,2701,"Simple Assault.",6,23,9,7,2,5,4,5,10,9,9,5,94
 "Brookline                     ",2017,2701,"Simple Assault.",9,7,12,3,5,7,8,8,10,6,8,4,87
@@ -2084,7 +2085,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,9498,"302 (Mental)",2,1,1,0,1,0,0,1,0,0,1,0,7
 "Crafton Heights               ",2016,9498,"302 (Mental)",0,0,1,1,0,0,0,0,0,0,0,2,4
 "Crafton Heights               ",2015,9498,"302 (Mental)",0,0,0,1,0,1,0,0,0,1,1,0,4
-"Crafton Heights               ",2019,9999,"9999 - (Misc. Incident):",1,0,3,5,3,4,2,3,3,0,3,3,30
+"Crafton Heights               ",2019,9999,"9999 - (Misc. Incident):",1,0,3,5,3,4,2,3,3,0,3,4,31
 "Crafton Heights               ",2018,9999,"9999 - (Misc. Incident):",4,3,3,3,2,7,1,2,3,2,2,3,35
 "Crafton Heights               ",2017,9999,"9999 - (Misc. Incident):",2,1,3,2,4,6,8,5,2,6,4,6,49
 "Crafton Heights               ",2016,9999,"9999 - (Misc. Incident):",2,1,4,3,3,3,3,4,6,2,3,3,37
@@ -2140,7 +2141,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,9501,"Bench Warrant",0,4,0,3,0,2,0,0,2,2,0,2,15
 "Crafton Heights               ",2015,9501,"Bench Warrant",0,0,0,0,0,1,0,1,4,4,0,1,11
 "Crafton Heights               ",2016,9092,"Bond Forfeiture Warrant",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2019,3502,Burglary.,0,2,0,2,0,1,2,2,2,2,0,4,17
+"Crafton Heights               ",2019,3502,Burglary.,0,2,0,2,0,1,2,2,2,2,0,5,18
 "Crafton Heights               ",2018,3502,Burglary.,1,0,2,0,1,4,2,1,1,2,0,0,14
 "Crafton Heights               ",2017,3502,Burglary.,0,1,1,0,1,2,1,2,2,2,6,4,22
 "Crafton Heights               ",2016,3502,Burglary.,2,3,1,2,1,1,6,4,4,2,0,2,28
@@ -2173,7 +2174,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3304(a)(2),"CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property)",0,0,1,0,0,0,0,0,0,0,0,1,2
 "Crafton Heights               ",2018,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,2,1,0,0,0,0,0,0,3
 "Crafton Heights               ",2017,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,0,0,0,0,1,0,1
-"Crafton Heights               ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,0,0,0,2,0,0,1,0,0,3,8
+"Crafton Heights               ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,0,0,0,2,0,0,1,0,0,4,9
 "Crafton Heights               ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,0,2,0,0,1,1,1,0,0,0,6
 "Crafton Heights               ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,1,0,1,0,0,1,2,0,3,0,8
 "Crafton Heights               ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,2,1,0,0,0,2,0,1,0,0,6
@@ -2222,6 +2223,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2018,5503,"Disorderly Conduct.",0,0,0,0,2,0,0,2,0,0,0,0,4
 "Crafton Heights               ",2017,5503,"Disorderly Conduct.",3,0,0,0,0,2,2,0,0,0,2,2,11
 "Crafton Heights               ",2015,5503,"Disorderly Conduct.",0,0,0,0,0,0,0,0,3,0,0,0,3
+"Crafton Heights               ",2020,1332,"Display of Registration Plate.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,1332,"Display of Registration Plate.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Crafton Heights               ",2016,1332,"Display of Registration Plate.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Crafton Heights               ",2019,9492,"Dog Bite",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -2357,6 +2359,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,9504,"Lost Property",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Crafton Heights               ",2016,9504,"Lost Property",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2015,9504,"Lost Property",0,0,0,0,0,0,0,0,1,0,0,0,1
+"Crafton Heights               ",2020,1333,"Lost, Stolen, Damaged or Illegible Registration Plate.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,2910,"Luring a Child into a Motor Vehicle.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Crafton Heights               ",2019,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,2,4,0,0,2,2,0,0,2,14
@@ -2399,6 +2402,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,9998,Overdose,1,0,0,0,0,0,1,0,2,0,0,1,5
 "Crafton Heights               ",2019,9997,"Overdose Death",0,0,0,0,0,0,0,0,0,0,1,1,2
 "Crafton Heights               ",2017,9997,"Overdose Death",0,0,0,0,0,1,0,0,2,0,0,0,3
+"Crafton Heights               ",2020,13(a)(32),"Paraphernalia - Use or Possession",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2019,13(a)(32),"Paraphernalia - Use or Possession",4,2,1,0,2,0,2,0,3,2,0,0,16
 "Crafton Heights               ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,0,2,0,2,0,0,0,0,0,4
 "Crafton Heights               ",2017,13(a)(32),"Paraphernalia - Use or Possession",4,3,0,4,5,0,4,0,0,0,3,0,23
@@ -2418,6 +2422,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2019,907,"Possessing Instruments of Crime.",0,0,0,1,3,0,0,0,0,0,2,0,6
 "Crafton Heights               ",2018,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Crafton Heights               ",2015,907,"Possessing Instruments of Crime.",0,0,0,0,0,2,0,0,0,0,0,0,2
+"Crafton Heights               ",2020,13(a)(16),"Possession of Controlled Substance",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2019,13(a)(16),"Possession of Controlled Substance",0,0,0,0,6,0,0,4,3,2,2,0,17
 "Crafton Heights               ",2018,13(a)(16),"Possession of Controlled Substance",0,0,2,2,4,2,1,0,0,0,0,0,11
 "Crafton Heights               ",2017,13(a)(16),"Possession of Controlled Substance",2,1,0,2,3,3,4,4,0,0,5,0,24
@@ -2477,7 +2482,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2018,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,4953,"Retaliation Against Witness,Victim or Party.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Crafton Heights               ",2017,3702,"Robbery of Motor Vehicle.",0,0,0,0,0,0,0,0,0,2,0,0,2
-"Crafton Heights               ",2019,3701,Robbery.,0,1,1,3,0,0,1,2,1,1,2,0,12
+"Crafton Heights               ",2019,3701,Robbery.,0,1,1,3,0,0,1,2,1,1,2,1,13
 "Crafton Heights               ",2018,3701,Robbery.,1,0,1,0,0,4,0,0,0,0,0,0,6
 "Crafton Heights               ",2017,3701,Robbery.,0,0,2,1,4,0,0,0,1,0,2,2,12
 "Crafton Heights               ",2016,3701,Robbery.,1,1,0,1,0,0,2,2,0,1,2,0,10
@@ -2504,7 +2509,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,2,1,1,2,2,0,1,0,1,4,1,17
 "Crafton Heights               ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,2,0,1,1,4,1,1,0,3,1,16
 "Crafton Heights               ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,2,3,0,1,5,0,0,0,12
-"Crafton Heights               ",2019,2701,"Simple Assault.",4,2,10,6,4,4,0,4,7,4,1,2,48
+"Crafton Heights               ",2020,2701,"Simple Assault.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2019,2701,"Simple Assault.",4,2,10,6,4,4,0,4,7,4,1,3,49
 "Crafton Heights               ",2018,2701,"Simple Assault.",1,3,4,2,3,10,2,2,5,11,0,6,49
 "Crafton Heights               ",2017,2701,"Simple Assault.",9,2,5,2,2,0,4,0,2,5,9,2,42
 "Crafton Heights               ",2016,2701,"Simple Assault.",7,1,6,5,0,5,2,1,4,2,4,2,39
@@ -4282,8 +4288,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,1,2,0,0,0,3
 "Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
 "Sheraden                      ",2017,3503(a),"Criminal Trespass",0,0,0,0,3,0,0,0,0,0,0,0,3
-"Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
 "Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
+"Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
 "Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
 "Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2019,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -4571,6 +4577,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,3304(a)(3),"MISCHIEF- Cause Another Pecuniary Loss (By Deception  Threat)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,2908,"Missing Children.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2017,2908,"Missing Children.",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2020,029,"Missing Juvenile",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,029,"Missing Juvenile",1,1,1,0,1,3,2,2,2,4,1,2,20
 "Sheraden                      ",2018,029,"Missing Juvenile",3,0,1,2,2,1,1,0,2,3,1,3,19
 "Sheraden                      ",2017,029,"Missing Juvenile",1,1,1,2,4,4,4,0,4,1,2,2,26
@@ -4589,8 +4596,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9012,"Non-Violent Domestic",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,9012,"Non-Violent Domestic",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,1515,"Notice of Change of Name or Address.",0,0,0,0,0,0,0,0,0,0,2,0,2
-"Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,633.12,"Number of Pets Permitted in City Limits; Exceptions",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,4,0,0,0,0,0,4
 "Sheraden                      ",2017,3111,"Obedience to Traffic-Control Devices.",0,0,1,0,0,1,0,1,0,0,0,0,3
@@ -5527,6 +5534,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2015,13(a)(32),"Paraphernalia - Use or Possession",0,0,2,0,0,5,2,0,0,0,0,0,9
 "Westwood                      ",2018,9134,"Pedestrian Hit by Vehicle/Non-Reportable Accident",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2016,6105(c)(9),"Persons Not To Possess Use Manuf, Control Firearm",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2020,9993,"PFA Service with Weapons Supplement",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2019,907,"Possessing Instruments of Crime.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Westwood                      ",2018,907,"Possessing Instruments of Crime.",1,0,0,0,0,0,0,2,0,0,0,0,3
 "Westwood                      ",2017,907,"Possessing Instruments of Crime.",0,0,0,0,2,0,0,0,0,0,0,0,2

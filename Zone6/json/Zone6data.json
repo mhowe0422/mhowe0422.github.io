@@ -10339,25 +10339,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "2",
-            "Jun": "0",
-            "Jul": "1",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "4"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2018",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -10376,22 +10357,22 @@
         },
         {
             "Neighborhood": "Beechview",
-            "Year": "2017",
+            "Year": "2018",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "1",
-            "Count": "1"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -10411,6 +10392,25 @@
             "Nov": "1",
             "Dec": "1",
             "Count": "13"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2017",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
         },
         {
             "Neighborhood": "Beechview",
@@ -11492,8 +11492,8 @@
             "Sep": "2",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "4",
-            "Count": "12"
+            "Dec": "5",
+            "Count": "13"
         },
         {
             "Neighborhood": "Beechview",
@@ -17857,8 +17857,8 @@
             "Sep": "7",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "4",
-            "Count": "26"
+            "Dec": "5",
+            "Count": "27"
         },
         {
             "Neighborhood": "Beechview",
@@ -20272,6 +20272,25 @@
             "Nov": "1",
             "Dec": "2",
             "Count": "15"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2020",
+            "Section": "3921",
+            "Description": "Theft by Unlawful Taking or Disposition.",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Beechview",
@@ -33920,7 +33939,7 @@
             "Year": "2020",
             "Section": "2701",
             "Description": "Simple Assault.",
-            "Jan": "4",
+            "Jan": "6",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -33932,7 +33951,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -39631,8 +39650,8 @@
             "Sep": "3",
             "Oct": "0",
             "Nov": "3",
-            "Dec": "3",
-            "Count": "30"
+            "Dec": "4",
+            "Count": "31"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -40695,8 +40714,8 @@
             "Sep": "2",
             "Oct": "2",
             "Nov": "0",
-            "Dec": "4",
-            "Count": "17"
+            "Dec": "5",
+            "Count": "18"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -41322,8 +41341,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "3",
-            "Count": "8"
+            "Dec": "4",
+            "Count": "9"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -42236,6 +42255,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2020",
+            "Section": "1332",
+            "Description": "Display of Registration Plate.",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -44804,6 +44842,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2020",
+            "Section": "1333",
+            "Description": "Lost, Stolen, Damaged or Illegible Registration Plate.",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2019",
             "Section": "2910",
             "Description": "Luring a Child into a Motor Vehicle.",
@@ -45602,6 +45659,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2020",
+            "Section": "13(a)(32)",
+            "Description": "Paraphernalia - Use or Possession",
+            "Jan": "2",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2019",
             "Section": "13(a)(32)",
             "Description": "Paraphernalia - Use or Possession",
@@ -45953,6 +46029,25 @@
             "Apr": "0",
             "May": "0",
             "Jun": "2",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2020",
+            "Section": "13(a)(16)",
+            "Description": "Possession of Controlled Substance",
+            "Jan": "2",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -47098,8 +47193,8 @@
             "Sep": "1",
             "Oct": "1",
             "Nov": "2",
-            "Dec": "0",
-            "Count": "12"
+            "Dec": "1",
+            "Count": "13"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -47597,6 +47692,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2020",
+            "Section": "2701",
+            "Description": "Simple Assault.",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2019",
             "Section": "2701",
             "Description": "Simple Assault.",
@@ -47611,8 +47725,8 @@
             "Sep": "7",
             "Oct": "4",
             "Nov": "1",
-            "Dec": "2",
-            "Count": "48"
+            "Dec": "3",
+            "Count": "49"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -81380,25 +81494,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "1",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "1",
-            "Nov": "0",
-            "Dec": "2",
-            "Count": "4"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "2",
@@ -81414,6 +81509,25 @@
             "Nov": "2",
             "Dec": "3",
             "Count": "17"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "2",
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -86870,6 +86984,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2020",
+            "Section": "029",
+            "Description": "Missing Juvenile",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2019",
             "Section": "029",
             "Description": "Missing Juvenile",
@@ -87213,7 +87346,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -87232,7 +87365,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -105020,6 +105153,25 @@
             "Description": "Persons Not To Possess Use Manuf, Control Firearm",
             "Jan": "0",
             "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2020",
+            "Section": "9993",
+            "Description": "PFA Service with Weapons Supplement",
+            "Jan": "1",
+            "Feb": "0",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
