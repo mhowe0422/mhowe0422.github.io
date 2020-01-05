@@ -420,6 +420,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,0,0,2,4
 "Beechview                     ",2016,9498,"302 (Mental)",0,0,0,0,1,1,1,2,0,0,1,1,7
 "Beechview                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,2,1,0,0,3
+"Beechview                     ",2020,9999,"9999 - (Misc. Incident):",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,12,4,7,10,7,5,7,6,87
 "Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,8,4,8,10,9,6,6,5,4,81
 "Beechview                     ",2017,9999,"9999 - (Misc. Incident):",7,5,10,4,5,6,9,9,8,3,6,4,76
@@ -460,7 +461,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2018,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2016,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Beechview                     ",2019,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Beechview                     ",2019,9497,"Aided Case",2,1,1,1,2,5,2,1,1,7,3,1,27
+"Beechview                     ",2019,9497,"Aided Case",2,1,1,1,2,5,2,1,1,7,3,2,28
 "Beechview                     ",2018,9497,"Aided Case",2,2,2,3,1,3,5,4,0,0,0,3,25
 "Beechview                     ",2017,9497,"Aided Case",5,2,3,4,5,1,5,3,0,3,5,3,39
 "Beechview                     ",2016,9497,"Aided Case",5,3,1,2,0,3,4,2,0,4,2,1,27
@@ -543,10 +544,10 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,1,7,1,0,0,1,1,13
-"Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
-"Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
+"Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
 "Beechview                     ",2016,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Beechview                     ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,5,0,0,5
@@ -1593,6 +1594,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,029,"Missing Juvenile",0,0,1,2,1,1,2,0,1,1,1,1,11
 "Brookline                     ",2016,029,"Missing Juvenile",1,1,0,1,0,0,0,0,0,0,0,1,4
 "Brookline                     ",2015,029,"Missing Juvenile",0,0,1,1,1,3,0,5,1,2,2,0,16
+"Brookline                     ",2020,9490,"Missing Persons (18 and Over)",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2019,9490,"Missing Persons (18 and Over)",1,0,0,0,0,0,0,0,0,1,1,0,3
 "Brookline                     ",2018,9490,"Missing Persons (18 and Over)",1,1,0,0,0,1,2,1,0,0,0,0,6
 "Brookline                     ",2017,9490,"Missing Persons (18 and Over)",0,3,0,1,1,0,1,1,0,0,0,1,8
@@ -2086,6 +2088,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,9498,"302 (Mental)",2,1,1,0,1,0,0,1,0,0,1,0,7
 "Crafton Heights               ",2016,9498,"302 (Mental)",0,0,1,1,0,0,0,0,0,0,0,2,4
 "Crafton Heights               ",2015,9498,"302 (Mental)",0,0,0,1,0,1,0,0,0,1,1,0,4
+"Crafton Heights               ",2020,9999,"9999 - (Misc. Incident):",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,9999,"9999 - (Misc. Incident):",1,0,3,5,3,4,2,3,3,0,3,4,31
 "Crafton Heights               ",2018,9999,"9999 - (Misc. Incident):",4,3,3,3,2,7,1,2,3,2,2,3,35
 "Crafton Heights               ",2017,9999,"9999 - (Misc. Incident):",2,1,3,2,4,6,8,5,2,6,4,6,49
@@ -2328,6 +2331,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Crafton Heights               ",2016,2709(a)(3),"Harassment No Legitimate Purpose",0,1,0,0,0,0,0,0,0,1,0,0,2
 "Crafton Heights               ",2015,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,0,0,0,1,0,1
+"Crafton Heights               ",2020,2709(a),Harassment.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,2709(a),Harassment.,1,0,1,1,1,1,0,1,0,0,0,0,6
 "Crafton Heights               ",2018,2709(a),Harassment.,0,0,0,2,1,1,1,1,2,1,2,0,11
 "Crafton Heights               ",2017,2709(a),Harassment.,2,0,0,1,1,0,1,0,0,1,0,2,8
@@ -4956,6 +4960,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2019,3301,Arson,0,0,0,0,0,0,0,0,0,0,0,2,2
 "West End                      ",2017,3301,Arson,0,0,0,0,0,0,0,0,0,0,2,0,2
 "West End                      ",2016,3301,Arson,0,0,0,0,0,0,0,0,2,0,0,0,2
+"West End                      ",2020,9501,"Bench Warrant",2,0,0,0,0,0,0,0,0,0,0,0,2
 "West End                      ",2019,9501,"Bench Warrant",2,2,2,4,0,0,0,2,0,0,0,0,12
 "West End                      ",2018,9501,"Bench Warrant",0,0,0,2,4,0,0,0,2,0,2,0,10
 "West End                      ",2017,9501,"Bench Warrant",0,2,0,0,0,2,0,2,2,0,2,0,10
@@ -5178,6 +5183,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2019,9998,Overdose,0,0,0,0,0,1,0,0,0,0,0,0,1
 "West End                      ",2017,9998,Overdose,0,0,1,0,0,1,0,0,0,0,0,0,2
 "West End                      ",2015,602.04,"Panhandling and Prohibited Conduct",0,0,0,0,0,0,3,0,0,0,0,0,3
+"West End                      ",2020,13(a)(32),"Paraphernalia - Use or Possession",2,0,0,0,0,0,0,0,0,0,0,0,2
 "West End                      ",2019,13(a)(32),"Paraphernalia - Use or Possession",2,2,0,0,0,0,2,0,2,0,0,0,8
 "West End                      ",2018,13(a)(32),"Paraphernalia - Use or Possession",1,0,0,2,0,2,2,0,0,1,0,0,8
 "West End                      ",2017,13(a)(32),"Paraphernalia - Use or Possession",2,0,2,2,3,0,2,2,0,3,1,0,17
@@ -5446,7 +5452,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2016,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",2,0,2,0,0,0,0,2,0,0,0,0,6
 "Westwood                      ",2015,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2015,3802(e),"DUI - Minors - BAC >=.02%",0,0,2,0,0,0,0,0,0,0,0,0,2
-"Westwood                      ",2020,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2020,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2019,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,0,0,1,2,0,0,0,0,3
 "Westwood                      ",2016,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Westwood                      ",2015,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -5672,7 +5678,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2015,2902,"Unlawful Restraint.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Westwood                      ",2017,7611,"Unlawful Use of Computer",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Westwood                      ",2015,4107(b)(2),"Vehicle Equipment Standards",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Westwood                      ",2020,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2020,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2019,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",0,0,0,0,0,3,0,0,0,0,0,0,3
 "Windgap                       ",2018,9498,"302 (Mental)",0,0,1,0,1,0,0,0,0,0,1,0,3
 "Windgap                       ",2017,9498,"302 (Mental)",1,0,0,0,0,0,0,0,0,0,0,0,1
