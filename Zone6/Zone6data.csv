@@ -72,6 +72,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,901,"Criminal Attempt",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2016,901,"Criminal Attempt",0,0,0,0,0,0,2,0,0,0,2,0,4
 "Banksville                    ",2015,901,"Criminal Attempt",0,0,0,0,2,0,0,0,0,0,0,0,2
+"Banksville                    ",2020,903,"Criminal Conspiracy.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2016,903,"Criminal Conspiracy.",0,3,0,0,3,0,0,0,0,0,0,2,8
 "Banksville                    ",2015,903,"Criminal Conspiracy.",0,0,0,4,3,0,0,0,0,0,0,0,7
 "Banksville                    ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,1,1,0,0,0,0,0,2
@@ -84,6 +85,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,3304,"Criminal Mischief.",0,2,0,0,1,1,0,2,2,1,1,0,10
 "Banksville                    ",2016,3304,"Criminal Mischief.",0,0,1,1,1,3,1,1,2,0,8,1,19
 "Banksville                    ",2015,3304,"Criminal Mischief.",0,0,0,0,1,0,3,1,1,1,1,0,8
+"Banksville                    ",2020,902,"Criminal Solicitation.",7,0,0,0,0,0,0,0,0,0,0,0,7
 "Banksville                    ",2018,3503,"Criminal Trespass",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Banksville                    ",2015,3503,"Criminal Trespass",0,0,0,0,0,1,0,0,1,0,0,0,2
 "Banksville                    ",2019,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -237,7 +239,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2016,9504,"Lost Property",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2015,9504,"Lost Property",0,0,0,2,0,0,1,0,0,0,0,0,3
 "Banksville                    ",2018,2910,"Luring a Child into a Motor Vehicle.",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Banksville                    ",2020,13(a)(31),"Marijuana: Possession Small Amount",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Banksville                    ",2020,13(a)(31),"Marijuana: Possession Small Amount",6,0,0,0,0,0,0,0,0,0,0,0,6
 "Banksville                    ",2019,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,0,0,0,0,0,2,2,0,0,4
 "Banksville                    ",2018,13(a)(31),"Marijuana: Possession Small Amount",3,0,0,0,2,0,0,0,0,0,0,0,5
 "Banksville                    ",2017,13(a)(31),"Marijuana: Possession Small Amount",2,0,3,0,2,0,0,0,0,2,0,0,9
@@ -270,11 +272,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2019,9997,"Overdose Death",1,0,0,1,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2018,9997,"Overdose Death",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Banksville                    ",2017,9997,"Overdose Death",0,0,0,1,1,0,0,2,0,0,0,1,5
+"Banksville                    ",2020,13(a)(32),"Paraphernalia - Use or Possession",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Banksville                    ",2019,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,0,2,0,2,0,2,0,2,0,8
 "Banksville                    ",2018,13(a)(32),"Paraphernalia - Use or Possession",2,0,0,0,4,0,0,0,0,0,0,0,6
 "Banksville                    ",2017,13(a)(32),"Paraphernalia - Use or Possession",2,6,3,2,3,0,0,2,5,2,0,0,25
 "Banksville                    ",2016,13(a)(32),"Paraphernalia - Use or Possession",0,2,0,2,0,4,0,0,0,0,0,0,8
 "Banksville                    ",2015,13(a)(32),"Paraphernalia - Use or Possession",0,0,8,6,6,0,0,0,2,2,0,4,28
+"Banksville                    ",2020,5902(e),"Patronizing a Prostitute",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Banksville                    ",2015,9134,"Pedestrian Hit by Vehicle/Non-Reportable Accident",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Banksville                    ",2017,6105(c)(9),"Persons Not To Possess Use Manuf, Control Firearm",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -285,9 +289,10 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2016,6110.1,"Possesion of Firearm by Minor",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2015,6110.1,"Possesion of Firearm by Minor",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2019,627.02(b)(i),"Possessing a small amount of marijuana",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Banksville                    ",2020,907,"Possessing Instruments of Crime.",10,0,0,0,0,0,0,0,0,0,0,0,10
 "Banksville                    ",2016,907,"Possessing Instruments of Crime.",0,0,0,0,2,0,1,1,2,0,0,0,6
 "Banksville                    ",2015,907,"Possessing Instruments of Crime.",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Banksville                    ",2020,13(a)(16),"Possession of Controlled Substance",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Banksville                    ",2020,13(a)(16),"Possession of Controlled Substance",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Banksville                    ",2019,13(a)(16),"Possession of Controlled Substance",0,2,0,0,0,0,0,0,2,2,0,1,7
 "Banksville                    ",2018,13(a)(16),"Possession of Controlled Substance",4,0,0,0,2,0,0,0,0,0,0,0,6
 "Banksville                    ",2017,13(a)(16),"Possession of Controlled Substance",0,2,3,2,0,0,0,4,7,4,0,0,22
@@ -303,7 +308,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2016,908,"Prohibited Offensive Weapons.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Banksville                    ",2018,3353,"Prohibitions in Specified Places.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2017,2707,"Propulsion of Missiles",0,0,0,0,0,2,0,0,0,0,0,0,2
-"Banksville                    ",2020,5902(a)(1),Prostitution,2,0,0,0,0,0,0,0,0,0,0,0,2
+"Banksville                    ",2020,5902(a)(1),Prostitution,10,0,0,0,0,0,0,0,0,0,0,0,10
 "Banksville                    ",2018,5902(a)(1),Prostitution,2,0,0,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2016,5902(a)(1),Prostitution,0,0,0,0,2,0,0,0,2,0,0,0,4
 "Banksville                    ",2015,5902(a)(1),Prostitution,0,0,0,0,5,0,0,0,0,0,0,0,5
@@ -379,6 +384,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,2706,"Terroristic Threats.",0,2,0,0,0,3,0,4,0,0,0,0,9
 "Banksville                    ",2016,2706,"Terroristic Threats.",0,0,0,0,0,0,0,2,1,0,0,0,3
 "Banksville                    ",2015,2706,"Terroristic Threats.",0,0,0,0,4,0,0,0,1,0,0,0,5
+"Banksville                    ",2020,3922,"Theft by Deception.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2019,3922,"Theft by Deception.",0,0,0,1,0,0,0,1,1,0,0,0,3
 "Banksville                    ",2018,3922,"Theft by Deception.",0,0,1,0,0,0,1,1,0,0,1,0,4
 "Banksville                    ",2017,3922,"Theft by Deception.",1,1,0,0,0,0,0,0,0,0,0,0,2
@@ -408,6 +414,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2018,3926.C1,"THEFT OF SERVICES",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Banksville                    ",2015,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Banksville                    ",2017,3112,"Traffic-Control Signals.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Banksville                    ",2020,5902(b)(6),"Transporting for the purpose of engaging in prostitution",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Banksville                    ",2019,1372,"Unauthorized Transfer or Use of Registration.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2017,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Banksville                    ",2016,3928,"Unauthorized Use of Automobile and Other Vehicles.",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -546,8 +553,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,1,7,1,0,0,1,1,13
-"Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
+"Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
@@ -1151,7 +1158,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,9018,"Accidental Fire",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2016,9018,"Accidental Fire",0,0,0,0,0,0,0,1,0,0,0,1,2
 "Brookline                     ",2015,9018,"Accidental Fire",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Brookline                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",5,1,3,2,3,4,2,4,3,3,3,2,35
 "Brookline                     ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",3,7,2,1,1,3,1,4,4,5,5,2,38
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,4,3,1,2,0,4,1,2,2,0,25
@@ -1295,6 +1302,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2015,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Brookline                     ",2016,2709(a.1)(1)(i),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Disparaging Statement/Opinion",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2019,2709(a.1)(1)(ii),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Threat To Inflict Harm",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Brookline                     ",2020,9496,"Dead on Arrival (DOA)",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2019,9496,"Dead on Arrival (DOA)",3,3,2,3,1,1,2,0,1,0,2,1,19
 "Brookline                     ",2018,9496,"Dead on Arrival (DOA)",0,2,2,2,3,2,1,2,3,2,2,4,25
 "Brookline                     ",2017,9496,"Dead on Arrival (DOA)",2,1,3,2,2,0,2,1,1,2,3,0,19
@@ -1346,7 +1354,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,5503,"Disorderly Conduct.",1,0,0,0,2,2,5,1,3,0,0,0,14
 "Brookline                     ",2016,5503,"Disorderly Conduct.",2,0,0,0,1,0,0,0,2,0,0,1,6
 "Brookline                     ",2015,5503,"Disorderly Conduct.",0,0,2,0,0,1,1,2,1,0,0,1,8
-"Brookline                     ",2020,9492,"Dog Bite",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2020,9492,"Dog Bite",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2019,9492,"Dog Bite",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Brookline                     ",2017,9492,"Dog Bite",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2016,9492,"Dog Bite",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -1406,6 +1414,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,1,2,1,0,0,0,0,1,1,2,0,8
 "Brookline                     ",2016,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,0,0,2,0,0,0,3,6,11
 "Brookline                     ",2015,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,2,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2020,1-401,"Engaging in Fraudulent Practices",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2019,"473.05 (d)","Entering a Closed Area",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2019,5121,Escape.,0,0,2,0,0,2,0,0,0,0,0,0,4
 "Brookline                     ",2017,5121,Escape.,0,0,0,0,2,0,0,0,1,2,0,0,5
@@ -1735,6 +1744,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2019,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2018,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",1,0,0,1,0,0,0,0,1,1,0,0,4
 "Brookline                     ",2017,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,0,0,0,0,2,0,0,0,0,0,0,2
+"Brookline                     ",2020,1109,"Refusing Issuance of Certificate of Title.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2019,1301,"Registration and Certificate of Title Required.",0,0,2,0,1,2,0,0,0,6,0,0,11
 "Brookline                     ",2018,1301,"Registration and Certificate of Title Required.",0,2,0,0,0,0,2,0,0,0,2,2,8
 "Brookline                     ",2015,1301,"Registration and Certificate of Title Required.",0,0,0,0,0,0,2,0,1,0,0,0,3
@@ -2140,6 +2150,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,2702,"Aggravated Assault.",1,0,1,4,0,2,4,2,0,1,5,0,20
 "Crafton Heights               ",2015,2702,"Aggravated Assault.",0,0,2,1,0,5,1,4,0,0,1,3,17
 "Crafton Heights               ",2018,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2020,9497,"Aided Case",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,9497,"Aided Case",2,0,0,3,1,1,3,0,0,0,0,2,12
 "Crafton Heights               ",2018,9497,"Aided Case",0,0,1,3,1,0,6,0,0,1,2,1,15
 "Crafton Heights               ",2017,9497,"Aided Case",2,2,1,4,0,4,0,0,0,0,0,1,14
@@ -2339,6 +2350,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2017,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",1,0,1,1,0,0,0,0,0,0,0,0,3
+"Crafton Heights               ",2020,2709(a)(3),"Harassment No Legitimate Purpose",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,1,1,0,0,1,1,0,0,0,4
 "Crafton Heights               ",2018,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Crafton Heights               ",2017,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,1,1,0,0,0,2
@@ -2767,7 +2779,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,4106,"Access Device Fraud",0,0,0,1,1,0,1,0,0,0,1,0,4
 "Elliott                       ",2015,4106,"Access Device Fraud",0,0,0,1,0,0,0,1,0,0,0,0,2
 "Elliott                       ",2017,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,3,0,1,0,1,1,6
-"Elliott                       ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,1,0,0,1,0,0,1,0,0,4
 "Elliott                       ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,1,1,0,1,1,0,2,2,1,11
 "Elliott                       ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,1,2,1,0,1,1,1,2,1,1,13
@@ -4214,6 +4226,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,1,1,3,1,1,1,0,2,1,1,13
 "Sheraden                      ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,1,0,0,3,0,0,1,1,0,8
 "Sheraden                      ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,1,0,0,0,0,0,0,1,1,3
+"Sheraden                      ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,1,0,0,1,0,3,1,0,4,1,1,14
 "Sheraden                      ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,4,4,0,4,0,0,3,2,1,2,4,25
 "Sheraden                      ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,2,1,3,4,0,1,5,4,0,8,3,34
@@ -4258,6 +4271,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9501,"Bench Warrant",4,6,4,4,14,5,10,6,1,4,2,2,62
 "Sheraden                      ",2016,9501,"Bench Warrant",2,2,5,11,4,3,0,2,5,2,6,4,46
 "Sheraden                      ",2015,9501,"Bench Warrant",0,0,0,2,6,2,0,2,3,2,2,2,21
+"Sheraden                      ",2020,3502,Burglary.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,3502,Burglary.,3,3,2,3,0,1,3,4,3,2,2,4,30
 "Sheraden                      ",2018,3502,Burglary.,4,2,0,1,4,3,6,5,6,1,5,3,40
 "Sheraden                      ",2017,3502,Burglary.,8,5,2,1,2,7,5,0,4,4,6,8,52
@@ -4330,8 +4344,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,1,2,0,0,0,3
 "Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
 "Sheraden                      ",2017,3503(a),"Criminal Trespass",0,0,0,0,3,0,0,0,0,0,0,0,3
-"Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
 "Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
+"Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
 "Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
 "Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2019,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -4542,6 +4556,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,2709.A1,"HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Sheraden                      ",2018,2709.A1,"HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2016,2709.A1,"HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Sheraden                      ",2020,2709(a),Harassment.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,2709(a),Harassment.,1,1,0,0,2,0,3,0,2,2,0,1,12
 "Sheraden                      ",2018,2709(a),Harassment.,0,0,0,0,1,3,0,0,4,2,2,2,14
 "Sheraden                      ",2017,2709(a),Harassment.,1,0,0,0,1,0,1,1,1,0,0,2,7
@@ -4946,6 +4961,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,0,0,0,0,0,1
 "West End                      ",2016,9498,"302 (Mental)",0,0,0,0,2,0,0,1,0,0,0,0,3
 "West End                      ",2015,9498,"302 (Mental)",0,0,0,0,0,0,1,0,0,0,0,0,1
+"West End                      ",2020,9999,"9999 - (Misc. Incident):",1,0,0,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2019,9999,"9999 - (Misc. Incident):",2,2,1,2,1,4,0,4,1,1,0,1,19
 "West End                      ",2018,9999,"9999 - (Misc. Incident):",1,0,0,1,0,2,0,2,2,3,1,3,15
 "West End                      ",2017,9999,"9999 - (Misc. Incident):",4,0,1,0,0,3,3,1,1,0,2,3,18
