@@ -101,7 +101,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "2",
-            "Feb": "1",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -112,7 +112,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "5"
         },
         {
             "Neighborhood": "Banksville",
@@ -8309,7 +8309,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "3",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -8320,7 +8320,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -10833,25 +10833,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "2",
-            "Jun": "0",
-            "Jul": "1",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "4"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2018",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -10867,6 +10848,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "9"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2018",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "2",
+            "Jun": "0",
+            "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -10947,25 +10947,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2015",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "1",
-            "Jul": "3",
-            "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
-            "Nov": "1",
-            "Dec": "0",
-            "Count": "6"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2015",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -10981,6 +10962,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "5"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2015",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "3",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -22387,7 +22387,7 @@
             "Year": "2020",
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
-            "Jan": "8",
+            "Jan": "9",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -22399,7 +22399,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Brookline",
@@ -22806,7 +22806,7 @@
             "Section": "3743",
             "Description": "Accidents Involving Damage to Attended Veh. or Property",
             "Jan": "5",
-            "Feb": "0",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -22817,7 +22817,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -23524,6 +23524,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2020",
+            "Section": "3301",
+            "Description": "Arson",
+            "Jan": "0",
+            "Feb": "2",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2019",
             "Section": "3301",
             "Description": "Arson",
@@ -23939,6 +23958,25 @@
             "Nov": "5",
             "Dec": "2",
             "Count": "50"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2020",
+            "Section": "3714",
+            "Description": "Careless Driving",
+            "Jan": "0",
+            "Feb": "2",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -24895,7 +24933,7 @@
             "Year": "2020",
             "Section": "3304",
             "Description": "Criminal Mischief.",
-            "Jan": "3",
+            "Jan": "4",
             "Feb": "1",
             "Mar": "0",
             "Apr": "0",
@@ -24907,7 +24945,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -25045,25 +25083,6 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2019",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "1",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "2",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "3"
-        },
-        {
-            "Neighborhood": "Brookline",
-            "Year": "2019",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "2",
@@ -25079,6 +25098,25 @@
             "Nov": "1",
             "Dec": "3",
             "Count": "9"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2019",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "2",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -27723,6 +27761,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2020",
+            "Section": "3744",
+            "Description": "Duty to Give Information and Render Aid",
+            "Jan": "0",
+            "Feb": "2",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2019",
             "Section": "4304(a)(1)",
             "Description": "Endangering Welfare of Children - Course of Conduct Enhanced",
@@ -29506,6 +29563,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "11"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2020",
+            "Section": "2709(a)(4)",
+            "Description": "Harassment Communicates Prohibited Acts",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -32439,7 +32515,7 @@
             "Section": "9998",
             "Description": "Overdose",
             "Jan": "3",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -32450,7 +32526,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -34066,6 +34142,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2020",
+            "Section": "3736",
+            "Description": "Reckless Driving",
+            "Jan": "0",
+            "Feb": "2",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -36561,7 +36656,7 @@
             "Year": "2020",
             "Section": "3921(a)",
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
-            "Jan": "2",
+            "Jan": "3",
             "Feb": "1",
             "Mar": "0",
             "Apr": "0",
@@ -36573,7 +36668,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -37292,6 +37387,25 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2020",
+            "Section": "3334",
+            "Description": "Turning Movements and Required Signals.",
+            "Jan": "0",
+            "Feb": "2",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
@@ -38949,6 +39063,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Chartiers City",
+            "Year": "2020",
+            "Section": "3304",
+            "Description": "Criminal Mischief.",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Chartiers City",
@@ -82427,7 +82560,7 @@
             "Year": "2020",
             "Section": "9498",
             "Description": "302 (Mental)",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -82439,7 +82572,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -91317,7 +91450,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -91336,7 +91469,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -108344,7 +108477,7 @@
             "Section": "4101",
             "Description": "Forgery.",
             "Jan": "6",
-            "Feb": "0",
+            "Feb": "6",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -108355,7 +108488,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "12"
         },
         {
             "Neighborhood": "Westwood",
@@ -112163,7 +112296,7 @@
             "Section": "3926(a)(1)",
             "Description": "Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "6",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -112174,7 +112307,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "7"
         },
         {
             "Neighborhood": "Westwood",
