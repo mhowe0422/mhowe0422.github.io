@@ -10833,25 +10833,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "1",
-            "Mar": "1",
-            "Apr": "2",
-            "May": "1",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "4",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "9"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2018",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -10867,6 +10848,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2018",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "1",
+            "Apr": "2",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "4",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "9"
         },
         {
             "Neighborhood": "Beechview",
@@ -10947,25 +10947,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2015",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "5",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "5"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2015",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -10981,6 +10962,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "6"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2015",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "5",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -15165,7 +15165,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8",
+            "Section": "517.8(A2)",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -15184,7 +15184,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8(A2)",
+            "Section": "517.8",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -83241,6 +83241,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2020",
+            "Section": "3354",
+            "Description": "Additional Parking Regulations.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2015",
             "Section": "3735.1",
             "Description": "Aggravated Assault While DUI",
@@ -85389,25 +85408,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2016",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "1",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "1",
-            "Nov": "0",
-            "Dec": "2",
-            "Count": "4"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2016",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "2",
@@ -85423,6 +85423,25 @@
             "Nov": "2",
             "Dec": "3",
             "Count": "17"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "2",
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -86509,6 +86528,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2020",
+            "Section": "5503(a)(3)",
+            "Description": "DISORDERLY CONDUCT - OBSCENE LANG\/GEST",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2019",
             "Section": "5503(a)(3)",
             "Description": "DISORDERLY CONDUCT - OBSCENE LANG\/GEST",
@@ -86714,6 +86752,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2020",
+            "Section": "1332",
+            "Description": "Display of Registration Plate.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
             "Count": "1"
         },
         {
@@ -86969,7 +87026,7 @@
             "Section": "1543",
             "Description": "Driving While Operating Privilege is Suspended or Revoked.",
             "Jan": "2",
-            "Feb": "0",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -86980,7 +87037,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -88330,6 +88387,25 @@
             "Nov": "2",
             "Dec": "4",
             "Count": "12"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2020",
+            "Section": "3733",
+            "Description": "Fleeing or Attempting to Elude Police Officer",
+            "Jan": "0",
+            "Feb": "2",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -91450,7 +91526,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -91469,7 +91545,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -95215,7 +95291,7 @@
             "Section": "2701",
             "Description": "Simple Assault.",
             "Jan": "9",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -95226,7 +95302,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Sheraden",
@@ -95519,7 +95595,7 @@
             "Section": "3323",
             "Description": "Stop Signs and Yield Signs.",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -95530,7 +95606,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -95633,7 +95709,7 @@
             "Section": "2718(a)(1)",
             "Description": "Strangulation - Applying Pressure to the Throat or Neck",
             "Jan": "4",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -95644,7 +95720,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -96317,7 +96393,7 @@
             "Section": "3934",
             "Description": "Theft from Vehicle",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -96328,7 +96404,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -96792,7 +96868,7 @@
             "Section": "3334",
             "Description": "Turning Movements and Required Signals.",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -96803,7 +96879,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -99889,7 +99965,7 @@
             "Section": "9124",
             "Description": "Drug Investigation",
             "Jan": "5",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -99900,7 +99976,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "West End",
@@ -112004,6 +112080,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "8"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2020",
+            "Section": "3921",
+            "Description": "Theft by Unlawful Taking or Disposition.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
