@@ -570,14 +570,14 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,1,7,1,0,0,1,1,13
-"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
+"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
 "Beechview                     ",2016,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Beechview                     ",2015,3503,"Criminal Trespass",0,0,0,0,0,1,3,0,1,0,1,0,6
 "Beechview                     ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,5,0,0,5
+"Beechview                     ",2015,3503,"Criminal Trespass",0,0,0,0,0,1,3,0,1,0,1,0,6
 "Beechview                     ",2019,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2017,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,1,0,0,0,0,0,2,0,0,3
 "Beechview                     ",2016,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,1,0,0,0,1,0,0,0,2
@@ -799,8 +799,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2019,5105,"Hindering Apprehension or Prosecution.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Beechview                     ",2015,5105,"Hindering Apprehension or Prosecution.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2019,517.8,"Home Improvement Fraud",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Beechview                     ",2018,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Beechview                     ",2018,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2017,"473.07 (a)","Hours of Parks 0600-2300 hrs.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2015,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2019,4120,"Identity Theft",1,2,0,0,0,0,2,0,3,1,1,0,10
@@ -1316,7 +1316,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,3,5,3,5,3,4,1,0,2,0,0,27
 "Brookline                     ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,0,1,1,2,8,2,0,3,0,2,20
 "Brookline                     ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,3,3,2,2,0,0,0,10
-"Brookline                     ",2020,3304,"Criminal Mischief.",4,1,0,0,0,0,0,0,0,0,0,0,5
+"Brookline                     ",2020,3304,"Criminal Mischief.",4,2,0,0,0,0,0,0,0,0,0,0,6
 "Brookline                     ",2019,3304,"Criminal Mischief.",4,0,3,2,11,7,3,3,4,3,6,3,49
 "Brookline                     ",2018,3304,"Criminal Mischief.",5,3,5,6,6,8,20,9,0,7,11,5,85
 "Brookline                     ",2017,3304,"Criminal Mischief.",6,6,6,7,9,1,7,6,13,7,6,4,78
@@ -1662,7 +1662,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,3718(a),"Minor Prohib from Operating w/ Alcohol in System",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Brookline                     ",2017,425.26,Miscellaneous,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2016,425.26,Miscellaneous,0,0,0,0,0,1,0,0,0,0,1,0,2
-"Brookline                     ",2020,9123,"Miscellaneous Fire Other Investigation to Continue",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2020,9123,"Miscellaneous Fire Other Investigation to Continue",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2019,9123,"Miscellaneous Fire Other Investigation to Continue",0,1,1,0,0,1,0,0,0,0,0,0,3
 "Brookline                     ",2018,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,1,0,0,0,0,0,1,0,2
 "Brookline                     ",2017,9123,"Miscellaneous Fire Other Investigation to Continue",0,1,0,0,0,0,0,1,1,0,0,0,3
@@ -1934,13 +1934,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,3922,"Theft by Deception.",0,0,0,3,2,0,0,2,1,0,1,0,9
 "Brookline                     ",2015,3922,"Theft by Deception.",0,0,2,0,0,3,1,0,0,2,0,1,9
 "Brookline                     ",2016,3923,"Theft by Extortion.",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,1,0,0,0,0,0,0,0,0,0,0,4
+"Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,3,0,0,0,0,0,0,0,0,0,0,6
 "Brookline                     ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,6,0,4,0,3,9,1,4,3,3,2,39
 "Brookline                     ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,8,4,6,3,2,4,6,5,5,3,0,50
 "Brookline                     ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,7,1,4,1,5,4,5,5,2,4,7,51
 "Brookline                     ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,3,1,4,2,6,9,4,4,5,4,7,55
 "Brookline                     ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,2,0,0,3,3,10,5,5,6,1,35
-"Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,2,0,0,0,0,0,0,0,0,0,0,3
+"Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,3,0,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2019,3921,"Theft by Unlawful Taking or Disposition.",2,3,4,6,9,6,8,4,8,6,4,2,62
 "Brookline                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,4,4,8,1,6,7,5,2,5,4,2,49
 "Brookline                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",3,0,3,7,4,5,6,7,8,10,5,8,66
@@ -2193,7 +2193,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2019,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,1,0,0,0,2,0,0,0,0,3
 "Chartiers City                ",2016,3928,"Unauthorized Use of Automobile and Other Vehicles.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Chartiers City                ",2018,3131(c)(2),"Unlawful dissemination of intimate image -- Person depicted is NOT a minor (M2)",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Crafton Heights               ",2020,9498,"302 (Mental)",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2020,9498,"302 (Mental)",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2019,9498,"302 (Mental)",1,0,1,0,1,1,0,0,1,0,1,3,9
 "Crafton Heights               ",2018,9498,"302 (Mental)",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2017,9498,"302 (Mental)",2,1,1,0,1,0,0,1,0,0,1,0,7
@@ -2866,7 +2866,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2017,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "East Carnegie                 ",2016,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,0,1,0,1,0,1,2,0,6
 "East Carnegie                 ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,2,0,0,0,0,0,0,2
-"East Carnegie                 ",2020,3934,"Theft from Vehicle",0,1,0,0,0,0,0,0,0,0,0,0,1
+"East Carnegie                 ",2020,3934,"Theft from Vehicle",0,2,0,0,0,0,0,0,0,0,0,0,2
 "East Carnegie                 ",2018,3934,"Theft from Vehicle",0,0,0,0,0,0,0,0,0,1,0,0,1
 "East Carnegie                 ",2017,3934,"Theft from Vehicle",0,1,3,0,0,0,0,0,0,0,1,0,5
 "East Carnegie                 ",2016,3934,"Theft from Vehicle",0,0,0,0,0,4,0,1,1,0,0,0,6
@@ -3777,6 +3777,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2017,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Esplen                        ",2016,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Esplen                        ",2015,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Esplen                        ",2020,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2019,3112,"Traffic-Control Signals.",1,0,0,0,1,1,0,0,0,0,0,0,3
 "Esplen                        ",2017,3112,"Traffic-Control Signals.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2019,3717,"Trespass by Motor Vehicle",0,0,0,0,0,0,0,0,0,0,1,0,1
@@ -3915,6 +3916,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2016,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Fairywood                     ",2018,2709(a)(3),"Harassment No Legitimate Purpose",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Fairywood                     ",2017,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Fairywood                     ",2020,2709(a),Harassment.,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2019,2709(a),Harassment.,0,0,0,0,0,0,0,0,0,0,0,2,2
 "Fairywood                     ",2018,2709(a),Harassment.,0,2,1,0,0,0,0,0,0,0,0,0,3
 "Fairywood                     ",2017,2709(a),Harassment.,0,0,0,0,0,0,0,0,0,0,1,0,1
@@ -4193,6 +4195,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2015,1786,"Required Financial Responsibility.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2015,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Oakwood                       ",2018,7513,"Restriction on Alcoholic Beverages - Open Container",0,0,0,0,2,0,0,0,0,0,0,0,2
+"Oakwood                       ",2020,3929,"Retail Theft.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2019,3929,"Retail Theft.",3,0,1,1,1,0,1,1,0,0,0,0,8
 "Oakwood                       ",2018,3929,"Retail Theft.",1,0,0,0,0,0,1,1,1,0,3,4,11
 "Oakwood                       ",2017,3929,"Retail Theft.",1,2,0,0,0,0,0,0,0,0,0,0,3
@@ -4296,6 +4299,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2016,4101,Forgery.,0,0,0,0,0,0,0,1,0,0,0,0,1
 "Ridgemont                     ",2016,4103,"Fraud. Destruct., Remov. or Conceal.of Record. Instr.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Ridgemont                     ",2015,9130,"Graffiti Investigation",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Ridgemont                     ",2020,2709,"Harassment (Non-Specific)",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Ridgemont                     ",2019,2709,"Harassment (Non-Specific)",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Ridgemont                     ",2018,2709,"Harassment (Non-Specific)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Ridgemont                     ",2019,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -4370,6 +4374,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9999,"9999 - (Misc. Incident):",7,4,6,5,7,7,9,6,10,5,6,8,80
 "Sheraden                      ",2016,9999,"9999 - (Misc. Incident):",7,2,4,2,12,7,6,5,5,7,8,9,74
 "Sheraden                      ",2015,9999,"9999 - (Misc. Incident):",0,0,7,5,7,12,2,3,6,4,3,4,53
+"Sheraden                      ",2020,4106,"Access Device Fraud",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,4106,"Access Device Fraud",3,0,0,0,0,1,0,2,0,1,3,3,13
 "Sheraden                      ",2018,4106,"Access Device Fraud",0,1,2,1,2,0,4,0,0,3,3,1,17
 "Sheraden                      ",2017,4106,"Access Device Fraud",1,0,3,1,0,0,3,3,0,1,0,0,12
@@ -4503,8 +4508,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3304,"Criminal Mischief.",11,6,13,8,4,8,16,12,4,3,4,2,91
 "Sheraden                      ",2016,3304,"Criminal Mischief.",7,2,5,12,3,4,6,10,3,10,6,4,72
 "Sheraden                      ",2015,3304,"Criminal Mischief.",0,0,1,5,4,7,8,6,7,6,6,3,53
-"Sheraden                      ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Sheraden                      ",2019,3503,"Criminal Trespass",3,0,2,0,0,0,2,5,0,1,0,0,13
+"Sheraden                      ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Sheraden                      ",2018,3503,"Criminal Trespass",0,0,0,0,0,0,0,2,2,0,1,1,6
 "Sheraden                      ",2018,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,1,2,0,0,0,3
 "Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
@@ -5085,13 +5090,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,4,4,2,2,2,0,2,2,3,9,3,38
 "Sheraden                      ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,0,2,2,1,5,5,7,7,1,0,9,44
 "Sheraden                      ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,3,2,3,4,2,5,3,3,1,3,29
-"Sheraden                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",5,1,0,0,0,0,0,0,0,0,0,0,6
+"Sheraden                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",5,2,0,0,0,0,0,0,0,0,0,0,7
 "Sheraden                      ",2019,3921,"Theft by Unlawful Taking or Disposition.",1,4,2,0,4,2,3,4,5,2,2,1,30
 "Sheraden                      ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,2,5,1,2,1,1,3,5,2,1,3,27
 "Sheraden                      ",2017,3921,"Theft by Unlawful Taking or Disposition.",11,7,4,4,4,3,8,2,1,3,7,2,56
 "Sheraden                      ",2016,3921,"Theft by Unlawful Taking or Disposition.",3,3,7,7,3,5,6,8,1,4,2,2,51
 "Sheraden                      ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,2,4,2,5,1,2,3,3,5,27
-"Sheraden                      ",2020,3934,"Theft from Vehicle",1,2,0,0,0,0,0,0,0,0,0,0,3
+"Sheraden                      ",2020,3934,"Theft from Vehicle",1,4,0,0,0,0,0,0,0,0,0,0,5
 "Sheraden                      ",2019,3934,"Theft from Vehicle",10,2,1,0,4,0,1,4,5,4,0,2,33
 "Sheraden                      ",2018,3934,"Theft from Vehicle",0,0,2,0,2,1,1,2,0,11,0,2,21
 "Sheraden                      ",2017,3934,"Theft from Vehicle",4,0,1,3,0,2,6,0,6,1,1,1,25
@@ -6033,6 +6038,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2019,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Windgap                       ",2016,5511,"Cruelty to Animals.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2017,633.20,"Dangerous Dogs",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Windgap                       ",2020,9496,"Dead on Arrival (DOA)",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2019,9496,"Dead on Arrival (DOA)",1,0,1,1,0,0,0,0,0,0,0,0,3
 "Windgap                       ",2017,9496,"Dead on Arrival (DOA)",1,0,0,1,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2016,9496,"Dead on Arrival (DOA)",0,0,0,0,1,1,0,0,1,0,1,0,4
