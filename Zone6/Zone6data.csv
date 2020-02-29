@@ -396,7 +396,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,2706,"Terroristic Threats.",0,2,0,0,0,3,0,4,0,0,0,0,9
 "Banksville                    ",2016,2706,"Terroristic Threats.",0,0,0,0,0,0,0,2,1,0,0,0,3
 "Banksville                    ",2015,2706,"Terroristic Threats.",0,0,0,0,4,0,0,0,1,0,0,0,5
-"Banksville                    ",2020,3922,"Theft by Deception.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Banksville                    ",2020,3922,"Theft by Deception.",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2019,3922,"Theft by Deception.",0,0,0,1,0,0,0,1,1,0,0,0,3
 "Banksville                    ",2018,3922,"Theft by Deception.",0,0,1,0,0,0,1,1,0,0,1,0,4
 "Banksville                    ",2017,3922,"Theft by Deception.",1,1,0,0,0,0,0,0,0,0,0,0,2
@@ -576,8 +576,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,1,7,1,0,0,1,1,13
-"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
+"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
@@ -1229,7 +1229,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,4,3,1,2,0,4,1,2,2,0,25
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",4,5,3,2,1,3,5,7,1,4,3,1,39
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,3,3,2,6,4,0,3,4,9,4,38
-"Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,4,0,0,0,0,0,0,0,0,0,0,6
+"Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,5,0,0,0,0,0,0,0,0,0,0,7
 "Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,8,6,2,10,68
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,8,7,4,4,5,9,6,6,8,64
 "Brookline                     ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,5,6,2,3,6,5,5,7,3,9,6,63
@@ -1965,7 +1965,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,3922,"Theft by Deception.",0,0,0,3,2,0,0,2,1,0,1,0,9
 "Brookline                     ",2015,3922,"Theft by Deception.",0,0,2,0,0,3,1,0,0,2,0,1,9
 "Brookline                     ",2016,3923,"Theft by Extortion.",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,4,0,0,0,0,0,0,0,0,0,0,7
+"Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,5,0,0,0,0,0,0,0,0,0,0,8
 "Brookline                     ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,6,0,4,0,3,9,1,4,3,3,2,39
 "Brookline                     ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,8,4,6,3,2,4,6,5,5,3,0,50
 "Brookline                     ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,7,1,4,1,5,4,5,5,2,4,7,51
@@ -1977,7 +1977,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",3,0,3,7,4,5,6,7,8,10,5,8,66
 "Brookline                     ",2016,3921,"Theft by Unlawful Taking or Disposition.",5,7,2,8,5,7,5,3,8,6,7,8,71
 "Brookline                     ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,3,5,8,6,3,5,5,4,2,42
-"Brookline                     ",2020,3934,"Theft from Vehicle",1,4,0,0,0,0,0,0,0,0,0,0,5
+"Brookline                     ",2020,3934,"Theft from Vehicle",1,6,0,0,0,0,0,0,0,0,0,0,7
 "Brookline                     ",2019,3934,"Theft from Vehicle",0,8,4,0,4,11,4,5,3,1,2,1,43
 "Brookline                     ",2018,3934,"Theft from Vehicle",2,2,16,4,3,0,4,5,5,3,14,1,59
 "Brookline                     ",2017,3934,"Theft from Vehicle",9,2,1,6,1,2,1,3,2,4,2,10,43
@@ -3186,7 +3186,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2015,9489,"Found Property",0,0,0,0,0,0,1,0,0,0,0,1,2
 "Elliott                       ",2016,7124,"Fraudulent Use or Removal of Registration Plates",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Elliott                       ",2016,100,Fugitive,0,0,2,0,0,0,0,0,0,0,0,0,2
-"Elliott                       ",2020,4303,"General Lighting Requirements.",0,2,0,0,0,0,0,0,0,0,0,0,2
+"Elliott                       ",2020,4303,"General Lighting Requirements.",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Elliott                       ",2019,4303,"General Lighting Requirements.",0,0,0,0,0,0,1,2,0,0,0,0,3
 "Elliott                       ",2018,4303,"General Lighting Requirements.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Elliott                       ",2017,4303,"General Lighting Requirements.",0,0,0,0,0,0,0,1,2,0,0,0,3
@@ -3377,6 +3377,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,3925,"Receiving Stolen Property.",6,4,0,1,1,0,0,0,0,0,1,0,13
 "Elliott                       ",2016,3925,"Receiving Stolen Property.",0,0,0,0,0,0,4,4,0,0,0,0,8
 "Elliott                       ",2015,3925,"Receiving Stolen Property.",0,0,1,6,3,3,0,0,0,0,0,0,13
+"Elliott                       ",2020,3736,"Reckless Driving",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2019,3736,"Reckless Driving",1,2,2,0,2,0,0,0,2,0,0,0,9
 "Elliott                       ",2018,3736,"Reckless Driving",0,0,1,0,1,0,2,0,0,0,0,2,6
 "Elliott                       ",2017,3736,"Reckless Driving",1,0,1,2,0,0,2,1,2,0,0,1,10
@@ -3784,6 +3785,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2017,3929,"Retail Theft.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Esplen                        ",2016,3929,"Retail Theft.",0,0,0,0,0,0,1,0,2,0,0,0,3
 "Esplen                        ",2017,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,0,0,0,0,4,0,0,0,0,4
+"Esplen                        ",2020,3701,Robbery.,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2019,3701,Robbery.,0,1,0,1,1,1,0,0,2,0,0,1,7
 "Esplen                        ",2018,3701,Robbery.,0,0,0,0,1,2,0,0,2,0,0,0,5
 "Esplen                        ",2017,3701,Robbery.,0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -4824,6 +4826,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2017,4912,"Impersonating a Public Servant.",0,1,0,0,1,0,0,0,0,0,0,0,2
+"Sheraden                      ",2020,9093,"Indirect Criminal Contempt",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,9093,"Indirect Criminal Contempt",0,2,4,1,4,4,0,0,2,0,0,1,18
 "Sheraden                      ",2018,9093,"Indirect Criminal Contempt",0,3,2,3,1,0,0,1,7,4,4,0,25
 "Sheraden                      ",2017,9093,"Indirect Criminal Contempt",2,0,0,6,0,2,1,2,0,2,0,2,17
@@ -5141,7 +5144,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,4910,"Tampering with or Fabricating Physical Evidence.",1,2,2,0,0,0,0,0,0,0,0,1,6
 "Sheraden                      ",2016,4910,"Tampering with or Fabricating Physical Evidence.",0,0,2,0,2,0,0,2,0,0,2,0,8
 "Sheraden                      ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,0,0,0,0,0,0,2,2
-"Sheraden                      ",2020,2706,"Terroristic Threats.",1,3,0,0,0,0,0,0,0,0,0,0,4
+"Sheraden                      ",2020,2706,"Terroristic Threats.",1,4,0,0,0,0,0,0,0,0,0,0,5
 "Sheraden                      ",2019,2706,"Terroristic Threats.",5,1,3,2,8,3,7,4,1,0,3,0,37
 "Sheraden                      ",2018,2706,"Terroristic Threats.",3,1,4,1,2,0,3,2,2,0,2,4,24
 "Sheraden                      ",2017,2706,"Terroristic Threats.",5,2,11,3,2,2,3,1,1,0,0,3,33
