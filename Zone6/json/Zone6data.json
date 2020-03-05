@@ -10647,7 +10647,7 @@
             "Description": "CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property)",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -10657,7 +10657,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -15450,7 +15450,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8",
+            "Section": "517.8(A2)",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -15469,7 +15469,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8(A2)",
+            "Section": "517.8",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -22275,7 +22275,7 @@
             "Description": "Unauthorized Use of Automobile and Other Vehicles.",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -22285,7 +22285,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -22750,7 +22750,7 @@
             "Description": "302 (Mental)",
             "Jan": "4",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -22760,7 +22760,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -22996,7 +22996,7 @@
             "Section": "4106",
             "Description": "Access Device Fraud",
             "Jan": "3",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -23007,7 +23007,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -23871,7 +23871,7 @@
             "Description": "Aided Case",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -23881,7 +23881,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -23980,6 +23980,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2020",
+            "Section": "3363",
+            "Description": "Alteration of Maximum Limits.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "2",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2015",
             "Section": "7122",
             "Description": "Altered, Forged or Counterfeit Documents and Plates",
@@ -24042,7 +24061,7 @@
             "Description": "Arson",
             "Jan": "0",
             "Feb": "4",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -24052,7 +24071,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -25710,25 +25729,6 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2017",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Brookline",
-            "Year": "2017",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -25744,6 +25744,25 @@
             "Nov": "2",
             "Dec": "0",
             "Count": "10"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2017",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -26982,6 +27001,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2020",
+            "Section": "5503(a)(3)",
+            "Description": "DISORDERLY CONDUCT - OBSCENE LANG\/GEST",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2019",
             "Section": "5503(a)(3)",
             "Description": "DISORDERLY CONDUCT - OBSCENE LANG\/GEST",
@@ -28013,7 +28051,7 @@
             "Description": "DUI - General Impairment",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -28023,7 +28061,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -31941,6 +31979,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2020",
+            "Section": "13(a)(31)",
+            "Description": "Marijuana: Possession Small Amount",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "2",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2019",
             "Section": "13(a)(31)",
             "Description": "Marijuana: Possession Small Amount",
@@ -33466,7 +33523,7 @@
             "Description": "Paraphernalia - Use or Possession",
             "Jan": "2",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -33476,7 +33533,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -34529,7 +34586,7 @@
             "Section": "5505",
             "Description": "Public Drunkenness",
             "Jan": "2",
-            "Feb": "3",
+            "Feb": "4",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -34540,7 +34597,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -37531,7 +37588,7 @@
             "Section": "3921",
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "1",
-            "Feb": "6",
+            "Feb": "7",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -37542,7 +37599,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Brookline",
@@ -78400,7 +78457,7 @@
             "Section": "3745",
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -78411,7 +78468,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Oakwood",
@@ -87140,8 +87197,8 @@
             "Section": "3304",
             "Description": "Criminal Mischief.",
             "Jan": "3",
-            "Feb": "2",
-            "Mar": "0",
+            "Feb": "3",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -87151,7 +87208,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -90936,6 +90993,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2020",
+            "Section": "2709.A3",
+            "Description": "HARASSMENT - COURSE OF CONDUCT W\/NO LEGIT. PURPOSE",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2019",
             "Section": "2709.A3",
             "Description": "HARASSMENT - COURSE OF CONDUCT W\/NO LEGIT. PURPOSE",
@@ -91681,7 +91757,7 @@
             "Section": "2709(a)",
             "Description": "Harassment.",
             "Jan": "1",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -91692,7 +91768,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -92024,7 +92100,7 @@
             "Description": "Indirect Criminal Contempt",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -92034,7 +92110,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -93654,7 +93730,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -93673,7 +93749,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -94657,6 +94733,25 @@
             "Nov": "0",
             "Dec": "3",
             "Count": "6"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2020",
+            "Section": "9994",
+            "Description": "PFA Service",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -96963,7 +97058,7 @@
             "Section": "8106",
             "Description": "Shots Fired",
             "Jan": "1",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -96974,7 +97069,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -97477,7 +97572,7 @@
             "Description": "Simple Assault.",
             "Jan": "9",
             "Feb": "5",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -97487,7 +97582,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Sheraden",
@@ -97634,6 +97729,25 @@
             "May": "0",
             "Jun": "0",
             "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2020",
+            "Section": "2709(b)",
+            "Description": "Stalking",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
@@ -98464,7 +98578,7 @@
             "Section": "3921",
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "5",
-            "Feb": "2",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -98475,7 +98589,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Sheraden",
@@ -100688,7 +100802,7 @@
             "Description": "Bench Warrant",
             "Jan": "4",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -100698,7 +100812,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "8"
         },
         {
             "Neighborhood": "West End",
@@ -115279,7 +115393,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -115290,7 +115404,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Windgap",
