@@ -1902,6 +1902,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2020",
+            "Section": "9496",
+            "Description": "Dead on Arrival (DOA)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2019",
             "Section": "9496",
             "Description": "Dead on Arrival (DOA)",
@@ -17145,7 +17164,7 @@
             "Description": "Missing Persons (18 and Over)",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -17155,7 +17174,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -20584,7 +20603,7 @@
             "Description": "Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -20594,7 +20613,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -20698,7 +20717,7 @@
             "Description": "Simple Assault.",
             "Jan": "7",
             "Feb": "5",
-            "Mar": "3",
+            "Mar": "5",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -20708,7 +20727,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "17"
         },
         {
             "Neighborhood": "Beechview",
@@ -22959,7 +22978,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "9",
             "Feb": "4",
-            "Mar": "7",
+            "Mar": "8",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -22969,7 +22988,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "20"
+            "Count": "21"
         },
         {
             "Neighborhood": "Brookline",
@@ -23510,7 +23529,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "2",
             "Feb": "5",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -23520,7 +23539,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Brookline",
@@ -24498,7 +24517,7 @@
             "Description": "Burglary.",
             "Jan": "4",
             "Feb": "0",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -24508,7 +24527,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -25767,25 +25786,6 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2019",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "2",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "1",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "1",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "1",
-            "Nov": "1",
-            "Dec": "3",
-            "Count": "9"
-        },
-        {
-            "Neighborhood": "Brookline",
-            "Year": "2019",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -25801,6 +25801,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2019",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "2",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "1",
+            "Dec": "3",
+            "Count": "9"
         },
         {
             "Neighborhood": "Brookline",
@@ -56342,7 +56361,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "1",
             "Feb": "5",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -56352,7 +56371,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Elliott",
@@ -63239,7 +63258,7 @@
             "Description": "Missing Juvenile",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -63249,7 +63268,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -85507,7 +85526,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "2",
             "Feb": "6",
-            "Mar": "5",
+            "Mar": "7",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -85517,7 +85536,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "15"
         },
         {
             "Neighborhood": "Sheraden",
@@ -93107,7 +93126,7 @@
             "Description": "Indirect Criminal Contempt",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -93117,7 +93136,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -94063,6 +94082,25 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2020",
+            "Section": "9123",
+            "Description": "Miscellaneous Fire Other Investigation to Continue",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
@@ -99681,7 +99719,7 @@
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "5",
             "Feb": "3",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -99691,7 +99729,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Sheraden",
