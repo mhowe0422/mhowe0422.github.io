@@ -447,7 +447,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,0,0,2,4
 "Beechview                     ",2016,9498,"302 (Mental)",0,0,0,0,1,1,1,2,0,0,1,1,7
 "Beechview                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,2,1,0,0,3
-"Beechview                     ",2020,9999,"9999 - (Misc. Incident):",3,4,4,0,0,0,0,0,0,0,0,0,11
+"Beechview                     ",2020,9999,"9999 - (Misc. Incident):",3,4,5,0,0,0,0,0,0,0,0,0,12
 "Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,12,4,7,10,7,5,7,6,87
 "Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,8,4,8,10,9,6,6,5,4,81
 "Beechview                     ",2017,9999,"9999 - (Misc. Incident):",7,5,10,4,5,6,9,9,8,3,6,4,76
@@ -1619,7 +1619,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",1,0,1,1,0,0,0,0,1,1,0,0,5
 "Brookline                     ",2016,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",1,0,1,1,2,0,0,1,0,0,1,0,7
 "Brookline                     ",2015,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,0,0,1,0,0,0,1,0,2
-"Brookline                     ",2020,2709(a)(3),"Harassment No Legitimate Purpose",2,1,1,0,0,0,0,0,0,0,0,0,4
+"Brookline                     ",2020,2709(a)(3),"Harassment No Legitimate Purpose",2,1,2,0,0,0,0,0,0,0,0,0,5
 "Brookline                     ",2019,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,1,2,0,1,2,2,0,0,8
 "Brookline                     ",2018,2709(a)(3),"Harassment No Legitimate Purpose",0,6,0,1,1,1,2,2,2,0,0,0,15
 "Brookline                     ",2017,2709(a)(3),"Harassment No Legitimate Purpose",2,0,0,0,1,3,3,0,0,1,1,0,11
@@ -1652,7 +1652,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,4912,"Impersonating a Public Servant.",0,0,0,0,2,1,0,0,0,0,0,0,3
 "Brookline                     ",2016,4912,"Impersonating a Public Servant.",3,2,2,4,1,0,0,6,1,0,1,0,20
 "Brookline                     ",2015,4912,"Impersonating a Public Servant.",0,0,0,0,0,1,2,1,0,1,1,1,7
-"Brookline                     ",2020,9093,"Indirect Criminal Contempt",1,2,2,0,0,0,0,0,0,0,0,0,5
+"Brookline                     ",2020,9093,"Indirect Criminal Contempt",1,2,3,0,0,0,0,0,0,0,0,0,6
 "Brookline                     ",2019,9093,"Indirect Criminal Contempt",0,0,0,0,1,2,0,3,0,0,0,2,8
 "Brookline                     ",2018,9093,"Indirect Criminal Contempt",0,0,3,0,0,2,1,0,2,1,0,2,11
 "Brookline                     ",2017,9093,"Indirect Criminal Contempt",0,0,0,1,0,0,2,2,2,1,0,0,8
@@ -4506,7 +4506,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9498,"302 (Mental)",1,0,2,1,0,0,2,1,1,1,1,0,10
 "Sheraden                      ",2016,9498,"302 (Mental)",0,1,1,0,0,0,0,0,1,1,0,0,4
 "Sheraden                      ",2015,9498,"302 (Mental)",0,0,0,0,0,3,1,0,1,0,1,0,6
-"Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",2,6,7,0,0,0,0,0,0,0,0,0,15
+"Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",2,6,8,0,0,0,0,0,0,0,0,0,16
 "Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,3,2,8,1,8,6,5,2,5,5,7,56
 "Sheraden                      ",2018,9999,"9999 - (Misc. Incident):",8,8,3,5,5,7,8,7,10,7,5,2,75
 "Sheraden                      ",2017,9999,"9999 - (Misc. Incident):",7,4,6,5,7,7,9,6,10,5,6,8,80
@@ -5173,7 +5173,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,3701,Robbery.,0,0,1,1,1,4,7,1,1,4,3,2,25
 "Sheraden                      ",2019,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2020,8106,"Shots Fired",1,3,4,0,0,0,0,0,0,0,0,0,8
+"Sheraden                      ",2020,8106,"Shots Fired",1,3,5,0,0,0,0,0,0,0,0,0,9
 "Sheraden                      ",2019,8106,"Shots Fired",0,0,0,8,9,0,7,3,0,3,0,3,33
 "Sheraden                      ",2018,8106,"Shots Fired",2,0,0,1,2,2,1,2,0,0,1,1,12
 "Sheraden                      ",2017,8106,"Shots Fired",1,1,1,0,1,1,3,1,0,0,3,0,12
