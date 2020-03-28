@@ -520,7 +520,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9501,"Bench Warrant",5,5,2,2,0,4,2,2,2,7,2,2,35
 "Beechview                     ",2016,9501,"Bench Warrant",2,2,3,2,8,0,6,0,0,1,0,0,24
 "Beechview                     ",2015,9501,"Bench Warrant",0,0,0,0,4,0,0,2,2,3,3,0,14
-"Beechview                     ",2020,3502,Burglary.,3,3,1,0,0,0,0,0,0,0,0,0,7
+"Beechview                     ",2020,3502,Burglary.,3,3,2,0,0,0,0,0,0,0,0,0,8
 "Beechview                     ",2019,3502,Burglary.,0,1,0,2,2,2,7,0,0,0,3,1,18
 "Beechview                     ",2018,3502,Burglary.,3,1,1,3,1,2,1,2,1,4,2,0,21
 "Beechview                     ",2017,3502,Burglary.,4,3,1,3,4,1,1,2,0,5,6,0,30
@@ -1240,7 +1240,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,4,3,1,2,0,4,1,2,2,0,25
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",4,5,3,2,1,3,5,7,1,4,3,1,39
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,3,3,2,6,4,0,3,4,9,4,38
-"Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,5,1,0,0,0,0,0,0,0,0,0,8
+"Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,5,2,0,0,0,0,0,0,0,0,0,9
 "Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,8,6,2,10,68
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,8,7,4,4,5,9,6,6,8,64
 "Brookline                     ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,5,6,2,3,6,5,5,7,3,9,6,63
@@ -1994,7 +1994,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,7,1,4,1,5,4,5,5,2,4,7,51
 "Brookline                     ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,3,1,4,2,6,9,4,4,5,4,7,55
 "Brookline                     ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,2,0,0,3,3,10,5,5,6,1,35
-"Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,7,2,0,0,0,0,0,0,0,0,0,10
+"Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,7,3,0,0,0,0,0,0,0,0,0,11
 "Brookline                     ",2019,3921,"Theft by Unlawful Taking or Disposition.",2,3,4,6,9,6,8,4,8,6,4,2,62
 "Brookline                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,4,4,8,1,6,7,5,2,5,4,2,49
 "Brookline                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",3,0,3,7,4,5,6,7,8,10,5,8,66
@@ -2303,7 +2303,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,2702,"Aggravated Assault.",1,0,1,4,0,2,4,2,0,1,5,0,20
 "Crafton Heights               ",2015,2702,"Aggravated Assault.",0,0,2,1,0,5,1,4,0,0,1,3,17
 "Crafton Heights               ",2018,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2020,9497,"Aided Case",2,1,1,0,0,0,0,0,0,0,0,0,4
+"Crafton Heights               ",2020,9497,"Aided Case",2,1,2,0,0,0,0,0,0,0,0,0,5
 "Crafton Heights               ",2019,9497,"Aided Case",2,0,0,3,1,1,3,0,0,0,0,2,12
 "Crafton Heights               ",2018,9497,"Aided Case",0,0,1,3,1,0,6,0,0,1,2,1,15
 "Crafton Heights               ",2017,9497,"Aided Case",2,2,1,4,0,4,0,0,0,0,0,1,14
@@ -3256,7 +3256,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,2709,"Harassment (Non-Specific)",2,0,0,0,3,1,0,1,0,0,0,0,7
 "Elliott                       ",2015,2709,"Harassment (Non-Specific)",0,0,0,2,1,0,0,0,0,0,0,0,3
 "Elliott                       ",2018,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Elliott                       ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,2,0,0,0,0,0,0,0,0,0,2
+"Elliott                       ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,4,0,0,0,0,0,0,0,0,0,4
 "Elliott                       ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,0,1,2,3,0,3,0,4,1,0,2,18
 "Elliott                       ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,1,1,0,2,0,2,1,0,1,8
 "Elliott                       ",2017,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,1,0,0,1,0,2,1,1,1,2,1,12
@@ -3510,7 +3510,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",5,0,2,0,0,4,0,2,0,2,0,0,15
 "Elliott                       ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,2,3,4,0,1,0,0,10
 "Elliott                       ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,3,0,0,0,2,0,0,2,0,2,9
-"Elliott                       ",2020,2701,"Simple Assault.",7,1,4,0,0,0,0,0,0,0,0,0,12
+"Elliott                       ",2020,2701,"Simple Assault.",7,1,6,0,0,0,0,0,0,0,0,0,14
 "Elliott                       ",2019,2701,"Simple Assault.",0,7,1,4,0,5,4,6,1,4,4,2,38
 "Elliott                       ",2018,2701,"Simple Assault.",3,0,3,2,4,0,3,6,6,6,3,2,38
 "Elliott                       ",2017,2701,"Simple Assault.",7,7,5,3,6,3,5,2,3,2,4,3,50
@@ -4910,7 +4910,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2017,4912,"Impersonating a Public Servant.",0,1,0,0,1,0,0,0,0,0,0,0,2
-"Sheraden                      ",2020,9093,"Indirect Criminal Contempt",0,1,4,0,0,0,0,0,0,0,0,0,5
+"Sheraden                      ",2020,9093,"Indirect Criminal Contempt",0,1,5,0,0,0,0,0,0,0,0,0,6
 "Sheraden                      ",2019,9093,"Indirect Criminal Contempt",0,2,4,1,4,4,0,0,2,0,0,1,18
 "Sheraden                      ",2018,9093,"Indirect Criminal Contempt",0,3,2,3,1,0,0,1,7,4,4,0,25
 "Sheraden                      ",2017,9093,"Indirect Criminal Contempt",2,0,0,6,0,2,1,2,0,2,0,2,17
