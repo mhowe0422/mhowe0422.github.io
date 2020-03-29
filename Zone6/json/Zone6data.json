@@ -11099,25 +11099,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "2",
-            "Jun": "0",
-            "Jul": "1",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "4"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2018",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -11133,6 +11114,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "9"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2018",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "2",
+            "Jun": "0",
+            "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -25881,25 +25881,6 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2019",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "2",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "1",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "1",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "1",
-            "Nov": "1",
-            "Dec": "3",
-            "Count": "9"
-        },
-        {
-            "Neighborhood": "Brookline",
-            "Year": "2019",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -25915,6 +25896,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2019",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "2",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "1",
+            "Dec": "3",
+            "Count": "9"
         },
         {
             "Neighborhood": "Brookline",
@@ -25938,25 +25938,6 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2017",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Brookline",
-            "Year": "2017",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -25972,6 +25953,25 @@
             "Nov": "2",
             "Dec": "0",
             "Count": "10"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2017",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -48001,7 +48001,7 @@
             "Description": "Harassment.",
             "Jan": "3",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -48011,7 +48011,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -57178,7 +57178,7 @@
             "Description": "Aided Case",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -57188,7 +57188,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -58199,6 +58199,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2020",
+            "Section": "903",
+            "Description": "Criminal Conspiracy.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "2",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2019",
             "Section": "903",
             "Description": "Criminal Conspiracy.",
@@ -58921,6 +58940,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2020",
+            "Section": "7512",
+            "Description": "Criminal Use of Communication",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "2",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2019",
             "Section": "7512",
             "Description": "Criminal Use of Communication",
@@ -59222,6 +59260,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2020",
+            "Section": "13(a)(30)*",
+            "Description": "Delivery of Controlled Substance",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "2",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -64607,7 +64664,7 @@
             "Description": "Possession of Controlled Substance",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -64617,7 +64674,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -64713,6 +64770,25 @@
             "Nov": "10",
             "Dec": "2",
             "Count": "52"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2020",
+            "Section": "13(a)(30)",
+            "Description": "Possession w\/ Intent to Del. Controlled Substance",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "2",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -86357,6 +86433,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2020",
+            "Section": "2702",
+            "Description": "Aggravated Assault.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2019",
             "Section": "2702",
             "Description": "Aggravated Assault.",
@@ -86495,7 +86590,7 @@
             "Description": "Aided Case",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -86505,7 +86600,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -95022,7 +95117,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -95041,7 +95136,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -98902,7 +98997,7 @@
             "Description": "Simple Assault.",
             "Jan": "9",
             "Feb": "5",
-            "Mar": "9",
+            "Mar": "11",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -98912,7 +99007,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "23"
+            "Count": "25"
         },
         {
             "Neighborhood": "Sheraden",
@@ -99339,7 +99434,7 @@
             "Description": "Strangulation - Applying Pressure to the Throat or Neck",
             "Jan": "4",
             "Feb": "5",
-            "Mar": "6",
+            "Mar": "8",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -99349,7 +99444,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "17"
         },
         {
             "Neighborhood": "Sheraden",
@@ -109675,7 +109770,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "5",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -109685,7 +109780,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Westwood",
@@ -110085,6 +110180,25 @@
             "Nov": "1",
             "Dec": "1",
             "Count": "6"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2020",
+            "Section": "3745",
+            "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
