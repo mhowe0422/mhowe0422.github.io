@@ -585,8 +585,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2015,3304,"Criminal Mischief.",0,0,1,3,4,4,11,7,4,4,7,7,52
 "Beechview                     ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,1,7,1,0,0,1,1,13
-"Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
+"Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
@@ -934,7 +934,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2018,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Beechview                     ",2017,4703,"Operation of Vehicle without Official Certif. of Inspection",2,2,0,0,0,0,0,0,0,0,0,0,4
 "Beechview                     ",2015,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,0,0,0,2,2
-"Beechview                     ",2020,9998,Overdose,2,2,3,1,0,0,0,0,0,0,0,0,8
+"Beechview                     ",2020,9998,Overdose,2,2,3,2,0,0,0,0,0,0,0,0,9
 "Beechview                     ",2019,9998,Overdose,1,2,1,1,1,0,1,3,1,1,2,2,16
 "Beechview                     ",2018,9998,Overdose,1,1,0,3,0,1,4,3,0,1,2,1,17
 "Beechview                     ",2017,9998,Overdose,4,2,2,2,3,2,5,4,5,2,1,1,33
@@ -1363,15 +1363,15 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,902,"Criminal Solicitation.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2016,902,"Criminal Solicitation.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2020,3503,"Criminal Trespass",0,0,2,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2019,3503(a),"Criminal Trespass",0,1,0,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2019,3503,"Criminal Trespass",2,0,0,1,0,0,1,0,0,1,1,3,9
+"Brookline                     ",2019,3503(a),"Criminal Trespass",0,1,0,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2018,3503,"Criminal Trespass",0,1,0,0,1,2,2,2,0,2,0,0,10
 "Brookline                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2017,3503,"Criminal Trespass",0,0,0,1,2,0,2,0,0,3,2,0,10
 "Brookline                     ",2016,3503,"Criminal Trespass",0,2,0,0,0,1,1,3,0,3,1,0,11
 "Brookline                     ",2016,3503(a),"Criminal Trespass",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2015,3503(a),"Criminal Trespass",0,0,0,0,2,0,0,0,0,0,1,0,3
 "Brookline                     ",2015,3503,"Criminal Trespass",0,0,0,3,1,0,0,0,1,0,0,0,5
+"Brookline                     ",2015,3503(a),"Criminal Trespass",0,0,0,0,2,0,0,0,0,0,1,0,3
 "Brookline                     ",2018,3503(b.1),"Criminal Trespass - Simple Trespasser",1,0,0,0,0,0,0,0,1,0,0,0,2
 "Brookline                     ",2017,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,2,0,0,2,0,0,4
 "Brookline                     ",2016,3503(b.1),"Criminal Trespass - Simple Trespasser",0,1,0,1,1,0,0,0,1,0,0,0,4
@@ -1674,6 +1674,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,633.02(a),"License Required; 3 Months or Older",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2016,633.02(a),"License Required; 3 Months or Older",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Brookline                     ",2016,3332,"Limitations on Turning Around.",0,0,0,0,0,0,0,0,0,0,2,0,2
+"Brookline                     ",2020,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2019,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,3,0,0,0,0,0,0,0,1,4
 "Brookline                     ",2016,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,0,0,0,1,0,0,1,0,0,2
 "Brookline                     ",2015,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -1771,7 +1772,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,9998,Overdose,0,3,2,2,2,2,1,2,2,0,2,3,21
 "Brookline                     ",2017,9998,Overdose,6,5,3,5,5,1,3,7,2,1,5,1,44
 "Brookline                     ",2016,9998,Overdose,0,0,0,0,0,0,0,0,1,1,1,1,4
-"Brookline                     ",2020,9997,"Overdose Death",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2020,9997,"Overdose Death",2,0,0,1,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2019,9997,"Overdose Death",0,0,0,0,0,1,1,0,0,0,1,1,4
 "Brookline                     ",2018,9997,"Overdose Death",0,0,0,1,1,0,0,0,0,0,0,1,3
 "Brookline                     ",2017,9997,"Overdose Death",1,3,1,0,1,2,0,2,0,0,0,0,10
@@ -1780,7 +1781,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,602.04,"Panhandling and Prohibited Conduct",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2018,13(a)(33),"Paraphernalia - Delivery or Intent to Deliver",0,0,3,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2017,13(a)(33),"Paraphernalia - Delivery or Intent to Deliver",0,0,0,2,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2020,13(a)(32),"Paraphernalia - Use or Possession",2,2,4,0,0,0,0,0,0,0,0,0,8
+"Brookline                     ",2020,13(a)(32),"Paraphernalia - Use or Possession",2,2,4,1,0,0,0,0,0,0,0,0,9
 "Brookline                     ",2019,13(a)(32),"Paraphernalia - Use or Possession",6,2,2,2,0,0,0,10,2,0,4,4,32
 "Brookline                     ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,6,4,3,2,2,2,0,10,7,36
 "Brookline                     ",2017,13(a)(32),"Paraphernalia - Use or Possession",4,3,0,4,2,0,0,2,2,2,0,2,21
@@ -1974,6 +1975,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2019,9495,Suicide,0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2017,9495,Suicide,0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2016,9495,Suicide,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2020,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2019,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,2,0,0,2,0,0,0,0,4
 "Brookline                     ",2018,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2016,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,0,0,0,0,0,0,3,3
@@ -2390,6 +2392,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2015,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Crafton Heights               ",2016,7512,"Criminal Use of Communication",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Crafton Heights               ",2017,5533(a),"Cruelty to animals - Intentionally, knowingly or recklessly illtreats, overloads, beats, abandons or abuses an animal ",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Crafton Heights               ",2020,5511,"Cruelty to Animals.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,3301(d.1),"Dangerous Burning",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,9496,"Dead on Arrival (DOA)",1,0,0,0,0,1,0,1,2,0,0,2,7
 "Crafton Heights               ",2018,9496,"Dead on Arrival (DOA)",0,0,0,0,0,0,0,1,1,1,0,1,4
@@ -2977,7 +2980,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2018,3131(c)(2),"Unlawful dissemination of intimate image -- Person depicted is NOT a minor (M2)",0,0,0,0,0,0,1,0,0,0,0,0,1
 "East Carnegie                 ",2018,2902,"Unlawful Restraint.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "East Carnegie                 ",2017,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Elliott                       ",2020,9498,"302 (Mental)",1,1,1,0,0,0,0,0,0,0,0,0,3
+"Elliott                       ",2020,9498,"302 (Mental)",1,1,1,1,0,0,0,0,0,0,0,0,4
 "Elliott                       ",2019,9498,"302 (Mental)",1,0,1,0,0,0,0,0,0,2,0,0,4
 "Elliott                       ",2018,9498,"302 (Mental)",0,0,0,0,0,3,1,0,0,0,0,0,4
 "Elliott                       ",2017,9498,"302 (Mental)",1,0,4,0,0,0,0,2,0,1,0,0,8
@@ -4669,7 +4672,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,2,4,2,1,1,6,2,2,3,4,2,32
 "Sheraden                      ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,4,5,3,0,4,4,5,2,3,0,4,35
 "Sheraden                      ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,1,0,2,0,2,0,1,2,1,0,9
-"Sheraden                      ",2020,3304,"Criminal Mischief.",3,3,3,0,0,0,0,0,0,0,0,0,9
+"Sheraden                      ",2020,3304,"Criminal Mischief.",3,3,3,1,0,0,0,0,0,0,0,0,10
 "Sheraden                      ",2019,3304,"Criminal Mischief.",2,1,6,6,5,3,8,3,3,1,0,2,40
 "Sheraden                      ",2018,3304,"Criminal Mischief.",1,2,2,5,5,4,3,4,12,2,4,4,48
 "Sheraden                      ",2017,3304,"Criminal Mischief.",11,6,13,8,4,8,16,12,4,3,4,2,91
@@ -4723,12 +4726,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,13(a)(30)*,"Delivery of Controlled Substance",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Sheraden                      ",2019,"473.02 (b)","Deposit or Dump Trash",0,0,0,1,0,0,0,0,0,1,0,0,2
 "Sheraden                      ",2015,5104.1,"Disarming a Law Enforcement Officer",0,0,0,0,0,0,0,0,0,0,0,2,2
+"Sheraden                      ",2020,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,2707.1,"Discharge of a Firearm into Occupied Structure",1,0,0,0,0,0,1,0,0,0,0,0,2
 "Sheraden                      ",2018,2707.1,"Discharge of a Firearm into Occupied Structure",1,0,0,1,1,1,0,0,0,0,0,1,5
 "Sheraden                      ",2017,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,1,1,1,4,0,0,0,0,7
 "Sheraden                      ",2016,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,2,1,0,4,0,0,0,0,7
 "Sheraden                      ",2015,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,2,0,0,0,0,2,0,0,0,4
-"Sheraden                      ",2020,607.03,"Discharging Firearm or Airgun",1,0,2,0,0,0,0,0,0,0,0,0,3
+"Sheraden                      ",2020,607.03,"Discharging Firearm or Airgun",1,0,2,1,0,0,0,0,0,0,0,0,4
 "Sheraden                      ",2019,607.03,"Discharging Firearm or Airgun",0,1,0,0,0,0,1,0,0,0,0,0,2
 "Sheraden                      ",2017,607.03,"Discharging Firearm or Airgun",0,0,0,0,1,0,1,1,0,0,0,0,3
 "Sheraden                      ",2016,607.03,"Discharging Firearm or Airgun",1,0,0,1,0,0,0,1,0,0,0,0,3
@@ -5200,7 +5204,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,3701,Robbery.,0,0,1,1,1,4,7,1,1,4,3,2,25
 "Sheraden                      ",2019,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2020,8106,"Shots Fired",1,3,6,1,0,0,0,0,0,0,0,0,11
+"Sheraden                      ",2020,8106,"Shots Fired",1,3,6,2,0,0,0,0,0,0,0,0,12
 "Sheraden                      ",2019,8106,"Shots Fired",0,0,0,8,9,0,7,3,0,3,0,3,33
 "Sheraden                      ",2018,8106,"Shots Fired",2,0,0,1,2,2,1,2,0,0,1,1,12
 "Sheraden                      ",2017,8106,"Shots Fired",1,1,1,0,1,1,3,1,0,0,3,0,12
