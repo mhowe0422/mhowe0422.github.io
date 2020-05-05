@@ -784,7 +784,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9130,"Graffiti Investigation",2,0,1,0,0,0,0,2,0,0,0,0,5
 "Beechview                     ",2016,9130,"Graffiti Investigation",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Beechview                     ",2017,9011,"Gun Related",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Beechview                     ",2020,2709,"Harassment (Non-Specific)",0,0,1,3,0,0,0,0,0,0,0,0,4
+"Beechview                     ",2020,2709,"Harassment (Non-Specific)",0,0,1,3,2,0,0,0,0,0,0,0,6
 "Beechview                     ",2019,2709,"Harassment (Non-Specific)",2,1,2,0,0,2,1,0,1,0,2,1,12
 "Beechview                     ",2018,2709,"Harassment (Non-Specific)",0,0,0,1,1,1,1,1,3,1,0,0,9
 "Beechview                     ",2017,2709,"Harassment (Non-Specific)",1,1,1,0,2,4,1,1,1,1,1,1,15
@@ -1256,7 +1256,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,4,3,1,2,0,4,1,2,2,0,25
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",4,5,3,2,1,3,5,7,1,4,3,1,39
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,3,3,2,6,4,0,3,4,9,4,38
-"Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,5,4,2,0,0,0,0,0,0,0,0,13
+"Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,5,4,2,1,0,0,0,0,0,0,0,14
 "Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,8,6,2,10,68
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,8,7,4,4,5,9,6,6,8,64
 "Brookline                     ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,5,6,2,3,6,5,5,7,3,9,6,63
@@ -1380,8 +1380,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2019,3503,"Criminal Trespass",2,0,0,1,0,0,1,0,0,1,1,3,9
 "Brookline                     ",2019,3503(a),"Criminal Trespass",0,1,0,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2018,3503,"Criminal Trespass",0,1,0,0,1,2,2,2,0,2,0,0,10
-"Brookline                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2017,3503,"Criminal Trespass",0,0,0,1,2,0,2,0,0,3,2,0,10
+"Brookline                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2016,3503,"Criminal Trespass",0,2,0,0,0,1,1,3,0,3,1,0,11
 "Brookline                     ",2016,3503(a),"Criminal Trespass",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2015,3503,"Criminal Trespass",0,0,0,3,1,0,0,0,1,0,0,0,5
@@ -2293,7 +2293,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,9498,"302 (Mental)",2,1,1,0,1,0,0,1,0,0,1,0,7
 "Crafton Heights               ",2016,9498,"302 (Mental)",0,0,1,1,0,0,0,0,0,0,0,2,4
 "Crafton Heights               ",2015,9498,"302 (Mental)",0,0,0,1,0,1,0,0,0,1,1,0,4
-"Crafton Heights               ",2020,9999,"9999 - (Misc. Incident):",3,5,6,2,0,0,0,0,0,0,0,0,16
+"Crafton Heights               ",2020,9999,"9999 - (Misc. Incident):",3,5,6,2,1,0,0,0,0,0,0,0,17
 "Crafton Heights               ",2019,9999,"9999 - (Misc. Incident):",1,0,3,5,3,4,2,3,3,0,3,4,31
 "Crafton Heights               ",2018,9999,"9999 - (Misc. Incident):",4,3,3,3,2,7,1,2,3,2,2,3,35
 "Crafton Heights               ",2017,9999,"9999 - (Misc. Incident):",2,1,3,2,4,6,8,5,2,6,4,6,49
@@ -2795,7 +2795,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3922,"Theft by Deception.",0,1,1,1,0,1,0,1,1,0,0,0,6
 "Crafton Heights               ",2015,3922,"Theft by Deception.",0,0,0,0,0,0,1,0,0,0,1,0,2
 "Crafton Heights               ",2015,3923,"Theft by Extortion.",0,0,0,0,0,1,0,0,1,0,0,0,2
-"Crafton Heights               ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,6,1,2,0,0,0,0,0,0,0,0,13
+"Crafton Heights               ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,6,1,2,1,0,0,0,0,0,0,0,14
 "Crafton Heights               ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,2,2,0,1,1,1,2,2,1,0,1,13
 "Crafton Heights               ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,0,0,1,2,5,1,1,1,3,1,16
 "Crafton Heights               ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,4,0,2,1,1,2,1,1,1,0,14
@@ -2807,7 +2807,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3921,"Theft by Unlawful Taking or Disposition.",3,0,2,0,1,3,0,0,5,2,1,3,20
 "Crafton Heights               ",2016,3921,"Theft by Unlawful Taking or Disposition.",0,3,1,3,2,1,0,1,2,2,3,2,20
 "Crafton Heights               ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,1,3,1,6,2,0,0,3,2,19
-"Crafton Heights               ",2020,3934,"Theft from Vehicle",3,6,5,2,0,0,0,0,0,0,0,0,16
+"Crafton Heights               ",2020,3934,"Theft from Vehicle",3,6,5,2,1,0,0,0,0,0,0,0,17
 "Crafton Heights               ",2019,3934,"Theft from Vehicle",2,1,0,3,0,0,0,1,0,0,0,6,13
 "Crafton Heights               ",2018,3934,"Theft from Vehicle",2,1,0,1,0,2,2,0,1,0,5,0,14
 "Crafton Heights               ",2017,3934,"Theft from Vehicle",1,2,0,0,5,1,2,2,1,0,3,1,18
@@ -3249,7 +3249,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2018,9488,"False  Burglar Alarm",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2016,9488,"False  Burglar Alarm",7,3,3,3,1,1,1,1,2,0,1,0,23
 "Elliott                       ",2015,9488,"False  Burglar Alarm",0,0,2,4,2,4,1,0,3,2,0,0,18
-"Elliott                       ",2020,4905,"False Alarms to Agencies of Public Safety.",0,0,2,0,0,0,0,0,0,0,0,0,2
+"Elliott                       ",2020,4905,"False Alarms to Agencies of Public Safety.",0,0,2,0,2,0,0,0,0,0,0,0,4
 "Elliott                       ",2018,4905,"False Alarms to Agencies of Public Safety.",0,0,0,0,0,0,0,0,0,0,1,1,2
 "Elliott                       ",2019,4914(A),"False Identification to Law Enforcement",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Elliott                       ",2018,4914(A),"False Identification to Law Enforcement",0,2,0,0,0,0,0,0,0,0,0,0,2
@@ -3604,7 +3604,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,0,2,3,2,2,3,0,1,0,0,3,22
 "Elliott                       ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,1,0,1,2,5,1,2,3,2,0,18
 "Elliott                       ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,2,1,2,2,3,1,0,0,11
-"Elliott                       ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,1,0,0,0,0,0,0,0,0,2
+"Elliott                       ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,1,1,0,0,0,0,0,0,0,3
 "Elliott                       ",2019,3921,"Theft by Unlawful Taking or Disposition.",1,0,2,0,3,4,0,3,0,1,1,0,15
 "Elliott                       ",2018,3921,"Theft by Unlawful Taking or Disposition.",2,0,0,2,1,0,0,3,2,0,0,0,10
 "Elliott                       ",2017,3921,"Theft by Unlawful Taking or Disposition.",1,1,1,0,0,2,2,2,0,1,1,3,14
@@ -4028,7 +4028,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Fairywood                     ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,1,0,1,0,0,0,0,2,4
 "Fairywood                     ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,1,0,0,0,1,2,1,0,0,0,5
-"Fairywood                     ",2020,3304,"Criminal Mischief.",1,1,0,0,2,0,0,0,0,0,0,0,4
+"Fairywood                     ",2020,3304,"Criminal Mischief.",1,1,0,0,3,0,0,0,0,0,0,0,5
 "Fairywood                     ",2019,3304,"Criminal Mischief.",0,0,0,1,2,0,1,1,0,0,0,0,5
 "Fairywood                     ",2018,3304,"Criminal Mischief.",0,2,0,0,1,2,0,1,0,0,0,0,6
 "Fairywood                     ",2017,3304,"Criminal Mischief.",0,0,0,0,0,0,1,1,0,0,0,1,3
@@ -4935,7 +4935,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2017,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Sheraden                      ",2016,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2020,2709,"Harassment (Non-Specific)",0,1,0,2,0,0,0,0,0,0,0,0,3
+"Sheraden                      ",2020,2709,"Harassment (Non-Specific)",0,1,0,3,0,0,0,0,0,0,0,0,4
 "Sheraden                      ",2019,2709,"Harassment (Non-Specific)",0,0,0,1,2,0,1,4,0,2,0,0,10
 "Sheraden                      ",2018,2709,"Harassment (Non-Specific)",0,2,1,1,7,1,0,0,2,0,1,2,17
 "Sheraden                      ",2017,2709,"Harassment (Non-Specific)",2,2,2,1,0,0,3,3,1,0,1,0,15
