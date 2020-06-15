@@ -608,8 +608,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
 "Beechview                     ",2016,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Beechview                     ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,5,0,0,5
 "Beechview                     ",2015,3503,"Criminal Trespass",0,0,0,0,0,1,3,0,1,0,1,0,6
+"Beechview                     ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,5,0,0,5
 "Beechview                     ",2020,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2019,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2017,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,1,0,0,0,0,0,2,0,0,3
@@ -645,6 +645,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,13(a)(30)*,"Delivery of Controlled Substance",3,0,0,0,0,0,0,0,0,2,0,0,5
 "Beechview                     ",2016,13(a)(30)*,"Delivery of Controlled Substance",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2015,13(a)(30)*,"Delivery of Controlled Substance",0,0,2,0,0,0,2,0,2,0,0,0,6
+"Beechview                     ",2020,"473.02 (b)","Deposit or Dump Trash",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Beechview                     ",2019,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Beechview                     ",2015,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,2,0,0,0,0,0,4,0,6
 "Beechview                     ",2020,607.03,"Discharging Firearm or Airgun",0,2,0,0,0,0,0,0,0,0,0,0,2
@@ -1328,7 +1329,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,9501,"Bench Warrant",4,2,2,0,0,4,1,2,4,0,2,0,21
 "Brookline                     ",2015,9501,"Bench Warrant",0,0,0,2,4,2,4,2,4,2,4,4,28
 "Brookline                     ",2019,"611.03 (b)","Burglary Alarm to Deactivate After 30 Minutes",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2020,3502,Burglary.,4,0,4,0,2,1,0,0,0,0,0,0,11
+"Brookline                     ",2020,3502,Burglary.,4,0,4,0,2,2,0,0,0,0,0,0,12
 "Brookline                     ",2019,3502,Burglary.,2,0,1,1,6,2,2,2,7,3,4,7,37
 "Brookline                     ",2018,3502,Burglary.,11,5,4,3,5,2,5,5,4,5,2,0,51
 "Brookline                     ",2017,3502,Burglary.,8,7,3,2,2,2,1,3,6,4,1,13,52
@@ -1396,8 +1397,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,902,"Criminal Solicitation.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2016,902,"Criminal Solicitation.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2020,3503,"Criminal Trespass",0,0,2,2,0,0,0,0,0,0,0,0,4
-"Brookline                     ",2019,3503,"Criminal Trespass",2,0,0,1,0,0,1,0,0,1,1,3,9
 "Brookline                     ",2019,3503(a),"Criminal Trespass",0,1,0,0,0,0,2,0,0,0,0,0,3
+"Brookline                     ",2019,3503,"Criminal Trespass",2,0,0,1,0,0,1,0,0,1,1,3,9
 "Brookline                     ",2018,3503,"Criminal Trespass",0,1,0,0,1,2,2,2,0,2,0,0,10
 "Brookline                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2017,3503,"Criminal Trespass",0,0,0,1,2,0,2,0,0,3,2,0,10
@@ -2056,7 +2057,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",3,0,3,7,4,5,6,7,8,10,5,8,66
 "Brookline                     ",2016,3921,"Theft by Unlawful Taking or Disposition.",5,7,2,8,5,7,5,3,8,6,7,8,71
 "Brookline                     ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,3,5,8,6,3,5,5,4,2,42
-"Brookline                     ",2020,3934,"Theft from Vehicle",1,6,0,2,1,0,0,0,0,0,0,0,10
+"Brookline                     ",2020,3934,"Theft from Vehicle",1,6,0,2,1,2,0,0,0,0,0,0,12
 "Brookline                     ",2019,3934,"Theft from Vehicle",0,8,4,0,4,11,4,5,3,1,2,1,43
 "Brookline                     ",2018,3934,"Theft from Vehicle",2,2,16,4,3,0,4,5,5,3,14,1,59
 "Brookline                     ",2017,3934,"Theft from Vehicle",9,2,1,6,1,2,1,3,2,4,2,10,43
@@ -2985,7 +2986,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2017,4120,"Identity Theft",0,0,1,0,0,0,0,0,0,0,0,0,1
 "East Carnegie                 ",2016,4120,"Identity Theft",1,0,1,0,0,0,0,0,0,0,0,0,2
 "East Carnegie                 ",2015,4120,"Identity Theft",0,0,0,0,0,0,0,0,0,0,0,1,1
-"East Carnegie                 ",2020,9093,"Indirect Criminal Contempt",0,2,0,0,1,0,0,0,0,0,0,0,3
+"East Carnegie                 ",2020,9093,"Indirect Criminal Contempt",0,2,0,0,1,1,0,0,0,0,0,0,4
 "East Carnegie                 ",2019,9093,"Indirect Criminal Contempt",0,0,0,0,0,1,0,0,0,0,0,2,3
 "East Carnegie                 ",2018,9093,"Indirect Criminal Contempt",0,0,2,0,0,0,0,0,0,0,0,0,2
 "East Carnegie                 ",2017,9093,"Indirect Criminal Contempt",0,0,0,0,0,0,0,0,0,2,0,0,2
@@ -3666,7 +3667,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,0,2,3,2,2,3,0,1,0,0,3,22
 "Elliott                       ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,1,0,1,2,5,1,2,3,2,0,18
 "Elliott                       ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,2,1,2,2,3,1,0,0,11
-"Elliott                       ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,1,4,0,0,0,0,0,0,0,6
+"Elliott                       ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,1,4,1,0,0,0,0,0,0,7
 "Elliott                       ",2019,3921,"Theft by Unlawful Taking or Disposition.",1,0,2,0,3,4,0,3,0,1,1,0,15
 "Elliott                       ",2018,3921,"Theft by Unlawful Taking or Disposition.",2,0,0,2,1,0,0,3,2,0,0,0,10
 "Elliott                       ",2017,3921,"Theft by Unlawful Taking or Disposition.",1,1,1,0,0,2,2,2,0,1,1,3,14
@@ -4670,7 +4671,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9999,"9999 - (Misc. Incident):",7,4,6,5,7,7,9,6,10,5,6,8,80
 "Sheraden                      ",2016,9999,"9999 - (Misc. Incident):",7,2,4,2,12,7,6,5,5,7,8,9,74
 "Sheraden                      ",2015,9999,"9999 - (Misc. Incident):",0,0,7,5,7,12,2,3,6,4,3,4,53
-"Sheraden                      ",2020,4106,"Access Device Fraud",0,2,2,2,1,0,0,0,0,0,0,0,7
+"Sheraden                      ",2020,4106,"Access Device Fraud",0,2,2,2,1,1,0,0,0,0,0,0,8
 "Sheraden                      ",2019,4106,"Access Device Fraud",3,0,0,0,0,1,0,2,0,1,3,3,13
 "Sheraden                      ",2018,4106,"Access Device Fraud",0,1,2,1,2,0,4,0,0,3,3,1,17
 "Sheraden                      ",2017,4106,"Access Device Fraud",1,0,3,1,0,0,3,3,0,1,0,0,12
@@ -4731,7 +4732,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,4105(a)(1),"Bad Checks",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Sheraden                      ",2017,4105(a)(1),"Bad Checks",0,0,0,0,0,0,0,0,0,1,1,0,2
 "Sheraden                      ",2016,4105(a)(1),"Bad Checks",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2020,9501,"Bench Warrant",2,2,2,3,7,0,0,0,0,0,0,0,16
+"Sheraden                      ",2020,9501,"Bench Warrant",2,2,2,3,7,2,0,0,0,0,0,0,18
 "Sheraden                      ",2019,9501,"Bench Warrant",8,4,2,6,2,4,0,8,4,1,3,3,45
 "Sheraden                      ",2018,9501,"Bench Warrant",4,4,2,2,0,4,2,6,2,1,2,0,29
 "Sheraden                      ",2017,9501,"Bench Warrant",4,6,4,4,14,5,10,6,1,4,2,2,62
@@ -4820,8 +4821,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,1,2,0,0,0,3
 "Sheraden                      ",2017,3503,"Criminal Trespass",1,1,0,1,2,0,6,1,1,0,1,0,14
 "Sheraden                      ",2017,3503(a),"Criminal Trespass",0,0,0,0,3,0,0,0,0,0,0,0,3
-"Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
 "Sheraden                      ",2016,3503,"Criminal Trespass",2,0,0,0,0,5,1,3,1,0,2,3,17
+"Sheraden                      ",2016,3503(a),"Criminal Trespass",1,0,0,0,0,0,0,0,0,1,0,2,4
 "Sheraden                      ",2015,3503,"Criminal Trespass",0,0,0,1,0,2,0,0,0,2,0,0,5
 "Sheraden                      ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2020,3503(b.1),"Criminal Trespass - Simple Trespasser",0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -5385,7 +5386,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,4,5,5,9,1,2,2,0,1,2,34
 "Sheraden                      ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,2,0,4,0,5,1,11,1,5,3,2,36
 "Sheraden                      ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,2,4,0,0,6,1,4,2,2,23
-"Sheraden                      ",2020,2701,"Simple Assault.",9,5,13,5,11,6,0,0,0,0,0,0,49
+"Sheraden                      ",2020,2701,"Simple Assault.",9,5,13,5,11,8,0,0,0,0,0,0,51
 "Sheraden                      ",2019,2701,"Simple Assault.",9,8,2,2,8,2,9,8,11,3,2,7,71
 "Sheraden                      ",2018,2701,"Simple Assault.",6,4,4,4,4,5,3,9,6,6,9,6,66
 "Sheraden                      ",2017,2701,"Simple Assault.",2,2,15,13,6,7,3,5,6,3,2,6,70
@@ -6551,6 +6552,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2017,029,"Missing Juvenile",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2016,029,"Missing Juvenile",0,0,0,0,3,0,0,0,0,0,0,0,3
 "Windgap                       ",2015,029,"Missing Juvenile",0,0,1,0,0,0,0,0,1,1,0,0,3
+"Windgap                       ",2020,9490,"Missing Persons (18 and Over)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Windgap                       ",2019,9490,"Missing Persons (18 and Over)",0,0,1,0,1,0,0,0,0,0,1,0,3
 "Windgap                       ",2016,9490,"Missing Persons (18 and Over)",0,0,0,0,0,0,0,0,1,1,0,0,2
 "Windgap                       ",2015,9490,"Missing Persons (18 and Over)",0,0,0,0,0,0,1,0,0,0,0,0,1
