@@ -286,7 +286,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,13(a)(12),"Obtaining Cont. Subst. by Fraudulent Means",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Banksville                    ",2019,13(a)(12),"Obtaining Cont. Subst. by Fraudulent Means",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Banksville                    ",2016,13(a)(12),"Obtaining Cont. Subst. by Fraudulent Means",0,0,0,0,0,0,0,0,0,0,2,0,2
-"Banksville                    ",2020,9998,Overdose,1,0,2,1,1,1,0,0,0,0,0,0,6
+"Banksville                    ",2020,9998,Overdose,1,0,2,1,1,1,1,0,0,0,0,0,7
 "Banksville                    ",2019,9998,Overdose,0,0,0,0,0,0,1,0,0,2,2,1,6
 "Banksville                    ",2018,9998,Overdose,0,1,0,0,0,0,0,0,2,1,1,0,5
 "Banksville                    ",2017,9998,Overdose,2,0,3,2,3,2,1,1,3,2,1,0,20
@@ -465,7 +465,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,0,0,2,4
 "Beechview                     ",2016,9498,"302 (Mental)",0,0,0,0,1,1,1,2,0,0,1,1,7
 "Beechview                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,2,1,0,0,3
-"Beechview                     ",2020,9999,"9999 - (Misc. Incident):",3,4,5,4,3,4,0,0,0,0,0,0,23
+"Beechview                     ",2020,9999,"9999 - (Misc. Incident):",3,4,5,4,3,4,1,0,0,0,0,0,24
 "Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,12,4,7,10,7,5,7,6,87
 "Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,8,4,8,10,9,6,6,5,4,81
 "Beechview                     ",2017,9999,"9999 - (Misc. Incident):",7,5,10,4,5,6,9,9,8,3,6,4,76
@@ -609,10 +609,10 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,3503,"Criminal Trespass",0,0,0,1,1,0,0,0,0,0,0,0,2
 "Beechview                     ",2019,3503,"Criminal Trespass",0,2,0,0,0,1,7,1,0,0,1,1,13
 "Beechview                     ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,1,1,0,0,0,0,0,2
-"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
-"Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
+"Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
 "Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
 "Beechview                     ",2016,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Beechview                     ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,5,0,0,5
@@ -856,8 +856,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2019,5105,"Hindering Apprehension or Prosecution.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Beechview                     ",2015,5105,"Hindering Apprehension or Prosecution.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2019,517.8,"Home Improvement Fraud",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2018,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2017,"473.07 (a)","Hours of Parks 0600-2300 hrs.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2015,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2020,4120,"Identity Theft",0,0,0,2,0,0,0,0,0,0,0,0,2
@@ -1328,7 +1328,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2015,7122,"Altered, Forged or Counterfeit Documents and Plates",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2015,601.16(b)(1)(a),"Any Person who urinates or defecates in, on, or about any public place",0,0,0,0,1,0,1,1,0,0,1,0,4
 "Brookline                     ",2019,607.05,"Archery and Slingshots",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2020,3301,Arson,0,4,2,0,0,0,0,0,0,0,0,0,6
+"Brookline                     ",2020,3301,Arson,0,4,2,0,0,0,2,0,0,0,0,0,8
 "Brookline                     ",2019,3301,Arson,2,0,0,0,1,1,0,0,0,0,1,0,5
 "Brookline                     ",2018,3301,Arson,0,0,2,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2017,3301,Arson,0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -1395,6 +1395,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2015,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,0,1,0,0,0,0,0,1,0,2
 "Brookline                     ",2016,3304(a)(6),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Paintball Gun or Paintball Marker)",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2019,3304(a)(2),"CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property)",0,0,0,0,0,0,0,0,1,0,0,0,1
+"Brookline                     ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Brookline                     ",2019,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,1,0,0,1,0,0,0,0,2
 "Brookline                     ",2018,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Brookline                     ",2016,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -1421,8 +1422,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2016,3503(a),"Criminal Trespass",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2016,3503,"Criminal Trespass",0,2,0,0,0,1,1,3,0,3,1,0,11
-"Brookline                     ",2015,3503,"Criminal Trespass",0,0,0,3,1,0,0,0,1,0,0,0,5
 "Brookline                     ",2015,3503(a),"Criminal Trespass",0,0,0,0,2,0,0,0,0,0,1,0,3
+"Brookline                     ",2015,3503,"Criminal Trespass",0,0,0,3,1,0,0,0,1,0,0,0,5
 "Brookline                     ",2020,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2018,3503(b.1),"Criminal Trespass - Simple Trespasser",1,0,0,0,0,0,0,0,1,0,0,0,2
 "Brookline                     ",2017,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,2,0,0,2,0,0,4
@@ -2152,6 +2153,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2018,9498,"302 (Mental)",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Chartiers City                ",2016,9498,"302 (Mental)",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Chartiers City                ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,0,0,1,0,1
+"Chartiers City                ",2020,9999,"9999 - (Misc. Incident):",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Chartiers City                ",2019,9999,"9999 - (Misc. Incident):",0,0,0,3,0,0,0,0,1,0,0,1,5
 "Chartiers City                ",2018,9999,"9999 - (Misc. Incident):",1,1,3,0,0,1,0,1,0,1,0,0,8
 "Chartiers City                ",2017,9999,"9999 - (Misc. Incident):",0,1,0,0,0,2,2,0,0,0,0,1,6
@@ -3438,6 +3440,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,3306,"Limitations on Driving on Left Side of Roadway.",0,0,0,0,0,0,0,0,2,1,0,0,3
 "Elliott                       ",2018,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2017,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2020,0292,"Located Runaway - not Reported Missing",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Elliott                       ",2017,0291,"Located Runaway - Outside City",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Elliott                       ",2020,5506,"Loitering and Prowling at Night",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2019,5506,"Loitering and Prowling at Night",0,0,1,0,0,0,0,0,0,1,0,0,2
@@ -3636,7 +3639,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2015,3701,Robbery.,0,0,2,0,1,5,1,1,1,1,0,1,13
 "Elliott                       ",2019,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,0,1,0,0,0,0,0,2
-"Elliott                       ",2020,8106,"Shots Fired",0,0,3,0,3,3,2,0,0,0,0,0,11
+"Elliott                       ",2020,8106,"Shots Fired",0,0,3,0,3,4,3,0,0,0,0,0,13
 "Elliott                       ",2019,8106,"Shots Fired",0,0,0,2,2,4,0,1,0,0,0,1,10
 "Elliott                       ",2018,8106,"Shots Fired",0,0,0,2,0,0,0,0,1,0,0,0,3
 "Elliott                       ",2017,8106,"Shots Fired",0,1,0,0,0,0,0,0,0,2,1,0,4
@@ -5205,7 +5208,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,29,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2016,029,"Missing Juvenile",3,3,1,5,3,2,1,4,5,2,1,3,33
 "Sheraden                      ",2015,029,"Missing Juvenile",0,0,1,3,1,3,1,1,0,4,3,4,21
-"Sheraden                      ",2020,9490,"Missing Persons (18 and Over)",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2020,9490,"Missing Persons (18 and Over)",0,1,0,0,0,0,1,0,0,0,0,0,2
 "Sheraden                      ",2019,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,1,0,0,1,0,4
 "Sheraden                      ",2018,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,0,0,0,0,0,2
 "Sheraden                      ",2017,9490,"Missing Persons (18 and Over)",0,0,0,0,0,0,0,2,0,0,0,0,2
@@ -5220,8 +5223,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9012,"Non-Violent Domestic",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,9012,"Non-Violent Domestic",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,1515,"Notice of Change of Name or Address.",0,0,0,0,0,0,0,0,0,0,2,0,2
-"Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,633.12,"Number of Pets Permitted in City Limits; Exceptions",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2020,3111,"Obedience to Traffic-Control Devices.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,4,0,0,0,0,0,4
@@ -5612,7 +5615,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2019,3301,Arson,0,0,0,0,0,0,0,0,0,0,0,2,2
 "West End                      ",2017,3301,Arson,0,0,0,0,0,0,0,0,0,0,2,0,2
 "West End                      ",2016,3301,Arson,0,0,0,0,0,0,0,0,2,0,0,0,2
-"West End                      ",2020,9501,"Bench Warrant",4,2,2,0,0,0,0,0,0,0,0,0,8
+"West End                      ",2020,9501,"Bench Warrant",4,2,2,0,0,0,2,0,0,0,0,0,10
 "West End                      ",2019,9501,"Bench Warrant",2,2,2,4,0,0,0,2,0,0,0,0,12
 "West End                      ",2018,9501,"Bench Warrant",0,0,0,2,4,0,0,0,2,0,2,0,10
 "West End                      ",2017,9501,"Bench Warrant",0,2,0,0,0,2,0,2,2,0,2,0,10
@@ -5757,7 +5760,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2015,4101,Forgery.,0,0,0,1,0,0,0,0,0,0,0,0,1
 "West End                      ",2016,9017,"Found Drugs",0,1,0,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2015,9017,"Found Drugs",0,0,0,0,0,0,1,0,0,0,0,0,1
-"West End                      ",2020,9489,"Found Property",0,0,0,0,1,0,0,0,0,0,0,0,1
+"West End                      ",2020,9489,"Found Property",0,0,0,0,1,0,1,0,0,0,0,0,2
 "West End                      ",2019,9489,"Found Property",1,0,0,0,1,0,1,2,2,0,1,0,8
 "West End                      ",2018,9489,"Found Property",1,0,0,1,0,3,0,0,1,1,1,0,8
 "West End                      ",2017,9489,"Found Property",0,0,1,0,0,0,1,0,0,0,0,1,3
@@ -5852,7 +5855,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,9998,Overdose,0,0,1,0,0,1,0,0,0,0,0,0,2
 "West End                      ",2020,9997,"Overdose Death",1,0,0,0,1,0,0,0,0,0,0,0,2
 "West End                      ",2015,602.04,"Panhandling and Prohibited Conduct",0,0,0,0,0,0,3,0,0,0,0,0,3
-"West End                      ",2020,13(a)(32),"Paraphernalia - Use or Possession",3,0,0,0,0,0,0,0,0,0,0,0,3
+"West End                      ",2020,13(a)(32),"Paraphernalia - Use or Possession",3,0,0,0,0,0,2,0,0,0,0,0,5
 "West End                      ",2019,13(a)(32),"Paraphernalia - Use or Possession",2,2,0,0,0,0,2,0,2,0,0,0,8
 "West End                      ",2018,13(a)(32),"Paraphernalia - Use or Possession",1,0,0,2,0,2,2,0,0,1,0,0,8
 "West End                      ",2017,13(a)(32),"Paraphernalia - Use or Possession",2,0,2,2,3,0,2,2,0,3,1,0,17
@@ -5868,6 +5871,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2018,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,0,1,0,0,0,1,0,0,0,2
 "West End                      ",2019,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "West End                      ",2017,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,0,2,0,0,0,2
+"West End                      ",2020,13(a)(16),"Possession of Controlled Substance",0,0,0,0,0,0,2,0,0,0,0,0,2
 "West End                      ",2019,13(a)(16),"Possession of Controlled Substance",4,0,0,0,2,0,2,0,0,0,0,2,10
 "West End                      ",2018,13(a)(16),"Possession of Controlled Substance",1,0,4,0,3,2,2,1,0,0,0,2,15
 "West End                      ",2017,13(a)(16),"Possession of Controlled Substance",0,2,2,2,2,2,2,1,2,0,2,0,17
