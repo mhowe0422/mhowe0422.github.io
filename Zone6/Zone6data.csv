@@ -432,7 +432,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,1,0,0,1,2,0,1,1,0,4,1,13
 "Banksville                    ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,0,0,1,1,2,1,1,3,1,3,14
 "Banksville                    ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,1,0,0,1,1,0,0,0,2,6
-"Banksville                    ",2020,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,1,2,0,0,0,0,0,3
+"Banksville                    ",2020,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,1,3,0,0,0,0,0,4
 "Banksville                    ",2019,3921,"Theft by Unlawful Taking or Disposition.",3,1,0,1,3,0,0,1,1,2,1,0,13
 "Banksville                    ",2018,3921,"Theft by Unlawful Taking or Disposition.",0,1,0,0,0,2,0,1,2,1,0,1,8
 "Banksville                    ",2017,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,2,0,2,1,0,1,1,0,0,8
@@ -468,7 +468,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,0,0,2,4
 "Beechview                     ",2016,9498,"302 (Mental)",0,0,0,0,1,1,1,2,0,0,1,1,7
 "Beechview                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,2,1,0,0,3
-"Beechview                     ",2020,9999,"9999 - (Misc. Incident):",3,4,5,4,3,4,5,0,0,0,0,0,28
+"Beechview                     ",2020,9999,"9999 - (Misc. Incident):",3,4,5,4,3,4,6,0,0,0,0,0,29
 "Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,12,4,7,10,7,5,7,6,87
 "Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,8,4,8,10,9,6,6,5,4,81
 "Beechview                     ",2017,9999,"9999 - (Misc. Incident):",7,5,10,4,5,6,9,9,8,3,6,4,76
@@ -614,8 +614,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Beechview                     ",2018,3503,"Criminal Trespass",0,1,1,2,1,0,0,0,0,4,0,0,9
 "Beechview                     ",2018,3503(a),"Criminal Trespass",0,0,0,0,2,0,1,0,0,0,0,1,4
-"Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2017,3503,"Criminal Trespass",0,0,0,0,3,2,3,3,0,0,1,1,13
+"Beechview                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2016,3503,"Criminal Trespass",1,0,0,0,0,0,0,2,0,0,1,0,4
 "Beechview                     ",2016,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Beechview                     ",2015,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,5,0,0,5
@@ -679,7 +679,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2016,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,0,1,1,0,2
 "Beechview                     ",2015,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Beechview                     ",2020,5503,"Disorderly Conduct.",0,1,0,0,1,0,0,0,0,0,0,0,2
+"Beechview                     ",2020,5503,"Disorderly Conduct.",0,1,0,0,1,0,1,0,0,0,0,0,3
 "Beechview                     ",2019,5503,"Disorderly Conduct.",0,2,2,0,0,2,0,0,2,0,0,5,13
 "Beechview                     ",2018,5503,"Disorderly Conduct.",0,0,2,0,2,1,3,0,0,0,0,0,8
 "Beechview                     ",2017,5503,"Disorderly Conduct.",0,1,0,4,0,0,0,1,0,0,0,6,12
@@ -859,8 +859,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2019,5105,"Hindering Apprehension or Prosecution.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Beechview                     ",2015,5105,"Hindering Apprehension or Prosecution.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2019,517.8,"Home Improvement Fraud",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2018,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Beechview                     ",2018,517.8(A2),"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2017,"473.07 (a)","Hours of Parks 0600-2300 hrs.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2015,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2020,4120,"Identity Theft",0,0,0,2,0,0,0,0,0,0,0,0,2
@@ -949,7 +949,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,029,"Missing Juvenile",0,1,0,1,2,1,0,0,3,2,1,0,11
 "Beechview                     ",2016,029,"Missing Juvenile",0,2,1,5,0,1,0,0,0,2,0,3,14
 "Beechview                     ",2015,029,"Missing Juvenile",0,0,0,4,4,1,1,1,2,0,2,0,15
-"Beechview                     ",2020,9490,"Missing Persons (18 and Over)",0,2,1,0,1,0,0,0,0,0,0,0,4
+"Beechview                     ",2020,9490,"Missing Persons (18 and Over)",0,2,1,0,1,0,1,0,0,0,0,0,5
 "Beechview                     ",2019,9490,"Missing Persons (18 and Over)",0,2,0,0,2,0,1,1,0,0,0,1,7
 "Beechview                     ",2018,9490,"Missing Persons (18 and Over)",0,0,1,0,0,0,0,1,0,0,1,1,4
 "Beechview                     ",2017,9490,"Missing Persons (18 and Over)",0,0,0,2,1,0,0,2,0,0,0,0,5
@@ -1298,7 +1298,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,4,3,1,2,0,4,1,2,2,0,25
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",4,5,3,2,1,3,5,7,1,4,3,1,39
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,3,3,2,6,4,0,3,4,9,4,38
-"Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,5,4,2,4,8,0,0,0,0,0,0,25
+"Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,5,4,2,4,8,1,0,0,0,0,0,26
 "Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,8,6,2,10,68
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,8,7,4,4,5,9,6,6,8,64
 "Brookline                     ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,5,6,2,3,6,5,5,7,3,9,6,63
@@ -1424,8 +1424,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2019,3503,"Criminal Trespass",2,0,0,1,0,0,1,0,0,1,1,3,9
 "Brookline                     ",2019,3503(a),"Criminal Trespass",0,1,0,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2018,3503,"Criminal Trespass",0,1,0,0,1,2,2,2,0,2,0,0,10
-"Brookline                     ",2017,3503,"Criminal Trespass",0,0,0,1,2,0,2,0,0,3,2,0,10
 "Brookline                     ",2017,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,1,0,0,0,1
+"Brookline                     ",2017,3503,"Criminal Trespass",0,0,0,1,2,0,2,0,0,3,2,0,10
 "Brookline                     ",2016,3503(a),"Criminal Trespass",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2016,3503,"Criminal Trespass",0,2,0,0,0,1,1,3,0,3,1,0,11
 "Brookline                     ",2015,3503,"Criminal Trespass",0,0,0,3,1,0,0,0,1,0,0,0,5
@@ -2393,7 +2393,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,0,1,0,0,0,0,0,1,0,4
 "Crafton Heights               ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,1,0,1,1,0,0,0,3
 "Crafton Heights               ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,3,0,1,1,1,1,1,8
-"Crafton Heights               ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,0,1,1,1,1,0,0,0,0,0,0,7
+"Crafton Heights               ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,0,1,1,1,1,1,0,0,0,0,0,8
 "Crafton Heights               ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,2,1,1,1,4,4,0,0,2,2,0,17
 "Crafton Heights               ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,1,3,3,1,4,5,0,1,0,1,0,21
 "Crafton Heights               ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,1,0,0,4,0,2,2,2,2,2,3,21
@@ -2417,6 +2417,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,9497,"Aided Case",2,0,1,1,1,1,1,0,0,0,1,2,10
 "Crafton Heights               ",2015,9497,"Aided Case",0,0,0,0,0,1,1,0,0,0,1,0,3
 "Crafton Heights               ",2015,601.08(a),"Alcohol or Liquor Consumption on Streets or Sidewalks",0,0,0,0,0,0,2,0,0,0,0,0,2
+"Crafton Heights               ",2020,7122,"Altered, Forged or Counterfeit Documents and Plates",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2016,7122,"Altered, Forged or Counterfeit Documents and Plates",0,0,0,0,0,0,0,0,2,0,0,2,4
 "Crafton Heights               ",2018,3301,Arson,0,0,0,0,2,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2015,3301,Arson,0,0,0,0,0,0,0,0,2,0,0,0,2
@@ -2540,7 +2541,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,1501,"Drivers Required to be Licensed.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Crafton Heights               ",2016,1501,"Drivers Required to be Licensed.",0,0,0,0,2,0,0,0,2,0,0,0,4
 "Crafton Heights               ",2015,1501,"Drivers Required to be Licensed.",0,0,2,0,0,0,0,0,0,0,0,0,2
-"Crafton Heights               ",2020,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,1,0,0,1,1,0,0,0,0,0,0,3
+"Crafton Heights               ",2020,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,1,0,0,1,1,1,0,0,0,0,0,4
 "Crafton Heights               ",2019,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,1,1,2,0,0,0,0,0,0,0,2,6
 "Crafton Heights               ",2018,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,2,0,0,1,0,0,0,0,0,0,3
 "Crafton Heights               ",2017,1543,"Driving While Operating Privilege is Suspended or Revoked.",2,0,0,0,2,0,6,2,0,2,6,0,20
@@ -2683,7 +2684,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,1333,"Lost, Stolen, Damaged or Illegible Registration Plate.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,2910,"Luring a Child into a Motor Vehicle.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Crafton Heights               ",2020,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,0,0,2,0,0,0,0,0,0,4
+"Crafton Heights               ",2020,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,0,0,2,1,0,0,0,0,0,5
 "Crafton Heights               ",2019,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,2,4,0,0,2,2,0,0,2,14
 "Crafton Heights               ",2018,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Crafton Heights               ",2017,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,0,0,5,0,2,0,0,4,0,11
@@ -2721,6 +2722,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2015,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Crafton Heights               ",2016,5101,"Obstructing Admin. of Law",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Crafton Heights               ",2015,5101,"Obstructing Admin. of Law",0,0,0,0,0,0,0,0,3,0,0,0,3
+"Crafton Heights               ",2020,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2017,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Crafton Heights               ",2016,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Crafton Heights               ",2015,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,2,0,0,0,2
@@ -2766,6 +2768,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,0,3,2,0,0,0,2,0,7
 "Crafton Heights               ",2016,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,4,0,1,2,0,0,0,1,0,0,2,10
 "Crafton Heights               ",2015,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,2,0,0,0,0,0,2,0,0,4
+"Crafton Heights               ",2020,4706,"Prohib. on Expend. for Emission Insp Prog..",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2017,4706,"Prohib. on Expend. for Emission Insp Prog..",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Crafton Heights               ",2016,4706,"Prohib. on Expend. for Emission Insp Prog..",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Crafton Heights               ",2019,908,"Prohibited Offensive Weapons.",0,0,0,0,0,0,0,0,0,0,0,2,2
@@ -2910,6 +2913,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Crafton Heights               ",2016,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,0,0,0,0,0,0,0,2,0,1,0,3
 "Crafton Heights               ",2019,3112,"Traffic-Control Signals.",0,0,0,0,0,0,2,0,0,0,0,0,2
+"Crafton Heights               ",2020,3334,"Turning Movements and Required Signals.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2019,3334,"Turning Movements and Required Signals.",0,1,1,2,0,0,0,0,2,0,0,0,6
 "Crafton Heights               ",2018,3334,"Turning Movements and Required Signals.",0,0,2,0,1,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2017,3334,"Turning Movements and Required Signals.",0,0,0,0,0,0,2,0,0,0,0,0,2
@@ -2952,12 +2956,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2017,9018,"Accidental Fire",1,0,0,0,0,0,0,0,0,0,0,0,1
 "East Carnegie                 ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,1,0,0,0,0,0,0,1
 "East Carnegie                 ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,0,0,0,0,1,0,0,1
-"East Carnegie                 ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,0,0,0,0,0,0,0,0,0,1
+"East Carnegie                 ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,0,0,0,1,0,0,0,0,0,2
 "East Carnegie                 ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,1,0,2,1,0,0,0,2,0,6
 "East Carnegie                 ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,0,0,2,0,0,1,0,0,3
 "East Carnegie                 ",2015,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "East Carnegie                 ",2018,3742,"Accidents Involving Death or Personal Injury",0,0,1,1,0,0,0,0,0,0,0,0,2
 "East Carnegie                 ",2018,3732.1,"Aggravated Assault by Vehicle",0,0,1,1,0,0,0,0,0,0,0,0,2
+"East Carnegie                 ",2020,2702,"Aggravated Assault.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "East Carnegie                 ",2019,2702,"Aggravated Assault.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "East Carnegie                 ",2015,2702,"Aggravated Assault.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "East Carnegie                 ",2016,2703.1,"Aggravated Harassment by Prisoner",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -3057,6 +3062,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2018,3925,"Receiving Stolen Property.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "East Carnegie                 ",2016,3925,"Receiving Stolen Property.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "East Carnegie                 ",2018,2705,"Recklessly Endangering Another Person.",0,0,1,1,0,0,0,0,0,0,0,0,2
+"East Carnegie                 ",2020,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "East Carnegie                 ",2019,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "East Carnegie                 ",2019,3809(a),"Restriction on Alcoholic Beverages in Vehicle",0,0,0,0,0,0,0,0,2,0,0,0,2
 "East Carnegie                 ",2017,3701,Robbery.,0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -3074,6 +3080,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2017,2701,"Simple Assault.",0,1,0,0,0,1,4,0,0,0,0,1,7
 "East Carnegie                 ",2016,2701,"Simple Assault.",0,0,0,0,0,0,2,0,1,0,0,0,3
 "East Carnegie                 ",2015,2701,"Simple Assault.",0,0,0,0,2,0,0,0,0,0,0,2,4
+"East Carnegie                 ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,0,0,1,0,0,0,0,0,1
 "East Carnegie                 ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,0,0,0,0,0,2,0,0,2
 "East Carnegie                 ",2017,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,0,0,1,0,0,0,0,0,1
 "East Carnegie                 ",2019,2706,"Terroristic Threats.",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -3099,6 +3106,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2017,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "East Carnegie                 ",2019,3131(c)(2),"Unlawful dissemination of intimate image -- Person depicted is NOT a minor (M2)",0,0,0,1,0,0,0,0,0,0,0,0,1
 "East Carnegie                 ",2018,3131(c)(2),"Unlawful dissemination of intimate image -- Person depicted is NOT a minor (M2)",0,0,0,0,0,0,1,0,0,0,0,0,1
+"East Carnegie                 ",2020,2902,"Unlawful Restraint.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "East Carnegie                 ",2018,2902,"Unlawful Restraint.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "East Carnegie                 ",2017,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2020,9498,"302 (Mental)",1,1,1,1,1,0,0,0,0,0,0,0,5
@@ -3476,7 +3484,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,3718(a),"Minor Prohib from Operating w/ Alcohol in System",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Elliott                       ",2019,425.26,Miscellaneous,0,0,0,0,0,0,0,1,0,0,0,0,1
 "Elliott                       ",2016,425.26,Miscellaneous,0,0,0,0,0,0,0,0,0,0,1,0,1
-"Elliott                       ",2020,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2020,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,1,0,0,1,0,0,0,0,0,2
 "Elliott                       ",2019,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,0,1,1,0,0,0,1,1,4
 "Elliott                       ",2018,9123,"Miscellaneous Fire Other Investigation to Continue",1,0,2,0,0,0,0,0,2,0,0,0,5
 "Elliott                       ",2017,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -4037,7 +4045,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2019,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Esplen                        ",2017,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2018,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Esplen                        ",2020,2701,"Simple Assault.",0,2,0,0,0,2,0,0,0,0,0,0,4
+"Esplen                        ",2020,2701,"Simple Assault.",0,2,0,0,0,2,1,0,0,0,0,0,5
 "Esplen                        ",2019,2701,"Simple Assault.",0,1,0,0,2,2,0,0,0,2,0,0,7
 "Esplen                        ",2018,2701,"Simple Assault.",0,0,0,0,0,3,0,0,2,1,0,0,6
 "Esplen                        ",2017,2701,"Simple Assault.",0,0,0,1,0,4,0,0,0,2,0,1,8
@@ -4728,7 +4736,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9498,"302 (Mental)",1,0,2,1,0,0,2,1,1,1,1,0,10
 "Sheraden                      ",2016,9498,"302 (Mental)",0,1,1,0,0,0,0,0,1,1,0,0,4
 "Sheraden                      ",2015,9498,"302 (Mental)",0,0,0,0,0,3,1,0,1,0,1,0,6
-"Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",2,6,11,4,8,11,3,0,0,0,0,0,45
+"Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",2,6,11,4,8,11,4,0,0,0,0,0,46
 "Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",4,3,2,8,1,8,6,5,2,5,5,7,56
 "Sheraden                      ",2018,9999,"9999 - (Misc. Incident):",8,8,3,5,5,7,8,7,10,7,5,2,75
 "Sheraden                      ",2017,9999,"9999 - (Misc. Incident):",7,4,6,5,7,7,9,6,10,5,6,8,80
@@ -4740,6 +4748,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,4106,"Access Device Fraud",1,0,3,1,0,0,3,3,0,1,0,0,12
 "Sheraden                      ",2016,4106,"Access Device Fraud",2,2,0,0,1,2,3,3,1,5,2,1,22
 "Sheraden                      ",2015,4106,"Access Device Fraud",0,0,0,1,0,1,0,1,1,0,0,1,5
+"Sheraden                      ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2016,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,1,1,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2019,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2018,9018,"Accidental Fire",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -4750,7 +4759,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,1,1,3,1,1,1,0,2,1,1,13
 "Sheraden                      ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,1,0,0,3,0,0,1,1,0,8
 "Sheraden                      ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,1,0,0,0,0,0,0,1,1,3
-"Sheraden                      ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,2,2,0,2,7,3,0,0,0,0,0,20
+"Sheraden                      ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,2,2,0,2,7,4,0,0,0,0,0,21
 "Sheraden                      ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,1,0,0,1,0,3,1,0,4,1,1,14
 "Sheraden                      ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,4,4,0,4,0,0,3,2,1,2,4,25
 "Sheraden                      ",2017,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,2,1,3,4,0,1,5,4,0,8,3,34
@@ -4866,7 +4875,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Sheraden                      ",2016,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,1,1,0,0,0,0,0,0,2
 "Sheraden                      ",2015,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,1,1,0,2,0,0,0,0,0,0,7
+"Sheraden                      ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,1,1,0,2,1,0,0,0,0,0,8
 "Sheraden                      ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,0,3,1,3,5,0,3,4,0,1,1,23
 "Sheraden                      ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,2,1,1,2,2,1,3,0,1,0,14
 "Sheraden                      ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,2,4,2,1,1,6,2,2,3,4,2,32
@@ -5076,7 +5085,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9489,"Found Property",0,0,0,1,1,2,1,0,0,0,0,0,5
 "Sheraden                      ",2016,9489,"Found Property",0,0,1,1,1,1,0,1,1,1,0,1,8
 "Sheraden                      ",2015,9489,"Found Property",0,0,0,1,2,0,0,0,0,0,0,1,4
-"Sheraden                      ",2020,4303,"General Lighting Requirements.",0,0,2,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2020,4303,"General Lighting Requirements.",0,0,2,0,0,0,2,0,0,0,0,0,4
 "Sheraden                      ",2019,4303,"General Lighting Requirements.",0,0,0,2,1,0,2,0,0,1,0,1,7
 "Sheraden                      ",2018,4303,"General Lighting Requirements.",1,0,0,0,0,2,0,0,0,0,0,0,3
 "Sheraden                      ",2017,4303,"General Lighting Requirements.",0,0,0,0,0,3,0,1,0,0,0,0,4
@@ -5167,6 +5176,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,2901,Kidnapping.,0,0,0,0,0,0,0,0,0,0,0,2,2
 "Sheraden                      ",2015,2901,Kidnapping.,0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,3115,"Lane-Direction-Control Signals",0,0,0,0,0,0,0,0,0,0,0,2,2
+"Sheraden                      ",2020,1505,"Learners Permits",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2017,633.02(a),"License Required; 3 Months or Older",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2017,6109,Licenses.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",1,0,0,1,0,0,0,0,0,0,0,0,2
@@ -5187,7 +5197,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,2910,"Luring a Child into a Motor Vehicle.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2019,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,0,2,0,0,0,2,0,1,0,0,0,5
 "Sheraden                      ",2018,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Sheraden                      ",2020,13(a)(31),"Marijuana: Possession Small Amount",0,0,4,2,5,2,0,0,0,0,0,0,13
+"Sheraden                      ",2020,13(a)(31),"Marijuana: Possession Small Amount",0,0,4,2,5,2,2,0,0,0,0,0,15
 "Sheraden                      ",2019,13(a)(31),"Marijuana: Possession Small Amount",0,4,2,4,1,2,1,2,5,8,4,6,39
 "Sheraden                      ",2018,13(a)(31),"Marijuana: Possession Small Amount",2,2,6,4,2,0,0,0,0,3,4,0,23
 "Sheraden                      ",2017,13(a)(31),"Marijuana: Possession Small Amount",8,3,1,5,2,6,2,8,0,0,3,0,38
@@ -5237,8 +5247,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9012,"Non-Violent Domestic",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,9012,"Non-Violent Domestic",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,1515,"Notice of Change of Name or Address.",0,0,0,0,0,0,0,0,0,0,2,0,2
-"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,1312,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2018,1515,"Notice of Change of Name or Address.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,633.12,"Number of Pets Permitted in City Limits; Exceptions",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2020,3111,"Obedience to Traffic-Control Devices.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,4,0,0,0,0,0,4
@@ -5393,7 +5403,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,1786,"Required Financial Responsibility.",2,0,0,0,0,1,0,1,0,0,0,0,4
 "Sheraden                      ",2016,1786,"Required Financial Responsibility.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2015,1786,"Required Financial Responsibility.",0,0,2,0,0,0,0,0,0,0,0,0,2
-"Sheraden                      ",2020,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,2,4,2,0,0,0,0,0,0,8
+"Sheraden                      ",2020,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,2,4,2,1,0,0,0,0,0,9
 "Sheraden                      ",2019,5104,"Resisting Arrest or Other Law Enforcement.",2,0,0,2,1,0,0,2,0,0,0,4,11
 "Sheraden                      ",2017,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,0,0,0,4,0,0,0,0,4
 "Sheraden                      ",2016,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,2,0,0,5,2,2,0,0,11
@@ -5454,7 +5464,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,4,5,5,9,1,2,2,0,1,2,34
 "Sheraden                      ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,2,0,4,0,5,1,11,1,5,3,2,36
 "Sheraden                      ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,2,4,0,0,6,1,4,2,2,23
-"Sheraden                      ",2020,2701,"Simple Assault.",9,5,13,5,11,10,3,0,0,0,0,0,56
+"Sheraden                      ",2020,2701,"Simple Assault.",9,5,13,5,11,10,5,0,0,0,0,0,58
 "Sheraden                      ",2019,2701,"Simple Assault.",9,8,2,2,8,2,9,8,11,3,2,7,71
 "Sheraden                      ",2018,2701,"Simple Assault.",6,4,4,4,4,5,3,9,6,6,9,6,66
 "Sheraden                      ",2017,2701,"Simple Assault.",2,2,15,13,6,7,3,5,6,3,2,6,70
