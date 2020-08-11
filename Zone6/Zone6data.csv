@@ -5,7 +5,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,9498,"302 (Mental)",0,0,0,0,2,0,0,0,1,0,0,0,3
 "Banksville                    ",2016,9498,"302 (Mental)",0,0,0,0,0,0,0,2,1,0,0,0,3
 "Banksville                    ",2015,9498,"302 (Mental)",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Banksville                    ",2020,9999,"9999 - (Misc. Incident):",2,6,1,2,3,6,2,1,0,0,0,0,23
+"Banksville                    ",2020,9999,"9999 - (Misc. Incident):",2,6,1,2,3,6,2,2,0,0,0,0,24
 "Banksville                    ",2019,9999,"9999 - (Misc. Incident):",1,4,4,3,0,3,2,1,2,0,0,4,24
 "Banksville                    ",2018,9999,"9999 - (Misc. Incident):",0,1,2,3,1,5,2,1,3,2,2,2,24
 "Banksville                    ",2017,9999,"9999 - (Misc. Incident):",2,3,1,0,3,3,3,2,3,1,1,3,25
@@ -1293,7 +1293,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,9999,"9999 - (Misc. Incident):",8,14,8,8,9,8,6,8,8,13,8,10,108
 "Brookline                     ",2015,9999,"9999 - (Misc. Incident):",0,0,3,5,7,8,11,9,7,11,6,5,72
 "Brookline                     ",2017,3712,"Abandonment and Stripping of Vehicles",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Brookline                     ",2020,4106,"Access Device Fraud",3,2,1,1,2,1,1,1,0,0,0,0,12
+"Brookline                     ",2020,4106,"Access Device Fraud",3,2,1,1,2,1,1,2,0,0,0,0,13
 "Brookline                     ",2019,4106,"Access Device Fraud",2,1,0,1,1,2,1,0,2,0,2,3,15
 "Brookline                     ",2018,4106,"Access Device Fraud",1,2,2,3,0,0,0,0,2,1,0,2,13
 "Brookline                     ",2017,4106,"Access Device Fraud",0,3,6,0,2,1,4,4,1,4,1,4,30
@@ -1424,7 +1424,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Brookline                     ",2016,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2015,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,0,1,2
-"Brookline                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,1,2,3,3,2,1,0,0,0,0,14
+"Brookline                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,1,2,3,3,2,2,0,0,0,0,15
 "Brookline                     ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,3,2,4,4,0,2,4,5,4,3,2,34
 "Brookline                     ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,1,0,3,2,2,2,1,6,1,0,20
 "Brookline                     ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,3,5,3,5,3,4,1,0,2,0,0,27
@@ -1677,7 +1677,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2016,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,0,0,0,0,1,0,1,2
 "Brookline                     ",2015,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Brookline                     ",2020,2709,"Harassment (Non-Specific)",3,2,1,2,3,3,1,3,0,0,0,0,18
+"Brookline                     ",2020,2709,"Harassment (Non-Specific)",3,2,1,2,3,3,1,4,0,0,0,0,19
 "Brookline                     ",2019,2709,"Harassment (Non-Specific)",4,3,1,4,5,1,2,3,4,5,2,1,35
 "Brookline                     ",2018,2709,"Harassment (Non-Specific)",1,1,3,4,1,1,0,3,1,2,0,0,17
 "Brookline                     ",2017,2709,"Harassment (Non-Specific)",1,2,0,1,0,3,1,1,3,3,1,4,20
@@ -1859,7 +1859,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Brookline                     ",2016,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2015,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Brookline                     ",2020,9998,Overdose,3,5,4,3,1,6,2,2,0,0,0,0,26
+"Brookline                     ",2020,9998,Overdose,3,5,4,3,1,6,2,3,0,0,0,0,27
 "Brookline                     ",2019,9998,Overdose,5,1,0,2,3,2,5,0,1,2,1,3,25
 "Brookline                     ",2018,9998,Overdose,0,3,2,2,2,2,1,2,2,0,2,3,21
 "Brookline                     ",2017,9998,Overdose,6,5,3,5,5,1,3,7,2,1,5,1,44
@@ -2870,7 +2870,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Crafton Heights               ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2017,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,2,6,3,7,3,0,0,0,0,23
+"Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,2,6,3,7,4,0,0,0,0,24
 "Crafton Heights               ",2019,8106,"Shots Fired",0,0,0,3,0,1,2,0,0,0,0,0,6
 "Crafton Heights               ",2018,8106,"Shots Fired",0,0,0,1,0,0,0,0,0,0,0,2,3
 "Crafton Heights               ",2016,8106,"Shots Fired",0,0,0,0,0,0,0,0,1,0,0,0,1
