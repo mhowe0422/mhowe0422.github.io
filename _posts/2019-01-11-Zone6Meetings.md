@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zone 6 Meeting Schedule
-description:  Meeting Schedule 2019
+description:  Meeting Schedule
 date: 2019-01-11
 image: assets/images/covid19.jpg
 author: Mark Howe
@@ -9,7 +9,7 @@ author: Mark Howe
 
 # Volunteers
 ## We are looking for Zone 6 neighborhood members to help us Support the Zone 6 Council
-### Contact Pat Friess at harleybabe54@hotmail.com if you are interested
+### Contact [Pat Friess](harleybabe54@hotmail.com) if you are interested
 
 
 # No Events for Zone 6 at this time
