@@ -698,10 +698,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -793,10 +793,10 @@
             "Jul": "0",
             "Aug": "2",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Banksville",
@@ -4346,10 +4346,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -4631,10 +4631,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "2",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Banksville",
@@ -7881,6 +7881,25 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2020",
+            "Section": "2709.1",
+            "Description": "Stalking Conduct or Repeatedly Acts Including Follows",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -11992,25 +12011,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2019",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "2",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "1",
-            "Jul": "7",
-            "Aug": "1",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "1",
-            "Dec": "1",
-            "Count": "13"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2019",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -12026,6 +12026,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2019",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "2",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "7",
+            "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "1",
+            "Count": "13"
         },
         {
             "Neighborhood": "Beechview",
@@ -26405,10 +26424,10 @@
             "Jul": "2",
             "Aug": "0",
             "Sep": "2",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "17"
         },
         {
             "Neighborhood": "Brookline",
@@ -27754,10 +27773,10 @@
             "Jul": "3",
             "Aug": "6",
             "Sep": "2",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "43"
+            "Count": "44"
         },
         {
             "Neighborhood": "Brookline",
@@ -46222,10 +46241,10 @@
             "Jul": "3",
             "Aug": "1",
             "Sep": "4",
-            "Oct": "2",
+            "Oct": "3",
             "Nov": "0",
             "Dec": "0",
-            "Count": "32"
+            "Count": "33"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -95782,25 +95801,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2015",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2015",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -95816,6 +95816,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "5"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2015",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -109378,10 +109397,10 @@
             "Jul": "3",
             "Aug": "1",
             "Sep": "2",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "West End",
@@ -113692,6 +113711,25 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2020",
+            "Section": "2709(a)",
+            "Description": "Harassment.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -121861,10 +121899,10 @@
             "Jul": "0",
             "Aug": "2",
             "Sep": "0",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Westwood",
@@ -125015,10 +125053,10 @@
             "Jul": "1",
             "Aug": "2",
             "Sep": "0",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Westwood",
