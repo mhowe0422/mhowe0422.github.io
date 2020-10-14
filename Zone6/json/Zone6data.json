@@ -5885,10 +5885,10 @@
             "Jul": "4",
             "Aug": "2",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Banksville",
@@ -6265,10 +6265,10 @@
             "Jul": "6",
             "Aug": "2",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Banksville",
@@ -6379,10 +6379,10 @@
             "Jul": "0",
             "Aug": "2",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Banksville",
@@ -7181,6 +7181,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2020",
+            "Section": "3809(a)",
+            "Description": "Restriction on Alcoholic Beverages in Vehicle",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Banksville",
@@ -12011,25 +12030,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2019",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "2",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "1",
-            "Jul": "7",
-            "Aug": "1",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "1",
-            "Dec": "1",
-            "Count": "13"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2019",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -12045,6 +12045,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2019",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "2",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "7",
+            "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "1",
+            "Count": "13"
         },
         {
             "Neighborhood": "Beechview",
@@ -12087,25 +12106,6 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2017",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "3",
-            "Jun": "2",
-            "Jul": "3",
-            "Aug": "3",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "1",
-            "Dec": "1",
-            "Count": "13"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2017",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -12121,6 +12121,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "1"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2017",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "3",
+            "Jun": "2",
+            "Jul": "3",
+            "Aug": "3",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "1",
+            "Count": "13"
         },
         {
             "Neighborhood": "Beechview",
@@ -16970,7 +16989,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8",
+            "Section": "517.8(A2)",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -16989,7 +17008,7 @@
         {
             "Neighborhood": "Beechview",
             "Year": "2018",
-            "Section": "517.8(A2)",
+            "Section": "517.8",
             "Description": "Home Improvement Fraud",
             "Jan": "0",
             "Feb": "0",
@@ -24524,10 +24543,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -25018,10 +25037,10 @@
             "Jul": "13",
             "Aug": "9",
             "Sep": "7",
-            "Oct": "3",
+            "Oct": "4",
             "Nov": "0",
             "Dec": "0",
-            "Count": "71"
+            "Count": "72"
         },
         {
             "Neighborhood": "Brookline",
@@ -27792,10 +27811,10 @@
             "Jul": "3",
             "Aug": "6",
             "Sep": "2",
-            "Oct": "4",
+            "Oct": "5",
             "Nov": "0",
             "Dec": "0",
-            "Count": "46"
+            "Count": "47"
         },
         {
             "Neighborhood": "Brookline",
@@ -28028,25 +28047,6 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2017",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Brookline",
-            "Year": "2017",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -28062,6 +28062,25 @@
             "Nov": "2",
             "Dec": "0",
             "Count": "10"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2017",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -33188,10 +33207,10 @@
             "Jul": "1",
             "Aug": "2",
             "Sep": "2",
-            "Oct": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "17"
         },
         {
             "Neighborhood": "Brookline",
@@ -37767,10 +37786,10 @@
             "Jul": "3",
             "Aug": "3",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Neighborhood": "Brookline",
@@ -39458,10 +39477,10 @@
             "Jul": "0",
             "Aug": "2",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -40047,10 +40066,10 @@
             "Jul": "2",
             "Aug": "2",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Brookline",
@@ -40579,10 +40598,10 @@
             "Jul": "4",
             "Aug": "2",
             "Sep": "6",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "22"
+            "Count": "23"
         },
         {
             "Neighborhood": "Brookline",
@@ -45196,10 +45215,10 @@
             "Jul": "2",
             "Aug": "2",
             "Sep": "2",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Chartiers City",
@@ -56634,10 +56653,10 @@
             "Jul": "0",
             "Aug": "2",
             "Sep": "2",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "26"
+            "Count": "27"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -61251,10 +61270,10 @@
             "Jul": "3",
             "Aug": "1",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Elliott",
@@ -66438,10 +66457,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Elliott",
@@ -66571,10 +66590,10 @@
             "Jul": "2",
             "Aug": "1",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Elliott",
@@ -71435,10 +71454,10 @@
             "Jul": "3",
             "Aug": "4",
             "Sep": "1",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "19"
+            "Count": "20"
         },
         {
             "Neighborhood": "Elliott",
@@ -71834,10 +71853,10 @@
             "Jul": "6",
             "Aug": "6",
             "Sep": "8",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "42"
+            "Count": "43"
         },
         {
             "Neighborhood": "Elliott",
@@ -95782,25 +95801,6 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2017",
-            "Section": "3503(a)",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "3",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "3"
-        },
-        {
-            "Neighborhood": "Sheraden",
-            "Year": "2017",
             "Section": "3503",
             "Description": "Criminal Trespass",
             "Jan": "1",
@@ -95819,22 +95819,22 @@
         },
         {
             "Neighborhood": "Sheraden",
-            "Year": "2016",
+            "Year": "2017",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
-            "Jan": "1",
+            "Jan": "0",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "3",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "1",
+            "Oct": "0",
             "Nov": "0",
-            "Dec": "2",
-            "Count": "4"
+            "Dec": "0",
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -95854,6 +95854,25 @@
             "Nov": "2",
             "Dec": "3",
             "Count": "17"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2016",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "2",
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -102717,7 +102736,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1515",
+            "Section": "1312",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -102736,7 +102755,7 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2018",
-            "Section": "1312",
+            "Section": "1515",
             "Description": "Notice of Change of Name or Address.",
             "Jan": "1",
             "Feb": "0",
@@ -103317,10 +103336,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -120189,10 +120208,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Westwood",
@@ -127523,10 +127542,10 @@
             "Jul": "0",
             "Aug": "2",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Windgap",
@@ -128252,6 +128271,25 @@
         },
         {
             "Neighborhood": "Windgap",
+            "Year": "2020",
+            "Section": "3802(a)(1)",
+            "Description": "DUI - General Impairment",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "2",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Windgap",
             "Year": "2019",
             "Section": "3802(a)(1)",
             "Description": "DUI - General Impairment",
@@ -128436,6 +128474,25 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2020",
+            "Section": "4304(a)(1)",
+            "Description": "Endangering Welfare of Children - Course of Conduct Enhanced",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
