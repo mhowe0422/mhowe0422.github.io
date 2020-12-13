@@ -1027,7 +1027,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2018,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Beechview                     ",2017,4703,"Operation of Vehicle without Official Certif. of Inspection",2,2,0,0,0,0,0,0,0,0,0,0,4
 "Beechview                     ",2015,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,0,0,0,2,2
-"Beechview                     ",2020,9998,Overdose,2,2,3,5,1,5,6,1,0,1,3,0,29
+"Beechview                     ",2020,9998,Overdose,2,2,3,5,1,5,6,1,0,1,3,1,30
 "Beechview                     ",2019,9998,Overdose,1,2,1,1,1,0,1,3,1,1,2,2,16
 "Beechview                     ",2018,9998,Overdose,1,1,0,3,0,1,4,3,0,1,2,1,17
 "Beechview                     ",2017,9998,Overdose,4,2,2,2,3,2,5,4,5,2,1,1,33
@@ -1402,7 +1402,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,4105(a)(1),"Bad Checks",0,0,1,0,0,1,0,1,0,0,0,0,3
 "Brookline                     ",2017,4105(a)(1),"Bad Checks",0,0,0,0,0,0,0,1,0,0,0,1,2
 "Brookline                     ",2016,4105(a)(1),"Bad Checks",1,0,0,0,0,0,0,1,1,0,0,2,5
-"Brookline                     ",2020,9501,"Bench Warrant",2,0,4,0,5,0,2,0,2,2,2,0,19
+"Brookline                     ",2020,9501,"Bench Warrant",2,0,4,0,5,0,2,0,2,2,2,1,20
 "Brookline                     ",2019,9501,"Bench Warrant",0,0,4,6,4,4,2,2,2,0,3,0,27
 "Brookline                     ",2018,9501,"Bench Warrant",0,4,1,2,2,3,0,0,6,4,5,2,29
 "Brookline                     ",2017,9501,"Bench Warrant",6,2,4,0,0,0,4,8,0,3,2,8,37
@@ -1474,7 +1474,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,3,5,3,5,3,4,1,0,2,0,0,27
 "Brookline                     ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,0,1,1,2,8,2,0,3,0,2,20
 "Brookline                     ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,3,3,2,2,0,0,0,10
-"Brookline                     ",2020,3304,"Criminal Mischief.",4,7,3,2,5,10,3,6,2,6,5,1,54
+"Brookline                     ",2020,3304,"Criminal Mischief.",4,7,3,2,5,10,3,6,2,6,5,2,55
 "Brookline                     ",2019,3304,"Criminal Mischief.",4,0,3,2,11,7,3,3,4,3,6,3,49
 "Brookline                     ",2018,3304,"Criminal Mischief.",5,3,5,6,6,8,20,9,0,7,11,5,85
 "Brookline                     ",2017,3304,"Criminal Mischief.",6,6,6,7,9,1,7,6,13,7,6,4,78
@@ -1920,7 +1920,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,602.04,"Panhandling and Prohibited Conduct",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2018,13(a)(33),"Paraphernalia - Delivery or Intent to Deliver",0,0,3,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2017,13(a)(33),"Paraphernalia - Delivery or Intent to Deliver",0,0,0,2,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2020,13(a)(32),"Paraphernalia - Use or Possession",2,2,4,3,6,2,8,3,3,2,2,2,39
+"Brookline                     ",2020,13(a)(32),"Paraphernalia - Use or Possession",2,2,4,3,6,2,8,3,3,2,2,4,41
 "Brookline                     ",2019,13(a)(32),"Paraphernalia - Use or Possession",6,2,2,2,0,0,0,10,2,0,4,4,32
 "Brookline                     ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,6,4,3,2,2,2,0,10,7,36
 "Brookline                     ",2017,13(a)(32),"Paraphernalia - Use or Possession",4,3,0,4,2,0,0,2,2,2,0,2,21
@@ -1958,7 +1958,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,907,"Possessing Instruments of Crime.",0,0,0,2,0,0,0,2,0,0,2,0,6
 "Brookline                     ",2016,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,2,3,0,0,0,2,7
 "Brookline                     ",2015,907,"Possessing Instruments of Crime.",0,0,0,0,2,0,0,0,0,0,1,0,3
-"Brookline                     ",2020,13(a)(16),"Possession of Controlled Substance",2,4,0,1,3,3,8,4,2,0,2,0,29
+"Brookline                     ",2020,13(a)(16),"Possession of Controlled Substance",2,4,0,1,3,3,8,4,2,0,2,2,31
 "Brookline                     ",2019,13(a)(16),"Possession of Controlled Substance",2,2,4,0,2,2,2,8,2,2,2,2,30
 "Brookline                     ",2018,13(a)(16),"Possession of Controlled Substance",0,4,3,8,2,3,4,2,2,0,4,4,36
 "Brookline                     ",2017,13(a)(16),"Possession of Controlled Substance",3,2,5,4,9,3,6,0,4,3,0,4,43
@@ -1994,7 +1994,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,6504,"Public Nuisances.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2018,601.16,"Public Urination And Defecation",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2015,601.16,"Public Urination And Defecation",0,0,0,0,1,0,0,0,0,0,1,1,3
-"Brookline                     ",2020,3925,"Receiving Stolen Property.",2,2,1,0,4,0,2,0,0,0,0,0,11
+"Brookline                     ",2020,3925,"Receiving Stolen Property.",2,2,1,0,4,0,2,0,0,0,0,2,13
 "Brookline                     ",2019,3925,"Receiving Stolen Property.",0,1,0,2,2,1,0,0,0,0,2,0,8
 "Brookline                     ",2018,3925,"Receiving Stolen Property.",0,5,2,1,1,0,0,0,3,0,0,0,12
 "Brookline                     ",2017,3925,"Receiving Stolen Property.",2,1,1,1,0,4,1,3,1,1,2,2,19
@@ -2047,7 +2047,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2019,3809(a),"Restriction on Alcoholic Beverages in Vehicle",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Brookline                     ",2018,3809(a),"Restriction on Alcoholic Beverages in Vehicle",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2017,3809(a),"Restriction on Alcoholic Beverages in Vehicle",0,0,0,0,0,0,0,0,2,0,0,0,2
-"Brookline                     ",2020,3929,"Retail Theft.",1,2,0,2,0,1,3,0,1,0,0,0,10
+"Brookline                     ",2020,3929,"Retail Theft.",1,2,0,2,0,1,3,0,1,0,0,2,12
 "Brookline                     ",2019,3929,"Retail Theft.",0,0,0,0,1,0,0,1,0,1,1,0,4
 "Brookline                     ",2018,3929,"Retail Theft.",0,0,0,1,0,0,0,0,2,0,4,1,8
 "Brookline                     ",2017,3929,"Retail Theft.",0,0,0,0,0,2,2,0,1,0,3,0,8
@@ -3847,7 +3847,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,3922,"Theft by Deception.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2015,3922,"Theft by Deception.",0,0,1,0,2,0,0,0,0,0,0,0,3
 "Elliott                       ",2017,3923,"Theft by Extortion.",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Elliott                       ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,2,0,1,0,2,0,0,3,0,1,1,13
+"Elliott                       ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,2,0,1,0,2,0,0,3,0,1,2,14
 "Elliott                       ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,2,0,2,0,0,1,1,0,0,7
 "Elliott                       ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,2,0,4,1,1,3,1,1,1,0,16
 "Elliott                       ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,0,2,3,2,2,3,0,1,0,0,3,22
@@ -5840,7 +5840,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,2,0,0,0,0,0,0,0,0,2
 "West End                      ",2018,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,2,0,0,0,0,0,0,2
 "West End                      ",2017,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,0,2,0,0,0,0,2
-"West End                      ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",1,2,0,0,2,0,2,4,1,0,0,0,12
+"West End                      ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",1,2,0,0,2,0,2,4,1,0,0,1,13
 "West End                      ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",0,5,2,1,2,1,2,0,2,1,1,4,21
 "West End                      ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,3,0,3,1,1,2,0,1,1,0,14
 "West End                      ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",1,0,1,2,4,1,1,1,0,0,3,4,18
