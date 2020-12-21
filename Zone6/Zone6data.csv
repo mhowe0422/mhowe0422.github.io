@@ -11,7 +11,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,9999,"9999 - (Misc. Incident):",2,3,1,0,3,3,3,2,3,1,1,3,25
 "Banksville                    ",2016,9999,"9999 - (Misc. Incident):",2,4,1,5,3,5,2,4,3,4,2,4,39
 "Banksville                    ",2015,9999,"9999 - (Misc. Incident):",0,0,1,0,0,2,2,1,1,3,1,4,15
-"Banksville                    ",2020,4106,"Access Device Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Banksville                    ",2020,4106,"Access Device Fraud",0,0,0,0,0,0,0,1,0,0,0,1,2
 "Banksville                    ",2019,4106,"Access Device Fraud",0,0,0,4,0,0,0,1,0,1,0,0,6
 "Banksville                    ",2018,4106,"Access Device Fraud",0,0,0,1,1,2,1,2,1,0,0,0,8
 "Banksville                    ",2017,4106,"Access Device Fraud",0,0,0,0,0,2,1,3,1,0,0,3,10
@@ -244,7 +244,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2019,517.8,"Home Improvement Fraud",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Banksville                    ",2018,517.8,"Home Improvement Fraud",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2017,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Banksville                    ",2020,4120,"Identity Theft",0,0,0,0,1,0,0,0,2,1,1,0,5
+"Banksville                    ",2020,4120,"Identity Theft",0,0,0,0,1,0,0,0,2,1,1,1,6
 "Banksville                    ",2018,4120,"Identity Theft",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Banksville                    ",2017,4120,"Identity Theft",0,0,0,0,0,1,1,0,1,0,2,1,6
 "Banksville                    ",2016,4120,"Identity Theft",1,0,2,0,1,1,0,0,0,2,0,0,7
@@ -440,7 +440,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,2706,"Terroristic Threats.",0,2,0,0,0,3,0,4,0,0,0,0,9
 "Banksville                    ",2016,2706,"Terroristic Threats.",0,0,0,0,0,0,0,2,1,0,0,0,3
 "Banksville                    ",2015,2706,"Terroristic Threats.",0,0,0,0,4,0,0,0,1,0,0,0,5
-"Banksville                    ",2020,3922,"Theft by Deception.",1,2,0,0,0,0,0,0,0,1,0,0,4
+"Banksville                    ",2020,3922,"Theft by Deception.",1,2,0,0,0,0,0,0,0,1,0,1,5
 "Banksville                    ",2019,3922,"Theft by Deception.",0,0,0,1,0,0,0,1,1,0,0,0,3
 "Banksville                    ",2018,3922,"Theft by Deception.",0,0,1,0,0,0,1,1,0,0,1,0,4
 "Banksville                    ",2017,3922,"Theft by Deception.",1,1,0,0,0,0,0,0,0,0,0,0,2
@@ -1327,7 +1327,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,9498,"302 (Mental)",0,0,0,1,1,3,1,3,1,2,1,0,13
 "Brookline                     ",2016,9498,"302 (Mental)",0,0,1,0,2,1,3,2,0,1,1,0,11
 "Brookline                     ",2015,9498,"302 (Mental)",0,0,0,0,1,2,0,2,0,0,2,2,9
-"Brookline                     ",2020,9999,"9999 - (Misc. Incident):",9,4,10,2,6,8,13,9,7,8,5,6,87
+"Brookline                     ",2020,9999,"9999 - (Misc. Incident):",9,4,10,2,6,8,13,9,7,8,5,7,88
 "Brookline                     ",2019,9999,"9999 - (Misc. Incident):",7,10,9,17,12,4,6,8,10,13,12,8,116
 "Brookline                     ",2018,9999,"9999 - (Misc. Incident):",8,3,14,9,10,8,10,6,7,7,7,8,97
 "Brookline                     ",2017,9999,"9999 - (Misc. Incident):",6,6,8,7,13,7,11,11,13,9,7,8,106
@@ -3227,7 +3227,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,9498,"302 (Mental)",1,0,4,0,0,0,0,2,0,1,0,0,8
 "Elliott                       ",2016,9498,"302 (Mental)",1,0,0,0,1,0,0,0,0,1,0,0,3
 "Elliott                       ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,1,1,0,1,3
-"Elliott                       ",2020,9999,"9999 - (Misc. Incident):",1,5,3,0,3,7,1,3,2,2,2,1,30
+"Elliott                       ",2020,9999,"9999 - (Misc. Incident):",1,5,3,0,3,7,1,3,2,2,2,2,31
 "Elliott                       ",2019,9999,"9999 - (Misc. Incident):",4,2,4,2,4,9,3,3,1,2,1,3,38
 "Elliott                       ",2018,9999,"9999 - (Misc. Incident):",6,3,3,1,4,2,2,2,3,1,3,3,33
 "Elliott                       ",2017,9999,"9999 - (Misc. Incident):",3,4,3,2,1,1,2,1,4,4,2,3,30
@@ -4956,7 +4956,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9999,"9999 - (Misc. Incident):",7,4,6,5,7,7,9,6,10,5,6,8,80
 "Sheraden                      ",2016,9999,"9999 - (Misc. Incident):",7,2,4,2,12,7,6,5,5,7,8,9,74
 "Sheraden                      ",2015,9999,"9999 - (Misc. Incident):",0,0,7,5,7,12,2,3,6,4,3,4,53
-"Sheraden                      ",2020,4106,"Access Device Fraud",0,2,2,2,1,2,1,0,1,0,0,1,12
+"Sheraden                      ",2020,4106,"Access Device Fraud",0,2,2,2,1,2,1,0,1,0,0,2,13
 "Sheraden                      ",2019,4106,"Access Device Fraud",3,0,0,0,0,1,0,2,0,1,3,3,13
 "Sheraden                      ",2018,4106,"Access Device Fraud",0,1,2,1,2,0,4,0,0,3,3,1,17
 "Sheraden                      ",2017,4106,"Access Device Fraud",1,0,3,1,0,0,3,3,0,1,0,0,12
@@ -4987,7 +4987,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3354,"Additional Parking Regulations.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,3732.1,"Aggravated Assault by Vehicle",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Sheraden                      ",2015,3735.1,"Aggravated Assault While DUI",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Sheraden                      ",2020,2702,"Aggravated Assault.",0,0,3,2,6,4,11,7,7,1,1,2,44
+"Sheraden                      ",2020,2702,"Aggravated Assault.",0,0,3,2,6,4,11,7,7,1,1,3,45
 "Sheraden                      ",2019,2702,"Aggravated Assault.",4,2,0,0,1,4,5,3,2,2,0,3,26
 "Sheraden                      ",2018,2702,"Aggravated Assault.",0,0,0,6,2,2,7,2,0,3,5,7,34
 "Sheraden                      ",2017,2702,"Aggravated Assault.",9,5,13,1,3,3,4,5,7,0,2,2,54
@@ -5103,13 +5103,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,2,4,2,1,1,6,2,2,3,4,2,32
 "Sheraden                      ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,4,5,3,0,4,4,5,2,3,0,4,35
 "Sheraden                      ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,1,0,2,0,2,0,1,2,1,0,9
-"Sheraden                      ",2020,3304,"Criminal Mischief.",3,3,3,3,3,7,4,5,3,5,6,0,45
+"Sheraden                      ",2020,3304,"Criminal Mischief.",3,3,3,3,3,7,4,5,3,5,6,3,48
 "Sheraden                      ",2019,3304,"Criminal Mischief.",2,1,6,6,5,3,8,3,3,1,0,2,40
 "Sheraden                      ",2018,3304,"Criminal Mischief.",1,2,2,5,5,4,3,4,12,2,4,4,48
 "Sheraden                      ",2017,3304,"Criminal Mischief.",11,6,13,8,4,8,16,12,4,3,4,2,91
 "Sheraden                      ",2016,3304,"Criminal Mischief.",7,2,5,12,3,4,6,10,3,10,6,4,72
 "Sheraden                      ",2015,3304,"Criminal Mischief.",0,0,1,5,4,7,8,6,7,6,6,3,53
-"Sheraden                      ",2020,3503,"Criminal Trespass",0,0,0,2,0,1,1,0,2,0,0,1,7
+"Sheraden                      ",2020,3503,"Criminal Trespass",0,0,0,2,0,1,1,0,2,0,0,2,8
 "Sheraden                      ",2020,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,3,0,3
 "Sheraden                      ",2019,3503,"Criminal Trespass",3,0,2,0,0,0,2,5,0,1,0,0,13
 "Sheraden                      ",2019,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,1,0,1
@@ -5203,7 +5203,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,9492,"Dog Bite",0,0,0,1,0,1,0,1,0,0,0,0,3
 "Sheraden                      ",2019,633.08,"Dogs at Large Prohibited",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2016,633.08,"Dogs at Large Prohibited",0,0,0,0,1,0,0,1,0,0,0,0,2
-"Sheraden                      ",2020,1501,"Drivers Required to be Licensed.",0,1,0,2,2,0,2,0,3,0,2,0,12
+"Sheraden                      ",2020,1501,"Drivers Required to be Licensed.",0,1,0,2,2,0,2,0,3,0,2,1,13
 "Sheraden                      ",2019,1501,"Drivers Required to be Licensed.",0,0,0,0,0,0,0,0,2,1,0,0,3
 "Sheraden                      ",2018,1501,"Drivers Required to be Licensed.",0,0,0,0,0,0,0,0,2,3,0,0,5
 "Sheraden                      ",2017,1501,"Drivers Required to be Licensed.",0,0,1,0,0,0,0,0,0,0,0,2,3
@@ -5316,7 +5316,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9489,"Found Property",0,0,0,1,1,2,1,0,0,0,0,0,5
 "Sheraden                      ",2016,9489,"Found Property",0,0,1,1,1,1,0,1,1,1,0,1,8
 "Sheraden                      ",2015,9489,"Found Property",0,0,0,1,2,0,0,0,0,0,0,1,4
-"Sheraden                      ",2020,4303,"General Lighting Requirements.",0,0,2,0,0,0,2,0,3,0,1,1,9
+"Sheraden                      ",2020,4303,"General Lighting Requirements.",0,0,2,0,0,0,2,0,3,0,1,2,10
 "Sheraden                      ",2019,4303,"General Lighting Requirements.",0,0,0,2,1,0,2,0,0,1,0,1,7
 "Sheraden                      ",2018,4303,"General Lighting Requirements.",1,0,0,0,0,2,0,0,0,0,0,0,3
 "Sheraden                      ",2017,4303,"General Lighting Requirements.",0,0,0,0,0,3,0,1,0,0,0,0,4
@@ -5380,7 +5380,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,13(a)(31)*,"Hashish - Possession Small Amount",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2016,7741,"Head Lamps and Tail Lamps",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,5105,"Hindering Apprehension or Prosecution.",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2020,4120,"Identity Theft",0,0,0,1,1,1,1,1,0,3,0,1,9
+"Sheraden                      ",2020,4120,"Identity Theft",0,0,0,1,1,1,1,1,0,3,0,2,10
 "Sheraden                      ",2019,4120,"Identity Theft",0,0,1,0,2,1,0,2,0,0,2,0,8
 "Sheraden                      ",2018,4120,"Identity Theft",0,0,2,0,0,0,1,0,0,0,0,0,3
 "Sheraden                      ",2017,4120,"Identity Theft",1,1,5,0,0,0,0,1,0,0,0,1,9
@@ -5552,7 +5552,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,6110.1,"Possesion of Firearm by Minor",1,0,2,0,0,0,0,3,0,0,0,0,6
 "Sheraden                      ",2015,6110.1,"Possesion of Firearm by Minor",0,0,0,0,0,0,0,0,0,0,0,3,3
 "Sheraden                      ",2017,6110.2,"Possesion of Firearm with Altered Mfg. Number",0,0,0,0,0,0,0,0,0,2,0,0,2
-"Sheraden                      ",2020,627.02(b)(i),"Possessing a small amount of marijuana",1,0,0,0,0,0,1,3,1,0,1,0,7
+"Sheraden                      ",2020,627.02(b)(i),"Possessing a small amount of marijuana",1,0,0,0,0,0,1,3,1,0,1,1,8
 "Sheraden                      ",2019,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,0,0,0,0,0,0,2,2,0,4
 "Sheraden                      ",2018,627.02(b)(i),"Possessing a small amount of marijuana",0,0,2,0,0,0,0,0,0,0,0,1,3
 "Sheraden                      ",2020,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,0,0,0,2,1,3
@@ -5599,7 +5599,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,5902(a)(1),Prostitution,0,0,0,2,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2018,5902(a)(2),"Prostitution - Loitering for purpose of",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2017,3525,"Protective Equipment for Motorcycle Riders.",0,0,0,0,0,1,0,1,0,0,0,0,2
-"Sheraden                      ",2020,5505,"Public Drunkenness",0,0,0,0,1,0,0,0,2,0,0,1,4
+"Sheraden                      ",2020,5505,"Public Drunkenness",0,0,0,0,1,0,0,0,2,0,0,2,5
 "Sheraden                      ",2019,5505,"Public Drunkenness",0,0,0,0,1,5,0,1,0,2,0,0,9
 "Sheraden                      ",2018,5505,"Public Drunkenness",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2017,5505,"Public Drunkenness",1,1,2,2,1,0,1,1,0,0,0,0,9
@@ -5648,12 +5648,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,1786,"Required Financial Responsibility.",2,0,0,0,0,1,0,1,0,0,0,0,4
 "Sheraden                      ",2016,1786,"Required Financial Responsibility.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2015,1786,"Required Financial Responsibility.",0,0,2,0,0,0,0,0,0,0,0,0,2
-"Sheraden                      ",2020,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,2,4,2,2,2,2,0,2,1,17
+"Sheraden                      ",2020,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,2,4,2,2,2,2,0,2,2,18
 "Sheraden                      ",2019,5104,"Resisting Arrest or Other Law Enforcement.",2,0,0,2,1,0,0,2,0,0,0,4,11
 "Sheraden                      ",2017,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,0,0,0,4,0,0,0,0,4
 "Sheraden                      ",2016,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,2,0,0,5,2,2,0,0,11
 "Sheraden                      ",2015,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Sheraden                      ",2018,1107,"Restitution for Theft of Timber. ",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2020,4581,"Restraint Systems.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2016,4581,"Restraint Systems.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2015,4581,"Restraint Systems.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2016,7513,"Restriction on Alcoholic Beverages - Open Container",0,0,0,2,0,0,0,0,1,0,0,0,3
@@ -5745,7 +5746,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,4910,"Tampering with or Fabricating Physical Evidence.",0,0,2,0,2,0,0,2,0,0,2,0,8
 "Sheraden                      ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Sheraden                      ",2020,1928,"Temporary Registration Plates.",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Sheraden                      ",2020,2706,"Terroristic Threats.",1,4,1,3,4,0,7,1,12,5,7,1,46
+"Sheraden                      ",2020,2706,"Terroristic Threats.",1,4,1,3,4,0,7,1,12,5,7,3,48
 "Sheraden                      ",2019,2706,"Terroristic Threats.",5,1,3,2,8,3,7,4,1,0,3,0,37
 "Sheraden                      ",2018,2706,"Terroristic Threats.",3,1,4,1,2,0,3,2,2,0,2,4,24
 "Sheraden                      ",2017,2706,"Terroristic Threats.",5,2,11,3,2,2,3,1,1,0,0,3,33
@@ -5765,7 +5766,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,4,4,2,2,2,0,2,2,3,9,3,38
 "Sheraden                      ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,0,2,2,1,5,5,7,7,1,0,9,44
 "Sheraden                      ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,3,2,3,4,2,5,3,3,1,3,29
-"Sheraden                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",5,3,3,5,4,6,4,3,1,3,2,3,42
+"Sheraden                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",5,3,3,5,4,6,4,3,1,3,2,4,43
 "Sheraden                      ",2019,3921,"Theft by Unlawful Taking or Disposition.",1,4,2,0,4,2,3,4,5,2,2,1,30
 "Sheraden                      ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,2,5,1,2,1,1,3,5,2,1,3,27
 "Sheraden                      ",2017,3921,"Theft by Unlawful Taking or Disposition.",11,7,4,4,4,3,8,2,1,3,7,2,56
@@ -5960,10 +5961,11 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,1501,"Drivers Required to be Licensed.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "West End                      ",2016,1501,"Drivers Required to be Licensed.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "West End                      ",2015,1501,"Drivers Required to be Licensed.",0,0,0,0,0,0,0,0,2,0,2,0,4
+"West End                      ",2020,3309,"Driving on Roadways Laned for Traffic.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "West End                      ",2017,3309,"Driving on Roadways Laned for Traffic.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "West End                      ",2019,3361,"Driving Vehicle at Safe Speed.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "West End                      ",2018,3361,"Driving Vehicle at Safe Speed.",1,0,0,0,0,0,0,0,0,0,0,0,1
-"West End                      ",2020,1543,"Driving While Operating Privilege is Suspended or Revoked.",1,0,0,0,0,0,0,2,2,0,0,1,6
+"West End                      ",2020,1543,"Driving While Operating Privilege is Suspended or Revoked.",1,0,0,0,0,0,0,2,2,0,0,3,8
 "West End                      ",2019,1543,"Driving While Operating Privilege is Suspended or Revoked.",1,0,0,1,2,0,0,0,3,0,0,2,9
 "West End                      ",2018,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,0,0,0,2,2,3,5,0,0,0,12
 "West End                      ",2017,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,2,0,2,2,0,5,4,2,0,0,2,19
@@ -5983,7 +5985,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2018,3802(d)(2),"DUI - Drug - Impaired Ability",0,0,0,0,0,2,0,0,0,0,0,0,2
 "West End                      ",2017,3802(d)(2),"DUI - Drug - Impaired Ability",0,0,0,2,0,0,0,0,0,0,0,0,2
 "West End                      ",2015,3802(d)(2),"DUI - Drug - Impaired Ability",0,0,0,0,0,2,2,0,0,0,0,0,4
-"West End                      ",2020,3802(a)(1),"DUI - General Impairment",4,0,0,2,0,0,0,0,2,0,0,1,9
+"West End                      ",2020,3802(a)(1),"DUI - General Impairment",4,0,0,2,0,0,0,0,2,0,0,3,11
 "West End                      ",2019,3802(a)(1),"DUI - General Impairment",0,0,0,2,0,0,2,0,0,2,0,6,12
 "West End                      ",2018,3802(a)(1),"DUI - General Impairment",2,0,2,0,2,0,0,0,0,0,0,4,10
 "West End                      ",2017,3802(a)(1),"DUI - General Impairment",2,0,0,2,4,2,4,2,0,0,2,4,22
@@ -6104,6 +6106,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2017,13(a)(31),"Marijuana: Possession Small Amount",2,0,0,0,2,0,2,2,0,0,0,0,8
 "West End                      ",2016,13(a)(31),"Marijuana: Possession Small Amount",3,0,2,0,0,0,0,0,0,0,2,0,7
 "West End                      ",2015,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,2,4,2,0,0,0,0,0,0,8
+"West End                      ",2020,3364,"Minimum Speed Regulation.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "West End                      ",2016,425.26,Miscellaneous,0,0,0,0,0,0,0,1,0,0,0,0,1
 "West End                      ",2020,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,0,0,0,1,0,0,0,0,1
 "West End                      ",2019,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -6241,6 +6244,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2016,2701,"Simple Assault.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2015,2701,"Simple Assault.",0,0,0,0,0,0,1,2,0,2,0,0,5
 "West End                      ",2018,2709(b),Stalking,1,0,0,0,0,0,0,0,0,0,0,0,1
+"West End                      ",2020,3323,"Stop Signs and Yield Signs.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "West End                      ",2017,3323,"Stop Signs and Yield Signs.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "West End                      ",2016,3323,"Stop Signs and Yield Signs.",0,2,0,2,0,0,0,0,0,0,2,0,6
 "West End                      ",2015,3323,"Stop Signs and Yield Signs.",0,0,0,2,0,0,0,0,0,0,0,2,4

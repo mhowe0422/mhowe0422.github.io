@@ -244,8 +244,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -4576,8 +4576,8 @@
             "Sep": "2",
             "Oct": "1",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "5"
+            "Dec": "1",
+            "Count": "6"
         },
         {
             "Neighborhood": "Banksville",
@@ -8243,8 +8243,8 @@
             "Sep": "0",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "4"
+            "Dec": "1",
+            "Count": "5"
         },
         {
             "Neighborhood": "Banksville",
@@ -24963,8 +24963,8 @@
             "Sep": "7",
             "Oct": "8",
             "Nov": "5",
-            "Dec": "6",
-            "Count": "87"
+            "Dec": "7",
+            "Count": "88"
         },
         {
             "Neighborhood": "Brookline",
@@ -60550,8 +60550,8 @@
             "Sep": "2",
             "Oct": "2",
             "Nov": "2",
-            "Dec": "1",
-            "Count": "30"
+            "Dec": "2",
+            "Count": "31"
         },
         {
             "Neighborhood": "Elliott",
@@ -93116,8 +93116,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "1",
-            "Count": "12"
+            "Dec": "2",
+            "Count": "13"
         },
         {
             "Neighborhood": "Sheraden",
@@ -95852,8 +95852,8 @@
             "Sep": "3",
             "Oct": "5",
             "Nov": "5",
-            "Dec": "0",
-            "Count": "42"
+            "Dec": "3",
+            "Count": "45"
         },
         {
             "Neighborhood": "Sheraden",
@@ -97714,8 +97714,8 @@
             "Sep": "2",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "8"
+            "Dec": "1",
+            "Count": "9"
         },
         {
             "Neighborhood": "Sheraden",
@@ -99861,8 +99861,8 @@
             "Sep": "2",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "1",
-            "Count": "6"
+            "Dec": "2",
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -101077,8 +101077,8 @@
             "Sep": "0",
             "Oct": "3",
             "Nov": "0",
-            "Dec": "1",
-            "Count": "9"
+            "Dec": "2",
+            "Count": "10"
         },
         {
             "Neighborhood": "Sheraden",
@@ -104288,8 +104288,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "7"
+            "Dec": "1",
+            "Count": "8"
         },
         {
             "Neighborhood": "Sheraden",
@@ -106212,6 +106212,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2020",
+            "Section": "4581",
+            "Description": "Restraint Systems.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2016",
             "Section": "4581",
             "Description": "Restraint Systems.",
@@ -107898,8 +107917,8 @@
             "Sep": "5",
             "Oct": "5",
             "Nov": "5",
-            "Dec": "1",
-            "Count": "29"
+            "Dec": "3",
+            "Count": "31"
         },
         {
             "Neighborhood": "Sheraden",
@@ -108278,8 +108297,8 @@
             "Sep": "1",
             "Oct": "3",
             "Nov": "2",
-            "Dec": "3",
-            "Count": "39"
+            "Dec": "4",
+            "Count": "40"
         },
         {
             "Neighborhood": "Sheraden",
@@ -111950,6 +111969,25 @@
         },
         {
             "Neighborhood": "West End",
+            "Year": "2020",
+            "Section": "3309",
+            "Description": "Driving on Roadways Laned for Traffic.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
             "Year": "2017",
             "Section": "3309",
             "Description": "Driving on Roadways Laned for Traffic.",
@@ -112021,8 +112059,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "1",
-            "Count": "4"
+            "Dec": "2",
+            "Count": "5"
         },
         {
             "Neighborhood": "West End",
@@ -112382,8 +112420,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "4"
+            "Dec": "1",
+            "Count": "5"
         },
         {
             "Neighborhood": "West End",
@@ -114531,6 +114569,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2020",
+            "Section": "3364",
+            "Description": "Minimum Speed Regulation.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
         },
         {
             "Neighborhood": "West End",
@@ -117058,6 +117115,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2020",
+            "Section": "3323",
+            "Description": "Stop Signs and Yield Signs.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
         },
         {
             "Neighborhood": "West End",
