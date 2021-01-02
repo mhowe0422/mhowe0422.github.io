@@ -580,6 +580,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3502,Burglary.,4,3,1,3,4,1,1,2,0,5,6,0,30
 "Beechview                     ",2016,3502,Burglary.,1,0,3,2,10,7,4,3,2,4,4,1,41
 "Beechview                     ",2015,3502,Burglary.,0,0,2,0,1,5,7,5,5,0,2,2,29
+"Beechview                     ",2021,3714,"Careless Driving",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,3714,"Careless Driving",0,3,0,0,1,2,2,4,0,0,0,0,12
 "Beechview                     ",2019,3714,"Careless Driving",0,0,0,0,0,0,1,0,0,0,2,0,3
 "Beechview                     ",2018,3714,"Careless Driving",0,0,2,0,0,0,0,2,0,0,0,2,6
@@ -753,6 +754,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2019,3802(d)(2),"DUI - Drug - Impaired Ability",0,2,0,0,0,0,0,2,0,0,0,0,4
 "Beechview                     ",2017,3802(d)(2),"DUI - Drug - Impaired Ability",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Beechview                     ",2015,3802(d)(2),"DUI - Drug - Impaired Ability",0,0,0,0,2,0,0,0,0,0,2,0,4
+"Beechview                     ",2021,3802(a)(1),"DUI - General Impairment",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,3802(a)(1),"DUI - General Impairment",2,4,2,0,4,1,2,4,0,0,2,1,22
 "Beechview                     ",2019,3802(a)(1),"DUI - General Impairment",0,2,2,4,4,2,4,0,0,0,3,2,23
 "Beechview                     ",2018,3802(a)(1),"DUI - General Impairment",4,2,4,2,2,2,0,2,0,0,0,2,20
@@ -1470,6 +1472,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Brookline                     ",2016,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2015,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,0,1,2
+"Brookline                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,1,2,3,3,2,2,1,2,1,0,19
 "Brookline                     ",2019,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,3,2,4,4,0,2,4,5,4,3,2,34
 "Brookline                     ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,1,0,3,2,2,2,1,6,1,0,20
@@ -2492,6 +2495,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,3503(b)(1)(i),"Actual Communication",0,0,0,0,3,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2016,3503(b)(1)(i),"Actual Communication",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,3732.1,"Aggravated Assault by Vehicle",0,0,0,0,0,0,0,0,0,1,0,1,2
+"Crafton Heights               ",2021,2702,"Aggravated Assault.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2020,2702,"Aggravated Assault.",1,0,0,0,0,0,0,0,3,1,0,0,5
 "Crafton Heights               ",2019,2702,"Aggravated Assault.",1,1,0,3,0,0,1,0,1,1,2,1,11
 "Crafton Heights               ",2018,2702,"Aggravated Assault.",0,0,0,2,2,0,0,2,2,0,0,0,8
@@ -2926,6 +2930,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2018,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2019,4953,"Retaliation Against Witness,Victim or Party.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Crafton Heights               ",2017,3702,"Robbery of Motor Vehicle.",0,0,0,0,0,0,0,0,0,2,0,0,2
+"Crafton Heights               ",2021,3701,Robbery.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2020,3701,Robbery.,3,2,0,0,3,0,0,0,1,1,2,0,12
 "Crafton Heights               ",2019,3701,Robbery.,0,1,1,3,0,0,1,2,1,1,2,1,13
 "Crafton Heights               ",2018,3701,Robbery.,1,0,1,0,0,4,0,0,0,0,0,0,6
@@ -2936,6 +2941,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Crafton Heights               ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2017,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2021,8106,"Shots Fired",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,2,6,3,7,5,1,2,2,3,33
 "Crafton Heights               ",2019,8106,"Shots Fired",0,0,0,3,0,1,2,0,0,0,0,0,6
 "Crafton Heights               ",2018,8106,"Shots Fired",0,0,0,1,0,0,0,0,0,0,0,2,3
@@ -2944,6 +2950,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2019,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Crafton Heights               ",2018,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Crafton Heights               ",2016,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,2,0,0,0,0,0,2,0,0,4
+"Crafton Heights               ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,1,3,2,1,0,0,0,7
 "Crafton Heights               ",2019,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,1,1,4,0,1,2,9
 "Crafton Heights               ",2018,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,0,0,0,0,2,2,0,0,2,1,0,8
@@ -2958,6 +2965,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,2,1,0,2,2,0,1,0,1,4,1,16
 "Crafton Heights               ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,2,0,1,1,4,1,1,0,3,1,16
 "Crafton Heights               ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,2,3,0,1,5,0,0,0,12
+"Crafton Heights               ",2021,2701,"Simple Assault.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2020,2701,"Simple Assault.",6,5,2,3,4,3,11,5,4,1,7,2,53
 "Crafton Heights               ",2019,2701,"Simple Assault.",4,2,10,6,4,4,0,4,7,4,1,3,49
 "Crafton Heights               ",2018,2701,"Simple Assault.",1,3,4,2,3,10,2,2,5,11,0,5,48
@@ -3002,6 +3010,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3921,"Theft by Unlawful Taking or Disposition.",3,0,2,0,1,3,0,0,5,2,0,3,19
 "Crafton Heights               ",2016,3921,"Theft by Unlawful Taking or Disposition.",0,3,1,3,2,1,0,1,2,2,3,2,20
 "Crafton Heights               ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,1,3,1,6,2,0,0,3,2,19
+"Crafton Heights               ",2021,3934,"Theft from Vehicle",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2020,3934,"Theft from Vehicle",3,6,5,2,6,0,0,2,2,3,4,0,33
 "Crafton Heights               ",2019,3934,"Theft from Vehicle",2,1,0,3,0,0,0,1,0,0,0,6,13
 "Crafton Heights               ",2018,3934,"Theft from Vehicle",2,1,0,1,0,2,2,0,1,0,5,0,14
@@ -3399,6 +3408,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2019,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Elliott                       ",2016,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,0,0,1,0,1
+"Elliott                       ",2021,5503,"Disorderly Conduct.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2020,5503,"Disorderly Conduct.",0,0,0,0,0,3,0,0,0,0,0,0,3
 "Elliott                       ",2019,5503,"Disorderly Conduct.",0,0,0,0,0,0,0,0,1,3,0,0,4
 "Elliott                       ",2018,5503,"Disorderly Conduct.",0,0,0,0,2,0,0,0,0,0,0,0,2
@@ -3803,12 +3813,14 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2015,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,1,0,4,0,0,0,2,7
 "Elliott                       ",2017,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",1,0,0,0,0,1,0,0,0,0,0,0,2
 "Elliott                       ",2016,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,0,0,1,1,0,0,0,0,2
+"Elliott                       ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Elliott                       ",2019,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,2,2,0,2,0,1,0,2,9
 "Elliott                       ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,3,0,2,1,0,0,1,0,0,9
 "Elliott                       ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",5,0,2,0,0,4,0,2,0,2,0,0,15
 "Elliott                       ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,2,3,4,0,1,0,0,10
 "Elliott                       ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,3,0,0,0,2,0,0,2,0,2,9
+"Elliott                       ",2021,2701,"Simple Assault.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2020,2701,"Simple Assault.",6,1,6,0,5,3,6,6,8,5,3,0,49
 "Elliott                       ",2019,2701,"Simple Assault.",0,7,1,4,0,5,4,6,1,4,4,2,38
 "Elliott                       ",2018,2701,"Simple Assault.",3,0,3,2,4,0,3,6,6,6,3,2,38
@@ -4553,7 +4565,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2019,9498,"302 (Mental)",0,0,0,0,1,0,0,1,0,0,0,0,2
 "Oakwood                       ",2018,9498,"302 (Mental)",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Oakwood                       ",2017,9498,"302 (Mental)",1,0,1,0,0,0,0,0,0,0,0,0,2
-"Oakwood                       ",2020,9999,"9999 - (Misc. Incident):",0,0,0,1,0,3,1,0,2,0,0,0,7
+"Oakwood                       ",2020,9999,"9999 - (Misc. Incident):",0,0,0,1,0,3,1,0,2,0,0,1,8
 "Oakwood                       ",2019,9999,"9999 - (Misc. Incident):",2,0,0,0,2,0,0,0,2,0,0,0,6
 "Oakwood                       ",2018,9999,"9999 - (Misc. Incident):",2,0,1,0,1,0,0,0,0,4,0,0,8
 "Oakwood                       ",2017,9999,"9999 - (Misc. Incident):",2,0,0,0,0,0,1,3,1,0,1,0,8
@@ -5655,6 +5667,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,7513,"Restriction on Alcoholic Beverages - Open Container",0,0,0,2,0,0,0,0,1,0,0,0,3
 "Sheraden                      ",2019,3809(a),"Restriction on Alcoholic Beverages in Vehicle",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2016,3809(a),"Restriction on Alcoholic Beverages in Vehicle",0,0,0,0,0,0,0,0,0,0,0,2,2
+"Sheraden                      ",2021,3929,"Retail Theft.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,3929,"Retail Theft.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,3929,"Retail Theft.",0,0,1,0,0,0,0,0,0,0,0,1,2
 "Sheraden                      ",2018,3929,"Retail Theft.",0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -5678,6 +5691,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Sheraden                      ",2019,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Sheraden                      ",2021,8106,"Shots Fired",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2020,8106,"Shots Fired",1,3,6,8,11,5,12,13,10,4,4,8,85
 "Sheraden                      ",2019,8106,"Shots Fired",0,0,0,8,9,0,7,3,0,3,0,3,33
 "Sheraden                      ",2018,8106,"Shots Fired",2,0,0,1,2,2,1,2,0,0,1,1,12
