@@ -1,4 +1,5 @@
 Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Count
+"Banksville                    ",2021,9498,"302 (Mental)",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2020,9498,"302 (Mental)",0,0,2,0,0,0,0,0,0,1,2,1,6
 "Banksville                    ",2019,9498,"302 (Mental)",0,0,0,0,0,0,1,0,0,1,1,0,3
 "Banksville                    ",2018,9498,"302 (Mental)",0,0,1,1,1,1,0,0,0,0,1,0,5
@@ -543,7 +544,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2015,9018,"Accidental Fire",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Beechview                     ",2021,7728,"Accidents and Accident Reports.",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Beechview                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",3,0,1,2,3,2,1,0,0,1,2,3,18
 "Beechview                     ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",2,3,0,0,2,1,0,0,2,1,6,1,18
 "Beechview                     ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",4,3,2,1,5,1,1,1,0,3,1,1,23
@@ -898,7 +899,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9130,"Graffiti Investigation",2,0,1,0,0,0,0,2,0,0,0,0,5
 "Beechview                     ",2016,9130,"Graffiti Investigation",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Beechview                     ",2017,9011,"Gun Related",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Beechview                     ",2021,2709,"Harassment (Non-Specific)",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2021,2709,"Harassment (Non-Specific)",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2020,2709,"Harassment (Non-Specific)",0,0,1,3,2,3,3,0,3,0,0,0,15
 "Beechview                     ",2019,2709,"Harassment (Non-Specific)",2,1,2,0,0,2,1,0,1,0,2,1,12
 "Beechview                     ",2018,2709,"Harassment (Non-Specific)",0,0,0,1,1,1,1,1,3,1,0,0,9
@@ -1354,6 +1355,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,3334,"Turning Movements and Required Signals.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2015,3334,"Turning Movements and Required Signals.",0,0,1,6,0,0,0,0,0,0,0,0,7
 "Beechview                     ",2016,1372,"Unauthorized Transfer or Use of Registration.",0,0,0,2,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2021,3928,"Unauthorized Use of Automobile and Other Vehicles.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,1,3,0,0,0,1,1,2,1,0,0,9
 "Beechview                     ",2019,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,2,0,0,0,0,0,0,2,1,0,0,5
 "Beechview                     ",2018,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,1,2,0,0,1,0,1,0,5
@@ -1424,7 +1426,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,4,3,1,2,0,4,1,2,2,0,25
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",4,5,3,2,1,3,5,7,1,4,3,1,39
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,3,3,2,6,4,0,3,4,9,4,38
-"Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,5,4,2,4,8,4,5,6,3,4,6,53
 "Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,8,6,2,10,68
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,8,7,4,4,5,9,6,6,8,64
@@ -1451,7 +1453,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2703.1,"Aggravated Harassment by Prisoner",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2019,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2017,2703.1,"Aggravated Harassment by Prisoner",0,0,2,0,2,0,0,0,0,0,0,0,4
-"Brookline                     ",2021,9497,"Aided Case",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2021,9497,"Aided Case",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2020,9497,"Aided Case",1,0,1,3,2,1,10,1,5,1,3,5,33
 "Brookline                     ",2019,9497,"Aided Case",3,1,1,3,0,1,3,3,4,3,4,1,27
 "Brookline                     ",2018,9497,"Aided Case",4,0,3,3,7,2,3,3,1,1,2,4,33
@@ -4507,6 +4509,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2016,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,0,0,1,1,1,0,1,1,0,6
 "Fairywood                     ",2015,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,2,0,0,0,0,0,0,2,4
 "Fairywood                     ",2016,3742,"Accidents Involving Death or Personal Injury",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Fairywood                     ",2021,2702,"Aggravated Assault.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2020,2702,"Aggravated Assault.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2019,2702,"Aggravated Assault.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Fairywood                     ",2018,2702,"Aggravated Assault.",0,0,1,1,0,0,2,2,0,0,0,0,6
@@ -4526,6 +4529,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2019,4105(a)(1),"Bad Checks",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Fairywood                     ",2018,9501,"Bench Warrant",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2016,9501,"Bench Warrant",0,0,0,2,0,0,2,0,0,0,0,0,4
+"Fairywood                     ",2021,3502,Burglary.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2020,3502,Burglary.,0,0,0,0,2,0,0,0,0,0,0,0,2
 "Fairywood                     ",2019,3502,Burglary.,0,0,0,1,0,1,2,0,0,0,0,0,4
 "Fairywood                     ",2018,3502,Burglary.,0,0,0,0,0,1,0,2,0,0,0,0,3
@@ -4705,6 +4709,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2020,3925,"Receiving Stolen Property.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Fairywood                     ",2020,3301(d),"Reckless Burning or Exploding",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Fairywood                     ",2015,3736,"Reckless Driving",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Fairywood                     ",2021,2705,"Recklessly Endangering Another Person.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2020,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Fairywood                     ",2019,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Fairywood                     ",2018,2705,"Recklessly Endangering Another Person.",0,0,1,1,0,0,0,0,0,0,0,0,2
@@ -4743,6 +4748,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2017,2709.2,"Stalking Conduct or Repeatedly Communicates",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Fairywood                     ",2019,3323,"Stop Signs and Yield Signs.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Fairywood                     ",2015,3323,"Stop Signs and Yield Signs.",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Fairywood                     ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Fairywood                     ",2017,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,0,0,3,0,0,3,2,0,8
 "Fairywood                     ",2017,2718(a)(2),"Strangulation - Blocking the Nose and Mouth of the Person",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -5231,7 +5237,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2020,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2020,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Sheraden                      ",2021,9497,"Aided Case",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2021,9497,"Aided Case",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2020,9497,"Aided Case",1,0,2,2,3,1,1,1,2,1,3,1,18
 "Sheraden                      ",2019,9497,"Aided Case",3,0,1,1,4,6,3,2,2,1,1,1,25
 "Sheraden                      ",2018,9497,"Aided Case",2,0,3,0,2,3,2,1,1,1,0,4,19
@@ -6030,7 +6036,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,4910,"Tampering with or Fabricating Physical Evidence.",0,0,2,0,2,0,0,2,0,0,2,0,8
 "Sheraden                      ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Sheraden                      ",2020,1928,"Temporary Registration Plates.",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Sheraden                      ",2021,2706,"Terroristic Threats.",5,0,0,0,0,0,0,0,0,0,0,0,5
+"Sheraden                      ",2021,2706,"Terroristic Threats.",7,0,0,0,0,0,0,0,0,0,0,0,7
 "Sheraden                      ",2020,2706,"Terroristic Threats.",1,4,1,3,4,0,7,1,12,5,7,7,52
 "Sheraden                      ",2019,2706,"Terroristic Threats.",5,1,3,2,8,3,7,4,1,0,3,0,37
 "Sheraden                      ",2018,2706,"Terroristic Threats.",3,1,4,1,2,0,3,2,2,0,2,4,24
@@ -6059,6 +6065,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3921,"Theft by Unlawful Taking or Disposition.",11,7,4,4,4,3,8,2,1,3,7,2,56
 "Sheraden                      ",2016,3921,"Theft by Unlawful Taking or Disposition.",3,3,7,7,3,5,6,8,1,4,2,2,51
 "Sheraden                      ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,2,4,2,6,1,2,3,3,5,28
+"Sheraden                      ",2021,3934,"Theft from Vehicle",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,3934,"Theft from Vehicle",1,6,2,0,0,0,4,3,1,5,6,1,29
 "Sheraden                      ",2019,3934,"Theft from Vehicle",10,2,1,0,4,0,1,4,5,4,0,2,33
 "Sheraden                      ",2018,3934,"Theft from Vehicle",0,0,2,0,2,1,1,2,0,11,0,2,21
