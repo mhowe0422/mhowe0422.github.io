@@ -521,7 +521,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,0,0,2,4
 "Beechview                     ",2016,9498,"302 (Mental)",0,0,0,0,1,1,1,2,0,0,1,1,7
 "Beechview                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,2,1,0,0,3
-"Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,1,0,0,0,0,0,0,0,0,0,0,7
+"Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,2,0,0,0,0,0,0,0,0,0,0,8
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",3,4,5,4,3,4,12,9,9,6,5,6,70
 "Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,3,10,12,4,7,10,7,5,7,6,87
 "Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,5,8,8,4,8,10,9,6,6,5,4,81
@@ -2842,7 +2842,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2015,2903,"False Imprisonment.",0,0,0,0,0,0,0,0,1,1,0,0,2
 "Crafton Heights               ",2020,4906,"False Reports to Law Enforcement Authorities.",0,0,1,1,1,1,1,0,0,2,0,0,7
 "Crafton Heights               ",2019,4906,"False Reports to Law Enforcement Authorities.",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2021,6106,"Firearms not to be Carried without a License.",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2021,6106,"Firearms not to be Carried without a License.",2,2,0,0,0,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2020,6106,"Firearms not to be Carried without a License.",1,0,0,0,1,0,0,1,1,0,0,0,4
 "Crafton Heights               ",2019,6106,"Firearms not to be Carried without a License.",0,2,0,0,2,0,0,1,2,0,0,0,7
 "Crafton Heights               ",2018,6106,"Firearms not to be Carried without a License.",0,0,0,0,0,2,0,0,0,0,0,0,2
@@ -2866,6 +2866,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,9489,"Found Property",0,0,0,0,1,0,0,2,3,0,0,0,6
 "Crafton Heights               ",2016,9489,"Found Property",0,0,0,0,0,0,0,0,0,0,1,1,2
 "Crafton Heights               ",2015,9489,"Found Property",0,0,0,1,0,1,0,0,1,0,1,0,4
+"Crafton Heights               ",2021,4303,"General Lighting Requirements.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2016,4303,"General Lighting Requirements.",2,0,0,0,0,0,0,0,1,0,0,0,3
 "Crafton Heights               ",2015,4303,"General Lighting Requirements.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2020,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -2994,7 +2995,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2019,9997,"Overdose Death",0,0,0,0,0,0,0,0,0,0,1,1,2
 "Crafton Heights               ",2017,9997,"Overdose Death",0,0,0,0,0,1,0,0,2,0,0,0,3
 "Crafton Heights               ",2020,2707.2,"Paintball Guns and Markers Carrying and Discharging",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Crafton Heights               ",2021,13(a)(32),"Paraphernalia - Use or Possession",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2021,13(a)(32),"Paraphernalia - Use or Possession",1,2,0,0,0,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2020,13(a)(32),"Paraphernalia - Use or Possession",4,0,2,0,0,0,0,0,0,0,0,0,6
 "Crafton Heights               ",2019,13(a)(32),"Paraphernalia - Use or Possession",4,2,1,0,2,0,2,0,3,2,0,0,16
 "Crafton Heights               ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,0,2,0,2,0,0,0,0,0,4
@@ -3397,7 +3398,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2020,2902,"Unlawful Restraint.",0,0,0,0,0,0,1,1,0,0,0,0,2
 "East Carnegie                 ",2018,2902,"Unlawful Restraint.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "East Carnegie                 ",2017,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Elliott                       ",2021,9498,"302 (Mental)",3,0,0,0,0,0,0,0,0,0,0,0,3
+"Elliott                       ",2021,9498,"302 (Mental)",3,1,0,0,0,0,0,0,0,0,0,0,4
 "Elliott                       ",2020,9498,"302 (Mental)",1,1,1,1,1,0,0,0,0,0,0,1,6
 "Elliott                       ",2019,9498,"302 (Mental)",1,0,1,0,0,0,0,0,0,2,0,0,4
 "Elliott                       ",2018,9498,"302 (Mental)",0,0,0,0,0,3,1,0,0,0,0,0,4
@@ -5202,7 +5203,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2019,3928,"Unauthorized Use of Automobile and Other Vehicles.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Ridgemont                     ",2015,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Ridgemont                     ",2019,2902,"Unlawful Restraint.",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Sheraden                      ",2021,9498,"302 (Mental)",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2021,9498,"302 (Mental)",2,1,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2020,9498,"302 (Mental)",2,3,1,0,0,2,0,1,0,1,1,2,13
 "Sheraden                      ",2019,9498,"302 (Mental)",0,0,0,0,1,1,1,2,1,1,1,0,8
 "Sheraden                      ",2018,9498,"302 (Mental)",2,0,1,0,2,0,2,0,0,0,2,0,9
@@ -5750,7 +5751,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Sheraden                      ",2016,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Sheraden                      ",2021,9129,"Miscellaneous Investigation",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2021,9129,"Miscellaneous Investigation",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2020,9129,"Miscellaneous Investigation",0,1,1,0,0,2,0,0,0,1,0,0,5
 "Sheraden                      ",2019,9129,"Miscellaneous Investigation",0,0,0,0,1,2,0,2,0,0,1,0,6
 "Sheraden                      ",2017,9129,"Miscellaneous Investigation",0,1,0,0,0,0,0,0,1,1,1,0,4
@@ -5994,7 +5995,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Sheraden                      ",2019,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2021,8106,"Shots Fired",11,2,0,0,0,0,0,0,0,0,0,0,13
+"Sheraden                      ",2021,8106,"Shots Fired",12,2,0,0,0,0,0,0,0,0,0,0,14
 "Sheraden                      ",2020,8106,"Shots Fired",1,3,6,8,11,5,12,13,10,5,4,8,86
 "Sheraden                      ",2019,8106,"Shots Fired",0,0,0,8,9,0,7,3,0,3,0,3,33
 "Sheraden                      ",2018,8106,"Shots Fired",2,0,0,1,2,2,1,2,0,0,1,1,12
@@ -6087,7 +6088,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,4,4,2,2,2,0,2,2,3,9,3,38
 "Sheraden                      ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,0,3,2,1,5,5,7,7,1,0,9,45
 "Sheraden                      ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,3,2,3,4,2,5,3,3,1,3,29
-"Sheraden                      ",2021,3921,"Theft by Unlawful Taking or Disposition.",3,0,0,0,0,0,0,0,0,0,0,0,3
+"Sheraden                      ",2021,3921,"Theft by Unlawful Taking or Disposition.",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Sheraden                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",5,3,3,5,4,6,4,3,1,3,2,6,45
 "Sheraden                      ",2019,3921,"Theft by Unlawful Taking or Disposition.",1,4,2,0,4,2,3,4,5,2,2,1,30
 "Sheraden                      ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,2,5,1,2,1,1,3,5,2,1,3,27
