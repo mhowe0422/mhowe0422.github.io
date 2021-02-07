@@ -9468,7 +9468,7 @@
             "Section": "3928",
             "Description": "Unauthorized Use of Automobile and Other Vehicles.",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -9479,7 +9479,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -24857,7 +24857,7 @@
             "Year": "2021",
             "Section": "3921",
             "Description": "Theft by Unlawful Taking or Disposition.",
-            "Jan": "2",
+            "Jan": "3",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -24869,7 +24869,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -29474,6 +29474,25 @@
             "Year": "2016",
             "Section": "902",
             "Description": "Criminal Solicitation.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2021",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
             "Jan": "0",
             "Feb": "1",
             "Mar": "0",
@@ -40875,7 +40894,7 @@
             "Section": "3701",
             "Description": "Robbery.",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -40886,7 +40905,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -42737,7 +42756,7 @@
             "Section": "3921",
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "3",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -42748,7 +42767,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -58184,7 +58203,7 @@
             "Section": "8106",
             "Description": "Shots Fired",
             "Jan": "6",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -58195,7 +58214,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -66046,6 +66065,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "3304",
+            "Description": "Criminal Mischief.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2020",
             "Section": "3304",
             "Description": "Criminal Mischief.",
@@ -68342,6 +68380,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "5121",
+            "Description": "Escape.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Elliott",
@@ -71047,7 +71104,7 @@
             "Section": "13(a)(31)",
             "Description": "Marijuana: Possession Small Amount",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -71058,7 +71115,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -72871,7 +72928,7 @@
             "Section": "13(a)(16)",
             "Description": "Possession of Controlled Substance",
             "Jan": "2",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -72882,7 +72939,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -105376,6 +105433,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2021",
+            "Section": "2709",
+            "Description": "Harassment (Non-Specific)",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2020",
             "Section": "2709",
             "Description": "Harassment (Non-Specific)",
@@ -105608,7 +105684,7 @@
             "Section": "2709(a)(1)",
             "Description": "Harassment by Physical Contact, or Attempts or Threats",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -105619,7 +105695,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -112391,7 +112467,7 @@
             "Section": "8106",
             "Description": "Shots Fired",
             "Jan": "12",
-            "Feb": "2",
+            "Feb": "4",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -112402,7 +112478,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "16"
         },
         {
             "Neighborhood": "Sheraden",
@@ -114252,7 +114328,7 @@
             "Year": "2021",
             "Section": "3934",
             "Description": "Theft from Vehicle",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -114264,7 +114340,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -124817,7 +124893,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -124828,7 +124904,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Westwood",
@@ -136859,6 +136935,25 @@
         },
         {
             "Neighborhood": "Windgap",
+            "Year": "2021",
+            "Section": "627.02(b)(i)",
+            "Description": "Possessing a small amount of marijuana",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
             "Year": "2020",
             "Section": "907",
             "Description": "Possessing Instruments of Crime.",
@@ -138116,6 +138211,25 @@
             "Year": "2020",
             "Section": "2709.1",
             "Description": "Stalking Conduct or Repeatedly Acts Including Follows",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2021",
+            "Section": "3323",
+            "Description": "Stop Signs and Yield Signs.",
             "Jan": "0",
             "Feb": "1",
             "Mar": "0",
