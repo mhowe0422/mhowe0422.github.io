@@ -576,7 +576,7 @@
             "Section": "3745",
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "2",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -587,7 +587,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -5072,6 +5072,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2021",
+            "Section": "9093",
+            "Description": "Indirect Criminal Contempt",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Banksville",
@@ -9829,7 +9848,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "6",
-            "Feb": "4",
+            "Feb": "5",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -9840,7 +9859,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Beechview",
@@ -11615,7 +11634,7 @@
             "Section": "3714",
             "Description": "Careless Driving",
             "Jan": "4",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -11626,7 +11645,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -14940,7 +14959,7 @@
             "Section": "3802(a)(1)",
             "Description": "DUI - General Impairment",
             "Jan": "1",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -14951,7 +14970,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -17011,7 +17030,7 @@
             "Section": "2709",
             "Description": "Harassment (Non-Specific)",
             "Jan": "3",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -17022,7 +17041,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -26435,7 +26454,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "10",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -26446,7 +26465,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -59837,7 +59856,7 @@
             "Section": "3934",
             "Description": "Theft from Vehicle",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -59848,7 +59867,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -66430,7 +66449,7 @@
             "Section": "3304",
             "Description": "Criminal Mischief.",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -66441,7 +66460,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -85958,6 +85977,25 @@
         },
         {
             "Neighborhood": "Fairywood",
+            "Year": "2021",
+            "Section": "903",
+            "Description": "Criminal Conspiracy.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
             "Year": "2020",
             "Section": "903",
             "Description": "Criminal Conspiracy.",
@@ -88276,6 +88314,25 @@
         },
         {
             "Neighborhood": "Fairywood",
+            "Year": "2021",
+            "Section": "13(a)(31)",
+            "Description": "Marijuana: Possession Small Amount",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
             "Year": "2020",
             "Section": "13(a)(31)",
             "Description": "Marijuana: Possession Small Amount",
@@ -89356,6 +89413,25 @@
             "Nov": "0",
             "Dec": "2",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Fairywood",
+            "Year": "2021",
+            "Section": "3701",
+            "Description": "Robbery.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Fairywood",
@@ -99794,7 +99870,7 @@
             "Section": "3502",
             "Description": "Burglary.",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -99805,7 +99881,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
