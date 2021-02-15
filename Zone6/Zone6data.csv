@@ -560,7 +560,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",1,1,0,1,0,2,0,1,1,3,1,3,14
 "Beechview                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,0,2,3,0,3,1,1,3,5,1,21
 "Beechview                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,0,1,3,2,2,3,1,1,0,15
-"Beechview                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",5,0,0,0,0,0,0,0,0,0,0,0,5
+"Beechview                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",5,1,0,0,0,0,0,0,0,0,0,0,6
 "Beechview                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,6,2,1,5,3,4,2,5,3,5,4,40
 "Beechview                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,3,3,3,3,8,0,7,2,2,2,1,36
 "Beechview                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,5,5,2,7,1,4,4,6,4,1,50
@@ -1324,7 +1324,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,3923,"Theft by Extortion.",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Beechview                     ",2018,3927,"Theft by Failure to Make Required Disp. of Funds",0,0,0,1,0,0,1,0,0,0,0,0,2
 "Beechview                     ",2017,3927,"Theft by Failure to Make Required Disp. of Funds",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Beechview                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,1,1,3,1,2,3,2,3,2,1,0,22
 "Beechview                     ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,4,1,0,0,2,3,2,3,5,2,0,23
 "Beechview                     ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,5,2,1,2,6,7,4,3,4,3,3,44
@@ -1442,7 +1442,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,4,3,1,2,0,4,1,2,2,0,25
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",4,5,3,2,1,3,5,7,1,4,3,1,39
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,3,3,2,6,4,0,3,4,9,4,38
-"Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,0,0,0,0,0,0,0,0,0,0,5
+"Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,3,0,0,0,0,0,0,0,0,0,0,7
 "Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,5,4,2,4,8,4,5,6,3,4,6,53
 "Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,4,3,5,2,11,6,8,6,2,10,68
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,2,8,7,4,4,5,9,6,6,8,64
@@ -1833,7 +1833,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2016,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,0,0,0,0,1,0,1,2
 "Brookline                     ",2015,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Brookline                     ",2021,2709,"Harassment (Non-Specific)",3,0,0,0,0,0,0,0,0,0,0,0,3
+"Brookline                     ",2021,2709,"Harassment (Non-Specific)",3,1,0,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2020,2709,"Harassment (Non-Specific)",3,2,1,2,3,3,1,8,4,1,2,3,33
 "Brookline                     ",2019,2709,"Harassment (Non-Specific)",4,3,1,4,5,1,2,3,4,5,2,1,35
 "Brookline                     ",2018,2709,"Harassment (Non-Specific)",1,1,3,4,1,1,0,3,1,2,0,0,17
@@ -2935,6 +2935,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2016,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Crafton Heights               ",2017,4912,"Impersonating a Public Servant.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2016,4912,"Impersonating a Public Servant.",0,1,0,1,0,0,1,0,0,0,0,0,3
+"Crafton Heights               ",2021,9093,"Indirect Criminal Contempt",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2020,9093,"Indirect Criminal Contempt",0,0,3,1,0,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2019,9093,"Indirect Criminal Contempt",0,2,0,0,0,0,0,0,0,0,1,1,4
 "Crafton Heights               ",2018,9093,"Indirect Criminal Contempt",3,0,0,2,0,1,0,0,2,0,0,0,8
@@ -3125,7 +3126,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Crafton Heights               ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2017,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2021,8106,"Shots Fired",6,1,0,0,0,0,0,0,0,0,0,0,7
+"Crafton Heights               ",2021,8106,"Shots Fired",6,2,0,0,0,0,0,0,0,0,0,0,8
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,2,6,3,7,5,1,2,2,3,33
 "Crafton Heights               ",2019,8106,"Shots Fired",0,0,0,3,0,1,2,0,0,0,0,0,6
 "Crafton Heights               ",2018,8106,"Shots Fired",0,0,0,1,0,0,0,0,0,0,0,2,3
@@ -4228,6 +4229,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,1,0,2,0,1,1,0,0,0,5
 "Esplen                        ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,0,0,2,1,0,0,0,0,0,0,4
 "Esplen                        ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,0,0,0,0,0,1,0,1
+"Esplen                        ",2021,3304,"Criminal Mischief.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2020,3304,"Criminal Mischief.",0,0,0,1,0,0,0,0,0,2,0,0,3
 "Esplen                        ",2019,3304,"Criminal Mischief.",0,0,0,1,0,2,1,1,0,0,0,0,5
 "Esplen                        ",2018,3304,"Criminal Mischief.",0,0,1,0,0,0,0,0,1,0,1,0,3
@@ -6036,7 +6038,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Sheraden                      ",2019,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2021,8106,"Shots Fired",12,6,0,0,0,0,0,0,0,0,0,0,18
+"Sheraden                      ",2021,8106,"Shots Fired",12,8,0,0,0,0,0,0,0,0,0,0,20
 "Sheraden                      ",2020,8106,"Shots Fired",1,3,6,8,11,5,12,13,10,5,4,8,86
 "Sheraden                      ",2019,8106,"Shots Fired",0,0,0,8,9,0,7,3,0,3,0,3,33
 "Sheraden                      ",2018,8106,"Shots Fired",2,0,0,1,2,2,1,2,0,0,1,1,12
