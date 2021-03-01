@@ -554,7 +554,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2015,9018,"Accidental Fire",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Beechview                     ",2021,7728,"Accidents and Accident Reports.",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Beechview                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,2,0,0,0,0,0,0,0,0,0,0,5
+"Beechview                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,3,0,0,0,0,0,0,0,0,0,0,6
 "Beechview                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",3,0,1,2,3,2,1,0,0,1,2,3,18
 "Beechview                     ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",2,3,0,0,2,1,0,0,2,1,6,1,18
 "Beechview                     ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",4,3,2,1,5,1,1,1,0,3,1,1,23
@@ -1346,7 +1346,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",7,3,6,0,4,0,1,3,5,6,8,6,49
 "Beechview                     ",2016,3921,"Theft by Unlawful Taking or Disposition.",1,3,1,0,0,5,6,7,6,0,4,2,35
 "Beechview                     ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,3,3,3,0,2,4,2,2,0,20
-"Beechview                     ",2021,3934,"Theft from Vehicle",1,1,0,0,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2021,3934,"Theft from Vehicle",1,2,0,0,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2020,3934,"Theft from Vehicle",3,0,2,0,0,1,2,1,5,3,0,2,19
 "Beechview                     ",2019,3934,"Theft from Vehicle",1,14,8,11,1,7,2,6,1,9,1,1,62
 "Beechview                     ",2018,3934,"Theft from Vehicle",2,5,3,2,1,1,2,5,1,2,1,5,30
@@ -1625,7 +1625,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2709(a.1)(1)(i),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Disparaging Statement/Opinion",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2016,2709(a.1)(1)(i),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Disparaging Statement/Opinion",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2019,2709(a.1)(1)(ii),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Threat To Inflict Harm",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Brookline                     ",2021,9496,"Dead on Arrival (DOA)",3,0,0,0,0,0,0,0,0,0,0,0,3
+"Brookline                     ",2021,9496,"Dead on Arrival (DOA)",3,1,0,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2020,9496,"Dead on Arrival (DOA)",3,0,0,2,2,1,6,2,0,1,1,0,18
 "Brookline                     ",2019,9496,"Dead on Arrival (DOA)",3,3,2,3,1,1,2,0,1,0,2,1,19
 "Brookline                     ",2018,9496,"Dead on Arrival (DOA)",0,2,2,2,3,2,1,2,3,2,2,4,25
@@ -2182,7 +2182,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,1786,"Required Financial Responsibility.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2015,1786,"Required Financial Responsibility.",0,0,0,0,0,1,2,0,2,1,2,2,10
 "Brookline                     ",2017,4702,"Requirement for Periodic Inspection of Vehicles",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Brookline                     ",2021,5104,"Resisting Arrest or Other Law Enforcement.",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2021,5104,"Resisting Arrest or Other Law Enforcement.",2,2,0,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2020,5104,"Resisting Arrest or Other Law Enforcement.",6,2,2,0,0,1,2,0,0,0,0,2,15
 "Brookline                     ",2019,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,2,0,2,0,4,0,3,0,0,11
 "Brookline                     ",2018,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,2,2,0,0,2,0,0,2,8
@@ -2252,7 +2252,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,5,0,3,2,4,4,0,1,0,2,1,22
 "Brookline                     ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,2,2,0,6,1,4,2,4,4,3,29
 "Brookline                     ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,0,1,2,3,1,4,0,0,1,14
-"Brookline                     ",2021,2701,"Simple Assault.",3,8,0,0,0,0,0,0,0,0,0,0,11
+"Brookline                     ",2021,2701,"Simple Assault.",3,10,0,0,0,0,0,0,0,0,0,0,13
 "Brookline                     ",2020,2701,"Simple Assault.",12,5,6,10,8,4,4,6,3,7,4,7,76
 "Brookline                     ",2019,2701,"Simple Assault.",4,4,4,11,12,11,11,9,10,2,1,7,86
 "Brookline                     ",2018,2701,"Simple Assault.",6,17,9,7,2,5,4,5,10,9,9,5,88
@@ -2575,6 +2575,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2015,1301,"Registration and Certificate of Title Required.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Chartiers City                ",2015,1786,"Required Financial Responsibility.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Chartiers City                ",2018,6111(g)(1),"Sale or Transfer of Firearm",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Chartiers City                ",2021,8106,"Shots Fired",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Chartiers City                ",2020,8106,"Shots Fired",0,0,0,3,1,1,2,2,2,0,1,1,13
 "Chartiers City                ",2019,8106,"Shots Fired",0,0,0,0,2,1,1,0,0,0,0,0,4
 "Chartiers City                ",2016,8106,"Shots Fired",0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -3521,7 +3522,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,4105(a)(1),"Bad Checks",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2019,4105(a)(1),"Bad Checks",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Elliott                       ",2017,4105(a)(1),"Bad Checks",0,0,1,0,0,0,1,0,0,0,0,0,2
-"Elliott                       ",2021,9501,"Bench Warrant",2,2,0,0,0,0,0,0,0,0,0,0,4
+"Elliott                       ",2021,9501,"Bench Warrant",2,4,0,0,0,0,0,0,0,0,0,0,6
 "Elliott                       ",2020,9501,"Bench Warrant",1,0,0,0,0,0,2,4,0,2,0,0,9
 "Elliott                       ",2019,9501,"Bench Warrant",2,1,0,2,4,0,2,0,6,0,4,0,21
 "Elliott                       ",2018,9501,"Bench Warrant",0,9,0,0,3,5,0,2,2,4,0,2,27
@@ -5754,7 +5755,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,2709.A1,"HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Sheraden                      ",2018,2709.A1,"HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2016,2709.A1,"HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2021,2709(a),Harassment.,2,0,0,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2021,2709(a),Harassment.,2,1,0,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2020,2709(a),Harassment.,1,2,2,0,0,1,2,0,3,0,0,0,11
 "Sheraden                      ",2019,2709(a),Harassment.,1,1,0,0,2,0,3,0,2,2,0,1,12
 "Sheraden                      ",2018,2709(a),Harassment.,0,0,0,0,1,3,0,0,4,2,2,2,14
@@ -6093,7 +6094,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Sheraden                      ",2019,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2021,8106,"Shots Fired",12,16,0,0,0,0,0,0,0,0,0,0,28
+"Sheraden                      ",2021,8106,"Shots Fired",12,18,0,0,0,0,0,0,0,0,0,0,30
 "Sheraden                      ",2020,8106,"Shots Fired",1,3,6,8,11,5,12,13,10,5,4,8,86
 "Sheraden                      ",2019,8106,"Shots Fired",0,0,0,8,9,0,7,3,0,3,0,3,33
 "Sheraden                      ",2018,8106,"Shots Fired",2,0,0,1,2,2,1,2,0,0,1,1,12
@@ -7467,7 +7468,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2016,6304,"Sale and Use of Air Rifles. ",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Windgap                       ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2019,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Windgap                       ",2021,8106,"Shots Fired",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Windgap                       ",2021,8106,"Shots Fired",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2020,8106,"Shots Fired",1,0,1,1,3,0,0,2,0,1,1,1,11
 "Windgap                       ",2019,8106,"Shots Fired",0,0,0,1,5,1,0,0,0,0,0,0,7
 "Windgap                       ",2017,8106,"Shots Fired",0,0,1,0,0,0,0,0,0,0,0,0,1
