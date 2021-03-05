@@ -28540,6 +28540,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2021",
+            "Section": "3714",
+            "Description": "Careless Driving",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2020",
             "Section": "3714",
             "Description": "Careless Driving",
@@ -31885,11 +31904,11 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2021",
-            "Section": "3309",
-            "Description": "Driving on Roadways Laned for Traffic.",
-            "Jan": "1",
-            "Feb": "1",
-            "Mar": "0",
+            "Section": "3311",
+            "Description": "Driving on Divided Highways.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -31899,7 +31918,26 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2021",
+            "Section": "3309",
+            "Description": "Driving on Roadways Laned for Traffic.",
+            "Jan": "1",
+            "Feb": "1",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -31984,7 +32022,7 @@
             "Description": "Driving While Operating Privilege is Suspended or Revoked.",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -31994,7 +32032,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -35708,7 +35746,7 @@
             "Description": "Identity Theft",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "6",
+            "Mar": "8",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -35718,7 +35756,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -39394,7 +39432,7 @@
             "Description": "Possession of Controlled Substance",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -39404,7 +39442,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -39527,7 +39565,7 @@
             "Description": "Possession w\/ Intent to Del. Controlled Substance",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -39537,7 +39575,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -64891,7 +64929,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "5",
-            "Feb": "2",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -64902,7 +64940,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Elliott",
@@ -73575,7 +73613,7 @@
             "Description": "Paraphernalia - Use or Possession",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -73585,7 +73623,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -76558,7 +76596,7 @@
             "Description": "Simple Assault.",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -76568,7 +76606,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -131278,7 +131316,7 @@
             "Description": "Identity Theft",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -131288,7 +131326,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Westwood",
@@ -137938,6 +137976,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2021",
+            "Section": "2709",
+            "Description": "Harassment (Non-Specific)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
             "Count": "1"
         },
         {
