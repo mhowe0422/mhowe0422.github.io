@@ -444,7 +444,7 @@
             "Description": "Accidents Involving Damage to Attended Veh. or Property",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -454,7 +454,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Banksville",
@@ -18208,7 +18208,7 @@
             "Section": "4120",
             "Description": "Identity Theft",
             "Jan": "1",
-            "Feb": "2",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -18219,7 +18219,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -25333,7 +25333,7 @@
             "Section": "3934",
             "Description": "Theft from Vehicle",
             "Jan": "1",
-            "Feb": "2",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -25344,7 +25344,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -26721,7 +26721,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "10",
             "Feb": "6",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -26731,7 +26731,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Neighborhood": "Brookline",
@@ -26854,7 +26854,7 @@
             "Description": "Access Device Fraud",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -26864,7 +26864,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -27176,8 +27176,8 @@
             "Section": "3743",
             "Description": "Accidents Involving Damage to Attended Veh. or Property",
             "Jan": "4",
-            "Feb": "3",
-            "Mar": "0",
+            "Feb": "2",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -27309,8 +27309,8 @@
             "Section": "3745",
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "4",
-            "Feb": "6",
-            "Mar": "0",
+            "Feb": "5",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -29362,7 +29362,7 @@
             "Description": "CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -29372,7 +29372,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -32021,8 +32021,8 @@
             "Section": "1543",
             "Description": "Driving While Operating Privilege is Suspended or Revoked.",
             "Jan": "0",
-            "Feb": "1",
-            "Mar": "1",
+            "Feb": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -35745,8 +35745,8 @@
             "Section": "4120",
             "Description": "Identity Theft",
             "Jan": "0",
-            "Feb": "2",
-            "Mar": "8",
+            "Feb": "3",
+            "Mar": "9",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -35756,7 +35756,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -40324,8 +40324,8 @@
             "Section": "3736",
             "Description": "Reckless Driving",
             "Jan": "0",
-            "Feb": "4",
-            "Mar": "0",
+            "Feb": "3",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -40457,8 +40457,8 @@
             "Section": "2705",
             "Description": "Recklessly Endangering Another Person.",
             "Jan": "1",
-            "Feb": "2",
-            "Mar": "0",
+            "Feb": "1",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -40856,8 +40856,8 @@
             "Section": "1786",
             "Description": "Required Financial Responsibility.",
             "Jan": "0",
-            "Feb": "1",
-            "Mar": "0",
+            "Feb": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -42699,8 +42699,8 @@
             "Section": "3323",
             "Description": "Stop Signs and Yield Signs.",
             "Jan": "0",
-            "Feb": "1",
-            "Mar": "0",
+            "Feb": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -47093,6 +47093,25 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Chartiers City",
+            "Year": "2021",
+            "Section": "2709(a)",
+            "Description": "Harassment.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -65058,6 +65077,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "4106",
+            "Description": "Access Device Fraud",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2020",
             "Section": "4106",
             "Description": "Access Device Fraud",
@@ -71679,6 +71717,25 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "4120",
+            "Description": "Identity Theft",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -100973,7 +101030,7 @@
             "Description": "Burglary.",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -100983,7 +101040,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -102569,7 +102626,7 @@
             "Description": "Criminal Mischief.",
             "Jan": "4",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -102579,7 +102636,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -104601,7 +104658,7 @@
             "Section": "1501",
             "Description": "Drivers Required to be Licensed.",
             "Jan": "0",
-            "Feb": "2",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -104612,7 +104669,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -104772,7 +104829,7 @@
             "Section": "1543",
             "Description": "Driving While Operating Privilege is Suspended or Revoked.",
             "Jan": "1",
-            "Feb": "2",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -104783,7 +104840,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -110696,6 +110753,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2021",
+            "Section": "3308",
+            "Description": "One-Way Roadways and Rotary Traffic Islands.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2020",
             "Section": "3308",
             "Description": "One-Way Roadways and Rotary Traffic Islands.",
@@ -116135,7 +116211,7 @@
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -116145,7 +116221,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -125597,7 +125673,7 @@
             "Description": "Simple Assault.",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -125607,7 +125683,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "West End",
@@ -125828,6 +125904,25 @@
             "Mar": "0",
             "Apr": "0",
             "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2021",
+            "Section": "2718(a)(1)",
+            "Description": "Strangulation - Applying Pressure to the Throat or Neck",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
