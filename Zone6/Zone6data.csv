@@ -1485,7 +1485,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2703.1,"Aggravated Harassment by Prisoner",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2019,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2017,2703.1,"Aggravated Harassment by Prisoner",0,0,2,0,2,0,0,0,0,0,0,0,4
-"Brookline                     ",2021,9497,"Aided Case",3,1,0,0,0,0,0,0,0,0,0,0,4
+"Brookline                     ",2021,9497,"Aided Case",3,1,1,0,0,0,0,0,0,0,0,0,5
 "Brookline                     ",2020,9497,"Aided Case",1,0,1,3,2,1,10,1,5,1,3,5,33
 "Brookline                     ",2019,9497,"Aided Case",3,1,1,3,0,1,3,3,4,3,4,1,27
 "Brookline                     ",2018,9497,"Aided Case",4,0,3,3,7,2,3,3,1,1,2,4,33
@@ -1709,7 +1709,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,3309,"Driving on Roadways Laned for Traffic.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2017,3309,"Driving on Roadways Laned for Traffic.",0,2,2,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2017,3361,"Driving Vehicle at Safe Speed.",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Brookline                     ",2021,1543,"Driving While Operating Privilege is Suspended or Revoked.",1,1,3,0,0,0,0,0,0,0,0,0,5
+"Brookline                     ",2021,1543,"Driving While Operating Privilege is Suspended or Revoked.",1,1,5,0,0,0,0,0,0,0,0,0,7
 "Brookline                     ",2020,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,1,0,1,0,1,3,2,0,0,2,10
 "Brookline                     ",2019,1543,"Driving While Operating Privilege is Suspended or Revoked.",1,0,0,1,1,3,1,2,1,5,3,0,18
 "Brookline                     ",2018,1543,"Driving While Operating Privilege is Suspended or Revoked.",2,4,0,0,0,0,3,2,0,0,7,3,21
@@ -1910,7 +1910,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,517.8,"Home Improvement Fraud",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2015,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2018,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,0,1,0,1
-"Brookline                     ",2021,4120,"Identity Theft",0,3,10,0,0,0,0,0,0,0,0,0,13
+"Brookline                     ",2021,4120,"Identity Theft",0,3,12,0,0,0,0,0,0,0,0,0,15
 "Brookline                     ",2020,4120,"Identity Theft",1,1,2,0,2,4,1,0,2,2,0,3,18
 "Brookline                     ",2019,4120,"Identity Theft",1,0,2,0,1,0,1,0,1,0,1,0,7
 "Brookline                     ",2018,4120,"Identity Theft",2,1,0,2,1,0,0,0,0,0,1,2,9
@@ -2066,7 +2066,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2016,602.04,"Panhandling and Prohibited Conduct",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2018,13(a)(33),"Paraphernalia - Delivery or Intent to Deliver",0,0,3,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2017,13(a)(33),"Paraphernalia - Delivery or Intent to Deliver",0,0,0,2,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2021,13(a)(32),"Paraphernalia - Use or Possession",1,1,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2021,13(a)(32),"Paraphernalia - Use or Possession",1,1,2,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2020,13(a)(32),"Paraphernalia - Use or Possession",2,2,4,3,6,2,8,3,3,2,2,4,41
 "Brookline                     ",2019,13(a)(32),"Paraphernalia - Use or Possession",6,2,2,2,0,0,0,10,2,0,4,4,32
 "Brookline                     ",2018,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,6,4,3,2,2,2,0,10,7,36
@@ -2108,7 +2108,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,907,"Possessing Instruments of Crime.",0,0,0,2,0,0,0,2,0,0,2,0,6
 "Brookline                     ",2016,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,2,3,0,0,0,2,7
 "Brookline                     ",2015,907,"Possessing Instruments of Crime.",0,0,0,0,2,0,0,0,0,0,1,0,3
-"Brookline                     ",2021,13(a)(16),"Possession of Controlled Substance",4,1,2,0,0,0,0,0,0,0,0,0,7
+"Brookline                     ",2021,13(a)(16),"Possession of Controlled Substance",4,1,4,0,0,0,0,0,0,0,0,0,9
 "Brookline                     ",2020,13(a)(16),"Possession of Controlled Substance",2,4,0,1,3,3,8,3,2,0,2,4,32
 "Brookline                     ",2019,13(a)(16),"Possession of Controlled Substance",2,2,4,0,2,2,2,8,2,2,2,2,30
 "Brookline                     ",2018,13(a)(16),"Possession of Controlled Substance",0,4,3,8,2,3,4,2,2,0,4,4,36
@@ -2250,6 +2250,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,2,3,0,0,0,0,0,2,0,0,1,8
 "Brookline                     ",2016,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,1,1,3,0,0,0,0,5
 "Brookline                     ",2015,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,2,0,2,2,0,2,2,0,2,12
+"Brookline                     ",2021,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2019,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,1,1,0,0,0,0,0,0,2
 "Brookline                     ",2018,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,0,1,0,0,1,0,0,0,2
 "Brookline                     ",2016,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -2336,7 +2337,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3921,"Theft by Unlawful Taking or Disposition.",3,0,3,7,4,5,6,7,8,10,5,8,66
 "Brookline                     ",2016,3921,"Theft by Unlawful Taking or Disposition.",5,7,2,8,5,7,5,3,8,6,7,8,71
 "Brookline                     ",2015,3921,"Theft by Unlawful Taking or Disposition.",0,0,1,3,5,8,6,3,5,5,4,2,42
-"Brookline                     ",2021,3934,"Theft from Vehicle",14,2,0,0,0,0,0,0,0,0,0,0,16
+"Brookline                     ",2021,3934,"Theft from Vehicle",14,2,1,0,0,0,0,0,0,0,0,0,17
 "Brookline                     ",2020,3934,"Theft from Vehicle",1,6,0,2,1,4,4,3,4,1,4,4,34
 "Brookline                     ",2019,3934,"Theft from Vehicle",0,8,4,0,4,11,4,5,3,1,2,1,43
 "Brookline                     ",2018,3934,"Theft from Vehicle",2,2,16,4,3,0,4,5,5,3,14,1,59
@@ -2650,7 +2651,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,9498,"302 (Mental)",2,1,1,0,1,0,0,1,0,0,1,0,7
 "Crafton Heights               ",2016,9498,"302 (Mental)",0,0,1,1,0,0,0,0,0,0,0,2,4
 "Crafton Heights               ",2015,9498,"302 (Mental)",0,0,0,1,0,1,0,0,0,1,1,0,4
-"Crafton Heights               ",2021,9999,"9999 - (Misc. Incident):",3,7,0,0,0,0,0,0,0,0,0,0,10
+"Crafton Heights               ",2021,9999,"9999 - (Misc. Incident):",3,7,1,0,0,0,0,0,0,0,0,0,11
 "Crafton Heights               ",2020,9999,"9999 - (Misc. Incident):",3,5,6,2,2,4,3,1,4,8,4,6,48
 "Crafton Heights               ",2019,9999,"9999 - (Misc. Incident):",1,0,3,5,3,4,2,3,3,0,3,4,31
 "Crafton Heights               ",2018,9999,"9999 - (Misc. Incident):",4,3,3,3,2,7,2,2,3,2,2,3,36
@@ -3443,6 +3444,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2018,2706,"Terroristic Threats.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "East Carnegie                 ",2017,2706,"Terroristic Threats.",0,0,1,0,0,0,0,0,0,0,0,1,2
 "East Carnegie                 ",2016,2706,"Terroristic Threats.",0,0,0,1,0,0,0,0,0,0,0,0,1
+"East Carnegie                 ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,0,0,0,0,0,0,0,0,0,1
 "East Carnegie                 ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,0,0,0,0,0,0,0,0,0,0,1
 "East Carnegie                 ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,0,0,0,0,0,0,0,0,0,0,1
 "East Carnegie                 ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,0,0,0,0,0,2,0,0,0,0,3
@@ -5086,6 +5088,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2015,1786,"Required Financial Responsibility.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2015,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Oakwood                       ",2018,7513,"Restriction on Alcoholic Beverages - Open Container",0,0,0,0,2,0,0,0,0,0,0,0,2
+"Oakwood                       ",2021,3929,"Retail Theft.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2020,3929,"Retail Theft.",0,2,1,0,0,0,0,1,0,0,0,0,4
 "Oakwood                       ",2019,3929,"Retail Theft.",3,0,1,1,1,0,1,1,0,0,0,0,8
 "Oakwood                       ",2018,3929,"Retail Theft.",1,0,0,0,0,0,1,1,1,0,3,4,11
