@@ -10419,7 +10419,7 @@
             "Description": "Accidents Involving Damage to Attended Veh. or Property",
             "Jan": "3",
             "Feb": "4",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -10429,7 +10429,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Beechview",
@@ -12832,7 +12832,7 @@
             "Description": "Criminal Mischief.",
             "Jan": "4",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -12842,7 +12842,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -18266,7 +18266,7 @@
             "Description": "Identity Theft",
             "Jan": "1",
             "Feb": "3",
-            "Mar": "3",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -18276,7 +18276,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Beechview",
@@ -35822,7 +35822,7 @@
             "Description": "Identity Theft",
             "Jan": "0",
             "Feb": "3",
-            "Mar": "27",
+            "Mar": "29",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -35832,7 +35832,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "30"
+            "Count": "32"
         },
         {
             "Neighborhood": "Brookline",
@@ -67737,25 +67737,6 @@
         },
         {
             "Neighborhood": "Elliott",
-            "Year": "2021",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "1",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Elliott",
             "Year": "2020",
             "Section": "3503",
             "Description": "Criminal Trespass",
@@ -72919,6 +72900,25 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "9123",
+            "Description": "Miscellaneous Fire Other Investigation to Continue",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
             "Dec": "0",
             "Count": "1"
         },
@@ -82956,6 +82956,25 @@
         },
         {
             "Neighborhood": "Esplen",
+            "Year": "2021",
+            "Section": "13(a)(31)",
+            "Description": "Marijuana: Possession Small Amount",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
             "Year": "2020",
             "Section": "13(a)(31)",
             "Description": "Marijuana: Possession Small Amount",
@@ -83702,7 +83721,7 @@
             "Description": "Possession of Controlled Substance",
             "Jan": "3",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -83712,7 +83731,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Esplen",
@@ -108535,7 +108554,7 @@
             "Description": "Harassment.",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -108545,7 +108564,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -116553,7 +116572,7 @@
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -116563,7 +116582,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
