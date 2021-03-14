@@ -10552,7 +10552,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "5",
             "Feb": "6",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -10562,7 +10562,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Beechview",
@@ -17981,7 +17981,7 @@
             "Description": "Harassment.",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -17991,7 +17991,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -18266,7 +18266,7 @@
             "Description": "Identity Theft",
             "Jan": "1",
             "Feb": "3",
-            "Mar": "4",
+            "Mar": "6",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -18276,7 +18276,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "10"
         },
         {
             "Neighborhood": "Beechview",
@@ -27405,7 +27405,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "4",
             "Feb": "5",
-            "Mar": "3",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -27415,7 +27415,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Brookline",
@@ -35841,7 +35841,7 @@
             "Description": "Identity Theft",
             "Jan": "0",
             "Feb": "3",
-            "Mar": "33",
+            "Mar": "35",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -35851,7 +35851,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "36"
+            "Count": "38"
         },
         {
             "Neighborhood": "Brookline",
@@ -43821,7 +43821,7 @@
             "Description": "Theft from Vehicle",
             "Jan": "14",
             "Feb": "2",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -43831,7 +43831,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "17"
+            "Count": "18"
         },
         {
             "Neighborhood": "Brookline",
@@ -55140,6 +55140,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2021",
+            "Section": "2709(a)(4)",
+            "Description": "Harassment Communicates Prohibited Acts",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2020",
             "Section": "2709(a)(4)",
             "Description": "Harassment Communicates Prohibited Acts",
@@ -55828,8 +55847,8 @@
             "Section": "9093",
             "Description": "Indirect Criminal Contempt",
             "Jan": "0",
-            "Feb": "2",
-            "Mar": "0",
+            "Feb": "1",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -60825,8 +60844,8 @@
             "Section": "3921",
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "0",
-            "Feb": "1",
-            "Mar": "0",
+            "Feb": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -61372,6 +61391,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2021",
+            "Section": "3928",
+            "Description": "Unauthorized Use of Automobile and Other Vehicles.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2020",
             "Section": "3928",
             "Description": "Unauthorized Use of Automobile and Other Vehicles.",
@@ -61628,6 +61666,25 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2021",
+            "Section": "7611",
+            "Description": "Unlawful Use of Computer",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -100346,7 +100403,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -100356,7 +100413,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -103234,7 +103291,7 @@
             "Description": "Criminal Trespass",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -103244,7 +103301,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -107642,7 +107699,7 @@
             "Description": "Governors Order Violation",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -107652,7 +107709,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -108117,7 +108174,7 @@
             "Description": "Harassment by Physical Contact, or Attempts or Threats",
             "Jan": "1",
             "Feb": "4",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -108127,7 +108184,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
@@ -108668,7 +108725,7 @@
             "Description": "Harassment.",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -108678,7 +108735,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
@@ -123202,8 +123259,8 @@
             "Section": "9093",
             "Description": "Indirect Criminal Contempt",
             "Jan": "0",
-            "Feb": "1",
-            "Mar": "0",
+            "Feb": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -136365,6 +136422,25 @@
         },
         {
             "Neighborhood": "Windgap",
+            "Year": "2021",
+            "Section": "2702",
+            "Description": "Aggravated Assault.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
             "Year": "2020",
             "Section": "2702",
             "Description": "Aggravated Assault.",
@@ -138142,6 +138218,25 @@
             "May": "0",
             "Jun": "0",
             "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2021",
+            "Section": "4304(a)(1)",
+            "Description": "Endangering Welfare of Children - Course of Conduct Enhanced",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
@@ -140469,6 +140564,25 @@
         },
         {
             "Neighborhood": "Windgap",
+            "Year": "2021",
+            "Section": "2705",
+            "Description": "Recklessly Endangering Another Person.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
             "Year": "2020",
             "Section": "2705",
             "Description": "Recklessly Endangering Another Person.",
@@ -140656,6 +140770,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2021",
+            "Section": "5104",
+            "Description": "Resisting Arrest or Other Law Enforcement.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Windgap",
@@ -141215,7 +141348,7 @@
             "Description": "Simple Assault.",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -141225,7 +141358,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Windgap",
@@ -141519,7 +141652,7 @@
             "Description": "Strangulation - Applying Pressure to the Throat or Neck",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -141529,7 +141662,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Windgap",
