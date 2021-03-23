@@ -22479,25 +22479,6 @@
         },
         {
             "Neighborhood": "Beechview",
-            "Year": "2021",
-            "Section": "3925",
-            "Description": "Receiving Stolen Property.",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "1",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Beechview",
             "Year": "2020",
             "Section": "3925",
             "Description": "Receiving Stolen Property.",
@@ -24322,6 +24303,25 @@
         },
         {
             "Neighborhood": "Beechview",
+            "Year": "2021",
+            "Section": "3503(b.1)(i)",
+            "Description": "Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Beechview",
             "Year": "2017",
             "Section": "3503(b.1)(i)",
             "Description": "Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",
@@ -25505,7 +25505,7 @@
             "Description": "Theft from Vehicle",
             "Jan": "1",
             "Feb": "3",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -25515,7 +25515,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -25813,25 +25813,6 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Beechview",
-            "Year": "2021",
-            "Section": "3926(a)(4)",
-            "Description": "Theft of services; ACQUISITION OF SERVICES - refusal to pay or offer to pay for a service (hotels and restarants)",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "1",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -26930,7 +26911,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "10",
             "Feb": "6",
-            "Mar": "9",
+            "Mar": "11",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -26940,7 +26921,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "25"
+            "Count": "27"
         },
         {
             "Neighborhood": "Brookline",
@@ -27519,7 +27500,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "4",
             "Feb": "5",
-            "Mar": "6",
+            "Mar": "8",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -27529,7 +27510,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "17"
         },
         {
             "Neighborhood": "Brookline",
@@ -43189,6 +43170,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2021",
+            "Section": "2718(a)(2)",
+            "Description": "Strangulation - Blocking the Nose and Mouth of the Person",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2019",
             "Section": "2718(a)(2)",
             "Description": "Strangulation - Blocking the Nose and Mouth of the Person",
@@ -43402,7 +43402,7 @@
             "Section": "2706",
             "Description": "Terroristic Threats.",
             "Jan": "3",
-            "Feb": "3",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -43413,7 +43413,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -43535,7 +43535,7 @@
             "Section": "3922",
             "Description": "Theft by Deception.",
             "Jan": "1",
-            "Feb": "2",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -43546,7 +43546,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -43858,7 +43858,7 @@
             "Section": "3921",
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "3",
-            "Feb": "2",
+            "Feb": "1",
             "Mar": "2",
             "Apr": "0",
             "May": "0",
@@ -43869,7 +43869,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -48628,7 +48628,7 @@
             "Description": "Shots Fired",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -48638,7 +48638,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Chartiers City",
@@ -54974,7 +54974,7 @@
             "Description": "General Lighting Requirements.",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -54984,7 +54984,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -57987,6 +57987,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "5"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2021",
+            "Section": "627.02(b)(i)",
+            "Description": "Possessing a small amount of marijuana",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -76170,6 +76189,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "9090",
+            "Description": "Recovered Firearm",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Elliott",
@@ -94761,6 +94799,25 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Oakwood",
+            "Year": "2021",
+            "Section": "2709(a)(1)",
+            "Description": "Harassment by Physical Contact, or Attempts or Threats",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -117085,7 +117142,7 @@
             "Description": "Terroristic Threats.",
             "Jan": "5",
             "Feb": "5",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -117095,7 +117152,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Sheraden",
@@ -123906,7 +123963,7 @@
             "Description": "Indirect Criminal Contempt",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -123916,7 +123973,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "West End",
