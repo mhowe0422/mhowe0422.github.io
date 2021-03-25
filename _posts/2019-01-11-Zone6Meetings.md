@@ -12,8 +12,6 @@ author: Mark Howe
 ### Contact [Pat Friess](harleybabe54@hotmail.com) if you are interested
 
 
-# No Events for Zone 6 at this time
-
 ## With COVID-19 we are limited to video meetings such as Zoom and Teams
 ## We are looking into events for 2021, the next is April 22,2021, Topic is TBD
 ## Be Safe, Wear a mask, wash your hands and maintain social distancing.
