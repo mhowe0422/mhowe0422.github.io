@@ -6334,7 +6334,7 @@
             "Description": "Paraphernalia - Use or Possession",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -6344,7 +6344,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -6733,7 +6733,7 @@
             "Description": "Possession of Controlled Substance",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -6743,7 +6743,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -38710,7 +38710,7 @@
             "Description": "Overdose",
             "Jan": "1",
             "Feb": "4",
-            "Mar": "3",
+            "Mar": "5",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -38720,7 +38720,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -49787,7 +49787,7 @@
             "Description": "302 (Mental)",
             "Jan": "0",
             "Feb": "3",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -49797,7 +49797,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -68236,7 +68236,7 @@
             "Description": "Criminal Mischief.",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -68246,7 +68246,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -108459,7 +108459,7 @@
             "Description": "Found Property",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -108469,7 +108469,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -125003,6 +125003,25 @@
         },
         {
             "Neighborhood": "West End",
+            "Year": "2021",
+            "Section": "9129",
+            "Description": "Miscellaneous Investigation",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
             "Year": "2020",
             "Section": "9129",
             "Description": "Miscellaneous Investigation",
@@ -140345,6 +140364,25 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2021",
+            "Section": "2709(a)",
+            "Description": "Harassment.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
