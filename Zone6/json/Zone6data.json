@@ -2325,7 +2325,7 @@
             "Description": "Dead on Arrival (DOA)",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -2335,7 +2335,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -27025,7 +27025,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "10",
             "Feb": "6",
-            "Mar": "15",
+            "Mar": "16",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -27035,7 +27035,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "31"
+            "Count": "32"
         },
         {
             "Neighborhood": "Brookline",
@@ -32383,7 +32383,7 @@
             "Description": "Driving While Operating Privilege is Suspended or Revoked.",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "3",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -32393,7 +32393,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -39671,6 +39671,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2021",
+            "Section": "627.02(b)(i)",
+            "Description": "Possessing a small amount of marijuana",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -65918,7 +65937,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "5",
             "Feb": "3",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -65928,7 +65947,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Elliott",
@@ -68331,7 +68350,7 @@
             "Description": "Criminal Mischief.",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -68341,7 +68360,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -69257,6 +69276,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "607.03",
+            "Description": "Discharging Firearm or Airgun",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2015",
             "Section": "607.03",
             "Description": "Discharging Firearm or Airgun",
@@ -69719,6 +69757,25 @@
             "Jan": "0",
             "Feb": "1",
             "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "1501",
+            "Description": "Drivers Required to be Licensed.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -71340,6 +71397,25 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "6106",
+            "Description": "Firearms not to be Carried without a License.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
@@ -76387,7 +76463,7 @@
             "Description": "Recklessly Endangering Another Person.",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -76397,7 +76473,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -77470,7 +77546,7 @@
             "Description": "Shots Fired",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -77480,7 +77556,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -104317,7 +104393,7 @@
             "Description": "Criminal Mischief.",
             "Jan": "4",
             "Feb": "2",
-            "Mar": "3",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -104327,7 +104403,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Sheraden",
@@ -110340,7 +110416,7 @@
             "Description": "Indirect Criminal Contempt",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -110350,7 +110426,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -114477,6 +114553,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2021",
+            "Section": "2707",
+            "Description": "Propulsion of Missiles",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2020",
             "Section": "2707",
             "Description": "Propulsion of Missiles",
@@ -115071,7 +115166,7 @@
             "Description": "Recklessly Endangering Another Person.",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -115081,7 +115176,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -117674,7 +117769,7 @@
             "Description": "Terroristic Threats.",
             "Jan": "5",
             "Feb": "5",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -117684,7 +117779,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Sheraden",
@@ -118111,7 +118206,7 @@
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "4",
             "Feb": "1",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -118121,7 +118216,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Sheraden",
@@ -128181,7 +128276,7 @@
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -128191,7 +128286,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "West End",
