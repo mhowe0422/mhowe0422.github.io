@@ -2003,7 +2003,7 @@
             "Jan": "0",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -2012,7 +2012,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -2326,7 +2326,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "2",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -2335,7 +2335,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Banksville",
@@ -18907,6 +18907,25 @@
         },
         {
             "Neighborhood": "Beechview",
+            "Year": "2021",
+            "Section": "4952",
+            "Description": "Intimidation of Witnesses or Victims",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Beechview",
             "Year": "2019",
             "Section": "4952",
             "Description": "Intimidation of Witnesses or Victims",
@@ -27026,7 +27045,7 @@
             "Jan": "10",
             "Feb": "6",
             "Mar": "17",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -27035,7 +27054,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "33"
+            "Count": "34"
         },
         {
             "Neighborhood": "Brookline",
@@ -36164,7 +36183,7 @@
             "Description": "Identity Theft",
             "Jan": "0",
             "Feb": "3",
-            "Mar": "42",
+            "Mar": "43",
             "Apr": "1",
             "May": "0",
             "Jun": "0",
@@ -36174,7 +36193,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "46"
+            "Count": "47"
         },
         {
             "Neighborhood": "Brookline",
@@ -50458,6 +50477,25 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2021",
+            "Section": "3743",
+            "Description": "Accidents Involving Damage to Attended Veh. or Property",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
@@ -93387,6 +93425,25 @@
         },
         {
             "Neighborhood": "Oakwood",
+            "Year": "2021",
+            "Section": "9999",
+            "Description": "9999 - (Misc. Incident):",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Oakwood",
             "Year": "2020",
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
@@ -101069,7 +101126,7 @@
             "Jan": "3",
             "Feb": "4",
             "Mar": "3",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -101078,7 +101135,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Sheraden",
@@ -101202,7 +101259,7 @@
             "Jan": "4",
             "Feb": "16",
             "Mar": "8",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -101211,7 +101268,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "29"
+            "Count": "30"
         },
         {
             "Neighborhood": "Sheraden",
@@ -116572,7 +116629,7 @@
             "Description": "Shots Fired",
             "Jan": "12",
             "Feb": "18",
-            "Mar": "4",
+            "Mar": "5",
             "Apr": "1",
             "May": "0",
             "Jun": "0",
@@ -116582,7 +116639,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "35"
+            "Count": "36"
         },
         {
             "Neighborhood": "Sheraden",
