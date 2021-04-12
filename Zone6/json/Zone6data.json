@@ -7038,7 +7038,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -7047,7 +7047,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -25031,7 +25031,7 @@
             "Jan": "0",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -25040,7 +25040,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -28489,7 +28489,7 @@
             "Jan": "8",
             "Feb": "5",
             "Mar": "12",
-            "Apr": "4",
+            "Apr": "5",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -28498,7 +28498,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "29"
+            "Count": "30"
         },
         {
             "Neighborhood": "Brookline",
@@ -39509,7 +39509,7 @@
             "Jan": "1",
             "Feb": "3",
             "Mar": "5",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -39518,7 +39518,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -62194,8 +62194,8 @@
             "Description": "Simple Assault.",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "2",
-            "Apr": "1",
+            "Mar": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -62726,8 +62726,8 @@
             "Description": "Terroristic Threats.",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "2",
-            "Apr": "1",
+            "Mar": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -68579,7 +68579,7 @@
             "Jan": "0",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -68588,7 +68588,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -70220,6 +70220,25 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "3304(a)(5)",
+            "Description": "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -94422,13 +94441,13 @@
             "Apr": "0",
             "May": "1",
             "Jun": "0",
-            "Jul": "1",
+            "Jul": "0",
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "3"
         },
         {
             "Neighborhood": "Oakwood",
@@ -94723,7 +94742,7 @@
             "Jan": "0",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "2",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -94732,7 +94751,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "3"
         },
         {
             "Neighborhood": "Oakwood",
@@ -94769,8 +94788,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "1",
-            "Count": "2"
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Oakwood",
@@ -94780,7 +94799,7 @@
             "Jan": "0",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "1",
+            "Apr": "0",
             "May": "0",
             "Jun": "1",
             "Jul": "0",
@@ -94789,7 +94808,7 @@
             "Oct": "0",
             "Nov": "1",
             "Dec": "0",
-            "Count": "4"
+            "Count": "3"
         },
         {
             "Neighborhood": "Oakwood",
@@ -94995,10 +95014,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "2",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "2"
         },
         {
             "Neighborhood": "Oakwood",
@@ -95648,44 +95667,6 @@
         },
         {
             "Neighborhood": "Oakwood",
-            "Year": "2015",
-            "Section": "1501",
-            "Description": "Drivers Required to be Licensed.",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
-            "Year": "2015",
-            "Section": "1543",
-            "Description": "Driving While Operating Privilege is Suspended or Revoked.",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
             "Year": "2018",
             "Section": "9124",
             "Description": "Drug Investigation",
@@ -95743,25 +95724,6 @@
         },
         {
             "Neighborhood": "Oakwood",
-            "Year": "2019",
-            "Section": "3802(a)(1)",
-            "Description": "DUI - General Impairment",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "1",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
             "Year": "2018",
             "Section": "3802(a)(1)",
             "Description": "DUI - General Impairment",
@@ -95773,25 +95735,6 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
-            "Year": "2016",
-            "Section": "3802(a)(1)",
-            "Description": "DUI - General Impairment",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
@@ -95814,8 +95757,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "1",
-            "Count": "2"
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Oakwood",
@@ -95830,63 +95773,6 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
-            "Year": "2015",
-            "Section": "3802(b)",
-            "Description": "DUI - High Rate of Alchol - BAC >=.10% <.16%",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
-            "Year": "2019",
-            "Section": "3802(c)",
-            "Description": "DUI - Highest Rate of Alcohol - BAC >= .16%",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "1",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
-            "Year": "2016",
-            "Section": "3802(c)",
-            "Description": "DUI - Highest Rate of Alcohol - BAC >= .16%",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
@@ -96001,25 +95887,6 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
-            "Year": "2019",
-            "Section": "9015",
-            "Description": "Failure To Appear\/Arrest on Attachment Order",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
@@ -96088,25 +95955,6 @@
             "Year": "2018",
             "Section": "6106",
             "Description": "Firearms not to be Carried without a License.",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
-            "Year": "2015",
-            "Section": "3733",
-            "Description": "Fleeing or Attempting to Elude Police Officer",
             "Jan": "0",
             "Feb": "0",
             "Mar": "0",
@@ -96959,25 +96807,6 @@
         },
         {
             "Neighborhood": "Oakwood",
-            "Year": "2015",
-            "Section": "3111",
-            "Description": "Obedience to Traffic-Control Devices.",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
             "Year": "2020",
             "Section": "9998",
             "Description": "Overdose",
@@ -97378,25 +97207,6 @@
         {
             "Neighborhood": "Oakwood",
             "Year": "2018",
-            "Section": "5505",
-            "Description": "Public Drunkenness",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
-            "Year": "2018",
             "Section": "3925",
             "Description": "Receiving Stolen Property.",
             "Jan": "0",
@@ -97529,25 +97339,6 @@
         },
         {
             "Neighborhood": "Oakwood",
-            "Year": "2015",
-            "Section": "2705",
-            "Description": "Recklessly Endangering Another Person.",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
             "Year": "2017",
             "Section": "9090",
             "Description": "Recovered Firearm",
@@ -97658,25 +97449,6 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
-            "Year": "2015",
-            "Section": "5104",
-            "Description": "Resisting Arrest or Other Law Enforcement.",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "1",
             "Count": "1"
         },
         {
@@ -98415,10 +98187,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "1",
+            "Oct": "0",
             "Nov": "0",
             "Dec": "1",
-            "Count": "2"
+            "Count": "1"
         },
         {
             "Neighborhood": "Oakwood",
@@ -98587,25 +98359,6 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "1",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Oakwood",
-            "Year": "2016",
-            "Section": "3112",
-            "Description": "Traffic-Control Signals.",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "1",
-            "Sep": "0",
-            "Oct": "0",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -109581,7 +109334,7 @@
             "Jan": "1",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -109590,7 +109343,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -109942,7 +109695,7 @@
             "Jan": "0",
             "Feb": "3",
             "Mar": "2",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -109951,7 +109704,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
@@ -115737,7 +115490,7 @@
             "Jan": "1",
             "Feb": "1",
             "Mar": "3",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -115746,7 +115499,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -117276,7 +117029,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -117285,7 +117038,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "West End",
@@ -117596,7 +117349,7 @@
             "Year": "2017",
             "Section": "3743",
             "Description": "Accidents Involving Damage to Attended Veh. or Property",
-            "Jan": "0",
+            "Jan": "1",
             "Feb": "0",
             "Mar": "1",
             "Apr": "1",
@@ -117608,7 +117361,7 @@
             "Oct": "0",
             "Nov": "3",
             "Dec": "3",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "West End",
@@ -118870,7 +118623,7 @@
             "Section": "3304",
             "Description": "Criminal Mischief.",
             "Jan": "0",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "1",
@@ -118881,7 +118634,7 @@
             "Oct": "0",
             "Nov": "1",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "West End",
@@ -119672,14 +119425,14 @@
             "Mar": "0",
             "Apr": "3",
             "May": "1",
-            "Jun": "4",
+            "Jun": "5",
             "Jul": "2",
             "Aug": "4",
             "Sep": "3",
             "Oct": "3",
             "Nov": "4",
             "Dec": "4",
-            "Count": "31"
+            "Count": "32"
         },
         {
             "Neighborhood": "West End",
@@ -120227,10 +119980,10 @@
             "Jul": "1",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "West End",
@@ -120560,6 +120313,25 @@
             "Year": "2015",
             "Section": "3733",
             "Description": "Fleeing or Attempting to Elude Police Officer",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2021",
+            "Section": "3310",
+            "Description": "Following Too Closely.",
             "Jan": "0",
             "Feb": "0",
             "Mar": "0",
@@ -124034,6 +123806,25 @@
         },
         {
             "Neighborhood": "West End",
+            "Year": "2021",
+            "Section": "3323",
+            "Description": "Stop Signs and Yield Signs.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
             "Year": "2020",
             "Section": "3323",
             "Description": "Stop Signs and Yield Signs.",
@@ -124447,8 +124238,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "2"
+            "Dec": "1",
+            "Count": "3"
         },
         {
             "Neighborhood": "West End",
@@ -124848,6 +124639,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2021",
+            "Section": "3334",
+            "Description": "Turning Movements and Required Signals.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "West End",
@@ -125278,13 +125088,13 @@
             "Apr": "4",
             "May": "1",
             "Jun": "4",
-            "Jul": "1",
+            "Jul": "2",
             "Aug": "0",
             "Sep": "2",
             "Oct": "2",
             "Nov": "2",
             "Dec": "2",
-            "Count": "20"
+            "Count": "21"
         },
         {
             "Neighborhood": "Westwood",
@@ -125636,7 +125446,7 @@
             "Jan": "0",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -125645,7 +125455,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Westwood",
@@ -125701,8 +125511,8 @@
             "Sep": "0",
             "Oct": "1",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "3"
+            "Dec": "1",
+            "Count": "4"
         },
         {
             "Neighborhood": "Westwood",
@@ -125731,7 +125541,7 @@
             "Jan": "0",
             "Feb": "0",
             "Mar": "2",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -125740,7 +125550,7 @@
             "Oct": "1",
             "Nov": "2",
             "Dec": "2",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Westwood",
@@ -126041,10 +125851,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Westwood",
@@ -127454,6 +127264,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2015",
+            "Section": "1501",
+            "Description": "Drivers Required to be Licensed.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2021",
             "Section": "3309",
             "Description": "Driving on Roadways Laned for Traffic.",
@@ -127525,8 +127354,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Neighborhood": "Westwood",
@@ -127595,14 +127424,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "0",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Westwood",
@@ -127654,12 +127483,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Westwood",
@@ -127677,8 +127506,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "2"
+            "Dec": "1",
+            "Count": "3"
         },
         {
             "Neighborhood": "Westwood",
@@ -127734,8 +127563,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Neighborhood": "Westwood",
@@ -127785,14 +127614,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "0",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Westwood",
@@ -127844,12 +127673,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Westwood",
@@ -127977,12 +127806,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "1",
             "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Westwood",
@@ -128267,6 +128096,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2015",
+            "Section": "3733",
+            "Description": "Fleeing or Attempting to Elude Police Officer",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
             "Count": "1"
         },
         {
@@ -129924,6 +129772,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2015",
+            "Section": "3111",
+            "Description": "Obedience to Traffic-Control Devices.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2019",
             "Section": "4703",
             "Description": "Operation of Vehicle without Official Certif. of Inspection",
@@ -130760,6 +130627,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2018",
+            "Section": "5505",
+            "Description": "Public Drunkenness",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2017",
             "Section": "5505",
             "Description": "Public Drunkenness",
@@ -130945,8 +130831,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "3"
+            "Dec": "1",
+            "Count": "4"
         },
         {
             "Neighborhood": "Westwood",
@@ -131098,6 +130984,25 @@
             "Oct": "1",
             "Nov": "0",
             "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2015",
+            "Section": "5104",
+            "Description": "Resisting Arrest or Other Law Enforcement.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
             "Count": "1"
         },
         {
@@ -132406,10 +132311,10 @@
             "Jul": "6",
             "Aug": "1",
             "Sep": "1",
-            "Oct": "2",
+            "Oct": "3",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Westwood",
@@ -132766,6 +132671,25 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2016",
+            "Section": "3112",
+            "Description": "Traffic-Control Signals.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
