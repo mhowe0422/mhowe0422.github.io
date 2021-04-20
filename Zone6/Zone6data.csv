@@ -977,7 +977,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,9130,"Graffiti Investigation",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Beechview                     ",2017,9011,"Gun Related",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Beechview                     ",2017,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2021,2709,"Harassment (Non-Specific)",2,1,1,0,0,0,0,0,0,0,0,0,4
+"Beechview                     ",2021,2709,"Harassment (Non-Specific)",2,1,1,1,0,0,0,0,0,0,0,0,5
 "Beechview                     ",2020,2709,"Harassment (Non-Specific)",0,0,1,2,2,3,3,1,3,0,0,0,15
 "Beechview                     ",2019,2709,"Harassment (Non-Specific)",2,1,2,1,0,2,1,0,1,0,2,1,13
 "Beechview                     ",2018,2709,"Harassment (Non-Specific)",0,0,0,2,0,1,1,1,3,1,0,0,9
@@ -1574,7 +1574,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Brookline                     ",2019,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2019,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2021,9497,"Aided Case",2,1,1,2,0,0,0,0,0,0,0,0,6
+"Brookline                     ",2021,9497,"Aided Case",2,1,1,3,0,0,0,0,0,0,0,0,7
 "Brookline                     ",2020,9497,"Aided Case",1,0,2,2,3,0,4,1,4,0,1,3,21
 "Brookline                     ",2019,9497,"Aided Case",1,1,1,2,0,1,1,2,1,2,3,1,16
 "Brookline                     ",2018,9497,"Aided Case",4,0,3,2,6,2,4,1,0,1,2,4,29
@@ -2750,7 +2750,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,9999,"9999 - (Misc. Incident):",2,1,3,2,3,4,5,5,2,5,5,6,43
 "Crafton Heights               ",2016,9999,"9999 - (Misc. Incident):",2,1,5,3,3,4,1,2,8,3,3,3,38
 "Crafton Heights               ",2015,9999,"9999 - (Misc. Incident):",0,0,1,1,3,3,2,5,3,2,4,2,26
-"Crafton Heights               ",2021,4106,"Access Device Fraud",0,0,2,2,0,0,0,0,0,0,0,0,4
+"Crafton Heights               ",2021,4106,"Access Device Fraud",0,0,2,3,0,0,0,0,0,0,0,0,5
 "Crafton Heights               ",2020,4106,"Access Device Fraud",1,0,0,0,0,0,1,1,1,0,1,0,5
 "Crafton Heights               ",2019,4106,"Access Device Fraud",2,1,2,0,1,0,0,2,1,1,1,0,11
 "Crafton Heights               ",2018,4106,"Access Device Fraud",0,1,1,1,2,0,0,1,1,1,0,0,8
@@ -2875,7 +2875,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,1,0,0,0,1,1,2,1,3,0,10
 "Crafton Heights               ",2016,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,2,1,0,0,0,2,1,1,1,0,8
 "Crafton Heights               ",2015,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,0,0,1,2,0,0,0,3
-"Crafton Heights               ",2021,3304,"Criminal Mischief.",2,2,0,1,0,0,0,0,0,0,0,0,5
+"Crafton Heights               ",2021,3304,"Criminal Mischief.",2,2,0,2,0,0,0,0,0,0,0,0,6
 "Crafton Heights               ",2020,3304,"Criminal Mischief.",1,1,1,2,0,1,1,7,5,2,1,0,22
 "Crafton Heights               ",2019,3304,"Criminal Mischief.",2,1,1,1,0,0,2,2,5,3,1,4,22
 "Crafton Heights               ",2018,3304,"Criminal Mischief.",3,1,4,2,2,3,2,3,1,3,0,2,26
@@ -3309,7 +3309,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,1,0,2,0,1,0,0,4
 "Crafton Heights               ",2016,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,0,0,0,0,1,2,0,0,2,0,0,7
 "Crafton Heights               ",2015,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,2,0,0,0,0,0,3,5
-"Crafton Heights               ",2021,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2021,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2018,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,0,0,1,0,0,0,3,0,4
 "Crafton Heights               ",2017,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,1,0,0,0,1,0,0,0,0,0,0,2
 "Crafton Heights               ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,0,0,0,0,0,0,0,0,0,3
@@ -3355,6 +3355,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,2706,"Terroristic Threats.",6,0,3,3,1,1,2,1,0,0,1,0,18
 "Crafton Heights               ",2016,2706,"Terroristic Threats.",1,0,0,2,0,4,0,3,0,1,1,3,15
 "Crafton Heights               ",2015,2706,"Terroristic Threats.",0,0,0,0,0,2,0,0,2,1,0,1,6
+"Crafton Heights               ",2021,3922,"Theft by Deception.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2020,3922,"Theft by Deception.",0,1,0,1,3,0,0,0,1,1,0,0,7
 "Crafton Heights               ",2019,3922,"Theft by Deception.",0,0,0,0,0,0,1,0,1,1,0,0,3
 "Crafton Heights               ",2018,3922,"Theft by Deception.",0,1,0,0,0,1,0,0,1,0,0,0,3
@@ -3678,7 +3679,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,2702,"Aggravated Assault.",1,0,0,3,0,0,2,2,2,0,0,0,10
 "Elliott                       ",2016,2702,"Aggravated Assault.",3,2,0,0,0,0,1,0,0,0,0,0,6
 "Elliott                       ",2015,2702,"Aggravated Assault.",0,0,2,0,3,2,1,0,1,0,2,0,11
-"Elliott                       ",2021,9497,"Aided Case",0,1,0,1,0,0,0,0,0,0,0,0,2
+"Elliott                       ",2021,9497,"Aided Case",0,1,0,2,0,0,0,0,0,0,0,0,3
 "Elliott                       ",2020,9497,"Aided Case",1,0,0,0,1,0,1,0,0,0,2,1,6
 "Elliott                       ",2019,9497,"Aided Case",0,1,1,1,0,0,0,0,0,1,2,1,7
 "Elliott                       ",2018,9497,"Aided Case",0,2,0,1,3,1,1,0,1,3,0,1,13
@@ -5344,7 +5345,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9498,"302 (Mental)",0,0,2,1,0,0,1,1,1,1,1,0,8
 "Sheraden                      ",2016,9498,"302 (Mental)",0,1,1,0,0,0,0,0,1,1,0,0,4
 "Sheraden                      ",2015,9498,"302 (Mental)",0,0,0,0,0,3,0,0,0,0,1,0,4
-"Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,12,0,0,0,0,0,0,0,0,33
+"Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,13,0,0,0,0,0,0,0,0,34
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,5,1,5,10,8,7,9,2,4,4,61
 "Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",3,3,2,7,0,7,5,5,2,5,3,5,47
 "Sheraden                      ",2018,9999,"9999 - (Misc. Incident):",8,7,2,5,4,5,7,4,6,7,5,2,62
@@ -5704,6 +5705,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2018,4101,Forgery.,2,0,2,0,0,0,0,0,0,0,0,0,4
 "Sheraden                      ",2017,4101,Forgery.,2,0,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2015,4101,Forgery.,0,0,0,0,2,0,0,0,0,1,0,0,3
+"Sheraden                      ",2021,9017,"Found Drugs",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,9017,"Found Drugs",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2018,9017,"Found Drugs",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Sheraden                      ",2021,9489,"Found Property",1,0,2,0,0,0,0,0,0,0,0,0,3
@@ -6689,7 +6691,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2018,9498,"302 (Mental)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Westwood                      ",2017,9498,"302 (Mental)",0,0,0,0,0,0,0,0,0,1,0,1,2
 "Westwood                      ",2015,9498,"302 (Mental)",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Westwood                      ",2021,9999,"9999 - (Misc. Incident):",3,7,7,0,0,0,0,0,0,0,0,0,17
+"Westwood                      ",2021,9999,"9999 - (Misc. Incident):",3,7,7,1,0,0,0,0,0,0,0,0,18
 "Westwood                      ",2020,9999,"9999 - (Misc. Incident):",4,3,1,0,0,0,0,3,0,4,0,3,18
 "Westwood                      ",2019,9999,"9999 - (Misc. Incident):",0,1,1,4,1,4,2,0,2,2,2,2,21
 "Westwood                      ",2018,9999,"9999 - (Misc. Incident):",3,0,2,0,1,0,0,2,0,1,1,2,12
