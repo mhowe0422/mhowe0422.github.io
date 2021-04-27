@@ -1525,7 +1525,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,9498,"302 (Mental)",1,0,0,0,1,1,1,3,0,2,0,0,9
 "Brookline                     ",2016,9498,"302 (Mental)",0,0,1,0,2,1,1,1,0,1,1,0,8
 "Brookline                     ",2015,9498,"302 (Mental)",0,0,0,0,1,1,0,2,0,0,3,2,9
-"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",8,5,12,8,0,0,0,0,0,0,0,0,33
+"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",8,5,12,9,0,0,0,0,0,0,0,0,34
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2019,9999,"9999 - (Misc. Incident):",6,7,6,15,7,4,6,6,10,10,11,7,95
 "Brookline                     ",2018,9999,"9999 - (Misc. Incident):",6,3,11,4,8,5,9,6,7,5,5,7,76
@@ -2674,7 +2674,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2016,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Chartiers City                ",2020,3701,Robbery.,0,0,0,0,0,0,0,2,0,0,0,0,2
 "Chartiers City                ",2018,6111(g)(1),"Sale or Transfer of Firearm",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Chartiers City                ",2021,8106,"Shots Fired",0,1,2,1,0,0,0,0,0,0,0,0,4
+"Chartiers City                ",2021,8106,"Shots Fired",0,1,2,2,0,0,0,0,0,0,0,0,5
 "Chartiers City                ",2020,8106,"Shots Fired",0,0,0,4,1,1,2,2,3,1,0,1,15
 "Chartiers City                ",2019,8106,"Shots Fired",0,0,0,1,4,1,2,0,0,0,0,0,8
 "Chartiers City                ",2016,8106,"Shots Fired",0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -5834,6 +5834,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",1,0,0,1,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2018,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2021,0291,"Located Runaway - Outside City",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,5506,"Loitering and Prowling at Night",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,5506,"Loitering and Prowling at Night",0,1,0,0,0,0,0,0,0,1,1,0,3
 "Sheraden                      ",2019,5506,"Loitering and Prowling at Night",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -5886,7 +5887,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,029,"Missing Juvenile",3,2,1,4,5,0,0,3,5,2,1,3,29
 "Sheraden                      ",2016,29,"Missing Juvenile",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2015,029,"Missing Juvenile",0,0,1,3,0,1,1,1,0,2,2,3,14
-"Sheraden                      ",2021,9490,"Missing Persons (18 and Over)",0,2,1,0,0,0,0,0,0,0,0,0,3
+"Sheraden                      ",2021,9490,"Missing Persons (18 and Over)",0,2,1,1,0,0,0,0,0,0,0,0,4
 "Sheraden                      ",2020,9490,"Missing Persons (18 and Over)",0,0,0,0,0,0,2,1,1,1,1,0,6
 "Sheraden                      ",2019,9490,"Missing Persons (18 and Over)",0,0,1,0,0,1,0,1,0,0,1,0,4
 "Sheraden                      ",2018,9490,"Missing Persons (18 and Over)",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -6115,7 +6116,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,3701,Robbery.,0,0,1,1,1,1,5,1,0,3,3,1,17
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Sheraden                      ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2021,8106,"Shots Fired",6,15,4,9,0,0,0,0,0,0,0,0,34
+"Sheraden                      ",2021,8106,"Shots Fired",6,15,4,11,0,0,0,0,0,0,0,0,36
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
 "Sheraden                      ",2019,8106,"Shots Fired",0,0,0,5,7,0,6,2,0,1,0,3,24
 "Sheraden                      ",2018,8106,"Shots Fired",2,0,0,0,2,2,0,2,0,0,1,1,10
@@ -6142,7 +6143,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,4,3,3,1,0,2,2,0,1,2,18
 "Sheraden                      ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,4,0,4,1,11,1,3,1,2,29
 "Sheraden                      ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,2,4,0,0,4,1,4,2,0,17
-"Sheraden                      ",2021,2701,"Simple Assault.",2,6,3,6,0,0,0,0,0,0,0,0,17
+"Sheraden                      ",2021,2701,"Simple Assault.",2,6,3,7,0,0,0,0,0,0,0,0,18
 "Sheraden                      ",2020,2701,"Simple Assault.",7,5,8,4,9,9,9,10,17,1,4,6,89
 "Sheraden                      ",2019,2701,"Simple Assault.",6,5,0,2,3,0,5,6,9,2,2,4,44
 "Sheraden                      ",2018,2701,"Simple Assault.",5,4,1,4,4,5,3,9,5,3,5,4,52
@@ -6162,7 +6163,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3323,"Stop Signs and Yield Signs.",0,2,0,2,0,3,0,3,0,0,0,0,10
 "Sheraden                      ",2016,3323,"Stop Signs and Yield Signs.",2,4,0,2,0,0,0,2,0,1,2,0,13
 "Sheraden                      ",2015,3323,"Stop Signs and Yield Signs.",0,0,2,1,2,4,0,0,1,0,0,2,12
-"Sheraden                      ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,1,0,1,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,1,0,2,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,5,8,0,0,0,2,1,5,0,0,0,23
 "Sheraden                      ",2019,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,2,0,2,0,1,0,2,1,8
 "Sheraden                      ",2018,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,2,0,0,0,0,6,2,2,1,0,0,15
@@ -6175,7 +6176,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,4910,"Tampering with or Fabricating Physical Evidence.",0,0,2,0,0,0,0,0,0,0,0,1,3
 "Sheraden                      ",2016,4910,"Tampering with or Fabricating Physical Evidence.",0,0,2,0,0,0,0,2,0,0,2,0,6
 "Sheraden                      ",2020,1928,"Temporary Registration Plates.",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Sheraden                      ",2021,2706,"Terroristic Threats.",2,3,5,6,0,0,0,0,0,0,0,0,16
+"Sheraden                      ",2021,2706,"Terroristic Threats.",2,3,5,7,0,0,0,0,0,0,0,0,17
 "Sheraden                      ",2020,2706,"Terroristic Threats.",0,3,1,0,4,0,5,1,11,3,7,6,41
 "Sheraden                      ",2019,2706,"Terroristic Threats.",5,0,1,2,3,3,5,4,1,0,3,0,27
 "Sheraden                      ",2018,2706,"Terroristic Threats.",2,1,2,1,2,0,2,1,1,0,0,0,12
@@ -6191,7 +6192,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2015,3922,"Theft by Deception.",0,0,0,0,1,0,0,1,0,1,1,0,4
 "Sheraden                      ",2016,3923,"Theft by Extortion.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Sheraden                      ",2015,3923,"Theft by Extortion.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Sheraden                      ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,1,3,4,0,0,0,0,0,0,0,0,10
+"Sheraden                      ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,1,3,5,0,0,0,0,0,0,0,0,11
 "Sheraden                      ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,3,2,2,1,2,3,3,2,1,0,1,22
 "Sheraden                      ",2019,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,0,0,0,0,0,1,5,6,4,3,2,24
 "Sheraden                      ",2018,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,1,1,2,0,5,5,4,5,3,1,0,33
