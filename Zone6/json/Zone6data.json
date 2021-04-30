@@ -996,7 +996,7 @@
             "Jan": "2",
             "Feb": "1",
             "Mar": "1",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -1005,7 +1005,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Banksville",
@@ -29800,7 +29800,7 @@
             "Jan": "2",
             "Feb": "1",
             "Mar": "1",
-            "Apr": "3",
+            "Apr": "4",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -29809,7 +29809,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Brookline",
@@ -57483,7 +57483,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -57492,7 +57492,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -73329,7 +73329,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -73338,7 +73338,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -75248,7 +75248,7 @@
             "Jan": "0",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -75257,7 +75257,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -81043,7 +81043,7 @@
             "Jan": "1",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "2",
+            "Apr": "3",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -81052,7 +81052,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Elliott",
@@ -83625,9 +83625,9 @@
             "Section": "3304(a)(1)",
             "Description": "CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "0",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -84362,6 +84362,25 @@
         },
         {
             "Neighborhood": "Esplen",
+            "Year": "2021",
+            "Section": "607.03",
+            "Description": "Discharging Firearm or Airgun",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
             "Year": "2020",
             "Section": "607.03",
             "Description": "Discharging Firearm or Airgun",
@@ -84559,6 +84578,25 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2021",
+            "Section": "1501",
+            "Description": "Drivers Required to be Licensed.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -85318,7 +85356,7 @@
             "Jan": "1",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -85327,7 +85365,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Esplen",
@@ -92443,7 +92481,7 @@
             "Jan": "0",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -92452,7 +92490,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Fairywood",
@@ -101069,7 +101107,7 @@
             "Jan": "3",
             "Feb": "13",
             "Mar": "5",
-            "Apr": "15",
+            "Apr": "16",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -101078,7 +101116,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "36"
+            "Count": "37"
         },
         {
             "Neighborhood": "Sheraden",
@@ -108897,7 +108935,7 @@
             "Jan": "0",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -108906,7 +108944,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
