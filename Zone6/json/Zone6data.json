@@ -10041,7 +10041,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -10049,7 +10049,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -28755,7 +28755,7 @@
             "Jan": "8",
             "Feb": "5",
             "Mar": "12",
-            "Apr": "9",
+            "Apr": "10",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -28764,7 +28764,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "34"
+            "Count": "35"
         },
         {
             "Neighborhood": "Brookline",
@@ -31606,7 +31606,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "2",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -31614,7 +31614,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -37343,7 +37343,7 @@
             "Jan": "0",
             "Feb": "2",
             "Mar": "39",
-            "Apr": "6",
+            "Apr": "7",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -37352,7 +37352,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "47"
+            "Count": "48"
         },
         {
             "Neighborhood": "Brookline",
@@ -40878,7 +40878,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -40886,7 +40886,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -43310,7 +43310,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -43318,7 +43318,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -44051,7 +44051,7 @@
             "Feb": "1",
             "Mar": "0",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -44059,7 +44059,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -63602,7 +63602,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -63610,7 +63610,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -74585,6 +74585,25 @@
             "Mar": "0",
             "Apr": "1",
             "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "2709(a)(1)",
+            "Description": "Harassment by Physical Contact, or Attempts or Threats",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -88390,6 +88409,25 @@
         },
         {
             "Neighborhood": "Esplen",
+            "Year": "2021",
+            "Section": "3929",
+            "Description": "Retail Theft.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
             "Year": "2019",
             "Section": "3929",
             "Description": "Retail Theft.",
@@ -88872,7 +88910,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -88880,7 +88918,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Esplen",
@@ -101127,7 +101165,7 @@
             "Feb": "13",
             "Mar": "5",
             "Apr": "16",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -101135,7 +101173,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "37"
+            "Count": "38"
         },
         {
             "Neighborhood": "Sheraden",
@@ -101583,7 +101621,7 @@
             "Feb": "1",
             "Mar": "3",
             "Apr": "2",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -101591,7 +101629,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -138747,7 +138785,7 @@
             "Feb": "1",
             "Mar": "1",
             "Apr": "1",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -138755,7 +138793,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Neighborhood": "Windgap",
