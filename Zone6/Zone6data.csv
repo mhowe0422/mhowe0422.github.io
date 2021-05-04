@@ -31,7 +31,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,1,1,0,1,1,1,1,3,3,2,16
 "Banksville                    ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",1,2,1,1,1,1,1,6,0,1,0,0,15
 "Banksville                    ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,2,0,2,0,0,0,2,3,9
-"Banksville                    ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,1,1,1,0,0,0,0,0,0,0,0,5
+"Banksville                    ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,1,1,1,1,0,0,0,0,0,0,0,6
 "Banksville                    ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,1,2,1,1,1,0,0,0,2,9
 "Banksville                    ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,0,0,1,0,1,0,0,1,0,1,0,6
 "Banksville                    ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,0,2,1,1,2,1,0,3,3,1,0,16
@@ -606,7 +606,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,0,2,0,2,1,3,1,2,1,3,19
 "Beechview                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,0,2,2,0,3,2,1,4,5,1,24
 "Beechview                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,1,1,3,1,2,3,1,4,0,18
-"Beechview                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",5,6,5,11,0,0,0,0,0,0,0,0,27
+"Beechview                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",5,6,5,11,1,0,0,0,0,0,0,0,28
 "Beechview                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,7,1,1,4,3,5,2,6,3,5,6,43
 "Beechview                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,3,3,3,3,9,0,7,2,3,2,2,39
 "Beechview                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",7,4,5,5,2,10,1,5,4,6,4,2,55
@@ -948,7 +948,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2018,5126,"Flight to Avoid Apprehension, Trial or Punishment.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2016,5126,"Flight to Avoid Apprehension, Trial or Punishment.",0,0,0,0,0,0,0,3,0,0,2,0,5
 "Beechview                     ",2015,3310,"Following Too Closely.",0,0,0,0,0,0,0,0,0,0,0,2,2
-"Beechview                     ",2021,4101,Forgery.,0,0,0,1,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2021,4101,Forgery.,0,0,0,2,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,4101,Forgery.,0,0,0,0,0,1,0,0,0,0,0,0,1
 "Beechview                     ",2019,4101,Forgery.,0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2018,4101,Forgery.,0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -1442,7 +1442,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,0,3,6,3,6,0,4,4,0,1,3,32
 "Beechview                     ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",6,1,0,5,2,8,4,4,4,3,1,10,48
 "Beechview                     ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,2,2,1,2,0,3,0,3,1,2,16
-"Beechview                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",3,1,3,3,0,0,0,0,0,0,0,0,10
+"Beechview                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",3,1,3,4,0,0,0,0,0,0,0,0,11
 "Beechview                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",3,7,3,4,2,1,7,5,6,3,3,3,47
 "Beechview                     ",2019,3921,"Theft by Unlawful Taking or Disposition.",1,3,4,4,2,2,7,3,9,2,4,0,41
 "Beechview                     ",2018,3921,"Theft by Unlawful Taking or Disposition.",5,7,6,4,3,3,11,2,0,3,4,3,51
@@ -1527,7 +1527,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,9498,"302 (Mental)",1,0,0,0,1,1,1,3,0,2,0,0,9
 "Brookline                     ",2016,9498,"302 (Mental)",0,0,1,0,2,1,1,1,0,1,1,0,8
 "Brookline                     ",2015,9498,"302 (Mental)",0,0,0,0,1,1,0,2,0,0,3,2,9
-"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",8,5,12,10,0,0,0,0,0,0,0,0,35
+"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",8,5,12,10,2,0,0,0,0,0,0,0,37
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2019,9999,"9999 - (Misc. Incident):",6,7,6,15,7,4,6,6,10,10,11,7,95
 "Brookline                     ",2018,9999,"9999 - (Misc. Incident):",6,3,11,4,8,5,9,6,7,5,5,7,76
@@ -2198,7 +2198,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,2707,"Propulsion of Missiles",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2019,5902(a)(1),Prostitution,0,0,0,0,0,0,0,0,0,0,0,2,2
 "Brookline                     ",2019,5902(a)(2),"Prostitution - Loitering for purpose of",0,0,0,0,0,0,0,0,0,0,0,2,2
-"Brookline                     ",2021,5505,"Public Drunkenness",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2021,5505,"Public Drunkenness",2,0,0,0,2,0,0,0,0,0,0,0,4
 "Brookline                     ",2020,5505,"Public Drunkenness",4,0,0,1,1,0,2,0,2,0,2,2,14
 "Brookline                     ",2019,5505,"Public Drunkenness",0,0,2,3,3,2,0,4,1,0,0,0,15
 "Brookline                     ",2018,5505,"Public Drunkenness",0,0,0,2,4,1,0,2,1,0,1,2,13
@@ -2311,7 +2311,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2016,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2015,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,0,0,0,0,0,0,0,0,3
+"Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,2,0,0,0,0,0,0,0,5
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
 "Brookline                     ",2019,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,1,2,0,3,2,5,0,0,0,13
 "Brookline                     ",2018,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,2,4,4,2,0,1,0,1,1,17
@@ -2353,7 +2353,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,2,2,0,0,2,0,0,0,6
 "Brookline                     ",2015,4911,"Tampering with Public Records of Information.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2021,2706,"Terroristic Threats.",4,2,1,2,0,0,0,0,0,0,0,0,9
+"Brookline                     ",2021,2706,"Terroristic Threats.",4,2,1,3,0,0,0,0,0,0,0,0,10
 "Brookline                     ",2020,2706,"Terroristic Threats.",4,2,2,0,1,5,4,3,3,0,2,0,26
 "Brookline                     ",2019,2706,"Terroristic Threats.",0,2,0,0,1,5,0,2,1,1,2,0,14
 "Brookline                     ",2018,2706,"Terroristic Threats.",3,1,0,5,2,4,2,2,3,3,0,1,26
@@ -2482,7 +2482,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2017,2702,"Aggravated Assault.",2,0,0,1,0,1,0,0,0,0,0,0,4
 "Chartiers City                ",2016,2702,"Aggravated Assault.",0,0,0,0,0,0,1,0,1,2,0,0,4
 "Chartiers City                ",2015,2702,"Aggravated Assault.",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Chartiers City                ",2021,9497,"Aided Case",1,0,1,0,0,0,0,0,0,0,0,0,2
+"Chartiers City                ",2021,9497,"Aided Case",1,0,1,0,1,0,0,0,0,0,0,0,3
 "Chartiers City                ",2020,9497,"Aided Case",1,0,1,0,0,1,0,1,0,0,0,1,5
 "Chartiers City                ",2018,9497,"Aided Case",0,0,1,1,0,1,0,0,0,1,0,0,4
 "Chartiers City                ",2017,9497,"Aided Case",0,0,0,0,0,1,1,0,1,0,0,0,3
@@ -3151,7 +3151,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2019,9129,"Miscellaneous Investigation",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Crafton Heights               ",2018,9129,"Miscellaneous Investigation",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2016,9129,"Miscellaneous Investigation",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Crafton Heights               ",2021,029,"Missing Juvenile",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2021,029,"Missing Juvenile",0,0,0,1,1,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2020,029,"Missing Juvenile",0,0,0,1,0,0,1,0,0,0,0,0,2
 "Crafton Heights               ",2019,029,"Missing Juvenile",0,0,0,0,0,0,0,1,0,0,2,0,3
 "Crafton Heights               ",2018,029,"Missing Juvenile",3,1,1,1,2,1,3,0,0,0,0,0,12
@@ -3656,7 +3656,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,9498,"302 (Mental)",0,0,2,0,0,0,0,1,0,1,0,0,4
 "Elliott                       ",2016,9498,"302 (Mental)",1,0,0,0,1,0,0,0,0,1,0,0,3
 "Elliott                       ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,1,1,0,1,3
-"Elliott                       ",2021,9999,"9999 - (Misc. Incident):",4,1,0,2,0,0,0,0,0,0,0,0,7
+"Elliott                       ",2021,9999,"9999 - (Misc. Incident):",4,1,0,3,0,0,0,0,0,0,0,0,8
 "Elliott                       ",2020,9999,"9999 - (Misc. Incident):",1,5,3,0,3,6,0,2,2,2,1,2,27
 "Elliott                       ",2019,9999,"9999 - (Misc. Incident):",2,2,2,2,1,8,3,3,1,3,1,2,30
 "Elliott                       ",2018,9999,"9999 - (Misc. Incident):",6,3,2,1,3,1,3,2,3,1,3,3,31
@@ -4311,7 +4311,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,0,2,2,1,0,2,0,0,0,1,3,15
 "Elliott                       ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,1,0,1,1,9,0,2,2,1,0,18
 "Elliott                       ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,2,1,1,2,1,0,0,0,7
-"Elliott                       ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,1,0,4,0,0,0,0,0,0,0,0,7
+"Elliott                       ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,1,0,4,1,0,0,0,0,0,0,0,8
 "Elliott                       ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,0,2,1,0,0,2,1,1,1,9
 "Elliott                       ",2019,3921,"Theft by Unlawful Taking or Disposition.",1,0,2,0,1,4,0,2,0,0,1,0,11
 "Elliott                       ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,2,1,0,0,3,2,0,0,0,9
@@ -5072,7 +5072,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2018,2902,"Unlawful Restraint.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Oakwood                       ",2019,9498,"302 (Mental)",0,0,0,0,1,0,0,1,0,0,0,0,2
 "Oakwood                       ",2017,9498,"302 (Mental)",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Oakwood                       ",2021,9999,"9999 - (Misc. Incident):",0,0,0,4,0,0,0,0,0,0,0,0,4
+"Oakwood                       ",2021,9999,"9999 - (Misc. Incident):",0,0,0,5,0,0,0,0,0,0,0,0,5
 "Oakwood                       ",2020,9999,"9999 - (Misc. Incident):",0,0,0,0,0,2,0,0,1,0,0,1,4
 "Oakwood                       ",2019,9999,"9999 - (Misc. Incident):",1,0,0,0,1,0,0,0,1,0,0,0,3
 "Oakwood                       ",2018,9999,"9999 - (Misc. Incident):",1,0,1,0,0,0,0,0,0,2,1,0,5
@@ -7224,6 +7224,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2016,903,"Criminal Conspiracy.",0,0,0,0,0,0,0,0,0,0,0,3,3
 "Windgap                       ",2015,903,"Criminal Conspiracy.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Windgap                       ",2019,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,0,0,0,0,0,1,1,0,0,2
+"Windgap                       ",2021,3304(a)(6),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Paintball Gun or Paintball Marker)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Windgap                       ",2016,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Windgap                       ",2015,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Windgap                       ",2018,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -7367,7 +7368,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2020,3736,"Reckless Driving",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Windgap                       ",2018,3736,"Reckless Driving",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Windgap                       ",2017,3736,"Reckless Driving",2,0,0,0,0,0,0,0,0,0,0,1,3
-"Windgap                       ",2021,2705,"Recklessly Endangering Another Person.",0,0,2,0,0,0,0,0,0,0,0,0,2
+"Windgap                       ",2021,2705,"Recklessly Endangering Another Person.",0,0,2,0,1,0,0,0,0,0,0,0,3
 "Windgap                       ",2020,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,2,0,2,0,0,0,0,4
 "Windgap                       ",2019,2705,"Recklessly Endangering Another Person.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2018,2705,"Recklessly Endangering Another Person.",0,0,1,0,0,0,0,0,0,0,0,0,1
