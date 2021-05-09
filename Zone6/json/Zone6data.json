@@ -5119,7 +5119,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -5128,7 +5128,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -10060,7 +10060,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -10068,7 +10068,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Banksville",
@@ -12435,7 +12435,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -12443,7 +12443,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -13689,7 +13689,7 @@
             "Feb": "0",
             "Mar": "3",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -13697,7 +13697,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Beechview",
@@ -18648,7 +18648,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "1",
-            "May": "2",
+            "May": "3",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -18656,7 +18656,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -32537,7 +32537,7 @@
             "Feb": "1",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -32545,7 +32545,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -36052,7 +36052,7 @@
             "Feb": "1",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -36060,7 +36060,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -37401,7 +37401,7 @@
             "Feb": "2",
             "Mar": "39",
             "Apr": "7",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -37409,7 +37409,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "48"
+            "Count": "49"
         },
         {
             "Neighborhood": "Brookline",
@@ -46141,7 +46141,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -46149,7 +46149,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Chartiers City",
@@ -63526,7 +63526,7 @@
             "Feb": "2",
             "Mar": "1",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -63534,7 +63534,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -66419,6 +66419,25 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "East Carnegie",
+            "Year": "2021",
+            "Section": "9489",
+            "Description": "Found Property",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
@@ -72570,7 +72589,7 @@
             "Feb": "1",
             "Mar": "1",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -72578,7 +72597,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Elliott",
@@ -72874,7 +72893,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "3",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -72882,7 +72901,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Elliott",
@@ -73083,7 +73102,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -73091,7 +73110,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -78158,6 +78177,25 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "3353",
+            "Description": "Prohibitions in Specified Places.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -89423,7 +89461,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "3",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -89431,7 +89469,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Esplen",
@@ -95447,6 +95485,25 @@
             "Mar": "0",
             "Apr": "0",
             "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Oakwood",
+            "Year": "2021",
+            "Section": "9498",
+            "Description": "302 (Mental)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -117106,7 +117163,7 @@
             "Feb": "1",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -117114,7 +117171,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -131337,7 +131394,7 @@
             "Feb": "1",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -131345,7 +131402,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Westwood",
