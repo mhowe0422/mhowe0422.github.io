@@ -655,7 +655,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,94951,"Attempted Suicide",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Beechview                     ",2017,4105(a)(1),"Bad Checks",0,0,0,0,0,0,0,1,0,0,0,1,2
 "Beechview                     ",2016,4105(a)(1),"Bad Checks",0,0,0,2,0,0,0,0,0,0,0,2,4
-"Beechview                     ",2021,9501,"Bench Warrant",6,0,0,0,0,0,0,0,0,0,0,0,6
+"Beechview                     ",2021,9501,"Bench Warrant",6,0,0,0,2,0,0,0,0,0,0,0,8
 "Beechview                     ",2020,9501,"Bench Warrant",0,2,0,0,0,0,3,0,3,2,0,0,10
 "Beechview                     ",2019,9501,"Bench Warrant",0,4,2,2,2,0,1,0,2,2,2,0,17
 "Beechview                     ",2018,9501,"Bench Warrant",0,7,0,2,0,0,0,1,4,0,6,2,22
@@ -1194,7 +1194,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9997,"Overdose Death",1,0,0,0,0,3,0,0,0,1,0,1,6
 "Beechview                     ",2016,9997,"Overdose Death",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2016,602.04,"Panhandling and Prohibited Conduct",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Beechview                     ",2021,13(a)(32),"Paraphernalia - Use or Possession",0,1,0,2,0,0,0,0,0,0,0,0,3
+"Beechview                     ",2021,13(a)(32),"Paraphernalia - Use or Possession",0,1,0,2,2,0,0,0,0,0,0,0,5
 "Beechview                     ",2020,13(a)(32),"Paraphernalia - Use or Possession",2,0,2,0,1,3,5,2,3,0,2,2,22
 "Beechview                     ",2019,13(a)(32),"Paraphernalia - Use or Possession",0,3,4,8,0,2,2,2,6,1,2,0,30
 "Beechview                     ",2018,13(a)(32),"Paraphernalia - Use or Possession",3,4,1,3,3,0,0,2,2,4,1,4,27
@@ -1558,7 +1558,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",2,3,3,2,1,2,0,3,1,2,2,0,21
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",3,4,3,2,1,3,4,5,1,3,2,1,32
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,2,2,3,4,0,2,4,4,4,27
-"Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,5,3,0,0,0,0,0,0,0,0,15
+"Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,5,3,1,0,0,0,0,0,0,0,16
 "Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,2,5,1,4,5,3,4,5,2,3,2,38
 "Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,4,3,2,4,2,8,5,8,5,1,8,56
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,1,6,7,3,4,4,7,4,5,6,52
@@ -2322,7 +2322,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,4,0,3,3,2,2,0,1,0,2,1,18
 "Brookline                     ",2016,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,2,0,5,2,4,3,3,4,3,28
 "Brookline                     ",2015,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,3,0,1,2,1,1,4,0,0,1,13
-"Brookline                     ",2021,2701,"Simple Assault.",0,5,3,4,2,0,0,0,0,0,0,0,14
+"Brookline                     ",2021,2701,"Simple Assault.",0,5,3,4,4,0,0,0,0,0,0,0,16
 "Brookline                     ",2020,2701,"Simple Assault.",11,4,6,7,5,3,6,6,3,9,4,6,70
 "Brookline                     ",2019,2701,"Simple Assault.",5,7,4,9,10,10,9,6,3,2,1,4,70
 "Brookline                     ",2018,2701,"Simple Assault.",6,16,11,8,4,7,3,9,7,11,7,3,92
@@ -3390,7 +3390,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,0,4,0,3,2,1,2,1,0,1,1,17
 "Crafton Heights               ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,2,2,3,5,5,2,2,1,0,22
 "Crafton Heights               ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,0,4,0,1,0,2,2,0,1,11
-"Crafton Heights               ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,1,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,2,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,2,1,2,2,0,1,3,3,0,1,0,16
 "Crafton Heights               ",2019,3921,"Theft by Unlawful Taking or Disposition.",2,2,1,3,1,0,0,0,1,2,0,1,13
 "Crafton Heights               ",2018,3921,"Theft by Unlawful Taking or Disposition.",3,2,1,1,0,0,0,1,2,0,0,2,12
@@ -4381,7 +4381,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2019,9498,"302 (Mental)",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Esplen                        ",2018,9498,"302 (Mental)",0,1,0,0,0,1,0,0,0,1,0,0,3
 "Esplen                        ",2017,9498,"302 (Mental)",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Esplen                        ",2021,9999,"9999 - (Misc. Incident):",2,1,0,0,0,0,0,0,0,0,0,0,3
+"Esplen                        ",2021,9999,"9999 - (Misc. Incident):",2,1,0,0,1,0,0,0,0,0,0,0,4
 "Esplen                        ",2020,9999,"9999 - (Misc. Incident):",3,0,1,0,1,0,0,1,0,0,0,2,8
 "Esplen                        ",2019,9999,"9999 - (Misc. Incident):",0,2,3,0,0,0,2,1,1,1,1,1,12
 "Esplen                        ",2018,9999,"9999 - (Misc. Incident):",0,3,1,0,1,1,2,0,3,1,0,0,12
@@ -5900,7 +5900,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2019,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Sheraden                      ",2016,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Sheraden                      ",2021,9129,"Miscellaneous Investigation",2,2,0,2,0,0,0,0,0,0,0,0,6
+"Sheraden                      ",2021,9129,"Miscellaneous Investigation",2,2,0,2,1,0,0,0,0,0,0,0,7
 "Sheraden                      ",2020,9129,"Miscellaneous Investigation",0,1,1,0,0,2,0,0,0,0,0,0,4
 "Sheraden                      ",2019,9129,"Miscellaneous Investigation",0,0,0,0,1,1,0,0,0,0,1,0,3
 "Sheraden                      ",2017,9129,"Miscellaneous Investigation",0,1,0,0,0,0,0,0,1,1,1,0,4
