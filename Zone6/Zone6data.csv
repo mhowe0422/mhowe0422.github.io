@@ -600,7 +600,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9018,"Accidental Fire",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Beechview                     ",2016,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2015,9018,"Accidental Fire",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Beechview                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,4,1,5,0,0,0,0,0,0,0,0,13
+"Beechview                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,4,1,5,1,0,0,0,0,0,0,0,14
 "Beechview                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",3,0,2,3,2,3,1,0,0,1,1,3,19
 "Beechview                     ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",2,2,0,0,2,1,1,0,1,2,6,1,18
 "Beechview                     ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",5,3,1,1,4,1,1,1,0,3,1,2,23
@@ -886,6 +886,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",4,0,0,2,0,0,0,0,0,0,0,2,8
 "Beechview                     ",2015,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,2,0,0,2,0,0,0,4
 "Beechview                     ",2017,3802(e),"DUI - Minors - BAC >=.02%",0,0,0,0,2,0,0,0,0,0,0,0,2
+"Beechview                     ",2021,3744,"Duty to Give Information and Render Aid",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Beechview                     ",2020,3744,"Duty to Give Information and Render Aid",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",1,1,2,0,0,0,0,0,0,0,0,0,4
 "Beechview                     ",2020,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,1,0,0,0,0,0,2,0,1,0,1,5
@@ -1311,7 +1312,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,1301,"Registration and Certificate of Title Required.",3,0,0,0,0,0,0,0,0,0,0,4,7
 "Beechview                     ",2016,1301,"Registration and Certificate of Title Required.",0,0,0,0,0,0,0,0,0,0,2,2,4
 "Beechview                     ",2015,1301,"Registration and Certificate of Title Required.",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Beechview                     ",2021,1786,"Required Financial Responsibility.",0,0,3,1,0,0,0,0,0,0,0,0,4
+"Beechview                     ",2021,1786,"Required Financial Responsibility.",0,0,3,1,1,0,0,0,0,0,0,0,5
 "Beechview                     ",2020,1786,"Required Financial Responsibility.",0,0,0,1,0,0,2,0,0,0,0,0,3
 "Beechview                     ",2019,1786,"Required Financial Responsibility.",0,1,0,0,0,1,0,0,1,0,2,0,5
 "Beechview                     ",2018,1786,"Required Financial Responsibility.",2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -1553,7 +1554,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,9018,"Accidental Fire",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2015,9018,"Accidental Fire",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,7728,"Accidents and Accident Reports.",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,0,0,0,0,0,0,0,0,7
+"Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,1,0,0,0,0,0,0,0,8
 "Brookline                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",5,5,2,3,2,2,1,4,4,2,2,6,38
 "Brookline                     ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",5,1,3,2,3,2,1,4,3,1,3,2,30
 "Brookline                     ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",1,7,3,1,1,3,1,4,4,3,5,1,34
@@ -1947,7 +1948,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2019,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2018,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2016,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,1,1,6,0,0,0,0,0,0,0,0,8
+"Brookline                     ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,1,1,6,1,0,0,0,0,0,0,0,9
 "Brookline                     ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,3,1,0,2,3,2,5,2,1,1,0,21
 "Brookline                     ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,0,1,1,4,2,1,1,1,1,1,0,15
 "Brookline                     ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,0,3,4,2,4,0,3,1,1,2,1,23
@@ -1991,7 +1992,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,517.8,"Home Improvement Fraud",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2015,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2018,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,0,1,0,1
-"Brookline                     ",2021,4120,"Identity Theft",0,2,39,7,3,0,0,0,0,0,0,0,51
+"Brookline                     ",2021,4120,"Identity Theft",0,2,39,7,4,0,0,0,0,0,0,0,52
 "Brookline                     ",2020,4120,"Identity Theft",1,1,2,0,2,4,0,0,2,2,0,1,15
 "Brookline                     ",2019,4120,"Identity Theft",1,0,2,0,0,0,1,0,1,0,1,0,6
 "Brookline                     ",2018,4120,"Identity Theft",3,1,0,2,0,0,0,0,0,0,1,2,9
@@ -2360,14 +2361,14 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2015,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,2,2,0,0,2,0,0,0,6
 "Brookline                     ",2015,4911,"Tampering with Public Records of Information.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2021,2706,"Terroristic Threats.",4,2,1,3,0,0,0,0,0,0,0,0,10
+"Brookline                     ",2021,2706,"Terroristic Threats.",4,2,1,3,1,0,0,0,0,0,0,0,11
 "Brookline                     ",2020,2706,"Terroristic Threats.",4,2,2,0,1,5,4,3,3,0,2,0,26
 "Brookline                     ",2019,2706,"Terroristic Threats.",0,2,0,0,1,5,0,2,1,1,2,0,14
 "Brookline                     ",2018,2706,"Terroristic Threats.",3,1,0,5,2,4,2,2,3,3,0,1,26
 "Brookline                     ",2017,2706,"Terroristic Threats.",1,1,0,0,1,2,0,1,3,1,2,0,12
 "Brookline                     ",2016,2706,"Terroristic Threats.",0,2,2,0,1,4,0,2,1,1,2,0,15
 "Brookline                     ",2015,2706,"Terroristic Threats.",0,0,0,3,1,3,3,1,2,2,2,0,17
-"Brookline                     ",2021,3922,"Theft by Deception.",0,3,1,2,0,0,0,0,0,0,0,0,6
+"Brookline                     ",2021,3922,"Theft by Deception.",0,3,1,2,1,0,0,0,0,0,0,0,7
 "Brookline                     ",2020,3922,"Theft by Deception.",1,1,1,0,0,0,1,2,2,0,1,1,10
 "Brookline                     ",2019,3922,"Theft by Deception.",1,1,1,0,0,1,1,1,3,1,0,0,10
 "Brookline                     ",2018,3922,"Theft by Deception.",1,0,2,0,0,0,1,1,6,1,0,1,13
@@ -3939,7 +3940,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,2903,"False Imprisonment.",1,0,0,0,0,0,0,0,0,1,0,0,2
 "Elliott                       ",2019,2903,"False Imprisonment.",0,0,0,0,0,0,1,1,1,0,0,0,3
 "Elliott                       ",2020,4906,"False Reports to Law Enforcement Authorities.",0,0,0,0,0,1,1,0,1,0,0,0,3
-"Elliott                       ",2021,6106,"Firearms not to be Carried without a License.",0,0,1,1,0,0,0,0,0,0,0,0,2
+"Elliott                       ",2021,6106,"Firearms not to be Carried without a License.",0,0,1,1,2,0,0,0,0,0,0,0,4
 "Elliott                       ",2019,6106,"Firearms not to be Carried without a License.",0,1,0,0,0,0,0,0,2,0,2,0,5
 "Elliott                       ",2017,6106,"Firearms not to be Carried without a License.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Elliott                       ",2016,6106,"Firearms not to be Carried without a License.",2,0,0,0,1,1,0,0,0,1,0,0,5
@@ -4053,7 +4054,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2018,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,0,2,0,0,0,2,0,0,0,0,0,4
 "Elliott                       ",2017,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,0,0,0,3,0,0,0,0,0,0,0,3
 "Elliott                       ",2016,13(a)(31)(i),"Marijuana - Possess Small Amt for Personal Use",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Elliott                       ",2021,13(a)(31),"Marijuana: Possession Small Amount",2,2,1,1,0,0,0,0,0,0,0,0,6
+"Elliott                       ",2021,13(a)(31),"Marijuana: Possession Small Amount",2,2,1,1,1,0,0,0,0,0,0,0,7
 "Elliott                       ",2020,13(a)(31),"Marijuana: Possession Small Amount",0,2,0,0,0,0,2,4,1,0,0,0,9
 "Elliott                       ",2019,13(a)(31),"Marijuana: Possession Small Amount",0,1,2,2,0,1,4,0,6,4,3,0,23
 "Elliott                       ",2018,13(a)(31),"Marijuana: Possession Small Amount",0,0,3,0,0,2,0,0,0,0,0,0,5
@@ -4144,12 +4145,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2018,6110.1,"Possesion of Firearm by Minor",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Elliott                       ",2016,6110.1,"Possesion of Firearm by Minor",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Elliott                       ",2015,6110.1,"Possesion of Firearm by Minor",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Elliott                       ",2021,6110.2,"Possesion of Firearm with Altered Mfg. Number",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Elliott                       ",2019,6110.2,"Possesion of Firearm with Altered Mfg. Number",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,627.02(b)(i),"Possessing a small amount of marijuana",3,0,1,1,0,0,0,0,0,0,0,0,5
 "Elliott                       ",2020,627.02(b)(i),"Possessing a small amount of marijuana",0,1,3,0,0,0,0,0,1,0,0,0,5
 "Elliott                       ",2019,627.02(b)(i),"Possessing a small amount of marijuana",0,0,1,0,0,0,0,1,0,0,0,0,2
 "Elliott                       ",2018,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Elliott                       ",2021,907,"Possessing Instruments of Crime.",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2021,907,"Possessing Instruments of Crime.",0,0,1,0,1,0,0,0,0,0,0,0,2
 "Elliott                       ",2020,907,"Possessing Instruments of Crime.",0,0,0,0,2,0,2,1,2,0,0,0,7
 "Elliott                       ",2018,907,"Possessing Instruments of Crime.",0,0,0,1,0,0,0,0,0,0,0,2,3
 "Elliott                       ",2017,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -4205,7 +4207,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,3736,"Reckless Driving",0,0,0,0,0,0,2,1,2,0,0,0,5
 "Elliott                       ",2016,3736,"Reckless Driving",4,0,0,0,2,0,0,0,0,0,0,0,6
 "Elliott                       ",2015,3736,"Reckless Driving",0,0,0,0,0,0,3,0,0,0,0,0,3
-"Elliott                       ",2021,2705,"Recklessly Endangering Another Person.",0,0,4,1,0,0,0,0,0,0,0,0,5
+"Elliott                       ",2021,2705,"Recklessly Endangering Another Person.",0,0,4,1,1,0,0,0,0,0,0,0,6
 "Elliott                       ",2020,2705,"Recklessly Endangering Another Person.",0,0,0,0,3,2,0,2,2,3,0,2,14
 "Elliott                       ",2019,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Elliott                       ",2018,2705,"Recklessly Endangering Another Person.",0,0,0,0,1,0,0,0,0,0,2,4,7
@@ -4252,6 +4254,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2016,3929,"Retail Theft.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Elliott                       ",2018,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,1,1,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2017,3542,"Right-Of-Way of Pedestrians in Crosswalks.",0,0,0,0,0,0,2,0,0,0,0,0,2
+"Elliott                       ",2021,3702,"Robbery of Motor Vehicle.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Elliott                       ",2015,3702,"Robbery of Motor Vehicle.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Elliott                       ",2020,3701,Robbery.,0,1,2,0,0,1,0,1,2,0,0,0,7
 "Elliott                       ",2019,3701,Robbery.,0,0,0,0,1,2,0,0,0,0,0,0,3
@@ -4270,7 +4273,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2015,8106,"Shots Fired",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2018,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2017,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",1,0,0,0,0,0,0,0,0,1,0,0,2
-"Elliott                       ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,1,2,0,0,0,0,0,0,0,3
 "Elliott                       ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,0,0,0,2,1,0,0,0,0,0,0,4
 "Elliott                       ",2019,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Elliott                       ",2018,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,1,1,0,2,1,2,7
@@ -4331,7 +4334,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,0,2,2,1,0,2,0,1,0,1,3,16
 "Elliott                       ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,1,0,1,1,9,0,2,2,1,0,18
 "Elliott                       ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,2,1,1,2,1,0,0,0,7
-"Elliott                       ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,1,0,4,1,0,0,0,0,0,0,0,8
+"Elliott                       ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,1,0,4,2,0,0,0,0,0,0,0,9
 "Elliott                       ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,0,3,3,0,0,2,1,1,1,12
 "Elliott                       ",2019,3921,"Theft by Unlawful Taking or Disposition.",1,0,2,0,1,4,0,3,0,0,1,0,12
 "Elliott                       ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,2,1,0,0,4,2,0,0,0,10
@@ -5043,7 +5046,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2016,6111,"Sale of Firearms.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Fairywood                     ",2016,6111(g)(1),"Sale or Transfer of Firearm",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Fairywood                     ",2018,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Fairywood                     ",2021,8106,"Shots Fired",2,0,0,1,0,0,0,0,0,0,0,0,3
+"Fairywood                     ",2021,8106,"Shots Fired",2,0,0,1,1,0,0,0,0,0,0,0,4
 "Fairywood                     ",2020,8106,"Shots Fired",0,0,1,0,0,0,0,0,0,1,1,0,3
 "Fairywood                     ",2019,8106,"Shots Fired",0,0,1,2,1,0,1,0,0,0,0,0,5
 "Fairywood                     ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,0,0,0,2,0,0,2
@@ -5425,7 +5428,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,9498,"302 (Mental)",0,0,2,1,0,0,1,1,1,1,1,0,8
 "Sheraden                      ",2016,9498,"302 (Mental)",0,1,1,0,0,0,0,0,1,1,0,0,4
 "Sheraden                      ",2015,9498,"302 (Mental)",0,0,0,0,0,3,0,0,0,0,1,0,4
-"Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,3,0,0,0,0,0,0,0,41
+"Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,4,0,0,0,0,0,0,0,42
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,5,1,5,10,8,7,9,2,4,4,61
 "Sheraden                      ",2019,9999,"9999 - (Misc. Incident):",3,3,2,7,0,7,5,5,2,5,3,5,47
 "Sheraden                      ",2018,9999,"9999 - (Misc. Incident):",8,7,2,5,4,5,7,4,6,7,5,2,62
@@ -5442,7 +5445,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Sheraden                      ",2018,9018,"Accidental Fire",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,9018,"Accidental Fire",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,0,1,0,0,0,0,0,0,0,2
 "Sheraden                      ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,2,0,2,2,1,1,3,3,1,0,3,18
 "Sheraden                      ",2019,3743,"Accidents Involving Damage to Attended Veh. or Property",1,2,0,0,0,0,1,2,3,0,0,1,10
 "Sheraden                      ",2018,3743,"Accidents Involving Damage to Attended Veh. or Property",1,1,3,1,1,1,2,0,0,0,1,0,11
@@ -5623,7 +5626,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,2709(a.1)(1)(ii),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Threat To Inflict Harm",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2018,3301(d.1),"Dangerous Burning",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2017,3301(d.1),"Dangerous Burning",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2021,9496,"Dead on Arrival (DOA)",1,1,1,2,0,0,0,0,0,0,0,0,5
+"Sheraden                      ",2021,9496,"Dead on Arrival (DOA)",1,1,1,2,1,0,0,0,0,0,0,0,6
 "Sheraden                      ",2020,9496,"Dead on Arrival (DOA)",2,1,0,0,0,0,0,1,1,1,0,2,8
 "Sheraden                      ",2019,9496,"Dead on Arrival (DOA)",3,0,1,1,0,0,2,0,1,0,1,2,11
 "Sheraden                      ",2018,9496,"Dead on Arrival (DOA)",0,2,1,1,0,0,3,1,2,1,1,0,12
