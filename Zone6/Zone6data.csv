@@ -273,7 +273,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2017,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Banksville                    ",2016,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Banksville                    ",2017,2709.A1,"HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Banksville                    ",2021,2709(a),Harassment.,1,0,0,1,0,0,0,0,0,0,0,0,2
+"Banksville                    ",2021,2709(a),Harassment.,1,0,0,1,1,0,0,0,0,0,0,0,3
 "Banksville                    ",2020,2709(a),Harassment.,1,0,1,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2017,2709(a),Harassment.,1,2,1,1,0,0,0,0,1,0,0,0,6
 "Banksville                    ",2016,2709(a),Harassment.,0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -1058,7 +1058,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2016,4912,"Impersonating a Public Servant.",0,0,0,1,2,0,0,1,0,0,0,0,4
 "Beechview                     ",2015,4912,"Impersonating a Public Servant.",0,0,0,0,0,0,0,1,0,0,1,0,2
 "Beechview                     ",2018,517.8(A1),"Improvement Fraud",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2021,9093,"Indirect Criminal Contempt",4,2,0,0,0,0,0,0,0,0,0,0,6
+"Beechview                     ",2021,9093,"Indirect Criminal Contempt",4,2,0,0,1,0,0,0,0,0,0,0,7
 "Beechview                     ",2020,9093,"Indirect Criminal Contempt",4,0,0,0,0,0,1,0,3,0,0,4,12
 "Beechview                     ",2019,9093,"Indirect Criminal Contempt",3,0,0,0,0,2,6,4,0,0,0,2,17
 "Beechview                     ",2018,9093,"Indirect Criminal Contempt",0,0,0,0,0,0,0,1,2,5,3,1,12
@@ -1533,7 +1533,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,9498,"302 (Mental)",1,0,0,0,1,1,1,3,0,2,0,0,9
 "Brookline                     ",2016,9498,"302 (Mental)",0,0,1,0,2,1,1,1,0,1,1,0,8
 "Brookline                     ",2015,9498,"302 (Mental)",0,0,0,0,1,1,0,2,0,0,3,2,9
-"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",8,5,12,10,4,0,0,0,0,0,0,0,39
+"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",8,5,12,10,5,0,0,0,0,0,0,0,40
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2019,9999,"9999 - (Misc. Incident):",6,7,6,15,7,4,6,6,10,10,11,7,95
 "Brookline                     ",2018,9999,"9999 - (Misc. Incident):",6,3,11,4,8,5,9,6,7,5,5,7,76
@@ -1563,7 +1563,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,3743,"Accidents Involving Damage to Attended Veh. or Property",2,3,3,2,1,2,0,3,1,2,2,0,21
 "Brookline                     ",2016,3743,"Accidents Involving Damage to Attended Veh. or Property",3,4,3,2,1,3,4,5,1,3,2,1,32
 "Brookline                     ",2015,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,2,2,2,3,4,0,2,4,4,4,27
-"Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,5,3,1,0,0,0,0,0,0,0,16
+"Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,5,3,2,0,0,0,0,0,0,0,17
 "Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,2,5,1,4,5,3,4,5,2,3,2,38
 "Brookline                     ",2019,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",6,4,3,2,4,2,8,5,8,5,1,8,56
 "Brookline                     ",2018,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,1,1,6,7,3,4,4,7,4,5,6,52
@@ -1589,7 +1589,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Brookline                     ",2019,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2019,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2021,9497,"Aided Case",2,1,1,6,1,0,0,0,0,0,0,0,11
+"Brookline                     ",2021,9497,"Aided Case",2,1,1,6,2,0,0,0,0,0,0,0,12
 "Brookline                     ",2020,9497,"Aided Case",1,0,2,2,3,0,4,1,4,0,1,3,21
 "Brookline                     ",2019,9497,"Aided Case",1,1,1,2,0,1,1,2,1,2,3,1,16
 "Brookline                     ",2018,9497,"Aided Case",4,0,3,2,6,2,4,1,0,1,2,4,29
@@ -3668,7 +3668,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,9498,"302 (Mental)",0,0,3,0,0,0,0,1,0,1,0,0,5
 "Elliott                       ",2016,9498,"302 (Mental)",1,0,0,0,1,0,0,0,0,1,0,0,3
 "Elliott                       ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,1,1,0,1,3
-"Elliott                       ",2021,9999,"9999 - (Misc. Incident):",4,1,0,3,1,0,0,0,0,0,0,0,9
+"Elliott                       ",2021,9999,"9999 - (Misc. Incident):",4,1,0,3,2,0,0,0,0,0,0,0,10
 "Elliott                       ",2020,9999,"9999 - (Misc. Incident):",1,5,3,0,3,6,0,2,2,2,2,2,28
 "Elliott                       ",2019,9999,"9999 - (Misc. Incident):",2,2,2,2,2,8,3,3,1,3,1,2,31
 "Elliott                       ",2018,9999,"9999 - (Misc. Incident):",6,3,2,1,3,1,3,2,3,1,3,3,31
@@ -3817,7 +3817,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2015,7512,"Criminal Use of Communication",0,0,0,0,4,4,0,0,0,0,0,0,8
 "Elliott                       ",2017,5511(c)(1),"CRUELTY TO ANIMALS",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Elliott                       ",2015,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Elliott                       ",2021,9496,"Dead on Arrival (DOA)",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2021,9496,"Dead on Arrival (DOA)",0,0,0,1,1,0,0,0,0,0,0,0,2
 "Elliott                       ",2020,9496,"Dead on Arrival (DOA)",0,0,0,1,0,0,1,0,0,1,0,0,3
 "Elliott                       ",2019,9496,"Dead on Arrival (DOA)",1,0,1,0,3,0,2,1,0,0,0,0,8
 "Elliott                       ",2018,9496,"Dead on Arrival (DOA)",0,0,0,0,1,0,0,0,0,0,1,2,4
@@ -3960,6 +3960,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2015,4101,Forgery.,0,0,0,1,2,0,0,0,0,0,0,0,3
 "Elliott                       ",2018,9017,"Found Drugs",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2017,9017,"Found Drugs",0,0,0,0,0,0,1,0,0,0,1,0,2
+"Elliott                       ",2021,9489,"Found Property",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2020,9489,"Found Property",0,1,2,0,1,0,0,0,0,0,0,0,4
 "Elliott                       ",2019,9489,"Found Property",0,0,0,1,0,0,1,0,0,0,0,0,2
 "Elliott                       ",2018,9489,"Found Property",1,1,0,0,1,0,1,1,0,0,0,1,6
@@ -4066,7 +4067,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2015,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,8,5,0,0,0,2,0,2,0,17
 "Elliott                       ",2017,3345,"Meeting or Overtaking School Bus.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2019,425.26,Miscellaneous,0,0,0,0,0,0,0,1,0,0,0,0,1
-"Elliott                       ",2021,9123,"Miscellaneous Fire Other Investigation to Continue",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2021,9123,"Miscellaneous Fire Other Investigation to Continue",1,0,0,0,1,0,0,0,0,0,0,0,2
 "Elliott                       ",2020,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,1,0,0,1,0,0,1,0,0,3
 "Elliott                       ",2019,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,0,0,1,0,0,0,1,1,3
 "Elliott                       ",2018,9123,"Miscellaneous Fire Other Investigation to Continue",1,0,1,0,0,0,0,0,2,0,0,0,4
@@ -5321,7 +5322,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,1,0,1,0,0,0,0,1,0,3
 "Oakwood                       ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Oakwood                       ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,0,0,1,0,1,0,2
-"Oakwood                       ",2021,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Oakwood                       ",2021,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,0,1,0,0,0,0,0,0,0,2
 "Oakwood                       ",2020,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,1,0,3,0,0,0,0,1,5
 "Oakwood                       ",2019,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Oakwood                       ",2018,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -5845,6 +5846,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2016,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2015,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,0,0,1,0,0,0,2,0,1,1,5
 "Sheraden                      ",2016,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2021,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2019,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2018,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,1,0,1,0,0,0,0,1,0,0,3
@@ -6263,6 +6265,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3922,"Theft by Deception.",2,0,0,0,0,0,1,0,0,0,0,0,3
 "Sheraden                      ",2016,3922,"Theft by Deception.",0,0,0,1,0,1,1,1,0,1,2,1,8
 "Sheraden                      ",2015,3922,"Theft by Deception.",0,0,0,0,1,0,0,1,0,1,1,0,4
+"Sheraden                      ",2021,3923,"Theft by Extortion.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2016,3923,"Theft by Extortion.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Sheraden                      ",2015,3923,"Theft by Extortion.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,1,3,5,2,0,0,0,0,0,0,0,13
@@ -6272,7 +6275,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2017,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,1,3,2,2,2,0,2,2,2,8,2,28
 "Sheraden                      ",2016,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,0,3,1,1,5,4,6,4,1,0,4,34
 "Sheraden                      ",2015,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,1,2,4,1,3,2,2,0,2,18
-"Sheraden                      ",2021,3921,"Theft by Unlawful Taking or Disposition.",3,1,1,1,1,0,0,0,0,0,0,0,7
+"Sheraden                      ",2021,3921,"Theft by Unlawful Taking or Disposition.",3,1,1,1,2,0,0,0,0,0,0,0,8
 "Sheraden                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",5,3,3,3,4,4,3,3,0,3,2,4,37
 "Sheraden                      ",2019,3921,"Theft by Unlawful Taking or Disposition.",1,2,2,0,3,2,1,4,3,1,0,1,20
 "Sheraden                      ",2018,3921,"Theft by Unlawful Taking or Disposition.",1,2,4,1,1,0,1,3,3,2,1,2,21
@@ -6937,7 +6940,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2015,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Westwood                      ",2016,13(a)(30)*,"Delivery of Controlled Substance",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Westwood                      ",2019,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Westwood                      ",2021,5503,"Disorderly Conduct.",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2021,5503,"Disorderly Conduct.",0,0,1,0,1,0,0,0,0,0,0,0,2
 "Westwood                      ",2020,5503,"Disorderly Conduct.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Westwood                      ",2019,5503,"Disorderly Conduct.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Westwood                      ",2018,5503,"Disorderly Conduct.",0,0,2,0,0,0,1,0,0,0,0,0,3
@@ -7015,7 +7018,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2020,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2018,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Westwood                      ",2016,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,0,0,0,0,0,0,0,0,1,0,1
-"Westwood                      ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,1,1,0,0,0,0,0,0,0,0,2
+"Westwood                      ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,1,1,1,0,0,0,0,0,0,0,3
 "Westwood                      ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,0,0,0,0,0,2,0,0,1,1,0,6
 "Westwood                      ",2019,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,1,0,0,1,0,0,0,0,0,2
 "Westwood                      ",2018,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,1,0,0,1,0,0,1,0,0,3
@@ -7123,7 +7126,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2016,2707,"Propulsion of Missiles",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2020,5902(a)(1),Prostitution,10,0,0,0,0,0,0,0,0,0,0,0,10
 "Westwood                      ",2016,5902(a)(1),Prostitution,0,0,0,0,2,0,0,0,2,0,0,0,4
-"Westwood                      ",2021,5505,"Public Drunkenness",0,0,0,2,0,0,0,0,0,0,0,0,2
+"Westwood                      ",2021,5505,"Public Drunkenness",0,0,0,2,1,0,0,0,0,0,0,0,3
 "Westwood                      ",2019,5505,"Public Drunkenness",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2018,5505,"Public Drunkenness",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Westwood                      ",2017,5505,"Public Drunkenness",1,0,0,0,0,0,0,0,0,0,0,0,1
