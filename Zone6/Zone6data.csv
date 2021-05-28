@@ -573,7 +573,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,0,0,2,4
 "Beechview                     ",2016,9498,"302 (Mental)",0,0,0,0,1,1,2,2,0,0,1,1,8
 "Beechview                     ",2015,9498,"302 (Mental)",0,0,0,0,0,0,0,0,2,1,0,0,3
-"Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,5,0,0,0,0,0,0,0,23
+"Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,6,0,0,0,0,0,0,0,24
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",4,4,5,4,3,5,11,8,9,7,4,7,71
 "Beechview                     ",2019,9999,"9999 - (Misc. Incident):",8,8,5,11,13,4,8,10,6,5,7,5,90
 "Beechview                     ",2018,9999,"9999 - (Misc. Incident):",8,6,8,11,5,10,10,10,6,7,5,5,91
@@ -1154,7 +1154,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2017,029,"Missing Juvenile",0,1,0,1,1,1,0,0,3,2,1,0,10
 "Beechview                     ",2016,029,"Missing Juvenile",0,2,1,5,0,1,0,0,0,2,0,3,14
 "Beechview                     ",2015,029,"Missing Juvenile",0,0,0,4,4,1,1,1,2,0,2,0,15
-"Beechview                     ",2021,9490,"Missing Persons (18 and Over)",1,1,0,0,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2021,9490,"Missing Persons (18 and Over)",1,1,0,0,1,0,0,0,0,0,0,0,3
 "Beechview                     ",2020,9490,"Missing Persons (18 and Over)",1,2,1,0,1,0,1,1,0,0,1,0,8
 "Beechview                     ",2019,9490,"Missing Persons (18 and Over)",0,2,0,0,2,0,2,1,0,0,0,1,8
 "Beechview                     ",2018,9490,"Missing Persons (18 and Over)",0,0,1,0,0,0,0,1,0,0,1,1,4
@@ -2001,7 +2001,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2017,517.8,"Home Improvement Fraud",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2015,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2018,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,0,0,0,0,0,0,0,0,1,0,1
-"Brookline                     ",2021,4120,"Identity Theft",0,2,39,7,5,0,0,0,0,0,0,0,53
+"Brookline                     ",2021,4120,"Identity Theft",0,2,39,7,6,0,0,0,0,0,0,0,54
 "Brookline                     ",2020,4120,"Identity Theft",1,1,2,0,2,4,0,0,2,2,0,1,15
 "Brookline                     ",2019,4120,"Identity Theft",1,0,2,0,0,0,1,0,1,0,1,0,6
 "Brookline                     ",2018,4120,"Identity Theft",3,1,0,2,0,0,0,0,0,0,1,2,9
@@ -2127,6 +2127,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2019,5101,"Obstructing Admin. of Law",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Brookline                     ",2018,5101,"Obstructing Admin. of Law",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Brookline                     ",2015,5101,"Obstructing Admin. of Law",0,0,0,0,0,0,0,0,2,0,0,0,2
+"Brookline                     ",2021,5507,"Obstructing Highways and Passages.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Brookline                     ",2015,5507,"Obstructing Highways and Passages.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Brookline                     ",2017,5901,"Open Lewdness.",0,1,0,0,0,0,0,0,2,0,0,0,3
 "Brookline                     ",2021,1371,"Operation Following Suspension of Registration.",0,2,0,0,0,0,0,0,0,0,0,0,2
@@ -2188,7 +2189,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,907,"Possessing Instruments of Crime.",0,0,0,2,0,0,0,2,0,0,2,0,6
 "Brookline                     ",2016,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,3,0,0,0,2,5
 "Brookline                     ",2015,907,"Possessing Instruments of Crime.",0,0,0,0,2,0,0,0,0,0,1,0,3
-"Brookline                     ",2021,13(a)(16),"Possession of Controlled Substance",2,0,2,0,2,0,0,0,0,0,0,0,6
+"Brookline                     ",2021,13(a)(16),"Possession of Controlled Substance",2,0,2,0,4,0,0,0,0,0,0,0,8
 "Brookline                     ",2020,13(a)(16),"Possession of Controlled Substance",2,0,0,0,0,0,2,2,2,0,2,2,12
 "Brookline                     ",2019,13(a)(16),"Possession of Controlled Substance",2,2,4,0,2,2,0,8,0,2,2,2,26
 "Brookline                     ",2018,13(a)(16),"Possession of Controlled Substance",0,4,0,8,2,3,4,0,0,0,4,4,29
@@ -2215,7 +2216,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2018,2707,"Propulsion of Missiles",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2019,5902(a)(1),Prostitution,0,0,0,0,0,0,0,0,0,0,0,2,2
 "Brookline                     ",2019,5902(a)(2),"Prostitution - Loitering for purpose of",0,0,0,0,0,0,0,0,0,0,0,2,2
-"Brookline                     ",2021,5505,"Public Drunkenness",2,0,0,0,2,0,0,0,0,0,0,0,4
+"Brookline                     ",2021,5505,"Public Drunkenness",2,0,0,0,4,0,0,0,0,0,0,0,6
 "Brookline                     ",2020,5505,"Public Drunkenness",4,0,0,1,1,0,2,0,2,0,2,2,14
 "Brookline                     ",2019,5505,"Public Drunkenness",0,0,2,3,3,2,0,4,1,0,0,0,15
 "Brookline                     ",2018,5505,"Public Drunkenness",0,0,0,2,4,1,0,2,1,0,1,2,13
@@ -4112,6 +4113,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2018,9012,"Non-Violent Domestic",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2017,609.02,"Noncompliance a Nuisance",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Elliott                       ",2016,1515,"Notice of Change of Name or Address.",0,0,0,0,2,0,0,0,0,0,0,0,2
+"Elliott                       ",2021,3102,"Obedience to Authorized Persons Directing Traffic.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,3111,"Obedience to Traffic-Control Devices.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2019,3111,"Obedience to Traffic-Control Devices.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Elliott                       ",2017,3111,"Obedience to Traffic-Control Devices.",0,0,0,2,2,0,0,0,2,0,0,0,6
@@ -4215,7 +4217,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2017,3925,"Receiving Stolen Property.",2,0,0,0,0,0,0,0,0,0,1,0,3
 "Elliott                       ",2016,3925,"Receiving Stolen Property.",0,0,0,0,0,0,4,2,0,0,0,0,6
 "Elliott                       ",2015,3925,"Receiving Stolen Property.",0,0,1,5,3,3,0,0,0,0,0,0,12
-"Elliott                       ",2021,3736,"Reckless Driving",0,0,2,1,0,0,0,0,0,0,0,0,3
+"Elliott                       ",2021,3736,"Reckless Driving",0,0,2,1,1,0,0,0,0,0,0,0,4
 "Elliott                       ",2020,3736,"Reckless Driving",0,1,0,0,0,0,1,0,0,0,0,2,4
 "Elliott                       ",2019,3736,"Reckless Driving",0,2,2,1,2,0,0,0,2,0,0,0,9
 "Elliott                       ",2018,3736,"Reckless Driving",0,0,1,0,1,0,2,0,0,0,0,2,6
@@ -4571,7 +4573,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2018,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2016,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Esplen                        ",2020,5121,Escape.,0,0,0,0,0,0,0,0,0,2,0,0,2
-"Esplen                        ",2021,9015,"Failure To Appear/Arrest on Attachment Order",0,2,1,0,0,0,0,0,0,0,0,0,3
+"Esplen                        ",2021,9015,"Failure To Appear/Arrest on Attachment Order",0,2,1,0,1,0,0,0,0,0,0,0,4
 "Esplen                        ",2020,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Esplen                        ",2019,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,1,0,0,0,0,0,0,1,0,2
 "Esplen                        ",2018,9015,"Failure To Appear/Arrest on Attachment Order",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -5439,7 +5441,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2015,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Ridgemont                     ",2019,2902,"Unlawful Restraint.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Ridgemont                     ",2020,7611,"Unlawful Use of Computer",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Sheraden                      ",2021,9498,"302 (Mental)",3,3,0,3,3,0,0,0,0,0,0,0,12
+"Sheraden                      ",2021,9498,"302 (Mental)",3,3,0,3,4,0,0,0,0,0,0,0,13
 "Sheraden                      ",2020,9498,"302 (Mental)",2,2,1,0,0,2,0,1,0,1,1,2,12
 "Sheraden                      ",2019,9498,"302 (Mental)",0,0,0,0,0,1,1,2,1,1,0,0,6
 "Sheraden                      ",2018,9498,"302 (Mental)",1,0,1,0,2,0,2,0,0,0,2,0,8
@@ -5761,7 +5763,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,2710,"Ethnic Intimidation.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Sheraden                      ",2020,4523,"Exhaust Systems, Mufflers and Noise Control.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Sheraden                      ",2017,4523,"Exhaust Systems, Mufflers and Noise Control.",2,0,0,0,0,1,0,1,0,0,0,0,4
-"Sheraden                      ",2021,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2021,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,1,1,0,0,0,0,0,0,0,2
 "Sheraden                      ",2020,9015,"Failure To Appear/Arrest on Attachment Order",1,0,0,0,0,0,0,2,0,0,1,0,4
 "Sheraden                      ",2019,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,1,1,2,0,0,0,0,0,1,5
 "Sheraden                      ",2018,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,2,1,0,0,0,0,2,1,1,7
