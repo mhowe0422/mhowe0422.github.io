@@ -953,6 +953,25 @@
         {
             "Neighborhood": "Banksville",
             "Year": "2021",
+            "Section": "9488",
+            "Description": "False  Burglar Alarm",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2021",
             "Section": "2903",
             "Description": "False Imprisonment.",
             "Jan": "0",
@@ -5272,7 +5291,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -5280,7 +5299,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -7609,7 +7628,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "2",
-            "May": "2",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -7617,7 +7636,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -8123,14 +8142,14 @@
             "Mar": "3",
             "Apr": "1",
             "May": "3",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Brookline",
@@ -8712,14 +8731,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -8750,14 +8769,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "1",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -9225,14 +9244,14 @@
             "Mar": "1",
             "Apr": "4",
             "May": "3",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -9662,14 +9681,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "0",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -9902,6 +9921,25 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2021",
+            "Section": "3111",
+            "Description": "Obedience to Traffic-Control Devices.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2021",
             "Section": "5507",
             "Description": "Obstructing Highways and Passages.",
             "Jan": "0",
@@ -10023,14 +10061,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "0",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -10243,25 +10281,6 @@
         },
         {
             "Neighborhood": "Brookline",
-            "Year": "2021",
-            "Section": "907",
-            "Description": "Possessing Instruments of Crime.",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "1",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Brookline",
             "Year": "2020",
             "Section": "907",
             "Description": "Possessing Instruments of Crime.",
@@ -10289,14 +10308,14 @@
             "Mar": "1",
             "Apr": "0",
             "May": "2",
-            "Jun": "2",
+            "Jun": "3",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -10554,7 +10573,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
-            "May": "1",
+            "May": "0",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -10562,7 +10581,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -10972,7 +10991,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "2",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -10980,7 +10999,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -11049,14 +11068,14 @@
             "Mar": "2",
             "Apr": "2",
             "May": "4",
-            "Jun": "2",
+            "Jun": "4",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "15"
         },
         {
             "Neighborhood": "Brookline",
@@ -11238,7 +11257,7 @@
             "Feb": "1",
             "Mar": "1",
             "Apr": "1",
-            "May": "2",
+            "May": "1",
             "Jun": "1",
             "Jul": "0",
             "Aug": "0",
@@ -11246,7 +11265,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "8"
         },
         {
             "Neighborhood": "Brookline",
@@ -11687,6 +11706,25 @@
         },
         {
             "Neighborhood": "Chartiers City",
+            "Year": "2021",
+            "Section": "9999",
+            "Description": "9999 - (Misc. Incident):",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Chartiers City",
             "Year": "2020",
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
@@ -11817,6 +11855,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "5"
+        },
+        {
+            "Neighborhood": "Chartiers City",
+            "Year": "2021",
+            "Section": "9501",
+            "Description": "Bench Warrant",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Chartiers City",
@@ -12664,14 +12721,14 @@
             "Mar": "2",
             "Apr": "1",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -13310,14 +13367,14 @@
             "Mar": "0",
             "Apr": "3",
             "May": "1",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -14070,6 +14127,25 @@
             "Mar": "1",
             "Apr": "0",
             "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2021",
+            "Section": "9489",
+            "Description": "Found Property",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -18573,14 +18649,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "1",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -18822,6 +18898,25 @@
             "May": "0",
             "Jun": "0",
             "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "4952",
+            "Description": "Intimidation of Witnesses or Victims",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
@@ -25963,7 +26058,7 @@
             "Feb": "13",
             "Mar": "5",
             "Apr": "17",
-            "May": "9",
+            "May": "10",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -25971,7 +26066,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "47"
+            "Count": "48"
         },
         {
             "Neighborhood": "Sheraden",
@@ -26059,14 +26154,14 @@
             "Mar": "1",
             "Apr": "0",
             "May": "1",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -26401,14 +26496,14 @@
             "Mar": "2",
             "Apr": "3",
             "May": "6",
-            "Jun": "2",
+            "Jun": "3",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "Sheraden",
@@ -26838,14 +26933,14 @@
             "Mar": "2",
             "Apr": "4",
             "May": "2",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Sheraden",
@@ -28776,14 +28871,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -29004,14 +29099,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "1",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -29802,14 +29897,14 @@
             "Mar": "1",
             "Apr": "0",
             "May": "2",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -30011,14 +30106,14 @@
             "Mar": "2",
             "Apr": "4",
             "May": "1",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Sheraden",
@@ -30277,14 +30372,14 @@
             "Mar": "3",
             "Apr": "4",
             "May": "4",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Sheraden",
@@ -31854,14 +31949,14 @@
             "Mar": "0",
             "Apr": "2",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "West End",
