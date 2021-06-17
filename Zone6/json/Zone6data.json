@@ -48,14 +48,14 @@
             "Mar": "1",
             "Apr": "3",
             "May": "2",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "18"
+            "Count": "19"
         },
         {
             "Neighborhood": "Banksville",
@@ -5786,14 +5786,14 @@
             "Mar": "0",
             "Apr": "1",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -7401,14 +7401,14 @@
             "Mar": "12",
             "Apr": "10",
             "May": "9",
-            "Jun": "6",
+            "Jun": "7",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "50"
+            "Count": "51"
         },
         {
             "Neighborhood": "Brookline",
@@ -9453,14 +9453,14 @@
             "Mar": "1",
             "Apr": "2",
             "May": "1",
-            "Jun": "4",
+            "Jun": "5",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Brookline",
@@ -11486,14 +11486,14 @@
             "Mar": "3",
             "Apr": "3",
             "May": "5",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Brookline",
@@ -13006,14 +13006,14 @@
             "Mar": "0",
             "Apr": "2",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -13397,6 +13397,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2021",
+            "Section": "903",
+            "Description": "Criminal Conspiracy.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2020",
             "Section": "903",
             "Description": "Criminal Conspiracy.",
@@ -13481,14 +13500,14 @@
             "Mar": "0",
             "Apr": "3",
             "May": "1",
-            "Jun": "2",
+            "Jun": "4",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "12"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -13546,6 +13565,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2021",
+            "Section": "3503(b.1)",
+            "Description": "Criminal Trespass - Simple Trespasser",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -13690,14 +13728,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -13899,7 +13937,26 @@
             "Mar": "0",
             "Apr": "1",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2020",
+            "Section": "3802(a)(1)",
+            "Description": "DUI - General Impairment",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -13910,9 +13967,9 @@
         },
         {
             "Neighborhood": "Crafton Heights",
-            "Year": "2020",
-            "Section": "3802(a)(1)",
-            "Description": "DUI - General Impairment",
+            "Year": "2021",
+            "Section": "3802(c)",
+            "Description": "DUI - Highest Rate of Alcohol - BAC >= .16%",
             "Jan": "0",
             "Feb": "0",
             "Mar": "0",
@@ -14411,8 +14468,8 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "2",
-            "May": "2",
-            "Jun": "0",
+            "May": "1",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -15779,8 +15836,8 @@
             "Feb": "3",
             "Mar": "0",
             "Apr": "0",
-            "May": "1",
-            "Jun": "0",
+            "May": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -26572,14 +26629,14 @@
             "Mar": "3",
             "Apr": "2",
             "May": "3",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Sheraden",
@@ -26629,14 +26686,14 @@
             "Mar": "1",
             "Apr": "0",
             "May": "1",
-            "Jun": "0",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
@@ -27123,14 +27180,14 @@
             "Mar": "1",
             "Apr": "1",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -27313,14 +27370,14 @@
             "Mar": "2",
             "Apr": "4",
             "May": "2",
-            "Jun": "2",
+            "Jun": "3",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Sheraden",
@@ -30087,14 +30144,14 @@
             "Mar": "1",
             "Apr": "4",
             "May": "0",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Sheraden",
