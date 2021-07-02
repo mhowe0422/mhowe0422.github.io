@@ -3564,13 +3564,13 @@
             "Apr": "1",
             "May": "4",
             "Jun": "3",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Beechview",
@@ -4874,14 +4874,14 @@
             "Mar": "1",
             "Apr": "1",
             "May": "1",
-            "Jun": "3",
+            "Jun": "4",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Beechview",
@@ -5140,14 +5140,14 @@
             "Mar": "13",
             "Apr": "5",
             "May": "1",
-            "Jun": "3",
+            "Jun": "4",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "26"
+            "Count": "27"
         },
         {
             "Neighborhood": "Beechview",
@@ -7078,14 +7078,14 @@
             "Mar": "1",
             "Apr": "0",
             "May": "3",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Beechview",
@@ -7250,13 +7250,13 @@
             "Apr": "2",
             "May": "0",
             "Jun": "1",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Beechview",
@@ -7801,13 +7801,13 @@
             "Apr": "3",
             "May": "3",
             "Jun": "7",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "25"
+            "Count": "26"
         },
         {
             "Neighborhood": "Brookline",
@@ -10404,13 +10404,13 @@
             "Apr": "2",
             "May": "2",
             "Jun": "2",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "Brookline",
@@ -22469,13 +22469,13 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Esplen",
@@ -22565,6 +22565,25 @@
             "May": "0",
             "Jun": "1",
             "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2021",
+            "Section": "5121",
+            "Description": "Escape.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
@@ -22754,13 +22773,13 @@
             "Apr": "0",
             "May": "0",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Esplen",
@@ -22830,13 +22849,13 @@
             "Apr": "0",
             "May": "0",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Esplen",
@@ -23248,13 +23267,13 @@
             "Apr": "0",
             "May": "0",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Esplen",
@@ -23400,13 +23419,13 @@
             "Apr": "0",
             "May": "0",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Esplen",
@@ -23438,13 +23457,13 @@
             "Apr": "0",
             "May": "0",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Esplen",
@@ -23673,6 +23692,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2021",
+            "Section": "5104",
+            "Description": "Resisting Arrest or Other Law Enforcement.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Esplen",
@@ -24180,6 +24218,25 @@
             "May": "0",
             "Jun": "0",
             "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2021",
+            "Section": "3334",
+            "Description": "Turning Movements and Required Signals.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
@@ -27333,13 +27390,13 @@
             "Apr": "2",
             "May": "0",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -27389,14 +27446,14 @@
             "Mar": "1",
             "Apr": "0",
             "May": "1",
-            "Jun": "2",
+            "Jun": "3",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -27941,13 +27998,13 @@
             "Apr": "0",
             "May": "0",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -31722,13 +31779,13 @@
             "Apr": "4",
             "May": "4",
             "Jun": "3",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Neighborhood": "Sheraden",
@@ -31835,14 +31892,14 @@
             "Mar": "0",
             "Apr": "1",
             "May": "0",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -32633,14 +32690,14 @@
             "Mar": "1",
             "Apr": "1",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "West End",
