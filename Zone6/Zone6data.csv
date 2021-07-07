@@ -86,7 +86,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2021,3308,"One-Way Roadways and Rotary Traffic Islands.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2021,4703,"Operation of Vehicle without Official Certif. of Inspection",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2020,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,0,0,0,1,0,1
-"Banksville                    ",2021,9998,Overdose,0,1,0,0,0,1,0,0,0,0,0,0,2
+"Banksville                    ",2021,9998,Overdose,0,1,0,0,0,2,0,0,0,0,0,0,3
 "Banksville                    ",2020,9998,Overdose,1,0,1,1,0,1,1,2,0,0,0,0,7
 "Banksville                    ",2020,9997,"Overdose Death",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Banksville                    ",2021,13(a)(32),"Paraphernalia - Use or Possession",1,2,0,2,0,2,0,0,0,0,0,0,7
@@ -271,7 +271,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,2709(a)(3),"Harassment No Legitimate Purpose",2,1,0,0,0,1,1,0,2,2,0,0,9
 "Beechview                     ",2021,2709(a),Harassment.,0,0,4,3,2,1,0,0,0,0,0,0,10
 "Beechview                     ",2020,2709(a),Harassment.,1,1,0,2,2,0,2,0,1,0,3,1,13
-"Beechview                     ",2021,4120,"Identity Theft",1,3,13,5,1,4,0,0,0,0,0,0,27
+"Beechview                     ",2021,4120,"Identity Theft",1,3,13,5,1,4,1,0,0,0,0,0,28
 "Beechview                     ",2020,4120,"Identity Theft",0,0,0,2,0,0,1,0,1,1,0,0,5
 "Beechview                     ",2021,9093,"Indirect Criminal Contempt",4,2,0,0,1,0,0,0,0,0,0,0,7
 "Beechview                     ",2020,9093,"Indirect Criminal Contempt",4,0,0,0,0,0,1,0,3,0,0,4,12
@@ -295,7 +295,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,9129,"Miscellaneous Investigation",0,0,0,0,0,0,1,5,1,0,1,1,9
 "Beechview                     ",2021,029,"Missing Juvenile",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,029,"Missing Juvenile",0,0,0,0,0,1,2,1,1,0,1,0,6
-"Beechview                     ",2021,9490,"Missing Persons (18 and Over)",1,1,0,0,1,0,0,0,0,0,0,0,3
+"Beechview                     ",2021,9490,"Missing Persons (18 and Over)",1,1,0,0,1,0,1,0,0,0,0,0,4
 "Beechview                     ",2020,9490,"Missing Persons (18 and Over)",1,2,1,0,1,0,1,1,0,0,1,0,8
 "Beechview                     ",2020,9012,"Non-Violent Domestic",0,0,0,0,0,0,1,0,0,2,0,0,3
 "Beechview                     ",2020,1515,"Notice of Change of Name or Address.",0,0,0,0,0,0,0,0,0,0,0,2,2
@@ -380,7 +380,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,3923,"Theft by Extortion.",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Beechview                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,2,0,3,3,2,0,0,0,0,0,0,11
 "Beechview                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,1,1,3,1,2,3,2,3,2,2,1,24
-"Beechview                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",3,1,3,4,4,3,0,0,0,0,0,0,18
+"Beechview                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",3,1,3,4,4,3,1,0,0,0,0,0,19
 "Beechview                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",3,7,3,4,2,1,7,5,6,3,3,3,47
 "Beechview                     ",2021,3934,"Theft from Vehicle",1,5,0,2,0,1,1,0,0,0,0,0,10
 "Beechview                     ",2020,3934,"Theft from Vehicle",5,0,2,0,0,1,1,1,5,3,0,2,20
@@ -463,7 +463,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Brookline                     ",2020,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2021,5503,"Disorderly Conduct.",2,0,0,1,1,3,0,0,0,0,0,0,7
+"Brookline                     ",2021,5503,"Disorderly Conduct.",2,0,0,1,1,3,1,0,0,0,0,0,8
 "Brookline                     ",2020,5503,"Disorderly Conduct.",3,0,0,0,0,0,2,0,0,0,2,0,7
 "Brookline                     ",2021,1332,"Display of Registration Plate.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2020,9492,"Dog Bite",1,0,1,1,0,1,0,0,0,0,0,0,4
@@ -506,7 +506,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,2709,"Harassment (Non-Specific)",2,1,3,2,0,2,0,0,0,0,0,0,10
 "Brookline                     ",2020,2709,"Harassment (Non-Specific)",3,2,1,1,1,2,1,5,4,0,2,1,23
 "Brookline                     ",2021,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,1,1,6,4,2,0,0,0,0,0,0,14
+"Brookline                     ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,1,1,6,4,2,3,0,0,0,0,0,17
 "Brookline                     ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,3,1,0,2,3,2,5,2,1,1,0,21
 "Brookline                     ",2020,2709(a)(4),"Harassment Communicates Prohibited Acts",0,1,0,0,1,0,1,0,0,1,0,1,5
 "Brookline                     ",2020,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -613,6 +613,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
 "Brookline                     ",2021,2701,"Simple Assault.",0,5,3,4,6,10,0,0,0,0,0,0,28
 "Brookline                     ",2020,2701,"Simple Assault.",11,4,6,7,5,3,6,6,3,9,4,6,70
+"Brookline                     ",2021,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Brookline                     ",2020,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Brookline                     ",2020,2709(b),Stalking,0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2020,2709.2,"Stalking Conduct or Repeatedly Communicates",0,1,0,0,0,0,0,2,0,0,0,0,3
@@ -626,11 +627,11 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,3922,"Theft by Deception.",0,3,1,2,2,2,0,0,0,0,0,0,10
 "Brookline                     ",2020,3922,"Theft by Deception.",1,1,1,0,0,0,1,2,2,0,1,1,10
 "Brookline                     ",2020,3923,"Theft by Extortion.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,1,0,0,0,0,0,8
+"Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,2,0,0,0,0,0,9
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
 "Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,0,0,0,0,0,0,17
 "Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",2,4,1,1,2,2,5,3,3,3,2,3,31
-"Brookline                     ",2021,3934,"Theft from Vehicle",14,0,5,4,1,2,0,0,0,0,0,0,26
+"Brookline                     ",2021,3934,"Theft from Vehicle",14,0,5,4,1,2,1,0,0,0,0,0,27
 "Brookline                     ",2020,3934,"Theft from Vehicle",1,5,1,2,0,4,4,4,4,1,3,4,33
 "Brookline                     ",2021,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2020,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,1,0,1,7,1,0,0,0,10
@@ -766,6 +767,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Crafton Heights               ",2021,4701,"Duty to Comply with Inspection Laws",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2020,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,0,0,6,0,0,0,0,0,6
+"Crafton Heights               ",2021,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2020,4915,"Failure to Comply with Megans Law",1,0,0,0,0,0,1,0,0,0,0,0,2
 "Crafton Heights               ",2021,9488,"False  Burglar Alarm",0,0,1,1,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2020,9488,"False  Burglar Alarm",0,0,0,0,1,1,0,0,0,0,0,0,2
@@ -785,6 +787,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,9489,"Found Property",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2020,9489,"Found Property",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,4303,"General Lighting Requirements.",0,2,1,0,0,0,0,0,0,0,0,0,3
+"Crafton Heights               ",2021,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2020,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,1,0,0,1,1,0,0,3
 "Crafton Heights               ",2021,2709,"Harassment (Non-Specific)",0,0,1,0,3,1,0,0,0,0,0,0,5
 "Crafton Heights               ",2020,2709,"Harassment (Non-Specific)",1,0,3,1,1,3,0,2,0,0,0,0,11
@@ -883,7 +886,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,2706,"Terroristic Threats.",1,1,0,1,0,2,6,4,3,2,1,0,21
 "Crafton Heights               ",2021,3922,"Theft by Deception.",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Crafton Heights               ",2020,3922,"Theft by Deception.",0,1,0,1,3,0,0,0,1,1,0,0,7
-"Crafton Heights               ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,3,1,1,2,1,0,0,0,0,0,0,8
+"Crafton Heights               ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,3,1,1,2,1,1,0,0,0,0,0,9
 "Crafton Heights               ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,6,1,2,2,1,3,1,2,2,2,1,27
 "Crafton Heights               ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,4,2,1,0,0,0,0,0,8
 "Crafton Heights               ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,2,1,2,2,0,1,3,3,0,1,0,16
@@ -1662,7 +1665,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3701,Robbery.,2,1,0,3,1,1,0,1,2,1,1,0,13
 "Sheraden                      ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,1,0,0,0,0,0,0,2
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
-"Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,4,0,0,0,0,0,60
+"Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,5,0,0,0,0,0,61
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
 "Sheraden                      ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,1,0,2,0,0,0,0,0,0,3
 "Sheraden                      ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,1,3,3,2,3,0,0,0,0,0,0,13
