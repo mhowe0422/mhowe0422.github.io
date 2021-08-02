@@ -59,7 +59,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,9017,"Found Drugs",0,0,0,0,1,0,0,0,1,0,0,0,2
 "Banksville                    ",2021,9489,"Found Property",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Banksville                    ",2020,9489,"Found Property",0,0,0,0,0,0,0,0,1,1,0,0,2
-"Banksville                    ",2021,2709,"Harassment (Non-Specific)",1,0,1,0,1,0,0,0,0,0,0,0,3
+"Banksville                    ",2021,2709,"Harassment (Non-Specific)",1,0,1,0,1,0,0,1,0,0,0,0,4
 "Banksville                    ",2020,2709,"Harassment (Non-Specific)",0,1,0,0,1,1,1,0,1,0,0,0,5
 "Banksville                    ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,1,0,0,0,0,3,0,0,0,0,0,5
 "Banksville                    ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,2,0,1,0,0,0,2,2,0,0,1,8
@@ -113,7 +113,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,1,0,0,0,1,0,0,2
 "Banksville                    ",2021,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Banksville                    ",2021,1301,"Registration and Certificate of Title Required.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Banksville                    ",2021,1786,"Required Financial Responsibility.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Banksville                    ",2021,1786,"Required Financial Responsibility.",1,0,0,0,0,0,1,0,0,0,0,0,2
 "Banksville                    ",2020,1786,"Required Financial Responsibility.",0,0,0,0,0,0,0,0,0,0,1,2,3
 "Banksville                    ",2021,3929,"Retail Theft.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2021,3701,Robbery.,0,0,0,0,0,0,2,0,0,0,0,0,2
@@ -149,7 +149,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2021,2902,"Unlawful Restraint.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,0,0,0,0,0,8
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
-"Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,6,0,0,0,0,0,42
+"Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,7,1,0,0,0,0,44
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",4,4,5,4,3,5,11,8,9,7,4,7,71
 "Beechview                     ",2020,2404(b)(1),"A person may not ignite fireworks on public or private property without the permission of the owner",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2020,2404(b)(3),"A person may not ignite fireworks or sparkling devices toward a motor vehicle or building",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -318,7 +318,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,9997,"Overdose Death",0,1,0,0,0,0,0,0,1,1,0,0,3
 "Beechview                     ",2021,13(a)(32),"Paraphernalia - Use or Possession",0,1,0,2,6,0,2,0,0,0,0,0,11
 "Beechview                     ",2020,13(a)(32),"Paraphernalia - Use or Possession",2,0,2,0,1,3,5,2,3,0,2,2,22
-"Beechview                     ",2021,9134,"Pedestrian Hit by Vehicle/Non-Reportable Accident",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Beechview                     ",2021,9134,"Pedestrian Hit by Vehicle/Non-Reportable Accident",0,0,0,0,1,0,1,0,0,0,0,0,2
 "Beechview                     ",2020,9134,"Pedestrian Hit by Vehicle/Non-Reportable Accident",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Beechview                     ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Beechview                     ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,1,0,0,2,0,0,0,2,0,0,0,5
@@ -367,10 +367,10 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,7,0,2,0,0,2,0,2,0,0,1,15
 "Beechview                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,0,0,0,3,1,1,0,0,0,0,0,7
 "Beechview                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,2,0,0,1,3,0,0,1,0,0,10
-"Beechview                     ",2021,2701,"Simple Assault.",4,4,6,4,6,6,2,0,0,0,0,0,32
+"Beechview                     ",2021,2701,"Simple Assault.",4,4,6,4,6,6,3,0,0,0,0,0,33
 "Beechview                     ",2020,2701,"Simple Assault.",7,6,5,0,6,4,11,4,9,8,7,6,73
 "Beechview                     ",2021,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2021,2709(b),Stalking,0,0,0,0,1,3,0,0,0,0,0,0,4
+"Beechview                     ",2021,2709(b),Stalking,0,0,0,0,1,3,1,0,0,0,0,0,5
 "Beechview                     ",2020,2709(b),Stalking,0,0,0,0,0,0,1,0,1,0,0,1,3
 "Beechview                     ",2021,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -411,7 +411,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,4524,"Windshield Obstructions and Wipers.",0,0,0,0,1,1,0,2,0,0,0,0,4
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,0,0,0,0,0,13
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,8,0,0,0,0,0,68
+"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,9,0,0,0,0,0,69
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2021,4106,"Access Device Fraud",2,1,7,2,3,1,1,0,0,0,0,0,17
 "Brookline                     ",2020,4106,"Access Device Fraud",3,1,1,0,2,1,1,6,3,0,0,1,19
@@ -435,7 +435,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,4105(a)(1),"Bad Checks",0,1,1,0,0,0,0,0,1,0,0,0,3
 "Brookline                     ",2021,9501,"Bench Warrant",4,2,0,6,0,0,2,0,0,0,0,0,14
 "Brookline                     ",2020,9501,"Bench Warrant",2,0,2,0,5,0,2,0,2,2,2,0,17
-"Brookline                     ",2021,3502,Burglary.,2,0,0,3,0,3,3,0,0,0,0,0,11
+"Brookline                     ",2021,3502,Burglary.,2,0,0,3,0,3,4,0,0,0,0,0,12
 "Brookline                     ",2020,3502,Burglary.,3,0,4,0,1,1,3,0,0,2,0,1,15
 "Brookline                     ",2021,3714,"Careless Driving",0,0,2,0,2,0,2,0,0,0,0,0,6
 "Brookline                     ",2020,3714,"Careless Driving",0,2,0,0,0,0,2,0,0,0,2,2,8
@@ -579,7 +579,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,1,1,0,1,0,0,4
 "Brookline                     ",2020,6110.1,"Possesion of Firearm by Minor",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,6110.2,"Possesion of Firearm with Altered Mfg. Number",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2021,627.02(b)(i),"Possessing a small amount of marijuana",0,0,1,0,0,0,1,0,0,0,0,0,2
+"Brookline                     ",2021,627.02(b)(i),"Possessing a small amount of marijuana",0,0,1,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2020,627.02(b)(i),"Possessing a small amount of marijuana",0,0,1,1,1,0,0,0,0,0,0,0,3
 "Brookline                     ",2021,907,"Possessing Instruments of Crime.",0,0,0,1,1,0,0,0,0,0,0,0,2
 "Brookline                     ",2020,907,"Possessing Instruments of Crime.",0,0,0,0,0,2,0,2,0,0,0,0,4
@@ -705,7 +705,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2020,3736,"Reckless Driving",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Chartiers City                ",2020,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,2,0,0,0,1,0,3
 "Chartiers City                ",2020,3701,Robbery.,0,0,0,0,0,0,0,2,0,0,0,0,2
-"Chartiers City                ",2021,8106,"Shots Fired",0,1,2,2,0,0,1,0,0,0,0,0,6
+"Chartiers City                ",2021,8106,"Shots Fired",0,1,2,2,0,0,1,1,0,0,0,0,7
 "Chartiers City                ",2020,8106,"Shots Fired",0,0,0,4,1,1,2,2,3,1,0,1,15
 "Chartiers City                ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,2,0,1,0,0,0,3
 "Chartiers City                ",2021,2701,"Simple Assault.",0,0,0,2,0,0,0,0,0,0,0,0,2
@@ -1246,6 +1246,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2020,2709,"Harassment (Non-Specific)",0,0,0,0,1,0,0,1,0,0,0,0,2
 "Esplen                        ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Esplen                        ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,3,0,0,0,0,0,0,3
+"Esplen                        ",2021,2709(a),Harassment.,0,0,0,0,0,0,0,1,0,0,0,0,1
 "Esplen                        ",2020,2709(a),Harassment.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2021,4120,"Identity Theft",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2021,9093,"Indirect Criminal Contempt",2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -1571,7 +1572,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,9492,"Dog Bite",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,1501,"Drivers Required to be Licensed.",0,3,0,0,0,0,1,0,0,0,0,0,4
 "Sheraden                      ",2020,1501,"Drivers Required to be Licensed.",0,0,0,2,0,0,2,0,3,0,2,1,10
-"Sheraden                      ",2021,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,4,1,0,0,0,2,0,0,0,0,0,7
+"Sheraden                      ",2021,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,4,1,0,0,0,2,2,0,0,0,0,9
 "Sheraden                      ",2020,1543,"Driving While Operating Privilege is Suspended or Revoked.",2,2,2,2,2,2,2,5,6,4,3,0,32
 "Sheraden                      ",2020,3802(d)(2),"DUI - Drug - Impaired Ability",0,0,0,2,0,2,0,0,0,1,2,0,7
 "Sheraden                      ",2021,3802(a)(1),"DUI - General Impairment",0,3,0,0,0,0,0,0,0,0,0,0,3
@@ -1588,7 +1589,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,2710,"Ethnic Intimidation.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Sheraden                      ",2020,4523,"Exhaust Systems, Mufflers and Noise Control.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Sheraden                      ",2021,5502,"Failure of Disorderly Persons to Disperse",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Sheraden                      ",2021,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,1,1,0,2,0,0,0,0,0,4
+"Sheraden                      ",2021,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,1,1,0,2,2,0,0,0,0,6
 "Sheraden                      ",2020,9015,"Failure To Appear/Arrest on Attachment Order",1,0,0,0,0,0,0,2,0,0,1,0,4
 "Sheraden                      ",2020,4915,"Failure to Comply with Megans Law",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,4905,"False Alarms to Agencies of Public Safety.",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -1663,7 +1664,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,2707.2(A1.1.IVA),"PAINTBALL GUN IN VEHICLE NOT IN SECURE WRAPPING",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2020,2707.2(A1.1IVB),"PAINTBALL GUN IN VEHICLE W/O BARREL BLOCKING DEVICE",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Sheraden                      ",2020,2707.2,"Paintball Guns and Markers Carrying and Discharging",0,0,0,0,1,0,2,0,0,0,0,0,3
-"Sheraden                      ",2021,13(a)(32),"Paraphernalia - Use or Possession",1,0,0,0,2,2,6,0,0,0,0,0,11
+"Sheraden                      ",2021,13(a)(32),"Paraphernalia - Use or Possession",1,0,0,0,2,2,6,4,0,0,0,0,15
 "Sheraden                      ",2020,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,4,2,2,6,2,0,6,2,0,24
 "Sheraden                      ",2020,4302,"Periods for Requiring Lighted Lamps.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Sheraden                      ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",4,0,0,0,0,0,2,0,0,0,0,0,6
@@ -1677,7 +1678,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,627.02(b)(i),"Possessing a small amount of marijuana",1,0,0,0,0,0,0,2,1,0,1,1,6
 "Sheraden                      ",2021,907,"Possessing Instruments of Crime.",0,0,2,0,0,1,0,0,0,0,0,0,3
 "Sheraden                      ",2020,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Sheraden                      ",2021,13(a)(16),"Possession of Controlled Substance",0,0,4,0,3,0,6,0,0,0,0,0,13
+"Sheraden                      ",2021,13(a)(16),"Possession of Controlled Substance",0,0,4,0,3,0,6,2,0,0,0,0,15
 "Sheraden                      ",2020,13(a)(16),"Possession of Controlled Substance",0,0,0,4,0,2,2,1,10,10,0,0,29
 "Sheraden                      ",2021,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,2,0,2,0,2,0,0,0,0,0,6
 "Sheraden                      ",2020,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,0,0,2,0,2,4,2,0,10
@@ -1752,7 +1753,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,2902,"Unlawful Restraint.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2020,3316(a),"use of interactive wireless communications devices for text-based communications while operating motor vehicles prohibited",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Sheraden                      ",2021,1501(A),"Valid Drivers License Required",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Sheraden                      ",2021,4524,"Windshield Obstructions and Wipers.",0,0,2,0,0,0,1,0,0,0,0,0,3
+"Sheraden                      ",2021,4524,"Windshield Obstructions and Wipers.",0,0,2,0,0,0,1,2,0,0,0,0,5
 "West End                      ",2021,9498,"302 (Mental)",0,1,2,2,0,0,0,0,0,0,0,0,5
 "West End                      ",2020,9498,"302 (Mental)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "West End                      ",2021,9999,"9999 - (Misc. Incident):",1,0,0,2,1,2,0,0,0,0,0,0,6
@@ -2015,7 +2016,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,0,1,0,0,1,0,0,0,1,4
 "Windgap                       ",2021,2702,"Aggravated Assault.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2020,2702,"Aggravated Assault.",2,0,0,0,0,2,0,2,0,0,1,0,7
-"Windgap                       ",2021,9497,"Aided Case",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Windgap                       ",2021,9497,"Aided Case",0,0,0,1,0,0,1,0,0,0,0,0,2
 "Windgap                       ",2020,9501,"Bench Warrant",0,0,0,0,0,0,1,0,0,0,0,2,3
 "Windgap                       ",2021,3502,Burglary.,0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,3502,Burglary.,0,0,0,0,0,1,0,1,2,0,0,0,4
