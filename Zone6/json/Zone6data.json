@@ -5142,12 +5142,12 @@
             "May": "1",
             "Jun": "1",
             "Jul": "1",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -7935,12 +7935,12 @@
             "May": "1",
             "Jun": "3",
             "Jul": "1",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -8676,12 +8676,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "1",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -9987,12 +9987,12 @@
             "May": "1",
             "Jun": "6",
             "Jul": "1",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Brookline",
@@ -11915,6 +11915,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2021",
+            "Section": "2709(b)",
+            "Description": "Stalking",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2020",
             "Section": "2709(b)",
             "Description": "Stalking",
@@ -12191,12 +12210,12 @@
             "May": "5",
             "Jun": "2",
             "Jul": "12",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "28"
+            "Count": "29"
         },
         {
             "Neighborhood": "Brookline",
@@ -13635,12 +13654,12 @@
             "May": "0",
             "Jun": "2",
             "Jul": "1",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -14072,12 +14091,12 @@
             "May": "0",
             "Jun": "2",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -15324,9 +15343,9 @@
             "Mar": "1",
             "Apr": "0",
             "May": "3",
-            "Jun": "1",
+            "Jun": "0",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
@@ -15383,12 +15402,12 @@
             "May": "1",
             "Jun": "1",
             "Jul": "1",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -17148,14 +17167,14 @@
             "Mar": "1",
             "Apr": "2",
             "May": "0",
-            "Jun": "1",
+            "Jun": "0",
             "Jul": "2",
-            "Aug": "0",
+            "Aug": "2",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -26621,6 +26640,25 @@
         },
         {
             "Neighborhood": "Oakwood",
+            "Year": "2021",
+            "Section": "9018",
+            "Description": "Accidental Fire",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Oakwood",
             "Year": "2020",
             "Section": "9018",
             "Description": "Accidental Fire",
@@ -28455,12 +28493,12 @@
             "May": "1",
             "Jun": "3",
             "Jul": "2",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Sheraden",
@@ -29424,12 +29462,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -30203,12 +30241,12 @@
             "May": "0",
             "Jun": "2",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -32065,12 +32103,12 @@
             "May": "0",
             "Jun": "2",
             "Jul": "2",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Sheraden",
@@ -35077,6 +35115,25 @@
         {
             "Neighborhood": "West End",
             "Year": "2021",
+            "Section": "3934",
+            "Description": "Theft from Vehicle",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2021",
             "Section": "3924",
             "Description": "Theft of Property Lost, Mislaid or Delivered by Mistake.",
             "Jan": "0",
@@ -36384,6 +36441,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2021",
+            "Section": "2709(a)(5)",
+            "Description": "Harassment Communicates Repeatedly in Anonymous Manner",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",

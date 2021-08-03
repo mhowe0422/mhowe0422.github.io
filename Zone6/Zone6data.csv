@@ -271,7 +271,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2021,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2020,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2020,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,1,0,1,0,0,0,0,1,3
-"Beechview                     ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,1,0,1,1,1,0,0,0,0,0,4
+"Beechview                     ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,1,0,1,1,1,1,0,0,0,0,5
 "Beechview                     ",2020,2709(a)(3),"Harassment No Legitimate Purpose",2,1,0,0,0,1,1,0,2,2,0,0,9
 "Beechview                     ",2021,2709(a),Harassment.,0,0,4,3,2,1,2,0,0,0,0,0,12
 "Beechview                     ",2020,2709(a),Harassment.,1,1,0,2,2,0,2,0,1,0,3,1,13
@@ -418,7 +418,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,3742.1,"Accident Involv. Death/Inj. While not Licensed",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2020,9018,"Accidental Fire",0,1,0,1,0,0,1,0,0,0,0,0,3
 "Brookline                     ",2020,7728,"Accidents and Accident Reports.",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,1,3,1,0,0,0,0,0,12
+"Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,1,3,1,1,0,0,0,0,13
 "Brookline                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",5,5,2,3,2,2,1,4,4,2,2,6,38
 "Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,5,3,3,8,7,0,0,0,0,0,33
 "Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,2,5,1,4,5,3,4,5,2,3,2,38
@@ -457,7 +457,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,3304,"Criminal Mischief.",2,4,2,0,2,7,3,5,1,6,5,4,41
 "Brookline                     ",2020,902,"Criminal Solicitation.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,3503,"Criminal Trespass",0,0,1,0,1,1,0,0,0,0,0,0,3
-"Brookline                     ",2021,3503(a),"Criminal Trespass",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Brookline                     ",2021,3503(a),"Criminal Trespass",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Brookline                     ",2020,3503,"Criminal Trespass",0,0,2,2,0,0,2,0,0,0,2,2,10
 "Brookline                     ",2020,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Brookline                     ",2020,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,1,0,0,0,1,0,0,0,0,2
@@ -526,7 +526,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,1,0,0,0,2,0,0,0,3
 "Brookline                     ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Brookline                     ",2020,2709(a)(3),"Harassment No Legitimate Purpose",1,1,2,0,1,0,2,0,1,1,1,0,10
-"Brookline                     ",2021,2709(a),Harassment.,1,1,1,2,1,6,1,0,0,0,0,0,13
+"Brookline                     ",2021,2709(a),Harassment.,1,1,1,2,1,6,1,2,0,0,0,0,15
 "Brookline                     ",2020,2709(a),Harassment.,4,0,0,2,0,2,1,2,2,1,3,3,20
 "Brookline                     ",2021,517.8,"Home Improvement Fraud",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,517.8,"Home Improvement Fraud",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -630,6 +630,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2701,"Simple Assault.",11,4,6,7,5,3,6,6,3,9,4,6,70
 "Brookline                     ",2021,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Brookline                     ",2020,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Brookline                     ",2021,2709(b),Stalking,0,0,0,0,0,0,0,2,0,0,0,0,2
 "Brookline                     ",2020,2709(b),Stalking,0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2020,2709.2,"Stalking Conduct or Repeatedly Communicates",0,1,0,0,0,0,0,2,0,0,0,0,3
 "Brookline                     ",2020,3323,"Stop Signs and Yield Signs.",0,0,0,1,0,0,1,0,0,0,0,0,2
@@ -644,7 +645,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,3923,"Theft by Extortion.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,4,0,0,0,0,0,11
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
-"Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,0,0,0,0,0,30
+"Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,1,0,0,0,0,31
 "Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",2,4,1,1,2,2,5,3,3,3,2,3,31
 "Brookline                     ",2021,3934,"Theft from Vehicle",14,0,5,4,1,2,2,0,0,0,0,0,28
 "Brookline                     ",2020,3934,"Theft from Vehicle",1,5,1,2,0,4,4,4,4,1,3,4,33
@@ -720,7 +721,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2020,3934,"Theft from Vehicle",0,0,0,0,0,0,0,1,1,1,1,0,4
 "Chartiers City                ",2020,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Chartiers City                ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2021,9498,"302 (Mental)",0,3,2,1,0,2,1,0,0,0,0,0,9
+"Crafton Heights               ",2021,9498,"302 (Mental)",0,3,2,1,0,2,1,1,0,0,0,0,10
 "Crafton Heights               ",2020,9498,"302 (Mental)",1,1,2,0,3,0,0,0,0,1,0,2,10
 "Crafton Heights               ",2021,9999,"9999 - (Misc. Incident):",3,7,2,2,2,4,2,0,0,0,0,0,22
 "Crafton Heights               ",2020,9999,"9999 - (Misc. Incident):",4,5,6,1,1,3,3,1,3,8,4,6,45
@@ -743,7 +744,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,4105(a)(1),"Bad Checks",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,9501,"Bench Warrant",0,0,0,0,4,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2020,9501,"Bench Warrant",0,0,0,0,0,0,0,2,0,0,2,0,4
-"Crafton Heights               ",2021,3502,Burglary.,0,2,0,0,0,3,0,0,0,0,0,0,5
+"Crafton Heights               ",2021,3502,Burglary.,0,2,0,0,0,3,0,1,0,0,0,0,6
 "Crafton Heights               ",2020,3502,Burglary.,2,1,0,1,0,0,0,3,0,0,2,1,10
 "Crafton Heights               ",2021,3714,"Careless Driving",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2020,3714,"Careless Driving",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -809,10 +810,10 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,4303,"General Lighting Requirements.",0,2,1,0,0,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2021,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2020,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,1,0,0,1,1,0,0,3
-"Crafton Heights               ",2021,2709,"Harassment (Non-Specific)",0,0,1,0,3,1,0,0,0,0,0,0,5
+"Crafton Heights               ",2021,2709,"Harassment (Non-Specific)",0,0,1,0,3,1,0,1,0,0,0,0,6
 "Crafton Heights               ",2020,2709,"Harassment (Non-Specific)",1,0,3,1,1,3,0,2,0,0,0,0,11
 "Crafton Heights               ",2021,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,0,2,2,1,1,0,0,0,0,0,7
+"Crafton Heights               ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,0,2,2,1,1,2,0,0,0,0,9
 "Crafton Heights               ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,2,2,0,3,2,1,1,0,1,0,13
 "Crafton Heights               ",2020,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,0,0,0,0,1,2,1,0,0,0,4
 "Crafton Heights               ",2021,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",1,1,1,0,0,0,0,0,0,0,0,0,3
@@ -906,7 +907,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,1,0,1,2,4,1,1,0,1,0,11
 "Crafton Heights               ",2021,2718(a)(2),"Strangulation - Blocking the Nose and Mouth of the Person",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2021,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,2,0,0,0,0,0,0,0,0,2
-"Crafton Heights               ",2021,2706,"Terroristic Threats.",0,4,3,2,0,1,3,0,0,0,0,0,13
+"Crafton Heights               ",2021,2706,"Terroristic Threats.",0,4,3,2,0,1,3,3,0,0,0,0,16
 "Crafton Heights               ",2020,2706,"Terroristic Threats.",1,1,0,1,0,2,6,4,3,2,1,0,21
 "Crafton Heights               ",2021,3922,"Theft by Deception.",0,0,0,1,0,1,1,0,0,0,0,0,3
 "Crafton Heights               ",2020,3922,"Theft by Deception.",0,1,0,1,3,0,0,0,1,1,0,0,7
@@ -1408,6 +1409,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2020,2404(b)(4),"A person may not ignite fireworks or sparkling devices while under the influence of alcohol or controlled substances or drugs",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Oakwood                       ",2020,2404(b)(5),"A person may not ignite fireworks within 150 feet of an occupied structure",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Oakwood                       ",2020,4106,"Access Device Fraud",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Oakwood                       ",2021,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Oakwood                       ",2020,9018,"Accidental Fire",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Oakwood                       ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Oakwood                       ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -1504,7 +1506,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,3,2,3,3,3,0,0,0,0,0,15
 "Sheraden                      ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,2,2,0,2,7,8,2,9,1,4,1,41
 "Sheraden                      ",2020,3732.1,"Aggravated Assault by Vehicle",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Sheraden                      ",2021,2702,"Aggravated Assault.",2,0,1,0,2,4,3,0,0,0,0,0,12
+"Sheraden                      ",2021,2702,"Aggravated Assault.",2,0,1,0,2,4,3,2,0,0,0,0,14
 "Sheraden                      ",2020,2702,"Aggravated Assault.",0,0,3,2,4,3,8,4,6,0,1,3,34
 "Sheraden                      ",2020,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2020,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -1556,7 +1558,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Sheraden                      ",2020,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Sheraden                      ",2020,3503(b)(1)(ii),"Defiant Trespass Notice Posted by Sign(s)",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Sheraden                      ",2021,2707.1,"Discharge of a Firearm into Occupied Structure",1,0,1,1,0,0,0,0,0,0,0,0,3
+"Sheraden                      ",2021,2707.1,"Discharge of a Firearm into Occupied Structure",1,0,1,1,0,0,0,2,0,0,0,0,5
 "Sheraden                      ",2020,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,1,0,0,2,0,0,0,0,0,3
 "Sheraden                      ",2021,607.03,"Discharging Firearm or Airgun",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2020,607.03,"Discharging Firearm or Airgun",1,0,2,1,0,0,0,1,0,0,0,0,5
@@ -1597,7 +1599,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,4914,"False Identification to Law Enforcement Authorities",1,0,0,0,0,0,0,0,2,0,0,0,3
 "Sheraden                      ",2021,2903,"False Imprisonment.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,4906,"False Reports to Law Enforcement Authorities.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Sheraden                      ",2021,6106,"Firearms not to be Carried without a License.",0,0,4,0,0,2,0,0,0,0,0,0,6
+"Sheraden                      ",2021,6106,"Firearms not to be Carried without a License.",0,0,4,0,0,2,0,2,0,0,0,0,8
 "Sheraden                      ",2020,6106,"Firearms not to be Carried without a License.",0,0,0,2,0,0,2,2,0,0,0,0,6
 "Sheraden                      ",2020,3733,"Fleeing or Attempting to Elude Police Officer",0,2,1,2,0,0,0,0,0,0,0,0,5
 "Sheraden                      ",2020,5126,"Flight to Avoid Apprehension, Trial or Punishment.",0,0,0,2,0,0,0,2,0,0,0,0,4
@@ -1695,7 +1697,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3925,"Receiving Stolen Property.",2,0,0,2,1,0,0,2,2,0,0,0,9
 "Sheraden                      ",2021,3736,"Reckless Driving",0,3,1,0,0,0,0,0,0,0,0,0,4
 "Sheraden                      ",2020,3736,"Reckless Driving",0,0,0,4,0,0,1,0,2,0,0,0,7
-"Sheraden                      ",2021,2705,"Recklessly Endangering Another Person.",2,0,3,5,0,4,3,0,0,0,0,0,17
+"Sheraden                      ",2021,2705,"Recklessly Endangering Another Person.",2,0,3,5,0,4,3,2,0,0,0,0,19
 "Sheraden                      ",2020,2705,"Recklessly Endangering Another Person.",2,0,0,1,0,0,4,0,4,0,2,0,13
 "Sheraden                      ",2020,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,0,0,0,0,0,0,0,0,1,0,1,2
 "Sheraden                      ",2021,1301,"Registration and Certificate of Title Required.",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -1855,6 +1857,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,1,0,0,0,0,0,1
 "West End                      ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "West End                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,1,0,0,0,0,0,0,0,1
+"West End                      ",2021,3934,"Theft from Vehicle",0,0,0,0,0,0,0,1,0,0,0,0,1
 "West End                      ",2021,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "West End                      ",2020,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2020,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,0,0,0,0,0,2,0,0,0,0,0,2
@@ -1925,6 +1928,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,1,1,1,0,0,0,0,0,0,0,3
 "Westwood                      ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,0,0,0,0,0,2,0,0,1,1,0,6
 "Westwood                      ",2020,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,0,0,0,0,0,1,0,2,0,0,3
+"Westwood                      ",2021,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Westwood                      ",2021,2709(a)(3),"Harassment No Legitimate Purpose",1,0,1,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2021,2709(a),Harassment.,1,0,1,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2020,2709(a),Harassment.,0,0,1,1,0,1,1,0,0,0,0,1,5
