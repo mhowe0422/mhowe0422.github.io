@@ -152,7 +152,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2021,2902,"Unlawful Restraint.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,1,0,0,0,0,9
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
-"Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,8,3,0,0,0,0,47
+"Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,8,4,0,0,0,0,48
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",4,4,5,4,3,5,11,8,9,7,4,7,71
 "Beechview                     ",2020,2404(b)(1),"A person may not ignite fireworks on public or private property without the permission of the owner",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2020,2404(b)(3),"A person may not ignite fireworks or sparkling devices toward a motor vehicle or building",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -296,7 +296,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,5506,"Loitering and Prowling at Night",0,0,0,0,0,0,0,0,3,0,1,0,4
 "Beechview                     ",2021,9504,"Lost Property",0,0,1,0,1,1,0,0,0,0,0,0,3
 "Beechview                     ",2020,9504,"Lost Property",0,1,0,0,0,1,0,0,0,0,0,0,2
-"Beechview                     ",2021,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,2,0,0,0,0,0,0,0,0,4
+"Beechview                     ",2021,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,2,0,0,0,2,0,0,0,0,6
 "Beechview                     ",2020,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,0,2,1,6,6,0,2,0,2,19
 "Beechview                     ",2020,3362,"Maximum Speed Limits.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Beechview                     ",2021,9123,"Miscellaneous Fire Other Investigation to Continue",1,0,0,0,1,0,1,0,0,0,0,0,3
@@ -336,7 +336,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,0,1,0,0,0,0,0,1,1,3
 "Beechview                     ",2021,907,"Possessing Instruments of Crime.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,907,"Possessing Instruments of Crime.",0,0,0,0,0,2,2,0,0,0,0,4,8
-"Beechview                     ",2021,13(a)(16),"Possession of Controlled Substance",1,0,0,0,4,0,2,0,0,0,0,0,7
+"Beechview                     ",2021,13(a)(16),"Possession of Controlled Substance",1,0,0,0,4,0,2,2,0,0,0,0,9
 "Beechview                     ",2020,13(a)(16),"Possession of Controlled Substance",0,0,2,0,5,3,5,5,1,3,0,3,27
 "Beechview                     ",2021,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,2,2,4,2,0,2,0,3,15
@@ -355,7 +355,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,2705,"Recklessly Endangering Another Person.",0,5,0,0,2,1,0,0,3,0,0,3,14
 "Beechview                     ",2021,9090,"Recovered Firearm",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2021,1301,"Registration and Certificate of Title Required.",0,0,0,0,0,2,0,0,0,0,0,0,2
+"Beechview                     ",2021,1301,"Registration and Certificate of Title Required.",0,0,0,0,0,2,0,2,0,0,0,0,4
 "Beechview                     ",2020,1301,"Registration and Certificate of Title Required.",0,0,0,0,1,0,1,0,0,0,2,0,4
 "Beechview                     ",2021,1786,"Required Financial Responsibility.",0,0,3,1,1,2,0,0,0,0,0,0,7
 "Beechview                     ",2020,1786,"Required Financial Responsibility.",0,0,0,1,0,0,2,0,0,0,0,0,3
@@ -930,7 +930,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,3922,"Theft by Deception.",0,1,0,1,3,0,0,0,1,1,0,0,7
 "Crafton Heights               ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,3,1,1,2,1,3,2,0,0,0,0,13
 "Crafton Heights               ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,6,1,2,2,1,3,1,2,2,2,1,27
-"Crafton Heights               ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,4,2,2,1,0,0,0,0,10
+"Crafton Heights               ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,4,2,2,2,0,0,0,0,11
 "Crafton Heights               ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,2,1,2,2,0,1,3,3,0,1,0,16
 "Crafton Heights               ",2021,3934,"Theft from Vehicle",0,1,0,2,1,0,1,1,0,0,0,0,6
 "Crafton Heights               ",2020,3934,"Theft from Vehicle",4,6,5,2,6,0,0,1,2,3,4,0,33
@@ -1011,7 +1011,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,9501,"Bench Warrant",1,0,0,0,0,0,1,2,0,0,0,0,4
 "Elliott                       ",2021,3502,Burglary.,2,0,0,0,0,2,1,0,0,0,0,0,5
 "Elliott                       ",2020,3502,Burglary.,0,1,1,0,1,4,1,1,0,0,0,1,10
-"Elliott                       ",2021,3714,"Careless Driving",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2021,3714,"Careless Driving",0,1,0,0,0,0,0,2,0,0,0,0,3
 "Elliott                       ",2020,3714,"Careless Driving",1,0,0,0,0,0,0,0,0,2,0,0,3
 "Elliott                       ",2021,1511,"Carrying and Exhibiting Drivers License on Demand.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Elliott                       ",2020,1101,"Certificate of Title Required.",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -1051,9 +1051,9 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,3802(d)(1)(i),"DUI - Controlled Substance - Schedule I",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2020,3802(d)(1)(i),"DUI - Controlled Substance - Schedule I",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2020,3802(d)(2),"DUI - Drug - Impaired Ability",0,0,0,0,0,0,0,0,0,2,0,0,2
-"Elliott                       ",2021,3802(a)(1),"DUI - General Impairment",0,0,2,4,4,0,0,0,0,0,0,0,10
+"Elliott                       ",2021,3802(a)(1),"DUI - General Impairment",0,0,2,4,4,0,0,2,0,0,0,0,12
 "Elliott                       ",2020,3802(a)(1),"DUI - General Impairment",1,2,0,0,1,0,0,0,4,1,0,2,11
-"Elliott                       ",2021,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,0,0,2,0,0,0,0,0,0,0,2
+"Elliott                       ",2021,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,0,0,2,0,0,2,0,0,0,0,4
 "Elliott                       ",2021,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,2,1,2,0,0,0,0,0,0,0,5
 "Elliott                       ",2020,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Elliott                       ",2021,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,1,0,1,0,0,2,0,0,0,0,0,4
@@ -1317,7 +1317,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2020,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Esplen                        ",2021,4581,"Restraint Systems.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Esplen                        ",2020,3809(a),"Restriction on Alcoholic Beverages in Vehicle",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Esplen                        ",2021,3929,"Retail Theft.",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Esplen                        ",2021,3929,"Retail Theft.",0,0,0,0,1,0,0,1,0,0,0,0,2
 "Esplen                        ",2020,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Esplen                        ",2021,3702,"Robbery of Motor Vehicle.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2020,3702,"Robbery of Motor Vehicle.",0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -1470,7 +1470,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2021,9129,"Miscellaneous Investigation",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Oakwood                       ",2020,9129,"Miscellaneous Investigation",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Oakwood                       ",2020,029,"Missing Juvenile",0,0,0,0,1,1,1,0,0,0,0,0,3
-"Oakwood                       ",2021,9490,"Missing Persons (18 and Over)",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Oakwood                       ",2021,9490,"Missing Persons (18 and Over)",0,0,0,0,0,1,0,1,0,0,0,0,2
 "Oakwood                       ",2020,9998,Overdose,0,1,1,0,0,0,0,0,0,0,0,0,2
 "Oakwood                       ",2020,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Oakwood                       ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -1533,14 +1533,14 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Sheraden                      ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,0,1,3,0,1,0,0,0,0,6
 "Sheraden                      ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,2,0,2,2,1,1,3,3,1,0,3,18
-"Sheraden                      ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,3,2,3,3,3,0,0,0,0,0,15
+"Sheraden                      ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,3,2,3,3,3,1,0,0,0,0,16
 "Sheraden                      ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,2,2,0,2,7,8,2,9,1,4,1,41
 "Sheraden                      ",2020,3732.1,"Aggravated Assault by Vehicle",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Sheraden                      ",2021,2702,"Aggravated Assault.",2,0,1,0,2,4,3,2,0,0,0,0,14
 "Sheraden                      ",2020,2702,"Aggravated Assault.",0,0,3,2,4,3,8,4,6,0,1,3,34
 "Sheraden                      ",2020,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2020,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Sheraden                      ",2021,9497,"Aided Case",1,2,2,1,2,2,6,0,0,0,0,0,16
+"Sheraden                      ",2021,9497,"Aided Case",1,2,2,1,2,2,6,1,0,0,0,0,17
 "Sheraden                      ",2020,9497,"Aided Case",0,0,2,2,3,1,1,1,2,1,3,1,17
 "Sheraden                      ",2020,5107,"Aiding Consummation of Crime.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Sheraden                      ",2020,7122,"Altered, Forged or Counterfeit Documents and Plates",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -1749,7 +1749,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3701,Robbery.,2,1,0,3,1,1,0,1,2,1,1,0,13
 "Sheraden                      ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,1,0,0,0,0,0,0,2
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
-"Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,9,6,0,0,0,0,71
+"Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,9,7,0,0,0,0,72
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
 "Sheraden                      ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,1,0,2,0,0,0,0,0,0,3
 "Sheraden                      ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,1,3,3,2,3,1,3,0,0,0,0,17
@@ -2085,6 +2085,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2020,2709,"Harassment (Non-Specific)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Windgap                       ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,1,1,0,0,0,0,0,0,2
 "Windgap                       ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,0,0,0,0,1,0,0,0,1
+"Windgap                       ",2021,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Windgap                       ",2020,2709(a)(4),"Harassment Communicates Prohibited Acts",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2021,2709(a),Harassment.,0,0,0,0,0,0,0,1,0,0,0,0,1
