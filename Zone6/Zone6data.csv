@@ -1268,7 +1268,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2021,6106,"Firearms not to be Carried without a License.",2,1,0,1,0,0,0,0,0,0,0,0,4
 "Esplen                        ",2020,6106,"Firearms not to be Carried without a License.",0,2,0,2,0,0,0,2,0,0,0,0,6
 "Esplen                        ",2021,3733,"Fleeing or Attempting to Elude Police Officer",2,0,0,0,0,0,2,0,0,0,0,0,4
-"Esplen                        ",2021,9489,"Found Property",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Esplen                        ",2021,9489,"Found Property",0,0,0,0,0,1,0,1,0,0,0,0,2
 "Esplen                        ",2020,9489,"Found Property",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Esplen                        ",2020,7124,"Fraudulent Use or Removal of Registration Plates",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Esplen                        ",2021,4303,"General Lighting Requirements.",3,1,0,0,0,0,2,0,0,0,0,0,6
@@ -1582,7 +1582,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,0,0,0,2,2,1,0,0,0,0,7
 "Sheraden                      ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,1,1,0,1,0,1,0,2,1,1,11
-"Sheraden                      ",2021,3304,"Criminal Mischief.",2,2,3,5,3,7,2,2,0,0,0,0,26
+"Sheraden                      ",2021,3304,"Criminal Mischief.",2,2,3,5,3,7,2,3,0,0,0,0,27
 "Sheraden                      ",2020,3304,"Criminal Mischief.",2,3,3,2,2,5,2,3,3,4,6,3,38
 "Sheraden                      ",2021,3503,"Criminal Trespass",0,2,1,0,0,0,0,1,0,0,0,0,4
 "Sheraden                      ",2020,3503,"Criminal Trespass",0,0,0,2,0,1,0,0,2,0,0,2,7
@@ -1590,6 +1590,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2020,3503(b.1),"Criminal Trespass - Simple Trespasser",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,3503(b.1)(1)(iii),"Criminal Trespass/Simple Trespasser - Defacing or Damaging the Premises",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2021,3503(b.1)(1)(ii),"Criminal Trespass/Simple Trespasser - Starting a Fire upon the Premises",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Sheraden                      ",2021,7512,"Criminal Use of Communication",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,5533(a),"Cruelty to animals - Intentionally, knowingly or recklessly illtreats, overloads, beats, abandons or abuses an animal ",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2021,9496,"Dead on Arrival (DOA)",1,1,1,2,1,1,1,0,0,0,0,0,8
@@ -1782,7 +1783,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,3,2,2,1,2,3,3,2,1,0,1,22
 "Sheraden                      ",2021,3921,"Theft by Unlawful Taking or Disposition.",3,1,1,1,3,1,1,4,0,0,0,0,15
 "Sheraden                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",5,3,3,3,4,4,3,3,0,3,2,4,37
-"Sheraden                      ",2021,3934,"Theft from Vehicle",3,1,1,0,6,3,2,3,0,0,0,0,19
+"Sheraden                      ",2021,3934,"Theft from Vehicle",3,1,1,0,6,3,2,4,0,0,0,0,20
 "Sheraden                      ",2020,3934,"Theft from Vehicle",1,6,2,0,0,0,4,2,1,4,6,1,27
 "Sheraden                      ",2021,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",1,0,0,1,0,2,0,0,0,0,0,0,4
 "Sheraden                      ",2020,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,1,0,0,0,0,1,0,0,0,0,1,3
@@ -2121,7 +2122,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2021,3701,Robbery.,0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,3701,Robbery.,0,0,0,0,0,0,0,0,1,0,0,0,1
 "Windgap                       ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Windgap                       ",2021,8106,"Shots Fired",1,1,1,2,3,0,2,2,0,0,0,0,12
+"Windgap                       ",2021,8106,"Shots Fired",1,1,1,2,3,0,2,3,0,0,0,0,13
 "Windgap                       ",2020,8106,"Shots Fired",1,0,0,0,3,0,0,2,0,1,2,1,10
 "Windgap                       ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,0,0,1,0,0,0,1
