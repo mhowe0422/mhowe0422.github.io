@@ -203,11 +203,11 @@
             "Jun": "0",
             "Jul": "2",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Banksville",
@@ -450,11 +450,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -489,6 +489,25 @@
             "Jul": "0",
             "Aug": "1",
             "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2021",
+            "Section": "901",
+            "Description": "Criminal Attempt",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
@@ -3167,11 +3186,11 @@
             "Jun": "2",
             "Jul": "3",
             "Aug": "3",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "37"
+            "Count": "38"
         },
         {
             "Neighborhood": "Beechview",
@@ -3813,11 +3832,11 @@
             "Jun": "3",
             "Jul": "2",
             "Aug": "3",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "19"
+            "Count": "20"
         },
         {
             "Neighborhood": "Beechview",
@@ -4250,11 +4269,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -5409,11 +5428,11 @@
             "Jun": "1",
             "Jul": "2",
             "Aug": "0",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Beechview",
@@ -5466,11 +5485,11 @@
             "Jun": "4",
             "Jul": "7",
             "Aug": "3",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "37"
+            "Count": "38"
         },
         {
             "Neighborhood": "Beechview",
@@ -6416,11 +6435,11 @@
             "Jun": "2",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -6701,11 +6720,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -7555,12 +7574,12 @@
             "May": "3",
             "Jun": "2",
             "Jul": "0",
-            "Aug": "3",
+            "Aug": "2",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "11"
         },
         {
             "Neighborhood": "Beechview",
@@ -10292,11 +10311,11 @@
             "Jun": "2",
             "Jul": "1",
             "Aug": "2",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Brookline",
@@ -10414,6 +10433,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2021",
+            "Section": "2709(a)(6)",
+            "Description": "Harassment Communicates Repeatedly at Extreme Hours",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2020",
             "Section": "2709(a)(6)",
             "Description": "Harassment Communicates Repeatedly at Extreme Hours",
@@ -10444,11 +10482,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -12547,13 +12585,13 @@
             "Description": "Simple Assault.",
             "Jan": "0",
             "Feb": "3",
-            "Mar": "2",
+            "Mar": "1",
             "Apr": "2",
             "May": "4",
             "Jun": "6",
             "Jul": "0",
             "Aug": "6",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
@@ -12895,11 +12933,11 @@
             "Jun": "3",
             "Jul": "3",
             "Aug": "3",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "Brookline",
@@ -15156,11 +15194,11 @@
             "Jun": "1",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -26157,11 +26195,11 @@
             "Jun": "2",
             "Jul": "1",
             "Aug": "1",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Fairywood",
@@ -29653,11 +29691,11 @@
             "Jun": "5",
             "Jul": "7",
             "Aug": "8",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "70"
+            "Count": "71"
         },
         {
             "Neighborhood": "Sheraden",
@@ -30584,11 +30622,11 @@
             "Jun": "7",
             "Jul": "2",
             "Aug": "6",
-            "Sep": "4",
+            "Sep": "5",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "31"
+            "Count": "32"
         },
         {
             "Neighborhood": "Sheraden",
