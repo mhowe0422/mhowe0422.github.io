@@ -412,11 +412,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -1135,6 +1135,25 @@
             "Jul": "0",
             "Aug": "1",
             "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2021",
+            "Section": "6106",
+            "Description": "Firearms not to be Carried without a License.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
@@ -1883,6 +1902,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2021",
+            "Section": "6105(c)(9)",
+            "Description": "Persons Not To Possess Use Manuf, Control Firearm",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2020",
             "Section": "6105(a)(1)",
             "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
@@ -2568,6 +2606,25 @@
         {
             "Neighborhood": "Banksville",
             "Year": "2021",
+            "Section": "4910",
+            "Description": "Tampering with or Fabricating Physical Evidence.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2021",
             "Section": "2706",
             "Description": "Terroristic Threats.",
             "Jan": "1",
@@ -3148,11 +3205,11 @@
             "Jun": "2",
             "Jul": "5",
             "Aug": "2",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "22"
+            "Count": "23"
         },
         {
             "Neighborhood": "Beechview",
@@ -5200,11 +5257,11 @@
             "Jun": "4",
             "Jul": "3",
             "Aug": "2",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "Beechview",
@@ -8164,11 +8221,11 @@
             "Jun": "15",
             "Jul": "10",
             "Aug": "12",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "84"
+            "Count": "85"
         },
         {
             "Neighborhood": "Brookline",
@@ -8468,11 +8525,11 @@
             "Jun": "4",
             "Jul": "4",
             "Aug": "4",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "24"
+            "Count": "25"
         },
         {
             "Neighborhood": "Brookline",
@@ -8639,11 +8696,11 @@
             "Jun": "3",
             "Jul": "5",
             "Aug": "5",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "17"
+            "Count": "18"
         },
         {
             "Neighborhood": "Brookline",
@@ -8980,12 +9037,12 @@
             "May": "2",
             "Jun": "2",
             "Jul": "0",
-            "Aug": "4",
+            "Aug": "3",
             "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "11"
         },
         {
             "Neighborhood": "Brookline",
@@ -10367,12 +10424,12 @@
             "May": "3",
             "Jun": "2",
             "Jul": "2",
-            "Aug": "4",
+            "Aug": "3",
             "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "18"
+            "Count": "17"
         },
         {
             "Neighborhood": "Brookline",
@@ -10615,11 +10672,11 @@
             "Jun": "3",
             "Jul": "18",
             "Aug": "6",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "82"
+            "Count": "83"
         },
         {
             "Neighborhood": "Brookline",
@@ -12933,11 +12990,11 @@
             "Jun": "3",
             "Jul": "3",
             "Aug": "3",
-            "Sep": "3",
+            "Sep": "4",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Neighborhood": "Brookline",
@@ -15146,6 +15203,25 @@
         {
             "Neighborhood": "Crafton Heights",
             "Year": "2021",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2021",
             "Section": "3503(a)",
             "Description": "Criminal Trespass",
             "Jan": "0",
@@ -16391,11 +16467,11 @@
             "Jun": "0",
             "Jul": "1",
             "Aug": "0",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -20040,6 +20116,25 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2021",
+            "Section": "5511",
+            "Description": "Cruelty to Animals.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
@@ -32199,11 +32294,11 @@
             "Jun": "0",
             "Jul": "4",
             "Aug": "0",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Sheraden",
@@ -35961,11 +36056,11 @@
             "Jun": "1",
             "Jul": "1",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "West End",
@@ -39685,11 +39780,11 @@
             "Jun": "1",
             "Jul": "0",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Westwood",
