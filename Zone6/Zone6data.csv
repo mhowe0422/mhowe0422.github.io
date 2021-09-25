@@ -214,7 +214,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,7512,"Criminal Use of Communication",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Beechview                     ",2020,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Beechview                     ",2021,3301(d.1),"Dangerous Burning",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Beechview                     ",2021,9496,"Dead on Arrival (DOA)",4,2,0,2,1,0,1,0,2,0,0,0,12
+"Beechview                     ",2021,9496,"Dead on Arrival (DOA)",4,2,0,2,1,0,1,0,3,0,0,0,13
 "Beechview                     ",2020,9496,"Dead on Arrival (DOA)",0,0,1,1,0,3,0,2,1,1,1,0,10
 "Beechview                     ",2021,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -434,7 +434,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,4524,"Windshield Obstructions and Wipers.",0,0,0,0,1,1,0,2,0,0,0,0,4
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,0,0,0,16
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,5,0,0,0,87
+"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,6,0,0,0,88
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2021,4106,"Access Device Fraud",2,1,7,2,3,1,1,3,0,0,0,0,20
 "Brookline                     ",2020,4106,"Access Device Fraud",3,1,1,0,2,1,1,6,3,0,0,1,19
@@ -601,7 +601,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,5101,"Obstructing Admin. of Law",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Brookline                     ",2021,5507,"Obstructing Highways and Passages.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,1371,"Operation Following Suspension of Registration.",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2021,9998,Overdose,1,3,5,2,2,3,1,0,4,0,0,0,21
+"Brookline                     ",2021,9998,Overdose,1,3,5,2,2,3,1,0,5,0,0,0,22
 "Brookline                     ",2020,9998,Overdose,2,0,2,2,0,2,2,4,2,1,0,3,20
 "Brookline                     ",2021,9997,"Overdose Death",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Brookline                     ",2020,9997,"Overdose Death",1,0,0,1,0,0,0,2,0,0,0,0,4
@@ -769,7 +769,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,9498,"302 (Mental)",0,3,2,1,0,2,1,2,1,0,0,0,12
 "Crafton Heights               ",2020,9498,"302 (Mental)",1,1,2,0,3,0,0,0,0,1,0,2,10
-"Crafton Heights               ",2021,9999,"9999 - (Misc. Incident):",3,7,2,2,2,4,2,3,3,0,0,0,28
+"Crafton Heights               ",2021,9999,"9999 - (Misc. Incident):",3,7,2,2,2,4,2,3,4,0,0,0,29
 "Crafton Heights               ",2020,9999,"9999 - (Misc. Incident):",4,5,6,1,1,3,3,1,3,8,4,6,45
 "Crafton Heights               ",2021,4106,"Access Device Fraud",0,0,2,3,1,1,1,2,1,0,0,0,11
 "Crafton Heights               ",2020,4106,"Access Device Fraud",1,0,0,0,0,0,1,1,1,0,1,0,5
@@ -936,7 +936,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,3701,Robbery.,1,0,0,0,0,0,2,1,0,0,0,0,4
 "Crafton Heights               ",2020,3701,Robbery.,0,2,0,0,3,0,0,0,1,1,0,0,7
 "Crafton Heights               ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,4,0,0,0,41
+"Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,5,0,0,0,42
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,3,5,2,7,6,1,2,3,2,33
 "Crafton Heights               ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Crafton Heights               ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,5,0,0,1,1,2,2,0,0,0,0,13
@@ -1584,7 +1584,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2020,7611,"Unlawful Use of Computer",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Sheraden                      ",2021,9498,"302 (Mental)",3,3,0,3,5,5,3,0,1,0,0,0,23
 "Sheraden                      ",2020,9498,"302 (Mental)",2,2,1,0,0,2,0,1,0,1,1,2,12
-"Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,10,5,7,8,4,0,0,0,72
+"Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,10,5,7,8,5,0,0,0,73
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,5,1,5,10,8,7,9,2,4,4,61
 "Sheraden                      ",2021,4106,"Access Device Fraud",2,0,2,2,0,0,2,0,3,0,0,0,11
 "Sheraden                      ",2020,4106,"Access Device Fraud",0,2,1,0,0,2,1,0,0,0,0,3,9
@@ -1977,7 +1977,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2020,2902,"Unlawful Restraint.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Westwood                      ",2021,9498,"302 (Mental)",1,1,1,1,0,0,0,0,0,0,0,0,4
 "Westwood                      ",2020,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,1,1,0,4
-"Westwood                      ",2021,9999,"9999 - (Misc. Incident):",2,7,7,2,1,3,2,1,0,0,0,0,25
+"Westwood                      ",2021,9999,"9999 - (Misc. Incident):",2,7,7,2,1,3,2,1,1,0,0,0,26
 "Westwood                      ",2020,9999,"9999 - (Misc. Incident):",4,3,1,0,0,0,0,3,0,4,0,3,18
 "Westwood                      ",2021,4106,"Access Device Fraud",0,0,2,0,0,0,1,0,0,0,0,0,3
 "Westwood                      ",2020,4106,"Access Device Fraud",0,1,0,1,0,0,0,1,0,0,1,0,4
