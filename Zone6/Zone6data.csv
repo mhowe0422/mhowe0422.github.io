@@ -433,7 +433,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,1571,"Violations Concerning Licenses.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Beechview                     ",2021,4524,"Windshield Obstructions and Wipers.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,4524,"Windshield Obstructions and Wipers.",0,0,0,0,1,1,0,2,0,0,0,0,4
-"Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,0,0,0,16
+"Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,1,0,0,17
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
 "Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,0,0,0,89
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
@@ -443,7 +443,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,9018,"Accidental Fire",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Brookline                     ",2020,9018,"Accidental Fire",0,1,0,1,0,0,1,0,0,0,0,0,3
 "Brookline                     ",2020,7728,"Accidents and Accident Reports.",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,1,3,1,3,0,0,0,0,15
+"Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,1,3,1,3,0,1,0,0,16
 "Brookline                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",5,5,2,3,2,2,1,4,4,2,2,6,38
 "Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,5,3,3,8,7,3,1,0,0,0,37
 "Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,2,5,1,4,5,3,4,5,2,3,2,38
@@ -665,7 +665,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,3701,Robbery.,2,0,1,0,0,1,0,4,1,0,0,0,9
 "Brookline                     ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2021,8106,"Shots Fired",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Brookline                     ",2021,8106,"Shots Fired",0,0,0,0,0,0,1,0,0,1,0,0,2
 "Brookline                     ",2020,8106,"Shots Fired",0,0,0,1,2,1,0,0,0,0,0,0,4
 "Brookline                     ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,1,3,2,0,2,1,0,0,0,9
 "Brookline                     ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,1,0,0,3,2,1,0,0,0,0,0,7
@@ -1084,7 +1084,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,1332,"Display of Registration Plate.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2021,633.08,"Dogs at Large Prohibited",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Elliott                       ",2020,633.08,"Dogs at Large Prohibited",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Elliott                       ",2021,1501,"Drivers Required to be Licensed.",0,0,1,0,0,0,1,0,0,0,0,0,2
+"Elliott                       ",2021,1501,"Drivers Required to be Licensed.",0,0,1,0,0,0,1,0,0,2,0,0,4
 "Elliott                       ",2020,3309,"Driving on Roadways Laned for Traffic.",0,0,1,0,0,0,1,0,0,0,0,0,2
 "Elliott                       ",2021,3361,"Driving Vehicle at Safe Speed.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2020,3361,"Driving Vehicle at Safe Speed.",0,0,0,0,0,0,0,0,0,2,0,0,2
@@ -1093,11 +1093,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,3802(d)(1)(i),"DUI - Controlled Substance - Schedule I",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2020,3802(d)(1)(i),"DUI - Controlled Substance - Schedule I",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2020,3802(d)(2),"DUI - Drug - Impaired Ability",0,0,0,0,0,0,0,0,0,2,0,0,2
-"Elliott                       ",2021,3802(a)(1),"DUI - General Impairment",0,0,2,4,4,0,0,2,0,0,0,0,12
+"Elliott                       ",2021,3802(a)(1),"DUI - General Impairment",0,0,2,4,4,0,0,2,0,2,0,0,14
 "Elliott                       ",2020,3802(a)(1),"DUI - General Impairment",1,2,0,0,1,0,0,0,4,1,0,2,11
 "Elliott                       ",2021,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,0,0,2,0,0,2,0,0,0,0,4
 "Elliott                       ",2021,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,2,1,2,0,0,0,0,0,0,0,5
 "Elliott                       ",2020,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Elliott                       ",2021,3802(e),"DUI - Minors - BAC >=.02%",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Elliott                       ",2021,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,1,0,1,0,0,2,0,0,0,0,0,4
 "Elliott                       ",2021,5121,Escape.,0,2,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2021,2710,"Ethnic Intimidation.",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -1173,6 +1174,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,3303,"Overtaking Vehicle on the Left.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,13(a)(32),"Paraphernalia - Use or Possession",0,1,2,0,0,0,2,0,0,0,0,0,5
 "Elliott                       ",2020,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,2,1,2,0,4,0,2,0,1,12
+"Elliott                       ",2021,4302,"Periods for Requiring Lighted Lamps.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Elliott                       ",2020,6105(c)(9),"Persons Not To Possess Use Manuf, Control Firearm",0,0,0,0,0,2,0,0,0,1,0,0,3
 "Elliott                       ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,2,0,2,0,0,0,0,0,4
 "Elliott                       ",2020,9994,"PFA Service",0,0,0,0,0,0,0,0,0,0,1,0,1
@@ -1202,11 +1204,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,9090,"Recovered Firearm",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,1301,"Registration and Certificate of Title Required.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2020,1301,"Registration and Certificate of Title Required.",0,1,0,0,0,0,0,2,0,0,0,0,3
-"Elliott                       ",2021,1786,"Required Financial Responsibility.",0,0,1,0,2,0,0,0,0,0,0,0,3
+"Elliott                       ",2021,1311,"Registration Card to be Signed and Exhibited on Demand.",0,0,0,0,0,0,0,0,0,2,0,0,2
+"Elliott                       ",2021,1786,"Required Financial Responsibility.",0,0,1,0,2,0,0,0,0,2,0,0,5
 "Elliott                       ",2020,1786,"Required Financial Responsibility.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Elliott                       ",2020,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,0,1,0,0,2,0,2,0,0,5
-"Elliott                       ",2021,4581,"Restraint Systems.",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2021,4581,"Restraint Systems.",0,0,1,0,0,0,0,0,0,2,0,0,3
 "Elliott                       ",2020,7513,"Restriction on Alcoholic Beverages - Open Container",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2020,3929,"Retail Theft.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,3702,"Robbery of Motor Vehicle.",0,0,0,0,2,0,0,0,0,0,0,0,2
@@ -1508,6 +1511,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2020,9496,"Dead on Arrival (DOA)",0,0,0,1,1,0,0,1,0,1,1,0,5
 "Oakwood                       ",2020,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Oakwood                       ",2020,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,2,0,0,0,0,0,0,0,0,0,2
+"Oakwood                       ",2021,3802(a)(1),"DUI - General Impairment",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Oakwood                       ",2021,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,0,0,0,3,0,0,0,0,3
 "Oakwood                       ",2020,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",2,0,0,0,1,0,0,0,0,0,0,0,3
 "Oakwood                       ",2020,9015,"Failure To Appear/Arrest on Attachment Order",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -1564,13 +1568,17 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Ridgemont                     ",2021,9497,"Aided Case",0,0,1,1,0,0,0,0,0,0,0,0,2
 "Ridgemont                     ",2020,9497,"Aided Case",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Ridgemont                     ",2021,9501,"Bench Warrant",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Ridgemont                     ",2021,3502,Burglary.,0,0,0,0,0,0,0,1,0,0,0,0,1
 "Ridgemont                     ",2020,3502,Burglary.,0,0,1,0,0,0,0,0,0,0,0,0,1
 "Ridgemont                     ",2020,903,"Criminal Conspiracy.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Ridgemont                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Ridgemont                     ",2021,3304,"Criminal Mischief.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Ridgemont                     ",2020,3304,"Criminal Mischief.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Ridgemont                     ",2020,7512,"Criminal Use of Communication",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Ridgemont                     ",2020,9496,"Dead on Arrival (DOA)",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Ridgemont                     ",2021,3503(b)(1)(ii),"Defiant Trespass Notice Posted by Sign(s)",0,0,0,0,0,0,0,0,0,2,0,0,2
+"Ridgemont                     ",2021,5503,"Disorderly Conduct.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Ridgemont                     ",2020,4912,"Impersonating a Public Servant.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Ridgemont                     ",2020,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Ridgemont                     ",2020,5101,"Obstructing Admin. of Law",0,0,0,0,0,0,0,2,0,0,0,0,2
@@ -1859,7 +1867,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3316(a),"use of interactive wireless communications devices for text-based communications while operating motor vehicles prohibited",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Sheraden                      ",2021,1501(A),"Valid Drivers License Required",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,4524,"Windshield Obstructions and Wipers.",0,0,2,0,0,0,1,2,0,0,0,0,5
-"West End                      ",2021,9498,"302 (Mental)",0,1,2,2,0,0,0,0,0,0,0,0,5
+"West End                      ",2021,9498,"302 (Mental)",0,1,2,2,0,0,0,0,0,1,0,0,6
 "West End                      ",2020,9498,"302 (Mental)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "West End                      ",2021,9999,"9999 - (Misc. Incident):",1,0,0,2,1,2,0,0,2,0,0,0,8
 "West End                      ",2020,9999,"9999 - (Misc. Incident):",1,0,1,0,1,1,3,0,2,2,0,0,11
@@ -2138,7 +2146,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2021,4106,"Access Device Fraud",0,0,0,1,1,0,0,0,0,0,0,0,2
 "Windgap                       ",2020,4106,"Access Device Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Windgap                       ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,0,0,0,0,0,1,0,0,0,0,2
-"Windgap                       ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,1,1,1,1,0,1,0,0,0,5
+"Windgap                       ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,1,1,1,1,0,1,1,0,0,6
 "Windgap                       ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,0,1,0,0,1,0,0,0,1,4
 "Windgap                       ",2021,2702,"Aggravated Assault.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2020,2702,"Aggravated Assault.",2,0,0,0,0,2,0,2,0,0,1,0,7
