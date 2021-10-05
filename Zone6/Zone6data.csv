@@ -73,7 +73,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,1,0,0,0,0,0,2,0,1,4
 "Banksville                    ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Banksville                    ",2020,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,1,0,0,0,0,0,0,0,1,2
-"Banksville                    ",2021,2709(a),Harassment.,1,0,0,1,1,1,0,1,0,0,0,0,5
+"Banksville                    ",2021,2709(a),Harassment.,1,0,0,1,1,1,0,1,0,1,0,0,6
 "Banksville                    ",2020,2709(a),Harassment.,1,0,1,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2020,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2021,4120,"Identity Theft",0,1,1,0,1,1,6,1,0,0,0,0,11
@@ -132,7 +132,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Banksville                    ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Banksville                    ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Banksville                    ",2021,2701,"Simple Assault.",2,0,0,3,3,0,2,0,0,0,0,0,10
+"Banksville                    ",2021,2701,"Simple Assault.",2,0,0,3,3,0,2,0,0,2,0,0,12
 "Banksville                    ",2020,2701,"Simple Assault.",0,2,2,0,0,0,1,2,0,0,0,1,8
 "Banksville                    ",2020,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Banksville                    ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,1,0,2,0,0,0,0,0,0,3
@@ -182,7 +182,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,7122,"Altered, Forged or Counterfeit Documents and Plates",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Beechview                     ",2020,3301,Arson,0,2,0,0,0,0,0,0,0,0,0,2,4
 "Beechview                     ",2020,94951,"Attempted Suicide",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Beechview                     ",2021,9501,"Bench Warrant",6,0,0,0,6,0,3,0,0,0,0,0,15
+"Beechview                     ",2021,9501,"Bench Warrant",6,0,0,0,6,0,3,0,0,2,0,0,17
 "Beechview                     ",2020,9501,"Bench Warrant",0,2,0,0,0,0,3,0,3,2,0,0,10
 "Beechview                     ",2021,3502,Burglary.,4,0,0,0,2,4,2,0,0,0,0,0,12
 "Beechview                     ",2020,3502,Burglary.,4,3,2,1,2,1,6,4,4,0,2,2,31
@@ -1423,7 +1423,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2021,903,"Criminal Conspiracy.",0,2,0,0,0,0,2,0,0,0,0,0,4
 "Fairywood                     ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Fairywood                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,1,0,0,0,0,0,0,0,0,0,2
-"Fairywood                     ",2021,3304,"Criminal Mischief.",0,0,0,0,0,1,1,1,0,0,0,0,3
+"Fairywood                     ",2021,3304,"Criminal Mischief.",0,0,0,0,0,1,1,1,0,1,0,0,4
 "Fairywood                     ",2020,3304,"Criminal Mischief.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2020,3503,"Criminal Trespass",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Fairywood                     ",2021,5533(a),"Cruelty to animals - Intentionally, knowingly or recklessly illtreats, overloads, beats, abandons or abuses an animal ",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -1646,7 +1646,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,0,0,0,2,2,2,5,0,0,0,13
 "Sheraden                      ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,1,1,0,1,0,1,0,2,1,1,11
-"Sheraden                      ",2021,3304,"Criminal Mischief.",2,2,3,5,3,7,2,6,8,1,0,0,39
+"Sheraden                      ",2021,3304,"Criminal Mischief.",2,2,3,5,3,7,2,6,8,2,0,0,40
 "Sheraden                      ",2020,3304,"Criminal Mischief.",2,3,3,2,2,5,2,3,3,4,6,3,38
 "Sheraden                      ",2021,3503,"Criminal Trespass",0,2,1,0,0,0,0,2,5,0,0,0,10
 "Sheraden                      ",2020,3503,"Criminal Trespass",0,0,0,2,0,1,0,0,2,0,0,2,7
@@ -1716,7 +1716,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,6503.1,"Habitual Offenders",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2020,6503.1,"Habitual Offenders",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,2709.A2,"HARASSMENT - FOLLOW IN PUBLIC PLACE",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Sheraden                      ",2021,2709,"Harassment (Non-Specific)",0,1,2,1,0,1,2,0,1,0,0,0,8
+"Sheraden                      ",2021,2709,"Harassment (Non-Specific)",0,1,2,1,0,1,2,0,1,1,0,0,9
 "Sheraden                      ",2020,2709,"Harassment (Non-Specific)",0,1,0,3,1,0,2,2,1,0,0,2,12
 "Sheraden                      ",2020,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,1,1,1,0,0,0,0,0,0,0,3
 "Sheraden                      ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,5,1,1,1,3,3,5,1,0,0,0,20
@@ -1831,7 +1831,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,1,0,2,0,0,0,0,0,0,3
 "Sheraden                      ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,1,3,3,2,3,1,3,0,0,0,0,17
 "Sheraden                      ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,1,2,0,0,0,1,1,6,3,0,1,15
-"Sheraden                      ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,0,7,2,0,5,3,0,0,0,20
+"Sheraden                      ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,0,7,2,0,5,3,1,0,0,21
 "Sheraden                      ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,2,0,2,0,1,1,1,2,10
 "Sheraden                      ",2021,2701,"Simple Assault.",2,6,3,7,1,14,6,9,8,0,0,0,56
 "Sheraden                      ",2020,2701,"Simple Assault.",7,5,8,4,9,9,9,10,17,1,4,6,89
@@ -2203,7 +2203,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2021,3701,Robbery.,0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,3701,Robbery.,0,0,0,0,0,0,0,0,1,0,0,0,1
 "Windgap                       ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Windgap                       ",2021,8106,"Shots Fired",1,1,1,2,3,0,2,4,0,0,0,0,14
+"Windgap                       ",2021,8106,"Shots Fired",1,1,1,2,3,0,2,4,0,1,0,0,15
 "Windgap                       ",2020,8106,"Shots Fired",1,0,0,0,3,0,0,2,0,1,2,1,10
 "Windgap                       ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,0,0,1,0,0,0,1
