@@ -214,14 +214,14 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,7512,"Criminal Use of Communication",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Beechview                     ",2020,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Beechview                     ",2021,3301(d.1),"Dangerous Burning",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Beechview                     ",2021,9496,"Dead on Arrival (DOA)",4,2,0,2,1,0,1,0,3,0,0,0,13
+"Beechview                     ",2021,9496,"Dead on Arrival (DOA)",4,2,0,2,1,0,1,0,3,1,0,0,14
 "Beechview                     ",2020,9496,"Dead on Arrival (DOA)",0,0,1,1,0,3,0,2,1,1,1,0,10
 "Beechview                     ",2021,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,2,0,0,0,2,0,0,0,4
 "Beechview                     ",2020,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2020,3503(b)(1)(iii),"Defiant Trespass - Fencing or Other Enclosure",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Beechview                     ",2020,3503(b)(1)(ii),"Defiant Trespass Notice Posted by Sign(s)",1,0,0,0,1,0,1,0,0,0,0,0,3
 "Beechview                     ",2020,"473.02 (b)","Deposit or Dump Trash",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Beechview                     ",2021,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Beechview                     ",2021,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,0,0,1,0,0,1,0,0,2
 "Beechview                     ",2020,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,0,0,0,0,1,1,0,0,2
 "Beechview                     ",2020,607.03,"Discharging Firearm or Airgun",0,2,0,0,0,0,0,0,1,0,0,0,3
 "Beechview                     ",2020,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",0,0,0,0,0,1,0,1,0,0,0,0,2
@@ -295,7 +295,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2021,633.09(a),"Harboring a Nuisance; Any animal to create offensive odor, excessive noise or unsanitary condition",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2021,4120,"Identity Theft",1,3,13,5,1,4,7,3,3,0,0,0,40
 "Beechview                     ",2020,4120,"Identity Theft",0,0,0,2,0,0,1,0,1,1,0,0,5
-"Beechview                     ",2021,9093,"Indirect Criminal Contempt",4,2,0,0,1,0,1,2,2,0,0,0,12
+"Beechview                     ",2021,9093,"Indirect Criminal Contempt",4,2,0,0,1,0,1,2,2,2,0,0,14
 "Beechview                     ",2020,9093,"Indirect Criminal Contempt",4,0,0,0,0,0,1,0,3,0,0,4,12
 "Beechview                     ",2020,2904,"Interference with Custody of Children.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Beechview                     ",2021,4952,"Intimidation of Witnesses or Victims",0,0,0,2,0,0,0,2,0,0,0,0,4
@@ -309,7 +309,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2021,9504,"Lost Property",0,0,1,0,1,1,0,0,0,0,0,0,3
 "Beechview                     ",2020,9504,"Lost Property",0,1,0,0,0,1,0,0,0,0,0,0,2
 "Beechview                     ",2021,2910,"Luring a Child into a Motor Vehicle.",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Beechview                     ",2021,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,2,0,0,0,4,0,0,0,0,8
+"Beechview                     ",2021,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,2,0,0,0,4,0,2,0,0,10
 "Beechview                     ",2020,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,0,2,1,6,6,0,2,0,2,19
 "Beechview                     ",2020,3362,"Maximum Speed Limits.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Beechview                     ",2021,425.26,Miscellaneous,0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -383,7 +383,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,3702,"Robbery of Motor Vehicle.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,3701,Robbery.,0,2,0,2,0,0,3,0,0,0,0,0,7
 "Beechview                     ",2020,3701,Robbery.,1,3,0,1,2,0,1,0,0,0,1,1,10
-"Beechview                     ",2021,8106,"Shots Fired",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2021,8106,"Shots Fired",0,0,0,1,0,0,0,0,0,1,0,0,2
 "Beechview                     ",2020,8106,"Shots Fired",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Beechview                     ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,2,2,1,2,0,1,0,0,0,0,0,10
 "Beechview                     ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,7,0,2,0,0,2,0,2,0,0,1,15
@@ -435,7 +435,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,4524,"Windshield Obstructions and Wipers.",0,0,0,0,1,1,0,2,0,0,0,0,4
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,2,0,0,18
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,4,0,0,93
+"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,5,0,0,94
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2021,4106,"Access Device Fraud",2,1,7,2,3,1,1,3,0,0,0,0,20
 "Brookline                     ",2020,4106,"Access Device Fraud",3,1,1,0,2,1,1,6,3,0,0,1,19
@@ -860,7 +860,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,4303,"General Lighting Requirements.",0,2,1,0,0,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2021,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2020,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,1,0,0,1,1,0,0,3
-"Crafton Heights               ",2021,2709,"Harassment (Non-Specific)",0,0,1,0,3,1,0,1,1,0,0,0,7
+"Crafton Heights               ",2021,2709,"Harassment (Non-Specific)",0,0,1,0,3,1,0,1,1,1,0,0,8
 "Crafton Heights               ",2020,2709,"Harassment (Non-Specific)",1,0,3,1,1,3,0,2,0,0,0,0,11
 "Crafton Heights               ",2021,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,0,2,2,1,1,2,1,0,0,0,10
@@ -1322,7 +1322,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,3,0,0,0,0,0,0,3
 "Esplen                        ",2021,2709(a),Harassment.,0,0,0,0,0,0,0,1,0,0,0,0,1
 "Esplen                        ",2020,2709(a),Harassment.,1,0,0,0,0,0,0,0,0,0,0,0,1
-"Esplen                        ",2021,4120,"Identity Theft",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Esplen                        ",2021,4120,"Identity Theft",0,0,1,0,0,0,0,0,0,1,0,0,2
 "Esplen                        ",2021,9093,"Indirect Criminal Contempt",2,0,0,0,0,0,0,1,0,0,0,0,3
 "Esplen                        ",2020,9093,"Indirect Criminal Contempt",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Esplen                        ",2020,3305,"Injuring or Tampering with Fire Apparatus",0,0,0,0,0,0,0,0,0,0,0,1,1
