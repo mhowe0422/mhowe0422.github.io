@@ -22,7 +22,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,4105(a)(1),"Bad Checks",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Banksville                    ",2021,9501,"Bench Warrant",0,0,0,0,0,0,0,2,2,0,0,0,4
 "Banksville                    ",2020,9501,"Bench Warrant",0,0,0,0,0,0,0,4,2,0,0,0,6
-"Banksville                    ",2021,3502,Burglary.,1,0,0,0,0,0,0,0,1,0,0,0,2
+"Banksville                    ",2021,3502,Burglary.,1,0,0,0,0,0,0,0,1,2,0,0,4
 "Banksville                    ",2020,3502,Burglary.,0,0,1,1,0,0,0,3,0,1,0,0,6
 "Banksville                    ",2020,9500,"Conversion - Field Contact Report",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Banksville                    ",2021,901,"Criminal Attempt",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -34,6 +34,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2021,3304,"Criminal Mischief.",0,0,1,1,0,0,2,0,0,0,0,0,4
 "Banksville                    ",2020,3304,"Criminal Mischief.",0,0,0,0,0,2,0,1,0,1,1,1,6
+"Banksville                    ",2021,3503,"Criminal Trespass",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Banksville                    ",2021,9496,"Dead on Arrival (DOA)",1,0,1,2,2,1,0,0,0,1,0,0,8
 "Banksville                    ",2020,9496,"Dead on Arrival (DOA)",0,0,1,2,1,0,0,0,1,0,0,2,7
 "Banksville                    ",2021,3503(b)(1)(ii),"Defiant Trespass Notice Posted by Sign(s)",0,0,0,0,2,0,0,0,0,0,0,0,2
@@ -73,7 +74,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,1,0,0,0,0,0,2,0,1,4
 "Banksville                    ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Banksville                    ",2020,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,1,0,0,0,0,0,0,0,1,2
-"Banksville                    ",2021,2709(a),Harassment.,1,0,0,1,1,1,0,1,0,1,0,0,6
+"Banksville                    ",2021,2709(a),Harassment.,1,0,0,1,1,1,0,1,0,3,0,0,8
 "Banksville                    ",2020,2709(a),Harassment.,1,0,1,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2020,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2021,4120,"Identity Theft",0,1,1,0,1,1,6,1,0,0,0,0,11
@@ -128,7 +129,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,3701,Robbery.,0,1,0,0,0,0,0,0,0,0,1,1,3
 "Banksville                    ",2020,8106,"Shots Fired",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Banksville                    ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,2,0,0,0,0,0,0,2
-"Banksville                    ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,2,2,0,0,0,0,0,0,0,4
+"Banksville                    ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,2,2,0,0,0,0,2,0,0,6
 "Banksville                    ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Banksville                    ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Banksville                    ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,2,0,0,0,0,0,2
@@ -288,7 +289,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2021,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2020,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2020,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,1,0,1,0,0,0,0,1,3
-"Beechview                     ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,1,0,1,1,1,1,2,0,0,0,7
+"Beechview                     ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,1,0,1,1,1,1,2,1,0,0,8
 "Beechview                     ",2020,2709(a)(3),"Harassment No Legitimate Purpose",2,1,0,0,0,1,1,0,2,2,0,0,9
 "Beechview                     ",2021,2709(a),Harassment.,0,0,4,3,2,1,2,0,5,0,0,0,17
 "Beechview                     ",2020,2709(a),Harassment.,1,1,0,2,2,0,2,0,1,0,3,1,13
@@ -433,7 +434,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,1571,"Violations Concerning Licenses.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Beechview                     ",2021,4524,"Windshield Obstructions and Wipers.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,4524,"Windshield Obstructions and Wipers.",0,0,0,0,1,1,0,2,0,0,0,0,4
-"Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,2,0,0,18
+"Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,0,0,19
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
 "Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,8,0,0,97
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
@@ -875,7 +876,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,2709(a),Harassment.,1,0,1,1,1,2,0,0,1,1,2,0,10
 "Crafton Heights               ",2021,4120,"Identity Theft",0,0,0,0,0,2,1,2,0,0,0,0,5
 "Crafton Heights               ",2020,4120,"Identity Theft",1,0,0,0,0,0,0,0,2,1,0,1,5
-"Crafton Heights               ",2021,9093,"Indirect Criminal Contempt",0,2,0,2,0,0,2,0,3,0,0,0,9
+"Crafton Heights               ",2021,9093,"Indirect Criminal Contempt",0,2,0,2,0,0,2,0,3,1,0,0,10
 "Crafton Heights               ",2020,9093,"Indirect Criminal Contempt",0,0,3,1,0,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2021,9491,"Industrial Accident",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2020,2904,"Interference with Custody of Children.",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -1349,9 +1350,9 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2020,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,0,0,0,0,1,0,0,0,1,2
 "Esplen                        ",2021,907,"Possessing Instruments of Crime.",2,2,0,0,0,0,0,0,2,0,0,0,6
 "Esplen                        ",2020,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,0,0,1,3,0,4
-"Esplen                        ",2021,13(a)(16),"Possession of Controlled Substance",5,2,2,0,0,0,2,0,2,1,0,0,14
+"Esplen                        ",2021,13(a)(16),"Possession of Controlled Substance",5,2,2,0,0,0,2,0,2,2,0,0,15
 "Esplen                        ",2020,13(a)(16),"Possession of Controlled Substance",0,0,0,0,0,0,2,0,0,0,1,2,5
-"Esplen                        ",2021,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",4,2,0,0,0,0,2,0,2,1,0,0,11
+"Esplen                        ",2021,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",4,2,0,0,0,0,2,0,2,2,0,0,12
 "Esplen                        ",2020,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Esplen                        ",2021,4706,"Prohib. on Expend. for Emission Insp Prog..",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Esplen                        ",2021,2707,"Propulsion of Missiles",0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -1500,7 +1501,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2020,9018,"Accidental Fire",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Oakwood                       ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Oakwood                       ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,0,0,0,0,0,0,1,1
-"Oakwood                       ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,1,0,1,1,0,0,0,0,3
+"Oakwood                       ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,1,0,1,1,0,1,0,0,4
 "Oakwood                       ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,0,1,0,0,1,0,1,0,3
 "Oakwood                       ",2021,9497,"Aided Case",0,0,1,0,0,0,0,0,1,0,0,0,2
 "Oakwood                       ",2020,3301,Arson,0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -1896,10 +1897,11 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2021,3714,"Careless Driving",0,0,0,2,1,0,0,2,2,0,0,0,7
 "West End                      ",2020,3714,"Careless Driving",4,0,0,0,0,0,0,2,0,0,1,0,7
 "West End                      ",2021,8105,"CLASS 2 - Bomb Threat",0,0,0,0,0,0,1,0,0,0,0,0,1
+"West End                      ",2021,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,0,0,0,0,0,0,1,0,0,1
 "West End                      ",2020,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "West End                      ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,0,0,0,1,0,0,0,1
 "West End                      ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,1,0,0,0,1,0,0,0,0,2
-"West End                      ",2021,3304,"Criminal Mischief.",0,0,0,1,0,0,0,1,0,0,0,0,2
+"West End                      ",2021,3304,"Criminal Mischief.",0,0,0,1,0,0,0,1,0,1,0,0,3
 "West End                      ",2020,3304,"Criminal Mischief.",0,1,0,0,1,0,1,0,1,0,1,0,5
 "West End                      ",2021,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",0,0,0,0,0,0,0,0,1,0,0,0,1
 "West End                      ",2021,5503,"Disorderly Conduct.",0,0,0,0,0,0,0,2,0,0,0,0,2
@@ -1928,6 +1930,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2020,9489,"Found Property",0,0,0,0,1,0,1,0,1,1,0,0,4
 "West End                      ",2021,4303,"General Lighting Requirements.",0,0,0,0,0,0,0,2,3,0,0,0,5
 "West End                      ",2020,4303,"General Lighting Requirements.",0,0,0,0,0,0,0,0,0,0,0,1,1
+"West End                      ",2021,"620.03 (a)","Graffiti - Prohibited Acts: No person may apply graffiti on city owned property or w/o",0,0,0,0,0,0,0,0,0,1,0,0,1
 "West End                      ",2020,2709,"Harassment (Non-Specific)",1,0,0,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,1,1,0,0,0,0,0,0,0,2
 "West End                      ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,0,0,0,0,0,0,0,0,0,0,1
