@@ -307,7 +307,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,0292,"Located Runaway - not Reported Missing",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Beechview                     ",2021,5506,"Loitering and Prowling at Night",0,0,0,2,0,1,0,0,0,0,0,0,3
 "Beechview                     ",2020,5506,"Loitering and Prowling at Night",0,0,0,0,0,0,0,0,3,0,1,0,4
-"Beechview                     ",2021,9504,"Lost Property",0,0,1,0,1,1,0,0,0,0,0,0,3
+"Beechview                     ",2021,9504,"Lost Property",0,0,1,0,1,1,0,0,0,1,0,0,4
 "Beechview                     ",2020,9504,"Lost Property",0,1,0,0,0,1,0,0,0,0,0,0,2
 "Beechview                     ",2021,2910,"Luring a Child into a Motor Vehicle.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2021,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,2,0,0,0,4,0,2,0,0,10
@@ -514,7 +514,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,3311,"Driving on Divided Highways.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,3309,"Driving on Roadways Laned for Traffic.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,3703,"Driving Upon Sidewalk.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2021,1543,"Driving While Operating Privilege is Suspended or Revoked.",2,0,3,0,0,4,0,5,0,0,0,0,14
+"Brookline                     ",2021,1543,"Driving While Operating Privilege is Suspended or Revoked.",2,0,3,0,0,4,0,5,0,1,0,0,15
 "Brookline                     ",2020,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,0,0,0,0,1,2,0,0,0,2,5
 "Brookline                     ",2021,9124,"Drug Investigation",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,9124,"Drug Investigation",0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -706,7 +706,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,3717,"Trespass by Motor Vehicle",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2020,3334,"Turning Movements and Required Signals.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2020,2714,"Unathorized Administration of Intoxicant ",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2021,3928,"Unauthorized Use of Automobile and Other Vehicles.",1,0,1,0,1,1,0,0,3,0,0,0,7
+"Brookline                     ",2021,3928,"Unauthorized Use of Automobile and Other Vehicles.",1,0,1,0,1,1,0,0,3,1,0,0,8
 "Brookline                     ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,1,0,0,0,0,2,0,0,0,0,3
 "Brookline                     ",2020,6318,"Unlawful Contact/Communication w/ Minor",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,2902,"Unlawful Restraint.",0,0,0,0,0,0,2,0,0,0,0,0,2
@@ -955,7 +955,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2021,2709(b),Stalking,0,0,2,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2021,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2021,2709.2,"Stalking Conduct or Repeatedly Communicates",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2021,2709.2,"Stalking Conduct or Repeatedly Communicates",0,0,1,0,0,0,0,0,0,1,0,0,2
 "Crafton Heights               ",2020,2709.2,"Stalking Conduct or Repeatedly Communicates",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,3323,"Stop Signs and Yield Signs.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2020,3323,"Stop Signs and Yield Signs.",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -1752,7 +1752,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,13(a)(31),"Marijuana: Possession Small Amount",0,2,4,0,0,1,0,0,2,0,0,0,9
 "Sheraden                      ",2020,13(a)(31),"Marijuana: Possession Small Amount",0,0,4,2,3,2,5,8,0,2,2,2,30
 "Sheraden                      ",2021,425.26,Miscellaneous,0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2021,9123,"Miscellaneous Fire Other Investigation to Continue",1,1,0,1,1,0,1,0,0,1,0,0,6
+"Sheraden                      ",2021,9123,"Miscellaneous Fire Other Investigation to Continue",1,1,0,1,1,0,1,0,0,2,0,0,7
 "Sheraden                      ",2020,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Sheraden                      ",2021,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,1,0,0,1,0,0,0,0,0,0,2
 "Sheraden                      ",2021,9129,"Miscellaneous Investigation",2,2,0,2,1,1,2,1,2,0,0,0,13
@@ -2001,7 +2001,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2020,2902,"Unlawful Restraint.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Westwood                      ",2021,9498,"302 (Mental)",1,1,1,1,0,0,0,0,0,1,0,0,5
 "Westwood                      ",2020,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,1,1,0,4
-"Westwood                      ",2021,9999,"9999 - (Misc. Incident):",2,7,7,2,1,3,2,1,1,0,0,0,26
+"Westwood                      ",2021,9999,"9999 - (Misc. Incident):",2,7,7,2,1,3,2,1,1,1,0,0,27
 "Westwood                      ",2020,9999,"9999 - (Misc. Incident):",4,3,1,0,0,0,0,3,0,4,0,3,18
 "Westwood                      ",2021,4106,"Access Device Fraud",0,0,2,0,0,0,1,0,0,0,0,0,3
 "Westwood                      ",2020,4106,"Access Device Fraud",0,1,0,1,0,0,0,1,0,0,1,0,4
