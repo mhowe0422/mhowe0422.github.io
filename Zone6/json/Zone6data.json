@@ -3264,9 +3264,9 @@
             "Aug": "2",
             "Sep": "1",
             "Oct": "2",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "26"
+            "Count": "27"
         },
         {
             "Neighborhood": "Beechview",
@@ -8318,9 +8318,9 @@
             "Aug": "3",
             "Sep": "0",
             "Oct": "3",
-            "Nov": "2",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "21"
+            "Count": "22"
         },
         {
             "Neighborhood": "Brookline",
@@ -9285,9 +9285,9 @@
             "Jun": "1",
             "Jul": "0",
             "Aug": "4",
-            "Sep": "2",
+            "Sep": "1",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
             "Count": "10"
         },
@@ -13505,9 +13505,9 @@
             "Aug": "0",
             "Sep": "3",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Brookline",
@@ -24449,9 +24449,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "1",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Esplen",
@@ -24677,9 +24677,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Esplen",
@@ -25038,9 +25038,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Esplen",
@@ -25950,9 +25950,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Esplen",
@@ -26558,9 +26558,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Esplen",
@@ -30909,9 +30909,9 @@
             "Aug": "1",
             "Sep": "3",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "22"
+            "Count": "23"
         },
         {
             "Neighborhood": "Sheraden",
@@ -32151,6 +32151,25 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2021",
+            "Section": "3309",
+            "Description": "Driving on Roadways Laned for Traffic.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2021",
             "Section": "1543",
             "Description": "Driving While Operating Privilege is Suspended or Revoked.",
             "Jan": "0",
@@ -32220,9 +32239,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -34811,6 +34830,25 @@
         {
             "Neighborhood": "Sheraden",
             "Year": "2021",
+            "Section": "3809(a)",
+            "Description": "Restriction on Alcoholic Beverages in Vehicle",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2021",
             "Section": "3929",
             "Description": "Retail Theft.",
             "Jan": "0",
@@ -34994,9 +35032,9 @@
             "Aug": "8",
             "Sep": "14",
             "Oct": "5",
-            "Nov": "6",
+            "Nov": "7",
             "Dec": "0",
-            "Count": "98"
+            "Count": "99"
         },
         {
             "Neighborhood": "Sheraden",
@@ -35146,9 +35184,9 @@
             "Aug": "5",
             "Sep": "5",
             "Oct": "4",
-            "Nov": "2",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "39"
+            "Count": "40"
         },
         {
             "Neighborhood": "Sheraden",
@@ -35203,9 +35241,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -36783,6 +36821,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2021",
+            "Section": "4101",
+            "Description": "Forgery.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "West End",
