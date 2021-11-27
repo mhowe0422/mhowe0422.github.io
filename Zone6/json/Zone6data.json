@@ -10636,9 +10636,9 @@
             "Aug": "3",
             "Sep": "3",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "20"
+            "Count": "21"
         },
         {
             "Neighborhood": "Brookline",
@@ -11491,9 +11491,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -12916,9 +12916,9 @@
             "Aug": "6",
             "Sep": "4",
             "Oct": "4",
-            "Nov": "3",
+            "Nov": "4",
             "Dec": "0",
-            "Count": "33"
+            "Count": "34"
         },
         {
             "Neighborhood": "Brookline",
@@ -13087,9 +13087,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "2",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -28997,6 +28997,25 @@
         {
             "Neighborhood": "Oakwood",
             "Year": "2021",
+            "Section": "1543",
+            "Description": "Driving While Operating Privilege is Suspended or Revoked.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Oakwood",
+            "Year": "2021",
             "Section": "3802(a)(1)",
             "Description": "DUI - General Impairment",
             "Jan": "0",
@@ -29599,6 +29618,25 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Oakwood",
+            "Year": "2021",
+            "Section": "3925",
+            "Description": "Receiving Stolen Property.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
             "Dec": "0",
             "Count": "1"
         },
@@ -30643,9 +30681,9 @@
             "Aug": "8",
             "Sep": "5",
             "Oct": "3",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "76"
+            "Count": "77"
         },
         {
             "Neighborhood": "Sheraden",
@@ -38452,9 +38490,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Westwood",
