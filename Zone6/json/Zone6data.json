@@ -3436,8 +3436,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "10"
+            "Dec": "1",
+            "Count": "11"
         },
         {
             "Neighborhood": "Beechview",
@@ -4766,8 +4766,8 @@
             "Sep": "2",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "15"
+            "Dec": "1",
+            "Count": "16"
         },
         {
             "Neighborhood": "Beechview",
@@ -4804,8 +4804,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "2"
+            "Dec": "1",
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -9060,8 +9060,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "4"
+            "Dec": "1",
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -13354,8 +13354,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "1",
-            "Count": "29"
+            "Dec": "2",
+            "Count": "30"
         },
         {
             "Neighborhood": "Brookline",
@@ -36762,8 +36762,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "2",
-            "Dec": "0",
-            "Count": "8"
+            "Dec": "1",
+            "Count": "9"
         },
         {
             "Neighborhood": "West End",
@@ -37864,8 +37864,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "2"
+            "Dec": "1",
+            "Count": "3"
         },
         {
             "Neighborhood": "West End",
@@ -38586,8 +38586,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "11"
+            "Dec": "1",
+            "Count": "12"
         },
         {
             "Neighborhood": "Westwood",
@@ -38909,8 +38909,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "11"
+            "Dec": "1",
+            "Count": "12"
         },
         {
             "Neighborhood": "Westwood",
@@ -38967,6 +38967,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2021",
+            "Section": "3503(a)",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
             "Count": "1"
         },
         {
@@ -39213,8 +39232,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "5"
+            "Dec": "1",
+            "Count": "6"
         },
         {
             "Neighborhood": "Westwood",
@@ -39270,8 +39289,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "2"
+            "Dec": "1",
+            "Count": "3"
         },
         {
             "Neighborhood": "Westwood",
@@ -39308,8 +39327,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
+            "Dec": "1",
+            "Count": "2"
         },
         {
             "Neighborhood": "Westwood",
@@ -39804,6 +39823,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2021",
+            "Section": "3746",
+            "Description": "Immediate Notice of Accident to Police Department",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
