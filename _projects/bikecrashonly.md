@@ -1,5 +1,5 @@
 ---
-layout: projectwurl
+layout: 
 title: Bicycle Crash Only Map
 description: 
 image: assets/images/bikecrashes.jpg
