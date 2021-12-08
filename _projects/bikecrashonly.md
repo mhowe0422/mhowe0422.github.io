@@ -5,5 +5,6 @@ description:
 image: assets/images/bikecrashes.jpg
 lead: Mark Howe
 link: /BikeCrashMap
+url: /BikeCrashMap
 ---
 
