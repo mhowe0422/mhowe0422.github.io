@@ -1,10 +1,9 @@
 ---
-layout: project
+layout: projectwurl
 title: Bicycle Crash Only Map
 description: 
 image: assets/images/bikecrashes.jpg
 lead: Mark Howe
-link: /BikeCrashMap
-url: /BikeCrashMap
+url: (http://codeforpittsburgh.github.io//BikeCrashMap)
 ---
 
