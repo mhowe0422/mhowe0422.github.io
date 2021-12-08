@@ -7,3 +7,6 @@ lead: Mark Howe
 link: http://codeforpittsburgh.github.io//BikeCrashMap
 ---
 
+<script>
+  window.location.href = "{{ page.link }}";
+</script>
