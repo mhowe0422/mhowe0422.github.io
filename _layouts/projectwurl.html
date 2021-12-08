@@ -12,9 +12,11 @@
 
 
     <body>
-        <a href= "{{ page.link }}">Click me</a>
+      <!--  <a href= "{{ page.link }}">Click me target="_blank"</a> -->
         <h2>{{ page.link }}</h2>
-
+<script>
+  window.location.href = "{{ page.link }}";
+</script>
 
     </body>
 
