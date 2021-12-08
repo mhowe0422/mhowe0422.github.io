@@ -441,7 +441,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,4524,"Windshield Obstructions and Wipers.",0,0,0,0,1,1,0,2,0,0,0,0,4
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,3,0,22
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,1,109
+"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,2,110
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2021,4106,"Access Device Fraud",2,1,7,2,3,1,1,3,0,1,1,2,24
 "Brookline                     ",2020,4106,"Access Device Fraud",3,1,1,0,2,1,1,6,3,0,0,1,19
@@ -569,7 +569,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",1,0,0,0,0,0,0,0,1,0,0,0,2
 "Brookline                     ",2020,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,1,0,0,0,2,0,0,0,3
-"Brookline                     ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,1,1,0,0,0,0,0,2
+"Brookline                     ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,1,1,0,0,0,0,1,3
 "Brookline                     ",2020,2709(a)(3),"Harassment No Legitimate Purpose",1,1,2,0,1,0,2,0,1,1,1,0,10
 "Brookline                     ",2021,2709(a),Harassment.,1,1,1,2,1,6,1,5,3,2,0,0,23
 "Brookline                     ",2020,2709(a),Harassment.,4,0,0,2,0,2,1,2,2,1,3,3,20
@@ -702,7 +702,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,3923,"Theft by Extortion.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,4,4,7,1,2,2,27
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
-"Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,4,2,3,1,1,41
+"Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,4,2,3,1,2,42
 "Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",2,4,1,1,2,2,5,3,3,3,2,3,31
 "Brookline                     ",2021,3934,"Theft from Vehicle",14,0,5,4,1,2,2,0,0,0,0,3,31
 "Brookline                     ",2020,3934,"Theft from Vehicle",1,5,1,2,0,4,4,4,4,1,3,4,33
@@ -958,7 +958,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,5,3,5,1,51
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,3,5,2,7,6,1,2,3,2,33
 "Crafton Heights               ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,2,0,0,0,0,0,0,2
-"Crafton Heights               ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,5,0,0,1,1,2,2,0,0,0,0,13
+"Crafton Heights               ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,5,0,0,1,1,2,2,0,0,0,1,14
 "Crafton Heights               ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,1,3,1,1,0,0,0,6
 "Crafton Heights               ",2021,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,1,1,2,0,2,0,0,1,0,10
