@@ -25,10 +25,10 @@
 		<header class="major">
 			<h1>{{ page.title }}</h1>
 		</header>
-		{% if page.url %} (http://codeforpittsburgh.github.io/BikeCrashMap/index.html "Crash Map" target="_blank")
+
 	</div>
 </section>
-
+{% if page.url %} <h2>{{ page.url }}</h2>
 </div>
 
     {% include footer.html %}
