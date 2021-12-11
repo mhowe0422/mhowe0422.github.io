@@ -127,7 +127,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2021,1786,"Required Financial Responsibility.",1,0,0,0,0,0,1,0,0,0,0,0,2
 "Banksville                    ",2020,1786,"Required Financial Responsibility.",0,0,0,0,0,0,0,0,0,0,1,2,3
 "Banksville                    ",2021,3929,"Retail Theft.",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Banksville                    ",2021,3701,Robbery.,0,0,0,0,0,0,2,0,0,0,0,0,2
+"Banksville                    ",2021,3701,Robbery.,0,0,0,0,0,0,2,0,0,0,0,1,3
 "Banksville                    ",2020,3701,Robbery.,0,1,0,0,0,0,0,0,0,0,1,1,3
 "Banksville                    ",2020,8106,"Shots Fired",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Banksville                    ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,2,0,0,0,0,0,0,2
@@ -206,9 +206,9 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,3304(a)(6),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Paintball Gun or Paintball Marker)",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Beechview                     ",2020,3304(a)(2),"CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property)",0,1,2,0,0,0,0,0,1,0,0,0,4
 "Beechview                     ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,0,1,1,2,1,1,0,0,0,1,0,10
+"Beechview                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,0,1,1,2,1,1,0,0,0,1,1,11
 "Beechview                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,2,0,0,0,1,0,0,3,1,2,0,10
-"Beechview                     ",2021,3304,"Criminal Mischief.",5,0,3,1,4,4,2,3,5,2,1,1,31
+"Beechview                     ",2021,3304,"Criminal Mischief.",5,0,3,1,4,4,2,3,5,2,1,2,32
 "Beechview                     ",2020,3304,"Criminal Mischief.",3,1,1,1,3,1,4,4,10,0,2,2,32
 "Beechview                     ",2020,902,"Criminal Solicitation.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2021,3503,"Criminal Trespass",0,0,0,1,1,0,0,0,4,0,0,0,6
@@ -442,7 +442,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,4524,"Windshield Obstructions and Wipers.",0,0,0,0,1,1,0,2,0,0,0,0,4
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,3,0,22
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,3,111
+"Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,4,112
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2021,4106,"Access Device Fraud",2,1,7,2,3,1,1,3,0,1,1,2,24
 "Brookline                     ",2020,4106,"Access Device Fraud",3,1,1,0,2,1,1,6,3,0,0,1,19
@@ -488,7 +488,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Brookline                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,0,0,2,2,2,0,5,2,0,0,0,15
 "Brookline                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,1,1,3,2,0,2,2,2,1,0,16
-"Brookline                     ",2021,3304,"Criminal Mischief.",2,3,3,1,3,4,4,12,1,2,0,0,35
+"Brookline                     ",2021,3304,"Criminal Mischief.",2,3,3,1,3,4,4,12,1,2,0,1,36
 "Brookline                     ",2020,3304,"Criminal Mischief.",2,4,2,0,2,7,3,5,1,6,5,4,41
 "Brookline                     ",2020,902,"Criminal Solicitation.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,3503,"Criminal Trespass",0,0,1,0,1,1,0,5,3,1,1,0,13
@@ -510,6 +510,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,607.03,"Discharging Firearm or Airgun",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",0,0,0,0,0,0,0,2,0,0,0,0,2
+"Brookline                     ",2021,5503(a)(3),"DISORDERLY CONDUCT - OBSCENE LANG/GEST",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Brookline                     ",2021,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,1,2,0,0,0,3
 "Brookline                     ",2020,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,5503,"Disorderly Conduct.",2,0,0,1,1,3,1,6,2,2,2,0,20
@@ -784,7 +785,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,9498,"302 (Mental)",0,3,2,1,0,2,1,2,1,1,0,0,13
 "Crafton Heights               ",2020,9498,"302 (Mental)",1,1,2,0,3,0,0,0,0,1,0,2,10
-"Crafton Heights               ",2021,9999,"9999 - (Misc. Incident):",3,7,2,2,2,4,2,3,4,4,1,1,35
+"Crafton Heights               ",2021,9999,"9999 - (Misc. Incident):",3,7,2,2,2,4,2,3,4,4,1,2,36
 "Crafton Heights               ",2020,9999,"9999 - (Misc. Incident):",4,5,6,1,1,3,3,1,3,8,4,6,45
 "Crafton Heights               ",2021,4106,"Access Device Fraud",0,0,2,3,1,1,1,2,1,0,0,0,11
 "Crafton Heights               ",2020,4106,"Access Device Fraud",1,0,0,0,0,0,1,1,1,0,1,0,5
@@ -1048,7 +1049,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2020,3934,"Theft from Vehicle",0,1,0,0,0,4,0,0,0,0,0,0,5
 "Elliott                       ",2021,9498,"302 (Mental)",3,1,2,0,3,2,0,0,0,0,0,0,11
 "Elliott                       ",2020,9498,"302 (Mental)",1,1,0,1,1,0,0,0,0,0,0,1,5
-"Elliott                       ",2021,9999,"9999 - (Misc. Incident):",4,1,0,3,2,5,2,2,4,3,0,0,26
+"Elliott                       ",2021,9999,"9999 - (Misc. Incident):",4,1,0,3,2,5,2,2,4,3,0,1,27
 "Elliott                       ",2020,9999,"9999 - (Misc. Incident):",1,5,3,0,3,6,0,2,2,2,2,2,28
 "Elliott                       ",2021,2404(b)(5),"A person may not ignite fireworks within 150 feet of an occupied structure",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Elliott                       ",2021,4106,"Access Device Fraud",0,0,3,2,0,1,0,0,0,0,0,0,6
@@ -1057,7 +1058,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Elliott                       ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,1,1,0,1,0,0,0,1,0,5
 "Elliott                       ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,0,0,1,0,0,0,1,2,0,1,7
-"Elliott                       ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,2,3,3,1,1,1,1,1,1,15
+"Elliott                       ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,2,3,3,1,1,1,1,1,2,16
 "Elliott                       ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,1,1,1,2,0,0,2,2,1,11
 "Elliott                       ",2021,3735.1,"Aggravated Assault While DUI",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,2702,"Aggravated Assault.",2,0,0,1,0,0,0,0,2,0,2,0,7
@@ -1434,7 +1435,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2020,4106,"Access Device Fraud",0,0,0,1,0,0,0,0,0,1,0,0,2
 "Fairywood                     ",2020,9018,"Accidental Fire",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Fairywood                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Fairywood                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,0,0,0,0,1,1,0,0,2
+"Fairywood                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,0,0,0,0,1,1,0,1,3
 "Fairywood                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Fairywood                     ",2021,2702,"Aggravated Assault.",1,0,0,0,0,0,0,2,3,2,0,0,8
 "Fairywood                     ",2020,2702,"Aggravated Assault.",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -1681,7 +1682,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,1,1,0,1,0,1,0,2,1,1,11
 "Sheraden                      ",2021,3304,"Criminal Mischief.",2,2,3,5,3,7,2,6,8,5,4,0,47
 "Sheraden                      ",2020,3304,"Criminal Mischief.",2,3,3,2,2,5,2,3,3,4,6,3,38
-"Sheraden                      ",2021,3503,"Criminal Trespass",0,2,1,0,0,0,0,2,5,0,0,0,10
+"Sheraden                      ",2021,3503,"Criminal Trespass",0,2,1,0,0,0,0,2,5,0,0,1,11
 "Sheraden                      ",2020,3503,"Criminal Trespass",0,0,0,2,0,1,0,0,2,0,0,2,7
 "Sheraden                      ",2020,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,3,0,3
 "Sheraden                      ",2021,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -1884,7 +1885,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,3922,"Theft by Deception.",1,1,1,2,1,1,0,2,0,0,0,0,9
 "Sheraden                      ",2020,3922,"Theft by Deception.",0,0,0,0,0,0,0,1,0,1,0,0,2
 "Sheraden                      ",2021,3923,"Theft by Extortion.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Sheraden                      ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,1,3,5,4,3,6,3,1,1,3,1,33
+"Sheraden                      ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,1,3,5,4,3,6,3,1,1,3,2,34
 "Sheraden                      ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,3,2,2,1,2,3,3,2,1,0,1,22
 "Sheraden                      ",2021,3921,"Theft by Unlawful Taking or Disposition.",3,1,1,1,3,1,1,6,3,2,2,1,25
 "Sheraden                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",5,3,3,3,4,4,3,3,0,3,2,4,37
