@@ -1256,7 +1256,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,2706,"Terroristic Threats.",2,0,0,0,0,2,6,0,0,0,0,0,10
 "Elliott                       ",2020,2706,"Terroristic Threats.",1,0,1,0,1,1,0,2,4,0,2,0,12
 "Elliott                       ",2021,3922,"Theft by Deception.",0,0,0,1,1,0,1,0,1,1,1,0,6
-"Elliott                       ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,2,1,0,2,4,1,0,2,1,0,14
+"Elliott                       ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,2,1,0,2,4,1,0,2,1,1,15
 "Elliott                       ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,2,0,1,0,2,0,0,2,0,0,1,11
 "Elliott                       ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,1,0,4,2,3,1,1,0,0,1,1,16
 "Elliott                       ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,0,3,3,0,0,2,1,1,1,12
@@ -1639,12 +1639,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Sheraden                      ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,0,1,3,0,1,2,0,0,0,8
 "Sheraden                      ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,2,0,2,2,1,1,3,3,1,0,3,18
-"Sheraden                      ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,3,2,3,3,3,5,0,2,0,2,24
+"Sheraden                      ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,3,2,3,3,3,5,0,2,0,3,25
 "Sheraden                      ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,2,2,0,2,7,8,2,9,1,4,1,41
 "Sheraden                      ",2021,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Sheraden                      ",2021,3732.1,"Aggravated Assault by Vehicle",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Sheraden                      ",2020,3732.1,"Aggravated Assault by Vehicle",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Sheraden                      ",2021,2702,"Aggravated Assault.",2,0,1,0,2,4,3,3,1,1,0,0,17
+"Sheraden                      ",2021,2702,"Aggravated Assault.",2,0,1,0,2,4,3,3,1,1,0,1,18
 "Sheraden                      ",2020,2702,"Aggravated Assault.",0,0,3,2,4,3,8,4,6,0,1,3,34
 "Sheraden                      ",2020,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2020,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -1659,7 +1659,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,4105(a)(1),"Bad Checks",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,9501,"Bench Warrant",0,1,0,0,0,0,2,0,3,2,3,0,11
 "Sheraden                      ",2020,9501,"Bench Warrant",2,0,2,3,5,2,4,4,4,0,0,4,30
-"Sheraden                      ",2021,3502,Burglary.,1,1,2,4,7,3,1,1,1,0,1,0,22
+"Sheraden                      ",2021,3502,Burglary.,1,1,2,4,7,3,1,1,1,0,1,1,23
 "Sheraden                      ",2020,3502,Burglary.,2,0,1,4,0,0,0,3,5,2,1,2,20
 "Sheraden                      ",2021,3714,"Careless Driving",0,0,0,0,1,0,1,1,0,0,0,0,3
 "Sheraden                      ",2020,3714,"Careless Driving",0,0,0,0,0,0,2,2,2,2,2,0,10
@@ -1667,7 +1667,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,3302,"Causing or Risking Catastrophe.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,9133,"Complaint - No Citation",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Sheraden                      ",2020,5123,Contraband.,0,0,0,0,2,0,0,0,0,0,0,0,2
-"Sheraden                      ",2021,6301,"Corruption of Minors.",1,1,0,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2021,6301,"Corruption of Minors.",1,1,0,0,0,0,0,0,0,0,0,1,3
 "Sheraden                      ",2020,6301,"Corruption of Minors.",0,1,0,0,0,0,0,0,0,1,0,0,2
 "Sheraden                      ",2021,901,"Criminal Attempt",1,2,0,1,0,0,2,0,0,0,1,0,7
 "Sheraden                      ",2020,901,"Criminal Attempt",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -1693,7 +1693,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3503(b.1),"Criminal Trespass - Simple Trespasser",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,3503(b.1)(1)(iii),"Criminal Trespass/Simple Trespasser - Defacing or Damaging the Premises",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,3503(b.1)(1)(ii),"Criminal Trespass/Simple Trespasser - Starting a Fire upon the Premises",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Sheraden                      ",2021,7512,"Criminal Use of Communication",0,1,0,0,0,0,0,0,0,0,0,1,2
+"Sheraden                      ",2021,7512,"Criminal Use of Communication",0,1,0,0,0,0,0,0,0,0,0,2,3
 "Sheraden                      ",2020,5533(a),"Cruelty to animals - Intentionally, knowingly or recklessly illtreats, overloads, beats, abandons or abuses an animal ",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2021,9496,"Dead on Arrival (DOA)",1,1,1,2,1,1,1,0,0,0,0,0,8
 "Sheraden                      ",2020,9496,"Dead on Arrival (DOA)",2,1,0,0,0,0,0,1,1,1,0,2,8
@@ -1713,6 +1713,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,5503,"Disorderly Conduct.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Sheraden                      ",2020,1332,"Display of Registration Plate.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,"670.02  (a)","Disruptive activity prepetrataed/caused/permitted on property by owner(s)/tenant(s)/occupant(s)/invitee(s) of the property",0,0,0,0,0,0,0,0,1,0,0,0,1
+"Sheraden                      ",2021,5903(C),"Dissemination Obscenity to Minors",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2021,9492,"Dog Bite",0,0,0,0,0,1,1,0,0,0,1,0,3
 "Sheraden                      ",2020,9492,"Dog Bite",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,1501,"Drivers Required to be Licensed.",0,3,0,0,0,0,1,0,0,0,0,1,5
@@ -1846,7 +1847,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3925,"Receiving Stolen Property.",2,0,0,2,1,0,0,2,2,0,0,0,9
 "Sheraden                      ",2021,3736,"Reckless Driving",0,3,1,0,0,0,0,1,0,0,0,0,5
 "Sheraden                      ",2020,3736,"Reckless Driving",0,0,0,4,0,0,1,0,2,0,0,0,7
-"Sheraden                      ",2021,2705,"Recklessly Endangering Another Person.",2,0,3,5,0,4,3,8,1,4,0,1,31
+"Sheraden                      ",2021,2705,"Recklessly Endangering Another Person.",2,0,3,5,0,4,3,8,1,4,0,2,32
 "Sheraden                      ",2020,2705,"Recklessly Endangering Another Person.",2,0,0,1,0,0,4,0,4,0,2,0,13
 "Sheraden                      ",2021,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Sheraden                      ",2020,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,0,0,0,0,0,0,0,0,1,0,1,2
@@ -1863,7 +1864,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2021,3702,"Robbery of Motor Vehicle.",1,1,0,0,0,0,1,2,1,0,0,0,6
 "Sheraden                      ",2020,3702,"Robbery of Motor Vehicle.",0,0,0,2,0,0,0,1,0,0,0,0,3
-"Sheraden                      ",2021,3701,Robbery.,2,2,1,0,3,1,2,3,0,0,0,0,14
+"Sheraden                      ",2021,3701,Robbery.,2,2,1,0,3,1,2,3,0,0,0,1,15
 "Sheraden                      ",2020,3701,Robbery.,2,1,0,3,1,1,0,1,2,1,1,0,13
 "Sheraden                      ",2021,6304(b)(2),"Sale And Use of Air Rifles - Carrying Or Discharging Air Rifles on Public Land or any",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Sheraden                      ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,1,0,1,0,0,0,0,3
@@ -1904,6 +1905,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3334,"Turning Movements and Required Signals.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,3928,"Unauthorized Use of Automobile and Other Vehicles.",1,1,1,2,2,2,0,1,2,0,0,0,12
 "Sheraden                      ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,3,0,0,1,0,0,0,4
+"Sheraden                      ",2021,6318,"Unlawful Contact/Communication w/ Minor",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2021,2707.2(A.1),"UNLAWFUL DISCHARGE OF PAINTBALL GUN/MARKER",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,2707.2(A.1),"UNLAWFUL DISCHARGE OF PAINTBALL GUN/MARKER",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Sheraden                      ",2021,2902,"Unlawful Restraint.",0,1,2,0,0,0,0,0,0,0,0,0,3
