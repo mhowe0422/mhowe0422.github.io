@@ -793,7 +793,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2021,9018,"Accidental Fire",0,0,1,0,0,1,0,0,0,0,0,0,2
 "Crafton Heights               ",2021,7728,"Accidents and Accident Reports.",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,2,0,2,2,0,1,0,0,0,7
+"Crafton Heights               ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,2,0,2,2,0,1,0,0,1,8
 "Crafton Heights               ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,2,0,1,0,0,0,1,0,0,5
 "Crafton Heights               ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,2,3,2,0,2,1,0,2,0,2,14
 "Crafton Heights               ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",5,0,1,1,1,1,1,0,0,0,0,0,10
@@ -930,7 +930,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,6110.1,"Possesion of Firearm by Minor",0,0,2,0,0,0,0,1,1,0,0,0,4
 "Crafton Heights               ",2021,627.02(b)(i),"Possessing a small amount of marijuana",0,0,2,0,0,1,0,0,0,0,0,0,3
 "Crafton Heights               ",2020,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Crafton Heights               ",2021,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,0,2,0,0,0,2
+"Crafton Heights               ",2021,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,0,2,0,0,2,4
 "Crafton Heights               ",2020,907,"Possessing Instruments of Crime.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Crafton Heights               ",2021,13(a)(16),"Possession of Controlled Substance",2,0,0,4,0,0,0,2,0,0,0,0,8
 "Crafton Heights               ",2020,13(a)(16),"Possession of Controlled Substance",4,2,2,0,0,0,0,0,0,0,0,0,8
@@ -962,7 +962,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,5,3,5,2,52
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,3,5,2,7,6,1,2,3,2,33
 "Crafton Heights               ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,2,0,0,0,0,0,0,2
-"Crafton Heights               ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,5,0,0,1,1,2,2,0,0,0,1,14
+"Crafton Heights               ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,5,0,0,1,1,2,2,0,0,0,3,16
 "Crafton Heights               ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,1,3,1,1,0,0,0,6
 "Crafton Heights               ",2021,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,1,1,2,0,2,0,0,1,0,10
@@ -980,7 +980,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,1,0,1,2,4,1,1,0,1,0,11
 "Crafton Heights               ",2021,2718(a)(2),"Strangulation - Blocking the Nose and Mouth of the Person",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Crafton Heights               ",2021,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,2,0,0,0,0,0,0,0,0,2
-"Crafton Heights               ",2021,2706,"Terroristic Threats.",0,4,3,2,0,1,3,6,3,1,3,0,26
+"Crafton Heights               ",2021,2706,"Terroristic Threats.",0,4,3,2,0,1,3,6,3,1,3,2,28
 "Crafton Heights               ",2020,2706,"Terroristic Threats.",1,1,0,1,0,2,6,4,3,2,1,0,21
 "Crafton Heights               ",2021,3922,"Theft by Deception.",0,0,0,1,0,1,1,0,0,0,0,0,3
 "Crafton Heights               ",2020,3922,"Theft by Deception.",0,1,0,1,3,0,0,0,1,1,0,0,7
@@ -1084,7 +1084,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Elliott                       ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Elliott                       ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,2,1,0,0,0,0,1,0,0,0,1,6
-"Elliott                       ",2021,3304,"Criminal Mischief.",0,3,2,2,0,3,0,2,0,0,0,1,13
+"Elliott                       ",2021,3304,"Criminal Mischief.",0,3,2,2,0,3,0,2,0,0,0,2,14
 "Elliott                       ",2020,3304,"Criminal Mischief.",1,0,1,2,7,5,3,1,3,0,0,1,24
 "Elliott                       ",2021,3503,"Criminal Trespass",0,0,1,0,0,0,2,0,0,1,0,0,4
 "Elliott                       ",2020,3503,"Criminal Trespass",2,0,0,0,1,0,2,0,1,0,0,0,6
@@ -1434,7 +1434,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2021,9999,"9999 - (Misc. Incident):",1,1,1,1,0,2,1,1,3,1,0,0,12
 "Fairywood                     ",2020,9999,"9999 - (Misc. Incident):",2,1,1,4,1,0,1,0,1,2,0,1,14
 "Fairywood                     ",2021,2404(b)(5),"A person may not ignite fireworks within 150 feet of an occupied structure",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Fairywood                     ",2021,4106,"Access Device Fraud",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Fairywood                     ",2021,4106,"Access Device Fraud",0,0,0,0,0,1,0,0,0,0,0,1,2
 "Fairywood                     ",2020,4106,"Access Device Fraud",0,0,0,1,0,0,0,0,0,1,0,0,2
 "Fairywood                     ",2020,9018,"Accidental Fire",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Fairywood                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,1,0,0,0,0,0,1,2
