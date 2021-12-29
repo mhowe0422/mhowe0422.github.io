@@ -8395,8 +8395,8 @@
             "Sep": "7",
             "Oct": "9",
             "Nov": "10",
-            "Dec": "5",
-            "Count": "113"
+            "Dec": "6",
+            "Count": "114"
         },
         {
             "Neighborhood": "Brookline",
@@ -19155,6 +19155,25 @@
         {
             "Neighborhood": "East Carnegie",
             "Year": "2021",
+            "Section": "3502",
+            "Description": "Burglary.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "East Carnegie",
+            "Year": "2021",
             "Section": "3304(a)(1)",
             "Description": "CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",
             "Jan": "0",
@@ -24298,8 +24317,8 @@
             "Sep": "0",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "2"
+            "Dec": "1",
+            "Count": "3"
         },
         {
             "Neighborhood": "Esplen",
