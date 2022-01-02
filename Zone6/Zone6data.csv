@@ -686,6 +686,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,1,0,0,3,2,1,0,0,0,0,0,7
 "Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,2,0,0,3,1,4,0,0,13
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
+"Brookline                     ",2022,2701,"Simple Assault.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,2701,"Simple Assault.",0,5,3,4,6,10,1,9,6,8,7,7,66
 "Brookline                     ",2020,2701,"Simple Assault.",11,4,6,7,5,3,6,6,3,9,4,6,70
 "Brookline                     ",2021,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,1,0,0,0,2
@@ -961,6 +962,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,3701,Robbery.,1,0,0,0,0,0,2,1,1,1,1,1,8
 "Crafton Heights               ",2020,3701,Robbery.,0,2,0,0,3,0,0,0,1,1,0,0,7
 "Crafton Heights               ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2022,8106,"Shots Fired",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,5,3,5,4,54
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,3,5,2,7,6,1,2,3,2,33
 "Crafton Heights               ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,2,0,0,0,0,0,0,2
@@ -1513,6 +1515,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",1,0,0,2,0,0,0,0,0,0,1,0,4
 "Fairywood                     ",2021,2706,"Terroristic Threats.",0,0,0,0,0,0,0,2,1,1,0,0,4
 "Fairywood                     ",2020,2706,"Terroristic Threats.",0,0,0,0,0,0,4,0,0,0,0,0,4
+"Fairywood                     ",2022,3922,"Theft by Deception.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2021,3922,"Theft by Deception.",0,0,0,0,0,0,1,0,0,0,0,1,2
 "Fairywood                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Fairywood                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,1,0,0,0,1,0,0,2
@@ -1662,6 +1665,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3301,Arson,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,94951,"Attempted Suicide",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2021,4105(a)(1),"Bad Checks",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2022,9501,"Bench Warrant",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,9501,"Bench Warrant",0,1,0,0,0,0,2,0,3,2,3,2,13
 "Sheraden                      ",2020,9501,"Bench Warrant",2,0,2,3,5,2,4,4,4,0,0,4,30
 "Sheraden                      ",2021,3502,Burglary.,1,1,2,4,7,3,1,1,1,0,1,1,23
@@ -1874,6 +1878,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,6304(b)(2),"Sale And Use of Air Rifles - Carrying Or Discharging Air Rifles on Public Land or any",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Sheraden                      ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,1,0,1,0,0,0,0,3
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
+"Sheraden                      ",2022,8106,"Shots Fired",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,9,8,14,5,11,10,113
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
 "Sheraden                      ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,1,0,2,0,0,0,2,0,0,5
