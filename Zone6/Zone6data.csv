@@ -167,7 +167,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2021,2902,"Unlawful Restraint.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,2,1,0,0,2,13
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
-"Beechview                     ",2022,9999,"9999 - (Misc. Incident):",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2022,9999,"9999 - (Misc. Incident):",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,8,12,6,0,6,3,71
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",4,4,5,4,3,5,11,8,9,7,4,7,71
 "Beechview                     ",2020,2404(b)(1),"A person may not ignite fireworks on public or private property without the permission of the owner",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -511,6 +511,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2020,5511,"Cruelty to Animals.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Brookline                     ",2020,2709(a.1)(1)(i),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Disparaging Statement/Opinion",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2022,9496,"Dead on Arrival (DOA)",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,9496,"Dead on Arrival (DOA)",2,1,1,0,2,3,2,2,0,1,2,2,18
 "Brookline                     ",2020,9496,"Dead on Arrival (DOA)",1,0,0,1,2,1,3,2,0,0,1,0,11
 "Brookline                     ",2021,4107,"Deceptive Business Practices.",0,1,0,0,0,0,0,0,1,0,0,0,2
@@ -742,6 +743,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,1039.2,"Workers Compensation Insurance Fraud",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Chartiers City                ",2021,9498,"302 (Mental)",0,0,0,1,1,0,0,1,0,1,0,0,4
 "Chartiers City                ",2020,9498,"302 (Mental)",0,0,0,0,0,0,1,0,0,1,0,0,2
+"Chartiers City                ",2022,9999,"9999 - (Misc. Incident):",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Chartiers City                ",2021,9999,"9999 - (Misc. Incident):",0,0,0,0,1,0,1,1,0,0,0,0,3
 "Chartiers City                ",2020,9999,"9999 - (Misc. Incident):",0,0,0,1,0,0,1,5,1,0,0,0,8
 "Chartiers City                ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -1103,6 +1105,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,1,1,0,0,0,0,1,0,0,3
 "Elliott                       ",2020,3304(a)(6),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Paintball Gun or Paintball Marker)",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Elliott                       ",2021,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Elliott                       ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Elliott                       ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,2,1,0,0,0,0,1,0,0,0,1,6
 "Elliott                       ",2021,3304,"Criminal Mischief.",0,3,2,2,0,3,0,2,0,0,0,2,14
