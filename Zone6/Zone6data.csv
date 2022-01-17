@@ -94,6 +94,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2021,9129,"Miscellaneous Investigation",0,1,0,0,1,1,0,0,1,0,0,0,4
 "Banksville                    ",2020,9129,"Miscellaneous Investigation",0,0,0,0,0,0,0,0,1,1,0,0,2
 "Banksville                    ",2020,9490,"Missing Persons (18 and Over)",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Banksville                    ",2022,9012,"Non-Violent Domestic",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2020,13(a)(12),"Obtaining Cont. Subst. by Fraudulent Means",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Banksville                    ",2021,3308,"One-Way Roadways and Rotary Traffic Islands.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2021,4703,"Operation of Vehicle without Official Certif. of Inspection",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -1009,7 +1010,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,3701,Robbery.,1,0,0,0,0,0,2,1,1,1,1,1,8
 "Crafton Heights               ",2020,3701,Robbery.,0,2,0,0,3,0,0,0,1,1,0,0,7
 "Crafton Heights               ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2022,8106,"Shots Fired",3,0,0,0,0,0,0,0,0,0,0,0,3
+"Crafton Heights               ",2022,8106,"Shots Fired",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,5,3,5,4,54
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,3,5,2,7,6,1,2,3,2,33
 "Crafton Heights               ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,2,0,0,0,0,0,0,2
@@ -1037,6 +1038,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,3922,"Theft by Deception.",0,1,0,1,3,0,0,0,1,1,0,0,7
 "Crafton Heights               ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,3,1,1,2,1,3,2,0,0,4,1,18
 "Crafton Heights               ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,6,1,2,2,1,3,1,2,2,2,1,27
+"Crafton Heights               ",2022,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,4,2,2,3,1,1,2,0,16
 "Crafton Heights               ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,2,1,2,2,0,1,3,3,0,1,0,16
 "Crafton Heights               ",2021,3934,"Theft from Vehicle",0,1,0,2,1,0,1,4,2,2,1,0,14
@@ -1147,6 +1149,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,3503(b.1),"Criminal Trespass - Simple Trespasser",1,0,1,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2020,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,1,0,0,0,1
+"Elliott                       ",2022,9496,"Dead on Arrival (DOA)",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,9496,"Dead on Arrival (DOA)",0,0,0,1,1,1,0,0,1,0,0,0,4
 "Elliott                       ",2020,9496,"Dead on Arrival (DOA)",0,0,0,1,0,0,1,0,0,1,0,0,3
 "Elliott                       ",2021,4107,"Deceptive Business Practices.",0,0,0,0,0,0,0,0,0,0,0,2,2
@@ -1699,7 +1702,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2020,7611,"Unlawful Use of Computer",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Sheraden                      ",2021,9498,"302 (Mental)",3,3,0,3,5,5,3,0,2,0,0,1,25
 "Sheraden                      ",2020,9498,"302 (Mental)",2,2,1,0,0,2,0,1,0,1,1,2,12
-"Sheraden                      ",2022,9999,"9999 - (Misc. Incident):",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2022,9999,"9999 - (Misc. Incident):",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,10,5,7,8,5,3,1,0,77
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,5,1,5,10,8,7,9,2,4,4,61
 "Sheraden                      ",2021,4106,"Access Device Fraud",2,0,2,2,0,0,2,0,3,1,1,0,13
@@ -1767,7 +1770,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,3503(b.1)(1)(ii),"Criminal Trespass/Simple Trespasser - Starting a Fire upon the Premises",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Sheraden                      ",2021,7512,"Criminal Use of Communication",0,1,0,0,0,0,0,0,0,0,0,2,3
 "Sheraden                      ",2020,5533(a),"Cruelty to animals - Intentionally, knowingly or recklessly illtreats, overloads, beats, abandons or abuses an animal ",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Sheraden                      ",2022,9496,"Dead on Arrival (DOA)",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2022,9496,"Dead on Arrival (DOA)",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,9496,"Dead on Arrival (DOA)",1,1,1,2,1,1,1,0,0,0,0,1,9
 "Sheraden                      ",2020,9496,"Dead on Arrival (DOA)",2,1,0,0,0,0,0,1,1,1,0,2,8
 "Sheraden                      ",2021,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,2,0,0,0,0,0,0,2
