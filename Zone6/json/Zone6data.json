@@ -2589,7 +2589,7 @@
             "Year": "2022",
             "Section": "2701(a)(3)",
             "Description": "Simple Assault - Attempts by Physical Menace",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -2601,7 +2601,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -2788,6 +2788,25 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2022",
+            "Section": "2706",
+            "Description": "Terroristic Threats.",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
@@ -19423,7 +19442,7 @@
             "Year": "2022",
             "Section": "8106",
             "Description": "Shots Fired",
-            "Jan": "4",
+            "Jan": "5",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -19435,7 +19454,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -25896,6 +25915,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "9"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2022",
+            "Section": "3745",
+            "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Esplen",
@@ -35418,6 +35456,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2022",
+            "Section": "2709(a)",
+            "Description": "Harassment.",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2021",
             "Section": "2709(a)",
             "Description": "Harassment.",
@@ -37378,7 +37435,7 @@
             "Year": "2022",
             "Section": "8106",
             "Description": "Shots Fired",
-            "Jan": "6",
+            "Jan": "7",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -37390,7 +37447,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -42654,6 +42711,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "9998",
+            "Description": "Overdose",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
