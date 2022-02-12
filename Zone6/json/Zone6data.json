@@ -4566,7 +4566,7 @@
             "Section": "9496",
             "Description": "Dead on Arrival (DOA)",
             "Jan": "1",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -4577,7 +4577,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -9297,7 +9297,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "3",
-            "Feb": "2",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -9308,7 +9308,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -14610,6 +14610,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "5"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2022",
+            "Section": "2701(b)(1)",
+            "Description": "Simple Assault - Fight or Scuffle Entered by Mutual Consent",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -38116,6 +38135,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2022",
+            "Section": "9998",
+            "Description": "Overdose",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2021",
             "Section": "9998",
             "Description": "Overdose",
@@ -40817,6 +40855,25 @@
             "Year": "2021",
             "Section": "2702",
             "Description": "Aggravated Assault.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2022",
+            "Section": "9497",
+            "Description": "Aided Case",
             "Jan": "0",
             "Feb": "1",
             "Mar": "0",

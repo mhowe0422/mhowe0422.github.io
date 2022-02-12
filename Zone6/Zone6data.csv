@@ -240,7 +240,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Beechview                     ",2022,2709(a.1)(1)(i),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Disparaging Statement/Opinion",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,3301(d.1),"Dangerous Burning",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Beechview                     ",2022,9496,"Dead on Arrival (DOA)",1,1,0,0,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2022,9496,"Dead on Arrival (DOA)",1,2,0,0,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2021,9496,"Dead on Arrival (DOA)",4,2,0,2,1,0,1,0,3,1,1,1,16
 "Beechview                     ",2020,9496,"Dead on Arrival (DOA)",0,0,1,1,0,3,0,2,1,1,1,0,10
 "Beechview                     ",2021,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,2,0,0,0,2,0,0,0,4
@@ -490,7 +490,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,9498,"302 (Mental)",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,3,0,22
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,2,0,0,0,0,0,0,0,0,0,0,5
+"Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,3,0,0,0,0,0,0,0,0,0,0,6
 "Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,6,114
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2022,4106,"Access Device Fraud",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -772,6 +772,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,1,3,2,0,2,1,2,0,2,13
 "Brookline                     ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,1,0,0,3,2,1,0,0,0,0,0,7
+"Brookline                     ",2022,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,2,0,0,3,1,4,0,0,13
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
 "Brookline                     ",2022,2701,"Simple Assault.",7,0,0,0,0,0,0,0,0,0,0,0,7
@@ -2015,6 +2016,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,4703,"Operation of Vehicle without Official Certif. of Inspection",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,4703,"Operation of Vehicle without Official Certif. of Inspection",0,2,0,0,0,0,2,0,0,0,0,0,4
 "Sheraden                      ",2020,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,2,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2022,9998,Overdose,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,9998,Overdose,0,2,1,1,0,1,3,1,0,3,2,1,15
 "Sheraden                      ",2020,9998,Overdose,1,0,0,1,0,0,1,0,1,0,0,0,4
 "Sheraden                      ",2021,9997,"Overdose Death",0,0,1,0,0,0,0,0,0,0,1,0,2
@@ -2158,6 +2160,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2020,3732.1,"Aggravated Assault by Vehicle",0,0,0,2,0,0,0,0,0,0,0,0,2
 "West End                      ",2020,3735.1,"Aggravated Assault While DUI",0,0,0,2,0,0,0,0,0,0,0,0,2
 "West End                      ",2021,2702,"Aggravated Assault.",0,2,0,0,0,0,0,0,0,0,0,0,2
+"West End                      ",2022,9497,"Aided Case",0,1,0,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2021,9497,"Aided Case",0,0,0,0,0,0,1,0,0,1,0,0,2
 "West End                      ",2020,9497,"Aided Case",0,1,0,0,0,0,1,1,0,0,0,0,3
 "West End                      ",2020,9501,"Bench Warrant",0,2,2,0,2,0,4,2,0,0,2,0,14
