@@ -7,6 +7,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,4106,"Access Device Fraud",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Banksville                    ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Banksville                    ",2021,9018,"Accidental Fire",0,0,1,0,0,1,0,0,0,0,0,0,2
+"Banksville                    ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",2,1,1,4,0,0,0,1,0,1,1,0,11
 "Banksville                    ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,0,0,2,1,1,4,0,0,3,4,17
 "Banksville                    ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,1,1,1,3,0,2,1,2,0,0,0,13
@@ -226,6 +227,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,3304(a)(6),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Paintball Gun or Paintball Marker)",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Beechview                     ",2020,3304(a)(2),"CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property)",0,1,2,0,0,0,0,0,1,0,0,0,4
 "Beechview                     ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,0,1,1,2,1,1,0,0,0,1,2,12
 "Beechview                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,2,0,0,0,1,0,0,3,1,2,0,10
 "Beechview                     ",2022,3304,"Criminal Mischief.",2,1,0,0,0,0,0,0,0,0,0,0,3
@@ -248,6 +250,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,3503(b)(1)(iii),"Defiant Trespass - Fencing or Other Enclosure",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Beechview                     ",2020,3503(b)(1)(ii),"Defiant Trespass Notice Posted by Sign(s)",1,0,0,0,1,0,1,0,0,0,0,0,3
 "Beechview                     ",2020,"473.02 (b)","Deposit or Dump Trash",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Beechview                     ",2022,2707.1,"Discharge of a Firearm into Occupied Structure",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,0,0,1,0,0,1,0,0,2
 "Beechview                     ",2020,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,0,0,0,0,1,1,0,0,2
 "Beechview                     ",2020,607.03,"Discharging Firearm or Airgun",0,2,0,0,0,0,0,0,1,0,0,0,3
@@ -408,6 +411,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2021,3925,"Receiving Stolen Property.",2,0,0,0,0,0,0,0,1,2,0,0,5
 "Beechview                     ",2020,3925,"Receiving Stolen Property.",1,0,0,0,0,0,3,4,3,2,1,0,14
 "Beechview                     ",2020,3736,"Reckless Driving",0,1,0,0,0,0,1,2,0,0,0,2,6
+"Beechview                     ",2022,2705,"Recklessly Endangering Another Person.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,2705,"Recklessly Endangering Another Person.",0,0,0,1,1,2,0,0,2,0,0,1,7
 "Beechview                     ",2020,2705,"Recklessly Endangering Another Person.",0,5,0,0,2,1,0,0,3,0,0,3,14
 "Beechview                     ",2021,9090,"Recovered Firearm",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -635,7 +639,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,2709,"Harassment (Non-Specific)",2,1,3,2,0,2,1,3,3,0,1,1,19
 "Brookline                     ",2020,2709,"Harassment (Non-Specific)",3,2,1,1,1,2,1,5,4,0,2,1,23
 "Brookline                     ",2021,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2022,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2022,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,1,1,6,4,2,3,5,3,1,1,1,28
 "Brookline                     ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,3,1,0,2,3,2,5,2,1,1,0,21
 "Brookline                     ",2021,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,0,0,0,0,1,2,0,0,0,0,3
@@ -790,7 +794,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,0,1,0,0,1,4,2,0,1,3,0,14
 "Brookline                     ",2021,4910,"Tampering with or Fabricating Physical Evidence.",1,0,0,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2020,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,1,0,1,2,0,0,0,0,0,4
-"Brookline                     ",2022,2706,"Terroristic Threats.",5,1,0,0,0,0,0,0,0,0,0,0,6
+"Brookline                     ",2022,2706,"Terroristic Threats.",5,2,0,0,0,0,0,0,0,0,0,0,7
 "Brookline                     ",2021,2706,"Terroristic Threats.",4,2,1,3,3,4,3,1,1,6,1,0,29
 "Brookline                     ",2020,2706,"Terroristic Threats.",4,2,2,0,1,5,4,3,3,0,2,0,26
 "Brookline                     ",2022,3922,"Theft by Deception.",2,1,0,0,0,0,0,0,0,0,0,0,3
@@ -1022,6 +1026,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,2709(a),Harassment.,1,0,1,1,1,2,0,0,1,1,2,0,10
 "Crafton Heights               ",2021,4120,"Identity Theft",0,0,0,0,0,2,1,2,0,0,0,0,5
 "Crafton Heights               ",2020,4120,"Identity Theft",1,0,0,0,0,0,0,0,2,1,0,1,5
+"Crafton Heights               ",2022,9093,"Indirect Criminal Contempt",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,9093,"Indirect Criminal Contempt",0,2,0,2,0,0,2,0,3,1,0,0,10
 "Crafton Heights               ",2020,9093,"Indirect Criminal Contempt",0,0,3,1,0,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2021,9491,"Industrial Accident",0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -1125,7 +1130,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,4,2,2,3,1,1,2,0,16
 "Crafton Heights               ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,2,1,2,2,0,1,3,3,0,1,0,16
-"Crafton Heights               ",2022,3934,"Theft from Vehicle",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2022,3934,"Theft from Vehicle",2,1,0,0,0,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2021,3934,"Theft from Vehicle",0,1,0,2,1,0,1,4,2,2,1,0,14
 "Crafton Heights               ",2020,3934,"Theft from Vehicle",4,6,5,2,6,0,0,1,2,3,4,0,33
 "Crafton Heights               ",2021,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,2,0,0,0,0,0,0,0,0,2
@@ -1230,6 +1235,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Elliott                       ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,2,1,0,0,0,0,1,0,0,0,1,6
+"Elliott                       ",2022,3304,"Criminal Mischief.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,3304,"Criminal Mischief.",0,3,2,2,0,3,0,2,0,0,0,2,14
 "Elliott                       ",2020,3304,"Criminal Mischief.",1,0,1,2,7,5,3,1,3,0,0,1,24
 "Elliott                       ",2021,3503,"Criminal Trespass",0,0,1,0,0,0,2,0,0,1,0,0,4
@@ -1808,6 +1814,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Ridgemont                     ",2020,4911,"Tampering with Public Records of Information.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Ridgemont                     ",2020,2706,"Terroristic Threats.",0,0,0,0,0,2,2,0,0,0,0,0,4
+"Ridgemont                     ",2022,3922,"Theft by Deception.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Ridgemont                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Ridgemont                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Ridgemont                     ",2020,7611,"Unlawful Use of Computer",0,0,0,0,0,0,0,2,0,0,0,0,2
@@ -1971,7 +1978,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,1,2,0,0,0,0,2,0,0,0,5
 "Sheraden                      ",2020,2709(a)(3),"Harassment No Legitimate Purpose",0,1,1,1,0,0,1,0,1,0,0,0,5
 "Sheraden                      ",2021,2709.A1,"HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Sheraden                      ",2022,2709(a),Harassment.,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2022,2709(a),Harassment.,1,1,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,2709(a),Harassment.,2,1,3,2,1,2,1,1,0,2,1,0,16
 "Sheraden                      ",2020,2709(a),Harassment.,0,1,1,0,0,1,1,0,3,0,0,0,7
 "Sheraden                      ",2022,4120,"Identity Theft",1,1,0,0,0,0,0,0,0,0,0,0,2
@@ -2099,7 +2106,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,0,7,2,0,5,3,3,1,0,24
 "Sheraden                      ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,2,0,2,0,1,1,1,2,10
-"Sheraden                      ",2022,2701,"Simple Assault.",5,1,0,0,0,0,0,0,0,0,0,0,6
+"Sheraden                      ",2022,2701,"Simple Assault.",5,3,0,0,0,0,0,0,0,0,0,0,8
 "Sheraden                      ",2021,2701,"Simple Assault.",2,6,3,7,1,14,6,9,8,6,6,2,70
 "Sheraden                      ",2020,2701,"Simple Assault.",7,5,8,4,9,9,9,10,17,1,4,6,89
 "Sheraden                      ",2021,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,0,0,0,0,0,2,2
@@ -2308,6 +2315,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2021,2702,"Aggravated Assault.",0,1,0,6,0,0,0,2,0,0,0,0,9
 "Westwood                      ",2020,2702,"Aggravated Assault.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Westwood                      ",2020,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Westwood                      ",2022,9497,"Aided Case",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2021,9497,"Aided Case",0,0,0,1,0,0,1,0,0,0,0,0,2
 "Westwood                      ",2020,9497,"Aided Case",0,0,0,0,2,1,0,1,1,0,0,1,6
 "Westwood                      ",2021,9501,"Bench Warrant",6,4,0,0,0,0,0,0,0,2,0,0,12
@@ -2372,6 +2380,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2022,2709(a),Harassment.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2021,2709(a),Harassment.,1,0,1,0,0,0,0,1,0,0,0,0,3
 "Westwood                      ",2020,2709(a),Harassment.,0,0,1,1,0,1,1,0,0,0,0,1,5
+"Westwood                      ",2022,4120,"Identity Theft",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2021,4120,"Identity Theft",0,1,5,0,0,1,2,0,1,1,0,0,11
 "Westwood                      ",2020,4120,"Identity Theft",1,0,0,1,0,0,1,0,0,0,0,1,4
 "Westwood                      ",2021,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,0,0,0,0,0,0,0,2,2
@@ -2496,6 +2505,8 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2021,9492,"Dog Bite",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Windgap                       ",2020,9492,"Dog Bite",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Windgap                       ",2021,9124,"Drug Investigation",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Windgap                       ",2022,3802(a)(1),"DUI - General Impairment",0,2,0,0,0,0,0,0,0,0,0,0,2
+"Windgap                       ",2022,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2021,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2020,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Windgap                       ",2020,2903,"False Imprisonment.",0,0,0,0,2,0,0,0,0,0,0,0,2
@@ -2510,6 +2521,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2020,2709(a),Harassment.,0,0,1,0,0,0,0,0,2,2,0,0,5
 "Windgap                       ",2021,517.8,"Home Improvement Fraud",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Windgap                       ",2021,4120,"Identity Theft",0,0,1,0,0,0,1,1,0,0,0,0,3
+"Windgap                       ",2022,9093,"Indirect Criminal Contempt",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2020,9093,"Indirect Criminal Contempt",2,0,1,0,0,0,0,0,0,0,0,0,3
 "Windgap                       ",2021,2901,Kidnapping.,0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,0,0,0,0,0,2,0,0,0,2
@@ -2535,7 +2547,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2021,3701,Robbery.,0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,3701,Robbery.,0,0,0,0,0,0,0,0,1,0,0,0,1
 "Windgap                       ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Windgap                       ",2022,8106,"Shots Fired",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Windgap                       ",2022,8106,"Shots Fired",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2021,8106,"Shots Fired",1,1,1,2,3,0,2,4,0,1,0,2,17
 "Windgap                       ",2020,8106,"Shots Fired",1,0,0,0,3,0,0,2,0,1,2,1,10
 "Windgap                       ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,1,0,0,0,0,0,0,0,0,0,1
