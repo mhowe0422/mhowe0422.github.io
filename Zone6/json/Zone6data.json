@@ -2111,6 +2111,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2022",
+            "Section": "6105(a)(1)",
+            "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2020",
             "Section": "6105(a)(1)",
             "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
@@ -2666,7 +2685,7 @@
             "Section": "2701(a)(3)",
             "Description": "Simple Assault - Attempts by Physical Menace",
             "Jan": "2",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -2677,7 +2696,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -3464,7 +3483,7 @@
             "Section": "4106",
             "Description": "Access Device Fraud",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -3475,7 +3494,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -4440,11 +4459,11 @@
             "Jun": "1",
             "Jul": "3",
             "Aug": "3",
-            "Sep": "10",
+            "Sep": "9",
             "Oct": "0",
             "Nov": "2",
             "Dec": "1",
-            "Count": "29"
+            "Count": "28"
         },
         {
             "Neighborhood": "Beechview",
@@ -8430,11 +8449,11 @@
             "Jun": "2",
             "Jul": "6",
             "Aug": "2",
-            "Sep": "5",
+            "Sep": "4",
             "Oct": "4",
             "Nov": "4",
             "Dec": "3",
-            "Count": "40"
+            "Count": "39"
         },
         {
             "Neighborhood": "Beechview",
@@ -8917,7 +8936,7 @@
             "Section": "3921",
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -8928,7 +8947,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -12881,6 +12900,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2022",
+            "Section": "1333",
+            "Description": "Lost, Stolen, Damaged or Illegible Registration Plate.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -38291,7 +38329,7 @@
             "Section": "029",
             "Description": "Missing Juvenile",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -38302,7 +38340,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -45656,6 +45694,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "5"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "425.26",
+            "Description": "Miscellaneous",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
