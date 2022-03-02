@@ -1314,6 +1314,25 @@
         {
             "Neighborhood": "Banksville",
             "Year": "2022",
+            "Section": "9493",
+            "Description": "Fires (Self-Starting)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2022",
             "Section": "4101",
             "Description": "Forgery.",
             "Jan": "0",
@@ -3503,7 +3522,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "5",
             "Feb": "6",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -3513,7 +3532,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Beechview",
@@ -8993,7 +9012,7 @@
             "Section": "2706",
             "Description": "Terroristic Threats.",
             "Jan": "3",
-            "Feb": "2",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -9004,7 +9023,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -19629,6 +19648,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2022",
+            "Section": "9489",
+            "Description": "Found Property",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2021",
             "Section": "9489",
             "Description": "Found Property",
@@ -21477,7 +21515,7 @@
             "Description": "Shots Fired",
             "Jan": "7",
             "Feb": "6",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -21487,7 +21525,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -23471,7 +23509,7 @@
             "Section": "4106",
             "Description": "Access Device Fraud",
             "Jan": "0",
-            "Feb": "2",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -23482,7 +23520,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -23870,7 +23908,7 @@
             "Section": "3502",
             "Description": "Burglary.",
             "Jan": "1",
-            "Feb": "3",
+            "Feb": "4",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -23881,7 +23919,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Elliott",
@@ -26131,7 +26169,7 @@
             "Section": "9129",
             "Description": "Miscellaneous Investigation",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -26142,7 +26180,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -27481,7 +27519,7 @@
             "Description": "Shots Fired",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -27491,7 +27529,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -27872,6 +27910,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "6"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2022",
+            "Section": "3922",
+            "Description": "Theft by Deception.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Elliott",
@@ -41084,7 +41141,7 @@
             "Section": "8106",
             "Description": "Shots Fired",
             "Jan": "11",
-            "Feb": "6",
+            "Feb": "7",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -41095,7 +41152,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "17"
+            "Count": "18"
         },
         {
             "Neighborhood": "Sheraden",
@@ -41673,7 +41730,7 @@
             "Section": "3921(a)",
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
             "Jan": "7",
-            "Feb": "2",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -41684,7 +41741,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Sheraden",
@@ -47958,6 +48015,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "2709(b)",
+            "Description": "Stalking",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2020",
             "Section": "2709.2",
             "Description": "Stalking Conduct or Repeatedly Communicates",
@@ -48059,6 +48135,25 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "2706",
+            "Description": "Terroristic Threats.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
