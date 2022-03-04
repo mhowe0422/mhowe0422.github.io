@@ -1697,7 +1697,7 @@
             "Section": "4120",
             "Description": "Identity Theft",
             "Jan": "0",
-            "Feb": "5",
+            "Feb": "6",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -1708,7 +1708,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Banksville",
@@ -3540,7 +3540,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "5",
-            "Feb": "6",
+            "Feb": "7",
             "Mar": "2",
             "Apr": "0",
             "May": "0",
@@ -3551,7 +3551,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Beechview",
@@ -3807,7 +3807,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "3",
             "Feb": "4",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -3817,7 +3817,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Beechview",
@@ -9278,7 +9278,7 @@
             "Section": "3934",
             "Description": "Theft from Vehicle",
             "Jan": "7",
-            "Feb": "4",
+            "Feb": "5",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -9289,7 +9289,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Beechview",
@@ -9981,7 +9981,7 @@
             "Section": "3743",
             "Description": "Accidents Involving Damage to Attended Veh. or Property",
             "Jan": "1",
-            "Feb": "3",
+            "Feb": "4",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -9992,7 +9992,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -12033,7 +12033,7 @@
             "Section": "4304(a)(1)",
             "Description": "Endangering Welfare of Children - Course of Conduct Enhanced",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -12044,7 +12044,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -13986,6 +13986,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2022",
+            "Section": "6105(a)(1)",
+            "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2021",
             "Section": "6105(a)(1)",
             "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
@@ -14097,6 +14116,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2022",
+            "Section": "6110.1",
+            "Description": "Possesion of Firearm by Minor",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -14256,7 +14294,7 @@
             "Section": "13(a)(16)",
             "Description": "Possession of Controlled Substance",
             "Jan": "0",
-            "Feb": "2",
+            "Feb": "3",
             "Mar": "1",
             "Apr": "0",
             "May": "0",
@@ -14267,7 +14305,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -14389,7 +14427,7 @@
             "Section": "1785",
             "Description": "Proof of Financial Responsibility Following Accident.",
             "Jan": "1",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -14400,7 +14438,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -14529,6 +14567,25 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2022",
+            "Section": "3925",
+            "Description": "Receiving Stolen Property.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
@@ -15340,7 +15397,7 @@
             "Description": "Simple Assault.",
             "Jan": "3",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -15350,7 +15407,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -19387,7 +19444,7 @@
             "Description": "Failure To Appear\/Arrest on Attachment Order",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -19397,7 +19454,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -23985,7 +24042,7 @@
             "Description": "Burglary.",
             "Jan": "1",
             "Feb": "4",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -23995,7 +24052,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Elliott",
@@ -24012,9 +24069,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "1",
-            "Nov": "1",
+            "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "5"
         },
         {
             "Neighborhood": "Elliott",
@@ -27747,7 +27804,7 @@
             "Description": "Simple Assault.",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -27757,7 +27814,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -27774,9 +27831,9 @@
             "Aug": "2",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "1",
+            "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "15"
         },
         {
             "Neighborhood": "Elliott",
@@ -41807,7 +41864,7 @@
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
             "Jan": "7",
             "Feb": "3",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -41817,7 +41874,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Sheraden",
@@ -45541,6 +45598,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "3745",
+            "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
             "Count": "1"
         },
         {
@@ -50205,7 +50281,7 @@
             "Description": "Shots Fired",
             "Jan": "0",
             "Feb": "5",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -50215,7 +50291,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Windgap",
