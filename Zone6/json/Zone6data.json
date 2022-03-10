@@ -97,6 +97,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2022",
+            "Section": "4106",
+            "Description": "Access Device Fraud",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2021",
             "Section": "4106",
             "Description": "Access Device Fraud",
@@ -1356,7 +1375,7 @@
             "Description": "Forgery.",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -1366,7 +1385,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -1736,7 +1755,7 @@
             "Description": "Identity Theft",
             "Jan": "0",
             "Feb": "6",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -1746,7 +1765,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Banksville",
@@ -3579,7 +3598,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "5",
             "Feb": "10",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -3589,7 +3608,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "17"
+            "Count": "18"
         },
         {
             "Neighborhood": "Beechview",
@@ -7455,7 +7474,7 @@
             "Description": "Overdose",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -7465,7 +7484,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -10172,7 +10191,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "3",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -10182,7 +10201,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -10951,7 +10970,7 @@
             "Description": "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -10961,7 +10980,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -11198,7 +11217,7 @@
             "Description": "Criminal Use of Communication",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -11208,7 +11227,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -13611,7 +13630,7 @@
             "Description": "Miscellaneous Investigation",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -13621,7 +13640,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -15487,6 +15506,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2022",
+            "Section": "2701(a)(3)",
+            "Description": "Simple Assault - Attempts by Physical Menace",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2021",
             "Section": "2701(a)(3)",
             "Description": "Simple Assault - Attempts by Physical Menace",
@@ -15891,7 +15929,7 @@
             "Description": "Terroristic Threats.",
             "Jan": "3",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -15901,7 +15939,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -15948,7 +15986,7 @@
             "Description": "Theft by Deception.",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -15958,7 +15996,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -33727,6 +33765,25 @@
         },
         {
             "Neighborhood": "Fairywood",
+            "Year": "2022",
+            "Section": "3921",
+            "Description": "Theft by Unlawful Taking or Disposition.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
             "Year": "2021",
             "Section": "3921",
             "Description": "Theft by Unlawful Taking or Disposition.",
@@ -43631,7 +43688,7 @@
             "Description": "Drug Investigation",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -43641,7 +43698,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "West End",
@@ -46381,6 +46438,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "903",
+            "Description": "Criminal Conspiracy.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2020",
             "Section": "903",
             "Description": "Criminal Conspiracy.",
@@ -46644,6 +46720,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "6"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "3503.B1I",
+            "Description": "DEF. TRESPASS ACTUAL COMMUNICATION",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
@@ -48381,7 +48476,7 @@
             "Description": "Retail Theft.",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -48391,7 +48486,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Westwood",
@@ -51117,7 +51212,7 @@
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -51127,7 +51222,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Windgap",
