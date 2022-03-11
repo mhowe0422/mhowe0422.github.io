@@ -1,7 +1,7 @@
 Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Count
 "Banksville                    ",2021,9498,"302 (Mental)",1,1,0,0,1,2,0,0,2,0,0,1,8
 "Banksville                    ",2020,9498,"302 (Mental)",0,0,2,0,0,0,0,0,0,0,1,1,4
-"Banksville                    ",2022,9999,"9999 - (Misc. Incident):",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Banksville                    ",2022,9999,"9999 - (Misc. Incident):",0,1,2,0,0,0,0,0,0,0,0,0,3
 "Banksville                    ",2021,9999,"9999 - (Misc. Incident):",4,7,1,3,2,2,4,2,3,0,1,1,30
 "Banksville                    ",2020,9999,"9999 - (Misc. Incident):",2,4,1,2,3,6,2,4,2,1,3,1,31
 "Banksville                    ",2022,4106,"Access Device Fraud",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -524,7 +524,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,9498,"302 (Mental)",0,3,1,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,3,0,22
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,0,0,0,0,0,0,0,0,0,0,11
+"Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,1,0,0,0,0,0,0,0,0,0,12
 "Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,6,114
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2022,4106,"Access Device Fraud",1,3,0,0,0,0,0,0,0,0,0,0,4
@@ -534,7 +534,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,9018,"Accidental Fire",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Brookline                     ",2020,9018,"Accidental Fire",0,1,0,1,0,0,1,0,0,0,0,0,3
 "Brookline                     ",2020,7728,"Accidents and Accident Reports.",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",2,4,0,0,0,0,0,0,0,0,0,0,6
+"Brookline                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",2,4,1,0,0,0,0,0,0,0,0,0,7
 "Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,1,3,1,3,0,1,1,0,17
 "Brookline                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",5,5,2,3,2,2,1,4,4,2,2,6,38
 "Brookline                     ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,3,1,0,0,0,0,0,0,0,0,0,8
@@ -578,7 +578,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",1,0,1,0,0,2,1,0,0,0,0,0,5
 "Brookline                     ",2020,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,0,0,0,0,0,0,0,3,0,3
 "Brookline                     ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Brookline                     ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,1,0,0,0,0,0,0,0,0,0,3
+"Brookline                     ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,2,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,0,0,2,2,2,0,5,2,0,0,0,15
 "Brookline                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,1,1,3,2,0,2,2,2,1,0,16
 "Brookline                     ",2022,3304,"Criminal Mischief.",4,3,0,0,0,0,0,0,0,0,0,0,7
@@ -819,7 +819,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,8106,"Shots Fired",0,0,0,0,0,0,1,0,0,1,0,0,2
 "Brookline                     ",2020,8106,"Shots Fired",0,0,0,1,2,1,0,0,0,0,0,0,4
 "Brookline                     ",2022,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",1,1,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,1,3,2,0,2,1,2,0,2,13
 "Brookline                     ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,1,0,0,3,2,1,0,0,0,0,0,7
 "Brookline                     ",2022,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,2,0,0,0,0,0,0,0,0,0,0,2
@@ -841,7 +841,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,0,1,0,0,1,4,2,0,1,3,0,14
 "Brookline                     ",2021,4910,"Tampering with or Fabricating Physical Evidence.",1,0,0,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2020,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,1,0,1,2,0,0,0,0,0,4
-"Brookline                     ",2022,2706,"Terroristic Threats.",5,2,1,0,0,0,0,0,0,0,0,0,8
+"Brookline                     ",2022,2706,"Terroristic Threats.",5,2,2,0,0,0,0,0,0,0,0,0,9
 "Brookline                     ",2021,2706,"Terroristic Threats.",4,2,1,3,3,4,3,1,1,6,1,0,29
 "Brookline                     ",2020,2706,"Terroristic Threats.",4,2,2,0,1,5,4,3,3,0,2,0,26
 "Brookline                     ",2022,3922,"Theft by Deception.",2,1,1,0,0,0,0,0,0,0,0,0,4
@@ -1921,13 +1921,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,9999,"9999 - (Misc. Incident):",4,3,1,0,0,0,0,0,0,0,0,0,8
 "Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,10,5,7,8,5,3,1,0,77
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,5,1,5,10,8,7,9,2,4,4,61
-"Sheraden                      ",2022,4106,"Access Device Fraud",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2022,4106,"Access Device Fraud",1,0,1,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,4106,"Access Device Fraud",2,0,2,2,0,0,2,0,3,1,1,0,13
 "Sheraden                      ",2020,4106,"Access Device Fraud",0,2,1,0,0,2,1,0,0,0,0,3,9
 "Sheraden                      ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Sheraden                      ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,0,1,3,0,1,2,0,0,1,9
 "Sheraden                      ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,2,0,2,2,1,1,3,3,1,0,3,18
-"Sheraden                      ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,1,0,0,0,0,0,0,0,0,0,0,4
+"Sheraden                      ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,1,1,0,0,0,0,0,0,0,0,0,5
 "Sheraden                      ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,3,2,3,3,3,5,0,2,0,3,25
 "Sheraden                      ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,2,2,0,2,7,8,2,9,1,4,1,41
 "Sheraden                      ",2021,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -2084,7 +2084,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,2709(a),Harassment.,1,3,0,0,0,0,0,0,0,0,0,0,4
 "Sheraden                      ",2021,2709(a),Harassment.,2,1,3,2,1,2,1,1,0,2,1,0,16
 "Sheraden                      ",2020,2709(a),Harassment.,0,1,1,0,0,1,1,0,3,0,0,0,7
-"Sheraden                      ",2022,4120,"Identity Theft",1,2,0,0,0,0,0,0,0,0,0,0,3
+"Sheraden                      ",2022,4120,"Identity Theft",1,2,1,0,0,0,0,0,0,0,0,0,4
 "Sheraden                      ",2021,4120,"Identity Theft",0,0,0,3,0,0,4,0,5,1,0,1,14
 "Sheraden                      ",2020,4120,"Identity Theft",0,0,0,1,1,1,1,1,0,2,0,1,8
 "Sheraden                      ",2022,3746,"Immediate Notice of Accident to Police Department",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -2207,7 +2207,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,6304(b)(2),"Sale And Use of Air Rifles - Carrying Or Discharging Air Rifles on Public Land or any",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Sheraden                      ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,1,0,1,0,0,0,0,3
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
-"Sheraden                      ",2022,8106,"Shots Fired",11,7,2,0,0,0,0,0,0,0,0,0,20
+"Sheraden                      ",2022,8106,"Shots Fired",11,7,3,0,0,0,0,0,0,0,0,0,21
 "Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,9,8,14,5,11,10,113
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
 "Sheraden                      ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,1,0,2,0,0,0,2,0,0,5
@@ -2447,7 +2447,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2021,2702,"Aggravated Assault.",0,1,0,6,0,0,0,2,0,0,0,0,9
 "Westwood                      ",2020,2702,"Aggravated Assault.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Westwood                      ",2020,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Westwood                      ",2022,9497,"Aided Case",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2022,9497,"Aided Case",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2021,9497,"Aided Case",0,0,0,1,0,0,1,0,0,0,0,0,2
 "Westwood                      ",2020,9497,"Aided Case",0,0,0,0,2,1,0,1,1,0,0,1,6
 "Westwood                      ",2021,9501,"Bench Warrant",6,4,0,0,0,0,0,0,0,2,0,0,12
