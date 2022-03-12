@@ -375,7 +375,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2021,9123,"Miscellaneous Fire Other Investigation to Continue",1,0,0,0,1,0,1,1,0,0,0,0,4
 "Beechview                     ",2020,9123,"Miscellaneous Fire Other Investigation to Continue",0,2,0,2,0,0,0,0,0,0,1,0,5
 "Beechview                     ",2020,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2022,9129,"Miscellaneous Investigation",1,1,0,0,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2022,9129,"Miscellaneous Investigation",1,1,1,0,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2021,9129,"Miscellaneous Investigation",0,0,1,1,0,2,0,2,1,0,0,0,7
 "Beechview                     ",2020,9129,"Miscellaneous Investigation",0,0,0,0,0,0,1,5,1,0,1,1,9
 "Beechview                     ",2022,029,"Missing Juvenile",0,2,0,0,0,0,0,0,0,0,0,0,2
@@ -967,7 +967,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,2,0,2,2,0,1,0,0,2,9
 "Crafton Heights               ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,2,0,1,0,0,0,1,0,0,5
-"Crafton Heights               ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,2,0,0,0,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,2,1,0,0,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,2,3,2,0,2,1,0,2,0,2,14
 "Crafton Heights               ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",5,0,1,1,1,1,1,0,0,0,0,0,10
 "Crafton Heights               ",2020,3503(b)(1)(i),"Actual Communication",0,0,0,0,3,0,0,0,0,0,0,0,3
@@ -1084,7 +1084,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,2709(a),Harassment.,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,2709(a),Harassment.,0,0,0,0,0,0,0,0,0,0,1,0,1
 "Crafton Heights               ",2020,2709(a),Harassment.,1,0,1,1,1,2,0,0,1,1,2,0,10
-"Crafton Heights               ",2022,4120,"Identity Theft",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2022,4120,"Identity Theft",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2021,4120,"Identity Theft",0,0,0,0,0,2,1,2,0,0,0,0,5
 "Crafton Heights               ",2020,4120,"Identity Theft",1,0,0,0,0,0,0,0,2,1,0,1,5
 "Crafton Heights               ",2022,9093,"Indirect Criminal Contempt",0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -1123,6 +1123,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",1,0,0,2,0,0,0,3,0,0,0,0,6
 "Crafton Heights               ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,2,0,1,0,0,1,1,0,0,0,5
 "Crafton Heights               ",2021,9994,"PFA Service",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Crafton Heights               ",2022,9993,"PFA Service with Weapons Supplement",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2020,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Crafton Heights               ",2020,6110.1,"Possesion of Firearm by Minor",0,0,2,0,0,0,0,1,1,0,0,0,4
@@ -1159,7 +1160,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,3701,Robbery.,1,0,0,0,0,0,2,1,1,1,1,1,8
 "Crafton Heights               ",2020,3701,Robbery.,0,2,0,0,3,0,0,0,1,1,0,0,7
 "Crafton Heights               ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2022,8106,"Shots Fired",7,6,3,0,0,0,0,0,0,0,0,0,16
+"Crafton Heights               ",2022,8106,"Shots Fired",7,6,4,0,0,0,0,0,0,0,0,0,17
 "Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,5,3,5,4,54
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,3,5,2,7,6,1,2,3,2,33
 "Crafton Heights               ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,2,0,0,0,0,0,0,2
@@ -1286,7 +1287,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,9501,"Bench Warrant",0,3,0,0,0,0,0,0,0,0,0,0,3
 "Elliott                       ",2021,9501,"Bench Warrant",0,2,0,0,4,2,0,0,0,0,0,0,8
 "Elliott                       ",2020,9501,"Bench Warrant",1,0,0,0,0,0,1,2,0,0,0,0,4
-"Elliott                       ",2022,3502,Burglary.,1,4,1,0,0,0,0,0,0,0,0,0,6
+"Elliott                       ",2022,3502,Burglary.,1,4,2,0,0,0,0,0,0,0,0,0,7
 "Elliott                       ",2021,3502,Burglary.,2,0,0,0,0,2,1,0,0,1,1,1,8
 "Elliott                       ",2020,3502,Burglary.,0,1,1,0,1,4,1,1,0,0,0,1,10
 "Elliott                       ",2021,3714,"Careless Driving",0,1,0,0,0,0,0,2,0,0,0,0,3
@@ -1921,7 +1922,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,9999,"9999 - (Misc. Incident):",4,3,1,0,0,0,0,0,0,0,0,0,8
 "Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,10,5,7,8,5,3,1,0,77
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,5,1,5,10,8,7,9,2,4,4,61
-"Sheraden                      ",2022,4106,"Access Device Fraud",1,0,1,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2022,4106,"Access Device Fraud",1,0,2,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2021,4106,"Access Device Fraud",2,0,2,2,0,0,2,0,3,1,1,0,13
 "Sheraden                      ",2020,4106,"Access Device Fraud",0,2,1,0,0,2,1,0,0,0,0,3,9
 "Sheraden                      ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,2,0,0,0,0,0,2
@@ -2084,7 +2085,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,2709(a),Harassment.,1,3,0,0,0,0,0,0,0,0,0,0,4
 "Sheraden                      ",2021,2709(a),Harassment.,2,1,3,2,1,2,1,1,0,2,1,0,16
 "Sheraden                      ",2020,2709(a),Harassment.,0,1,1,0,0,1,1,0,3,0,0,0,7
-"Sheraden                      ",2022,4120,"Identity Theft",1,2,1,0,0,0,0,0,0,0,0,0,4
+"Sheraden                      ",2022,4120,"Identity Theft",1,2,2,0,0,0,0,0,0,0,0,0,5
 "Sheraden                      ",2021,4120,"Identity Theft",0,0,0,3,0,0,4,0,5,1,0,1,14
 "Sheraden                      ",2020,4120,"Identity Theft",0,0,0,1,1,1,1,1,0,2,0,1,8
 "Sheraden                      ",2022,3746,"Immediate Notice of Accident to Police Department",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -2145,7 +2146,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",4,0,0,0,0,0,2,3,0,0,0,1,10
 "Sheraden                      ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,0,2,0,0,2,0,0,0,0,0,6
 "Sheraden                      ",2020,9994,"PFA Service",0,0,0,0,1,0,1,0,0,0,0,0,2
-"Sheraden                      ",2022,9993,"PFA Service with Weapons Supplement",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,0,0,1,0,0,1,3
 "Sheraden                      ",2020,9993,"PFA Service with Weapons Supplement",1,1,0,1,0,1,0,0,0,0,0,0,4
 "Sheraden                      ",2021,6110.1,"Possesion of Firearm by Minor",0,0,0,1,0,0,0,2,3,1,0,0,7
@@ -2404,7 +2405,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,1,0,0,0,0,0,0,0,1
 "West End                      ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,0,0,0,0,0,0,0,0,0,3
 "West End                      ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,0,0,0,1,0,0,1
-"West End                      ",2022,2701,"Simple Assault.",0,0,1,0,0,0,0,0,0,0,0,0,1
+"West End                      ",2022,2701,"Simple Assault.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "West End                      ",2021,2701,"Simple Assault.",2,2,0,0,0,0,0,1,0,1,0,1,7
 "West End                      ",2020,2701,"Simple Assault.",3,1,1,0,0,0,2,0,1,0,0,0,8
 "West End                      ",2021,3323,"Stop Signs and Yield Signs.",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -2433,7 +2434,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2022,9498,"302 (Mental)",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2021,9498,"302 (Mental)",1,1,1,1,0,0,0,0,0,1,0,0,5
 "Westwood                      ",2020,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,1,1,0,4
-"Westwood                      ",2022,9999,"9999 - (Misc. Incident):",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2022,9999,"9999 - (Misc. Incident):",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2021,9999,"9999 - (Misc. Incident):",2,7,7,2,1,3,2,1,1,1,1,1,29
 "Westwood                      ",2020,9999,"9999 - (Misc. Incident):",4,3,1,0,0,0,0,3,0,4,0,3,18
 "Westwood                      ",2021,4106,"Access Device Fraud",0,0,2,0,0,0,1,0,0,0,0,1,4
@@ -2614,7 +2615,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2022,1039.2,"Workers Compensation Insurance Fraud",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2021,9498,"302 (Mental)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,9498,"302 (Mental)",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Windgap                       ",2022,9999,"9999 - (Misc. Incident):",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Windgap                       ",2022,9999,"9999 - (Misc. Incident):",1,0,1,0,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2021,9999,"9999 - (Misc. Incident):",0,0,0,1,1,0,4,2,0,0,0,0,8
 "Windgap                       ",2020,9999,"9999 - (Misc. Incident):",0,1,0,1,0,0,0,0,0,1,1,0,4
 "Windgap                       ",2021,4106,"Access Device Fraud",0,0,0,1,1,0,0,0,0,0,0,0,2
@@ -2693,7 +2694,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2021,3701,Robbery.,0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,3701,Robbery.,0,0,0,0,0,0,0,0,1,0,0,0,1
 "Windgap                       ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Windgap                       ",2022,8106,"Shots Fired",0,5,1,0,0,0,0,0,0,0,0,0,6
+"Windgap                       ",2022,8106,"Shots Fired",0,5,2,0,0,0,0,0,0,0,0,0,7
 "Windgap                       ",2021,8106,"Shots Fired",1,1,1,2,3,0,2,4,0,1,0,2,17
 "Windgap                       ",2020,8106,"Shots Fired",1,0,0,0,3,0,0,2,0,1,2,1,10
 "Windgap                       ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,1,0,0,0,0,0,0,0,0,0,1
