@@ -13554,7 +13554,7 @@
             "Description": "Miscellaneous Fire Other Investigation to Continue",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -13564,7 +13564,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -18095,7 +18095,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -18105,7 +18105,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -25372,7 +25372,7 @@
             "Description": "DUI - General Impairment",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -25382,7 +25382,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -25448,7 +25448,7 @@
             "Description": "DUI - Highest Rate of Alcohol - BAC >= .16%",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -25458,7 +25458,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -26089,6 +26089,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2022",
+            "Section": "2709(a)(1)",
+            "Description": "Harassment by Physical Contact, or Attempts or Threats",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2021",
             "Section": "2709(a)(1)",
             "Description": "Harassment by Physical Contact, or Attempts or Threats",
@@ -26683,7 +26702,7 @@
             "Description": "Miscellaneous Investigation",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -26693,7 +26712,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -35176,7 +35195,7 @@
             "Description": "Retail Theft.",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -35186,7 +35205,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Oakwood",
@@ -36140,6 +36159,25 @@
         },
         {
             "Neighborhood": "Ridgemont",
+            "Year": "2022",
+            "Section": "2701",
+            "Description": "Simple Assault.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Ridgemont",
             "Year": "2020",
             "Section": "4911",
             "Description": "Tampering with Public Records of Information.",
@@ -36468,7 +36506,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -36478,7 +36516,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -40268,7 +40306,7 @@
             "Description": "Overdose",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -40278,7 +40316,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -42339,7 +42377,7 @@
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
             "Jan": "7",
             "Feb": "3",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -42349,7 +42387,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Sheraden",
@@ -46253,7 +46291,7 @@
             "Description": "Aided Case",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -46263,7 +46301,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Westwood",
