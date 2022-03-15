@@ -254,7 +254,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -264,7 +264,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -2035,6 +2035,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2022",
+            "Section": "029",
+            "Description": "Missing Juvenile",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2020",
             "Section": "9490",
             "Description": "Missing Persons (18 and Over)",
@@ -3598,7 +3617,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "5",
             "Feb": "10",
-            "Mar": "4",
+            "Mar": "5",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -3608,7 +3627,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "19"
+            "Count": "20"
         },
         {
             "Neighborhood": "Beechview",
@@ -4643,7 +4662,7 @@
             "Description": "Criminal Mischief.",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -4653,7 +4672,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -10134,7 +10153,7 @@
             "Description": "Accidents Involving Damage to Attended Veh. or Property",
             "Jan": "1",
             "Feb": "4",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -10144,7 +10163,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -17691,6 +17710,25 @@
         },
         {
             "Neighborhood": "Chartiers City",
+            "Year": "2022",
+            "Section": "8106",
+            "Description": "Shots Fired",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Chartiers City",
             "Year": "2021",
             "Section": "8106",
             "Description": "Shots Fired",
@@ -18323,7 +18361,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -18333,7 +18371,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -19767,7 +19805,7 @@
             "Description": "Failure To Appear\/Arrest on Attachment Order",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -19777,7 +19815,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -20223,7 +20261,7 @@
             "Description": "Harassment (Non-Specific)",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -20233,7 +20271,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -22009,7 +22047,7 @@
             "Description": "Shots Fired",
             "Jan": "7",
             "Feb": "6",
-            "Mar": "5",
+            "Mar": "7",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -22019,7 +22057,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "18"
+            "Count": "20"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -22636,7 +22674,7 @@
             "Description": "Theft from Vehicle",
             "Jan": "2",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -22646,7 +22684,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -31922,6 +31960,25 @@
         },
         {
             "Neighborhood": "Esplen",
+            "Year": "2022",
+            "Section": "3928",
+            "Description": "Unauthorized Use of Automobile and Other Vehicles.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
             "Year": "2021",
             "Section": "3928",
             "Description": "Unauthorized Use of Automobile and Other Vehicles.",
@@ -36373,7 +36430,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "4",
             "Feb": "3",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -36383,7 +36440,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Sheraden",
@@ -36544,7 +36601,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -36554,7 +36611,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
@@ -36943,7 +37000,7 @@
             "Description": "Bench Warrant",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -36953,7 +37010,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -38368,7 +38425,7 @@
             "Description": "DUI - General Impairment",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -38378,7 +38435,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -46378,6 +46435,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "6"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "9501",
+            "Description": "Bench Warrant",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
