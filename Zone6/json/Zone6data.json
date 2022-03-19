@@ -6581,7 +6581,7 @@
             "Description": "Harassment.",
             "Jan": "1",
             "Feb": "2",
-            "Mar": "1",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -6591,7 +6591,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -9239,9 +9239,9 @@
             "Year": "2022",
             "Section": "2706",
             "Description": "Terroristic Threats.",
-            "Jan": "3",
+            "Jan": "2",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -18741,7 +18741,7 @@
             "Description": "Burglary.",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -18751,7 +18751,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "6"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -19121,7 +19121,7 @@
             "Description": "Criminal Trespass",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -19131,7 +19131,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -21040,7 +21040,7 @@
             "Description": "Miscellaneous Investigation",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -21050,7 +21050,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -22693,7 +22693,7 @@
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -22703,7 +22703,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -22750,7 +22750,7 @@
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -22760,7 +22760,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -24099,7 +24099,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "1",
             "Feb": "3",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -24109,7 +24109,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Elliott",
@@ -32739,6 +32739,25 @@
         },
         {
             "Neighborhood": "Fairywood",
+            "Year": "2022",
+            "Section": "3304",
+            "Description": "Criminal Mischief.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
             "Year": "2021",
             "Section": "3304",
             "Description": "Criminal Mischief.",
@@ -40230,7 +40249,7 @@
             "Description": "Missing Juvenile",
             "Jan": "0",
             "Feb": "3",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -40240,7 +40259,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -43194,7 +43213,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -43204,7 +43223,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "West End",
@@ -44744,6 +44763,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2022",
+            "Section": "4120",
+            "Description": "Identity Theft",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "West End",
@@ -46918,7 +46956,7 @@
             "Description": "Criminal Mischief.",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -46928,7 +46966,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Westwood",
@@ -47849,7 +47887,7 @@
             "Description": "Harassment.",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -47859,7 +47897,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Westwood",
@@ -51736,6 +51774,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2022",
+            "Section": "3934",
+            "Description": "Theft from Vehicle",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Windgap",
