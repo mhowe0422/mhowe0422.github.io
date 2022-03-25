@@ -415,7 +415,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,1,0,0,0,0,0,2,1,4
 "Beechview                     ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,1,0,0,2,0,0,0,2,0,0,0,5
 "Beechview                     ",2021,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2022,9993,"PFA Service with Weapons Supplement",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,1,0,2,0,0,2,0,0,0,5
 "Beechview                     ",2020,9993,"PFA Service with Weapons Supplement",0,0,1,0,1,0,0,0,0,1,0,1,4
 "Beechview                     ",2021,6110.1,"Possesion of Firearm by Minor",0,0,0,2,0,0,0,0,0,2,0,0,4
@@ -535,7 +535,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,2,0,0,0,0,0,0,0,0,0,13
 "Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,6,114
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
-"Brookline                     ",2022,4106,"Access Device Fraud",1,3,1,0,0,0,0,0,0,0,0,0,5
+"Brookline                     ",2022,4106,"Access Device Fraud",1,3,2,0,0,0,0,0,0,0,0,0,6
 "Brookline                     ",2021,4106,"Access Device Fraud",2,1,7,2,3,1,1,3,0,1,1,2,24
 "Brookline                     ",2020,4106,"Access Device Fraud",3,1,1,0,2,1,1,6,3,0,0,1,19
 "Brookline                     ",2021,3742.1,"Accident Involv. Death/Inj. While not Licensed",2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -682,7 +682,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,2709,"Harassment (Non-Specific)",2,1,3,2,0,2,1,3,3,0,1,1,19
 "Brookline                     ",2020,2709,"Harassment (Non-Specific)",3,2,1,1,1,2,1,5,4,0,2,1,23
 "Brookline                     ",2021,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2022,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,3,0,0,0,0,0,0,0,0,0,0,4
+"Brookline                     ",2022,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,3,2,0,0,0,0,0,0,0,0,0,6
 "Brookline                     ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,1,1,6,4,2,3,5,3,1,1,1,28
 "Brookline                     ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,3,1,0,2,3,2,5,2,1,1,0,21
 "Brookline                     ",2021,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,0,0,0,0,1,2,0,0,0,0,3
@@ -736,7 +736,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,029,"Missing Juvenile",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,029,"Missing Juvenile",1,0,0,0,0,0,0,0,0,0,1,0,2
 "Brookline                     ",2020,029,"Missing Juvenile",1,0,1,0,0,0,3,0,1,0,0,0,6
-"Brookline                     ",2022,9490,"Missing Persons (18 and Over)",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2022,9490,"Missing Persons (18 and Over)",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,9490,"Missing Persons (18 and Over)",0,1,0,1,0,0,0,1,0,0,0,0,3
 "Brookline                     ",2020,9490,"Missing Persons (18 and Over)",2,0,0,0,0,1,0,1,0,0,0,0,4
 "Brookline                     ",2020,5532(a)(3),"Neglect of Animals - Neglect of Animals  Vet Care",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -836,7 +836,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,2,0,0,3,1,4,0,0,13
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
-"Brookline                     ",2022,2701,"Simple Assault.",7,2,4,0,0,0,0,0,0,0,0,0,13
+"Brookline                     ",2022,2701,"Simple Assault.",7,2,6,0,0,0,0,0,0,0,0,0,15
 "Brookline                     ",2021,2701,"Simple Assault.",0,5,3,4,6,10,1,9,6,8,7,7,66
 "Brookline                     ",2020,2701,"Simple Assault.",11,4,6,7,5,3,6,6,3,9,4,6,70
 "Brookline                     ",2021,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,1,0,0,0,2
@@ -861,10 +861,10 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,1,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,4,4,7,1,2,3,28
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
-"Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,1,0,0,0,0,0,0,0,0,0,7
+"Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,2,0,0,0,0,0,0,0,0,0,8
 "Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,4,2,3,1,3,43
 "Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",2,4,1,1,2,2,5,3,3,3,2,3,31
-"Brookline                     ",2022,3934,"Theft from Vehicle",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2022,3934,"Theft from Vehicle",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,3934,"Theft from Vehicle",14,0,5,4,1,2,2,0,0,0,0,7,35
 "Brookline                     ",2020,3934,"Theft from Vehicle",1,5,1,2,0,4,4,4,4,1,3,4,33
 "Brookline                     ",2021,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,1,0,4,0,0,0,0,5
@@ -1955,7 +1955,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Sheraden                      ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,0,1,3,0,1,2,0,0,1,9
 "Sheraden                      ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,2,0,2,2,1,1,3,3,1,0,3,18
-"Sheraden                      ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,1,6,0,0,0,0,0,0,0,0,0,10
+"Sheraden                      ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,1,7,0,0,0,0,0,0,0,0,0,11
 "Sheraden                      ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,3,2,3,3,3,5,0,2,0,3,25
 "Sheraden                      ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,2,2,0,2,7,8,2,9,1,4,1,41
 "Sheraden                      ",2021,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -2570,7 +2570,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2021,029,"Missing Juvenile",0,1,0,0,0,1,0,1,0,0,0,0,3
 "Westwood                      ",2020,029,"Missing Juvenile",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Westwood                      ",2020,9490,"Missing Persons (18 and Over)",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Westwood                      ",2022,9998,Overdose,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2022,9998,Overdose,1,0,1,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2021,9998,Overdose,0,2,1,0,0,1,1,0,1,1,0,0,7
 "Westwood                      ",2020,9998,Overdose,0,0,1,1,1,0,2,1,1,0,2,0,9
 "Westwood                      ",2021,13(a)(32),"Paraphernalia - Use or Possession",2,0,2,0,0,0,2,0,0,2,0,2,10
