@@ -7341,7 +7341,7 @@
             "Description": "Missing Juvenile",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -7351,7 +7351,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -10362,7 +10362,7 @@
             "Description": "Accidents Involving Damage to Attended Veh. or Property",
             "Jan": "1",
             "Feb": "4",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -10372,7 +10372,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Brookline",
@@ -10816,9 +10816,9 @@
             "Year": "2022",
             "Section": "3502",
             "Description": "Burglary.",
-            "Jan": "1",
+            "Jan": "0",
             "Feb": "1",
-            "Mar": "3",
+            "Mar": "5",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -10828,7 +10828,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -10875,7 +10875,7 @@
             "Description": "Careless Driving",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -10885,7 +10885,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -11098,6 +11098,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2022",
+            "Section": "903",
+            "Description": "Criminal Conspiracy.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2021",
             "Section": "903",
             "Description": "Criminal Conspiracy.",
@@ -11272,9 +11291,9 @@
             "Year": "2022",
             "Section": "3304",
             "Description": "Criminal Mischief.",
-            "Jan": "4",
+            "Jan": "3",
             "Feb": "3",
-            "Mar": "4",
+            "Mar": "6",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -11284,7 +11303,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -12181,6 +12200,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2022",
+            "Section": "3802(d)(1)(i)",
+            "Description": "DUI - Controlled Substance - Schedule I",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2021",
             "Section": "3802(d)(1)(i)",
             "Description": "DUI - Controlled Substance - Schedule I",
@@ -12216,6 +12254,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2022",
+            "Section": "3802(d)(2)",
+            "Description": "DUI - Drug - Impaired Ability",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -13022,7 +13079,7 @@
             "Description": "Harassment by Physical Contact, or Attempts or Threats",
             "Jan": "1",
             "Feb": "3",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -13032,7 +13089,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -14257,7 +14314,7 @@
             "Description": "Overdose",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "4",
+            "Mar": "6",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -14267,7 +14324,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "8"
         },
         {
             "Neighborhood": "Brookline",
@@ -14480,25 +14537,6 @@
         },
         {
             "Neighborhood": "Brookline",
-            "Year": "2022",
-            "Section": "6105(a)(1)",
-            "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
-            "Jan": "0",
-            "Feb": "1",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Brookline",
             "Year": "2021",
             "Section": "6105(a)(1)",
             "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
@@ -14610,25 +14648,6 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "4"
-        },
-        {
-            "Neighborhood": "Brookline",
-            "Year": "2022",
-            "Section": "6110.1",
-            "Description": "Possesion of Firearm by Minor",
-            "Jan": "0",
-            "Feb": "1",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -14788,7 +14807,7 @@
             "Section": "13(a)(16)",
             "Description": "Possession of Controlled Substance",
             "Jan": "0",
-            "Feb": "3",
+            "Feb": "2",
             "Mar": "2",
             "Apr": "0",
             "May": "0",
@@ -14799,7 +14818,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -15061,25 +15080,6 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "1",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Brookline",
-            "Year": "2022",
-            "Section": "3925",
-            "Description": "Receiving Stolen Property.",
-            "Jan": "0",
-            "Feb": "1",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
@@ -16402,9 +16402,9 @@
             "Year": "2022",
             "Section": "3921",
             "Description": "Theft by Unlawful Taking or Disposition.",
-            "Jan": "3",
+            "Jan": "2",
             "Feb": "3",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -19838,6 +19838,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2022",
+            "Section": "9124",
+            "Description": "Drug Investigation",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2021",
             "Section": "9124",
             "Description": "Drug Investigation",
@@ -21586,6 +21605,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2022",
+            "Section": "6105(a)(1)",
+            "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2021",
             "Section": "6105(a)(1)",
             "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
@@ -22370,7 +22408,7 @@
             "Description": "Shots Fired",
             "Jan": "7",
             "Feb": "6",
-            "Mar": "9",
+            "Mar": "10",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -22380,7 +22418,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "22"
+            "Count": "23"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -40173,7 +40211,7 @@
             "Description": "Identity Theft",
             "Jan": "1",
             "Feb": "2",
-            "Mar": "3",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -40183,7 +40221,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -47127,7 +47165,7 @@
             "Description": "Aided Case",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "3",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -47137,7 +47175,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Westwood",
