@@ -588,6 +588,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,903,"Criminal Conspiracy.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,903,"Criminal Conspiracy.",0,0,0,0,0,0,0,0,1,1,1,0,3
 "Brookline                     ",2020,903,"Criminal Conspiracy.",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2022,2501,"Criminal Homicide.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,2501,"Criminal Homicide.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2021,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",1,0,1,0,0,2,1,0,0,0,0,0,5
 "Brookline                     ",2020,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,0,0,0,0,0,0,0,3,0,3
@@ -595,7 +596,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,2,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,0,0,2,2,2,0,5,2,0,0,0,15
 "Brookline                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,1,1,3,2,0,2,2,2,1,0,16
-"Brookline                     ",2022,3304,"Criminal Mischief.",4,3,9,0,0,0,0,0,0,0,0,0,16
+"Brookline                     ",2022,3304,"Criminal Mischief.",4,3,12,0,0,0,0,0,0,0,0,0,19
 "Brookline                     ",2021,3304,"Criminal Mischief.",2,3,3,1,3,4,4,12,1,2,0,2,37
 "Brookline                     ",2020,3304,"Criminal Mischief.",2,4,2,0,2,7,3,5,1,6,5,4,41
 "Brookline                     ",2020,902,"Criminal Solicitation.",2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -744,7 +745,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,029,"Missing Juvenile",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,029,"Missing Juvenile",1,0,0,0,0,0,0,0,0,0,1,0,2
 "Brookline                     ",2020,029,"Missing Juvenile",1,0,1,0,0,0,3,0,1,0,0,0,6
-"Brookline                     ",2022,9490,"Missing Persons (18 and Over)",0,1,2,0,0,0,0,0,0,0,0,0,3
+"Brookline                     ",2022,9490,"Missing Persons (18 and Over)",0,1,3,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2021,9490,"Missing Persons (18 and Over)",0,1,0,1,0,0,0,1,0,0,0,0,3
 "Brookline                     ",2020,9490,"Missing Persons (18 and Over)",2,0,0,0,0,1,0,1,0,0,0,0,4
 "Brookline                     ",2020,5532(a)(3),"Neglect of Animals - Neglect of Animals  Vet Care",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -972,7 +973,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2020,3934,"Theft from Vehicle",0,0,0,0,0,0,0,1,1,1,1,0,4
 "Chartiers City                ",2020,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Chartiers City                ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2022,9498,"302 (Mental)",1,1,1,0,0,0,0,0,0,0,0,0,3
+"Crafton Heights               ",2022,9498,"302 (Mental)",1,1,2,0,0,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2021,9498,"302 (Mental)",0,3,2,1,0,2,1,2,1,1,0,2,15
 "Crafton Heights               ",2020,9498,"302 (Mental)",1,1,2,0,3,0,0,0,0,1,0,2,10
 "Crafton Heights               ",2022,9999,"9999 - (Misc. Incident):",0,1,4,0,0,0,0,0,0,0,0,0,5
@@ -1899,7 +1900,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2020,5505,"Public Drunkenness",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Oakwood                       ",2021,3925,"Receiving Stolen Property.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Oakwood                       ",2021,3736,"Reckless Driving",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Oakwood                       ",2022,3929,"Retail Theft.",0,2,1,0,0,0,0,0,0,0,0,0,3
+"Oakwood                       ",2022,3929,"Retail Theft.",0,2,2,0,0,0,0,0,0,0,0,0,4
 "Oakwood                       ",2021,3929,"Retail Theft.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Oakwood                       ",2020,1271,"Sale and Use of Fireworks",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Oakwood                       ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -2002,6 +2003,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3714,"Careless Driving",0,0,0,0,0,0,2,2,2,2,2,0,10
 "Sheraden                      ",2020,1511,"Carrying and Exhibiting Drivers License on Demand.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,3302,"Causing or Risking Catastrophe.",0,0,2,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2022,9128,"Chop Shop Investigation",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,9133,"Complaint - No Citation",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Sheraden                      ",2022,5123,Contraband.,0,2,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2020,5123,Contraband.,0,0,0,0,2,0,0,0,0,0,0,0,2
@@ -2153,6 +2155,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Sheraden                      ",2022,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,1,0,0,1,0,0,0,0,0,0,2
+"Sheraden                      ",2022,9129,"Miscellaneous Investigation",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,9129,"Miscellaneous Investigation",2,2,0,2,1,1,2,1,2,0,0,0,13
 "Sheraden                      ",2020,9129,"Miscellaneous Investigation",0,1,1,0,0,2,0,0,0,0,0,0,4
 "Sheraden                      ",2022,029,"Missing Juvenile",0,3,1,0,0,0,0,0,0,0,0,0,4
@@ -2243,6 +2246,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,4581,"Restraint Systems.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Sheraden                      ",2022,3809(a),"Restriction on Alcoholic Beverages in Vehicle",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,3809(a),"Restriction on Alcoholic Beverages in Vehicle",0,0,0,0,0,0,0,0,0,0,2,0,2
+"Sheraden                      ",2022,3929,"Retail Theft.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,3929,"Retail Theft.",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Sheraden                      ",2021,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2021,3702,"Robbery of Motor Vehicle.",1,1,0,0,0,0,1,2,1,0,0,0,6
