@@ -4035,7 +4035,7 @@
             "Description": "Aggravated Assault.",
             "Jan": "1",
             "Feb": "2",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -4045,7 +4045,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -4681,7 +4681,7 @@
             "Description": "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -4691,7 +4691,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -5859,7 +5859,7 @@
             "Description": "Endangering Welfare of Children - Course of Conduct Enhanced",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -5869,7 +5869,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -6376,6 +6376,25 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2022",
+            "Section": "2709",
+            "Description": "Harassment (Non-Specific)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -7645,7 +7664,7 @@
             "Description": "Overdose",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -7655,7 +7674,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -10571,7 +10590,7 @@
             "Description": "Aided Case",
             "Jan": "5",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -10581,7 +10600,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Brookline",
@@ -18950,7 +18969,7 @@
             "Description": "Burglary.",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "4",
+            "Mar": "5",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -18960,7 +18979,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -31390,6 +31409,25 @@
         },
         {
             "Neighborhood": "Esplen",
+            "Year": "2022",
+            "Section": "9993",
+            "Description": "PFA Service with Weapons Supplement",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
             "Year": "2021",
             "Section": "627.02(b)(i)",
             "Description": "Possessing a small amount of marijuana",
@@ -32649,7 +32687,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -32659,7 +32697,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Fairywood",
@@ -40002,7 +40040,7 @@
             "Description": "Harassment by Physical Contact, or Attempts or Threats",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -40012,7 +40050,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -48414,6 +48452,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "2709(a)(1)",
+            "Description": "Harassment by Physical Contact, or Attempts or Threats",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2021",
             "Section": "2709(a)(1)",
             "Description": "Harassment by Physical Contact, or Attempts or Threats",
@@ -49114,6 +49171,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "9993",
+            "Description": "PFA Service with Weapons Supplement",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
@@ -50941,6 +51017,25 @@
         },
         {
             "Neighborhood": "Windgap",
+            "Year": "2022",
+            "Section": "7512",
+            "Description": "Criminal Use of Communication",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
             "Year": "2021",
             "Section": "9496",
             "Description": "Dead on Arrival (DOA)",
@@ -51497,7 +51592,7 @@
             "Description": "Identity Theft",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -51507,7 +51602,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Windgap",
@@ -52382,6 +52477,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2022",
+            "Section": "3922",
+            "Description": "Theft by Deception.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Windgap",
