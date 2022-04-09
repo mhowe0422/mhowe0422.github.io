@@ -1864,6 +1864,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2022",
+            "Section": "9504",
+            "Description": "Lost Property",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2020",
             "Section": "9504",
             "Description": "Lost Property",
@@ -10363,7 +10382,7 @@
             "Jan": "1",
             "Feb": "3",
             "Mar": "2",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -10372,7 +10391,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -16462,7 +16481,7 @@
             "Jan": "3",
             "Feb": "2",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -16471,7 +16490,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -17403,6 +17422,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Chartiers City",
+            "Year": "2022",
+            "Section": "9497",
+            "Description": "Aided Case",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Chartiers City",
@@ -18609,7 +18647,7 @@
             "Jan": "1",
             "Feb": "1",
             "Mar": "2",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -18618,7 +18656,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -23565,6 +23603,25 @@
             "Year": "2020",
             "Section": "9498",
             "Description": "302 (Mental)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "East Carnegie",
+            "Year": "2022",
+            "Section": "9999",
+            "Description": "9999 - (Misc. Incident):",
             "Jan": "0",
             "Feb": "0",
             "Mar": "0",
@@ -40497,7 +40554,7 @@
             "Jan": "0",
             "Feb": "2",
             "Mar": "2",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -40506,7 +40563,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
