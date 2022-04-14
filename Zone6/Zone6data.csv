@@ -279,6 +279,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,607.03,"Discharging Firearm or Airgun",0,2,0,0,0,0,0,0,1,0,0,0,3
 "Beechview                     ",2020,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",0,0,0,0,0,1,0,1,0,0,0,0,2
 "Beechview                     ",2020,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",0,0,0,0,0,0,0,0,0,2,0,0,2
+"Beechview                     ",2022,5503(a)(3),"DISORDERLY CONDUCT - OBSCENE LANG/GEST",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,5503(a)(3),"DISORDERLY CONDUCT - OBSCENE LANG/GEST",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Beechview                     ",2022,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,1,0,2,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2021,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,3,0,0,0,0,0,0,0,0,3
@@ -349,7 +350,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,2,3,0,0,0,0,0,0,0,0,0,7
 "Beechview                     ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,1,1,5,0,3,0,1,0,3,0,15
 "Beechview                     ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,3,1,3,3,0,2,0,5,3,2,1,25
-"Beechview                     ",2022,2709(a)(4),"Harassment Communicates Prohibited Acts",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2022,2709(a)(4),"Harassment Communicates Prohibited Acts",1,0,0,1,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2021,2709(a)(4),"Harassment Communicates Prohibited Acts",2,0,1,0,0,1,1,0,0,0,0,0,5
 "Beechview                     ",2020,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2021,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -459,6 +460,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,2705,"Recklessly Endangering Another Person.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,2705,"Recklessly Endangering Another Person.",0,0,0,1,1,2,0,0,2,0,0,1,7
 "Beechview                     ",2020,2705,"Recklessly Endangering Another Person.",0,5,0,0,2,1,0,0,3,0,0,3,14
+"Beechview                     ",2022,9090,"Recovered Firearm",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,9090,"Recovered Firearm",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2022,1301,"Registration and Certificate of Title Required.",0,0,2,0,0,0,0,0,0,0,0,0,2
@@ -546,7 +548,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,9498,"302 (Mental)",0,3,2,1,0,0,0,0,0,0,0,0,6
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,3,0,22
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,4,2,0,0,0,0,0,0,0,0,17
+"Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,4,3,0,0,0,0,0,0,0,0,18
 "Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,6,114
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2022,4106,"Access Device Fraud",1,3,2,1,0,0,0,0,0,0,0,0,7
@@ -741,6 +743,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2020,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,0291,"Located Runaway - Outside City",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Brookline                     ",2022,5506,"Loitering and Prowling at Night",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,5506,"Loitering and Prowling at Night",2,2,1,0,0,0,0,0,0,0,0,0,5
 "Brookline                     ",2020,5506,"Loitering and Prowling at Night",0,0,0,0,1,0,0,0,1,0,0,2,4
 "Brookline                     ",2021,9504,"Lost Property",0,1,0,1,0,0,1,0,0,0,0,0,3
@@ -778,7 +781,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,9997,"Overdose Death",1,1,0,1,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2021,9997,"Overdose Death",0,0,0,1,0,1,0,0,0,0,2,0,4
 "Brookline                     ",2020,9997,"Overdose Death",1,0,0,1,0,0,0,2,0,0,0,0,4
-"Brookline                     ",2022,13(a)(32),"Paraphernalia - Use or Possession",0,1,4,0,0,0,0,0,0,0,0,0,5
+"Brookline                     ",2022,13(a)(32),"Paraphernalia - Use or Possession",0,1,4,1,0,0,0,0,0,0,0,0,6
 "Brookline                     ",2021,13(a)(32),"Paraphernalia - Use or Possession",1,0,0,0,0,4,5,5,1,8,4,0,28
 "Brookline                     ",2020,13(a)(32),"Paraphernalia - Use or Possession",2,0,2,3,3,2,2,2,3,0,2,0,21
 "Brookline                     ",2021,9134,"Pedestrian Hit by Vehicle/Non-Reportable Accident",0,0,0,1,0,1,0,0,0,0,0,0,2
@@ -971,7 +974,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2020,3736,"Reckless Driving",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Chartiers City                ",2020,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,2,0,0,0,1,0,3
 "Chartiers City                ",2020,3701,Robbery.,0,0,0,0,0,0,0,2,0,0,0,0,2
-"Chartiers City                ",2022,8106,"Shots Fired",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Chartiers City                ",2022,8106,"Shots Fired",0,0,1,1,0,0,0,0,0,0,0,0,2
 "Chartiers City                ",2021,8106,"Shots Fired",0,1,2,2,0,0,1,1,0,0,1,2,10
 "Chartiers City                ",2020,8106,"Shots Fired",0,0,0,4,1,1,2,2,3,1,0,1,15
 "Chartiers City                ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,2,0,1,0,0,0,3
@@ -1948,6 +1951,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2020,3923,"Theft by Extortion.",0,0,0,1,0,0,0,0,0,0,0,1,2
 "Oakwood                       ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,1,0,0,0,0,1,0,2
 "Oakwood                       ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Oakwood                       ",2022,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2021,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,0,1,0,0,0,0,0,0,0,2
 "Oakwood                       ",2020,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,1,0,3,0,0,0,0,1,5
 "Oakwood                       ",2021,3934,"Theft from Vehicle",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -2015,7 +2019,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,2702,"Aggravated Assault.",0,0,3,2,4,3,8,4,6,0,1,3,34
 "Sheraden                      ",2020,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2020,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Sheraden                      ",2022,9497,"Aided Case",1,3,1,1,0,0,0,0,0,0,0,0,6
+"Sheraden                      ",2022,9497,"Aided Case",1,3,1,2,0,0,0,0,0,0,0,0,7
 "Sheraden                      ",2021,9497,"Aided Case",1,2,2,1,2,2,6,1,3,2,1,2,25
 "Sheraden                      ",2020,9497,"Aided Case",0,0,2,2,3,1,1,1,2,1,3,1,17
 "Sheraden                      ",2020,5107,"Aiding Consummation of Crime.",0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -2228,7 +2232,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",4,0,0,0,0,0,2,3,0,0,0,1,10
 "Sheraden                      ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,0,2,0,0,2,0,0,0,0,0,6
 "Sheraden                      ",2020,9994,"PFA Service",0,0,0,0,1,0,1,0,0,0,0,0,2
-"Sheraden                      ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,1,0,0,0,0,0,0,0,0,3
+"Sheraden                      ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,2,0,0,0,0,0,0,0,0,4
 "Sheraden                      ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,0,0,1,0,0,1,3
 "Sheraden                      ",2020,9993,"PFA Service with Weapons Supplement",1,1,0,1,0,1,0,0,0,0,0,0,4
 "Sheraden                      ",2021,6110.1,"Possesion of Firearm by Minor",0,0,0,1,0,0,0,2,3,1,0,0,7
@@ -2800,7 +2804,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2021,3701,Robbery.,0,0,1,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,3701,Robbery.,0,0,0,0,0,0,0,0,1,0,0,0,1
 "Windgap                       ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Windgap                       ",2022,8106,"Shots Fired",0,5,3,0,0,0,0,0,0,0,0,0,8
+"Windgap                       ",2022,8106,"Shots Fired",0,5,3,1,0,0,0,0,0,0,0,0,9
 "Windgap                       ",2021,8106,"Shots Fired",1,1,1,2,3,0,2,4,0,1,0,2,17
 "Windgap                       ",2020,8106,"Shots Fired",1,0,0,0,3,0,0,2,0,1,2,1,10
 "Windgap                       ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,2,0,0,0,0,0,0,0,0,0,2
