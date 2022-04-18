@@ -9280,7 +9280,7 @@
             "Jan": "3",
             "Feb": "2",
             "Mar": "2",
-            "Apr": "3",
+            "Apr": "4",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -9289,7 +9289,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Beechview",
@@ -9527,7 +9527,7 @@
             "Jan": "0",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -9536,7 +9536,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -10420,7 +10420,7 @@
             "Jan": "3",
             "Feb": "8",
             "Mar": "4",
-            "Apr": "6",
+            "Apr": "7",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -10429,7 +10429,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "21"
+            "Count": "22"
         },
         {
             "Neighborhood": "Brookline",
@@ -14334,7 +14334,7 @@
             "Jan": "0",
             "Feb": "1",
             "Mar": "2",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -14343,7 +14343,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -21098,7 +21098,7 @@
             "Jan": "0",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -21107,7 +21107,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -22954,6 +22954,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2022",
+            "Section": "2701(a)(3)",
+            "Description": "Simple Assault - Attempts by Physical Menace",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2021",
             "Section": "2701(a)(3)",
             "Description": "Simple Assault - Attempts by Physical Menace",
@@ -23239,6 +23258,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2022",
+            "Section": "2718(a)(1)",
+            "Description": "Strangulation - Applying Pressure to the Throat or Neck",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2021",
             "Section": "2718(a)(1)",
             "Description": "Strangulation - Applying Pressure to the Throat or Neck",
@@ -23299,6 +23337,25 @@
             "Year": "2021",
             "Section": "4910",
             "Description": "Tampering with or Fabricating Physical Evidence.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2022",
+            "Section": "2706",
+            "Description": "Terroristic Threats.",
             "Jan": "0",
             "Feb": "0",
             "Mar": "0",
@@ -37837,7 +37894,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "4",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -37846,7 +37903,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
@@ -38426,7 +38483,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "1",
+            "Apr": "3",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -38435,7 +38492,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -38683,6 +38740,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2022",
+            "Section": "901",
+            "Description": "Criminal Attempt",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -39756,7 +39832,7 @@
             "Jan": "0",
             "Feb": "3",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -39765,7 +39841,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -39954,6 +40030,25 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2022",
+            "Section": "3802(c)",
+            "Description": "DUI - Highest Rate of Alcohol - BAC >= .16%",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
             "Dec": "0",
             "Count": "1"
         },
@@ -40421,7 +40516,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -40430,7 +40525,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -42796,7 +42891,7 @@
             "Jan": "1",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -42805,7 +42900,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -43043,7 +43138,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -43052,7 +43147,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -43613,7 +43708,7 @@
             "Jan": "2",
             "Feb": "10",
             "Mar": "1",
-            "Apr": "2",
+            "Apr": "3",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -43622,7 +43717,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "Sheraden",
@@ -44259,7 +44354,7 @@
             "Jan": "2",
             "Feb": "1",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -44268,7 +44363,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
