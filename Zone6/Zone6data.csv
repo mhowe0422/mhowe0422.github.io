@@ -329,7 +329,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,1,0,0,0,0,0,2,0,1,0,1,5
 "Beechview                     ",2021,5121,Escape.,0,0,0,0,0,0,0,0,2,0,0,0,2
 "Beechview                     ",2020,2710,"Ethnic Intimidation.",0,0,0,1,1,0,0,0,0,0,0,0,2
-"Beechview                     ",2022,9015,"Failure To Appear/Arrest on Attachment Order",0,2,0,0,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2022,9015,"Failure To Appear/Arrest on Attachment Order",0,2,0,0,4,0,0,0,0,0,0,0,6
 "Beechview                     ",2021,9015,"Failure To Appear/Arrest on Attachment Order",0,3,0,0,1,0,1,0,1,0,0,1,7
 "Beechview                     ",2020,9015,"Failure To Appear/Arrest on Attachment Order",1,0,0,0,0,0,2,0,0,0,0,0,3
 "Beechview                     ",2021,4915,"Failure to Comply with Megans Law",0,0,0,0,1,1,0,0,0,0,0,0,2
@@ -546,7 +546,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,3334,"Turning Movements and Required Signals.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2021,3334,"Turning Movements and Required Signals.",0,2,1,0,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2020,3334,"Turning Movements and Required Signals.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Beechview                     ",2022,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,1,1,0,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2022,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,1,1,0,1,0,0,0,0,0,0,0,3
 "Beechview                     ",2021,3928,"Unauthorized Use of Automobile and Other Vehicles.",1,0,0,0,1,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,2,3,0,0,0,1,1,2,1,0,0,10
 "Beechview                     ",2020,6318,"Unlawful Contact/Communication w/ Minor",0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -881,7 +881,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,0,3,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,2,0,0,3,1,4,0,0,13
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
-"Brookline                     ",2022,2701,"Simple Assault.",7,2,7,3,0,0,0,0,0,0,0,0,19
+"Brookline                     ",2022,2701,"Simple Assault.",7,2,7,3,2,0,0,0,0,0,0,0,21
 "Brookline                     ",2021,2701,"Simple Assault.",0,5,3,4,6,10,1,9,6,8,7,7,66
 "Brookline                     ",2020,2701,"Simple Assault.",11,4,6,7,5,3,6,6,3,9,4,6,70
 "Brookline                     ",2021,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,1,0,0,0,2
@@ -2701,7 +2701,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2020,5902(e),"Patronizing a Prostitute",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Westwood                      ",2022,9134,"Pedestrian Hit by Vehicle/Non-Reportable Accident",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,0,0,2,0,0,0,0,0,0,0,4
-"Westwood                      ",2022,9993,"PFA Service with Weapons Supplement",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2022,9993,"PFA Service with Weapons Supplement",0,0,1,0,1,0,0,0,0,0,0,0,2
 "Westwood                      ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Westwood                      ",2020,9993,"PFA Service with Weapons Supplement",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2021,6110.1,"Possesion of Firearm by Minor",0,0,0,1,0,0,0,0,0,0,0,0,1
