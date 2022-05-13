@@ -388,7 +388,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,633.02(a),"License Required; 3 Months or Older",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2020,3332,"Limitations on Turning Around.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Beechview                     ",2020,0292,"Located Runaway - not Reported Missing",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Beechview                     ",2022,5506,"Loitering and Prowling at Night",0,0,0,1,1,0,0,0,0,0,0,0,2
+"Beechview                     ",2022,5506,"Loitering and Prowling at Night",0,0,0,1,2,0,0,0,0,0,0,0,3
 "Beechview                     ",2021,5506,"Loitering and Prowling at Night",0,0,0,2,0,1,0,0,0,0,2,0,5
 "Beechview                     ",2020,5506,"Loitering and Prowling at Night",0,0,0,0,0,0,0,0,3,0,1,0,4
 "Beechview                     ",2022,9504,"Lost Property",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -404,7 +404,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2021,9123,"Miscellaneous Fire Other Investigation to Continue",1,0,0,0,1,0,1,1,0,0,0,0,4
 "Beechview                     ",2020,9123,"Miscellaneous Fire Other Investigation to Continue",0,2,0,2,0,0,0,0,0,0,1,0,5
 "Beechview                     ",2020,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2022,9129,"Miscellaneous Investigation",1,1,2,1,0,0,0,0,0,0,0,0,5
+"Beechview                     ",2022,9129,"Miscellaneous Investigation",1,1,2,1,1,0,0,0,0,0,0,0,6
 "Beechview                     ",2021,9129,"Miscellaneous Investigation",0,0,1,1,0,2,0,2,1,0,0,0,7
 "Beechview                     ",2020,9129,"Miscellaneous Investigation",0,0,0,0,0,0,1,5,1,0,1,1,9
 "Beechview                     ",2022,029,"Missing Juvenile",0,2,1,0,0,0,0,0,0,0,0,0,3
@@ -425,7 +425,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,5507(a),"Obstructing highway, railroad or public passage",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2020,5901,"Open Lewdness.",0,0,0,0,0,0,1,0,0,2,0,0,3
 "Beechview                     ",2021,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Beechview                     ",2022,9998,Overdose,0,1,2,1,0,0,0,0,0,0,0,0,4
+"Beechview                     ",2022,9998,Overdose,0,1,2,1,1,0,0,0,0,0,0,0,5
 "Beechview                     ",2021,9998,Overdose,6,1,4,0,2,1,3,1,2,0,0,0,20
 "Beechview                     ",2020,9998,Overdose,2,3,3,4,1,5,6,1,0,0,3,2,30
 "Beechview                     ",2022,9997,"Overdose Death",2,0,0,1,0,0,0,0,0,0,0,0,3
@@ -1458,6 +1458,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,5121,Escape.,0,2,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2021,2710,"Ethnic Intimidation.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Elliott                       ",2020,4523,"Exhaust Systems, Mufflers and Noise Control.",0,0,0,0,0,0,0,0,2,0,0,0,2
+"Elliott                       ",2022,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,9015,"Failure To Appear/Arrest on Attachment Order",1,0,1,2,0,0,0,0,0,0,1,0,5
 "Elliott                       ",2020,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,0,0,0,1,2,2,3,0,8
 "Elliott                       ",2021,4915,"Failure to Comply with Megans Law",0,0,0,0,0,0,0,2,0,0,0,0,2
@@ -2136,7 +2137,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,0,0,1,0,0,0,0,0,0,0,4
 "Sheraden                      ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,0,0,0,2,2,2,5,0,0,2,15
 "Sheraden                      ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,1,1,0,1,0,1,0,2,1,1,11
-"Sheraden                      ",2022,3304,"Criminal Mischief.",2,1,2,4,2,0,0,0,0,0,0,0,11
+"Sheraden                      ",2022,3304,"Criminal Mischief.",2,1,2,4,3,0,0,0,0,0,0,0,12
 "Sheraden                      ",2021,3304,"Criminal Mischief.",2,2,3,5,3,7,2,6,8,5,4,0,47
 "Sheraden                      ",2020,3304,"Criminal Mischief.",2,3,3,2,2,5,2,3,3,4,6,3,38
 "Sheraden                      ",2021,3503,"Criminal Trespass",0,2,1,0,0,0,0,2,5,0,0,1,11
