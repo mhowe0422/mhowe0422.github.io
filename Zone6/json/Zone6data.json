@@ -2517,7 +2517,7 @@
             "Feb": "1",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -2525,7 +2525,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -10041,7 +10041,7 @@
             "Feb": "1",
             "Mar": "2",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -10049,7 +10049,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -10098,7 +10098,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -10106,7 +10106,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -10946,6 +10946,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2022",
+            "Section": "9018",
+            "Description": "Accidental Fire",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2021",
             "Section": "9018",
             "Description": "Accidental Fire",
@@ -11010,7 +11029,7 @@
             "Feb": "4",
             "Mar": "4",
             "Apr": "4",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -11018,7 +11037,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Brookline",
@@ -13056,6 +13075,25 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2022",
+            "Section": "3802(d)(1)(ii)",
+            "Description": "DUI - Controlled Substance - Schedule II or III",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2022",
             "Section": "3802(d)(2)",
             "Description": "DUI - Drug - Impaired Ability",
             "Jan": "0",
@@ -13689,7 +13727,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -13697,7 +13735,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -17375,7 +17413,7 @@
             "Feb": "1",
             "Mar": "2",
             "Apr": "0",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -17383,7 +17421,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -17508,7 +17546,7 @@
             "Feb": "3",
             "Mar": "3",
             "Apr": "6",
-            "May": "2",
+            "May": "3",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -17516,7 +17554,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Neighborhood": "Brookline",
@@ -18045,6 +18083,25 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Chartiers City",
+            "Year": "2022",
+            "Section": "9498",
+            "Description": "302 (Mental)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
@@ -19579,7 +19636,7 @@
             "Feb": "1",
             "Mar": "5",
             "Apr": "4",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -19587,7 +19644,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -19807,7 +19864,7 @@
             "Feb": "2",
             "Mar": "2",
             "Apr": "1",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -19815,7 +19872,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -20149,7 +20206,7 @@
             "Feb": "1",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -20157,7 +20214,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -21137,7 +21194,7 @@
             "Feb": "2",
             "Mar": "1",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -21145,7 +21202,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -24538,7 +24595,7 @@
             "Feb": "0",
             "Mar": "2",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -24546,7 +24603,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -35798,6 +35855,25 @@
         },
         {
             "Neighborhood": "Fairywood",
+            "Year": "2022",
+            "Section": "9491",
+            "Description": "Industrial Accident",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
             "Year": "2021",
             "Section": "6308",
             "Description": "Investigation by Police Officers",
@@ -36964,7 +37040,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -36972,7 +37048,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Oakwood",
@@ -44272,6 +44348,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2022",
+            "Section": "908",
+            "Description": "Prohibited Offensive Weapons.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2021",
             "Section": "908",
             "Description": "Prohibited Offensive Weapons.",
@@ -44450,7 +44545,7 @@
             "Feb": "1",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -44458,7 +44553,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -45096,7 +45191,7 @@
             "Feb": "7",
             "Mar": "10",
             "Apr": "16",
-            "May": "8",
+            "May": "9",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -45104,7 +45199,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "52"
+            "Count": "53"
         },
         {
             "Neighborhood": "Sheraden",
@@ -46407,7 +46502,7 @@
             "Feb": "3",
             "Mar": "0",
             "Apr": "0",
-            "May": "2",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -46415,7 +46510,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "5"
         },
         {
             "Neighborhood": "West End",
@@ -46730,7 +46825,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "2",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -46738,7 +46833,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "1"
         },
         {
             "Neighborhood": "West End",
@@ -48953,7 +49048,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "0",
-            "May": "1",
+            "May": "0",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -48961,7 +49056,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "1"
         },
         {
             "Neighborhood": "West End",
@@ -54332,6 +54427,25 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2022",
+            "Section": "2709(a)(1)",
+            "Description": "Harassment by Physical Contact, or Attempts or Threats",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
