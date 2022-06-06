@@ -11048,7 +11048,7 @@
             "Feb": "8",
             "Mar": "4",
             "Apr": "9",
-            "May": "9",
+            "May": "10",
             "Jun": "1",
             "Jul": "0",
             "Aug": "0",
@@ -11056,7 +11056,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "34"
+            "Count": "35"
         },
         {
             "Neighborhood": "Brookline",
@@ -15666,14 +15666,14 @@
             "Mar": "6",
             "Apr": "6",
             "May": "2",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Neighborhood": "Brookline",
@@ -45990,14 +45990,14 @@
             "Mar": "10",
             "Apr": "16",
             "May": "9",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "53"
+            "Count": "54"
         },
         {
             "Neighborhood": "Sheraden",
@@ -47977,6 +47977,25 @@
         },
         {
             "Neighborhood": "West End",
+            "Year": "2022",
+            "Section": "3309",
+            "Description": "Driving on Roadways Laned for Traffic.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
             "Year": "2021",
             "Section": "3309",
             "Description": "Driving on Roadways Laned for Traffic.",
@@ -48232,14 +48251,14 @@
             "Mar": "0",
             "Apr": "1",
             "May": "1",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "West End",
@@ -48308,14 +48327,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "2",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "West End",
@@ -49380,6 +49399,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2022",
+            "Section": "4302",
+            "Description": "Periods for Requiring Lighted Lamps.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "West End",
