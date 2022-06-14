@@ -13,5 +13,5 @@ author: Mark Howe
 
 
 ## Meetings 4th Thursday of the month at the Sheraden Senior Center
-## Meeting agendas post on the https://www.facebook.com/PSCZSIX
+## Meeting agendas post on the [https://www.facebook.com/PSCZSIX]
 ## Be Safe, Wear a mask, wash your hands and maintain social distancing.
