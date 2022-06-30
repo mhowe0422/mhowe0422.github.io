@@ -212,7 +212,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,2404(b)(1),"A person may not ignite fireworks on public or private property without the permission of the owner",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2020,2404(b)(3),"A person may not ignite fireworks or sparkling devices toward a motor vehicle or building",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2020,2404(b)(5),"A person may not ignite fireworks within 150 feet of an occupied structure",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Beechview                     ",2022,4106,"Access Device Fraud",0,3,0,2,2,0,0,0,0,0,0,0,7
+"Beechview                     ",2022,4106,"Access Device Fraud",0,3,0,2,2,1,0,0,0,0,0,0,8
 "Beechview                     ",2021,4106,"Access Device Fraud",0,0,2,1,0,0,2,1,0,0,0,0,6
 "Beechview                     ",2020,4106,"Access Device Fraud",2,1,0,5,1,1,1,0,0,2,2,2,17
 "Beechview                     ",2022,9018,"Accidental Fire",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -1346,7 +1346,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,3921,"Theft by Unlawful Taking or Disposition.",1,0,2,0,2,1,0,0,0,0,0,0,6
 "Crafton Heights               ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,4,2,2,3,1,1,2,0,16
 "Crafton Heights               ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,2,1,2,2,0,1,3,3,0,1,0,16
-"Crafton Heights               ",2022,3934,"Theft from Vehicle",2,2,1,3,0,1,0,0,0,0,0,0,9
+"Crafton Heights               ",2022,3934,"Theft from Vehicle",2,2,1,3,0,2,0,0,0,0,0,0,10
 "Crafton Heights               ",2021,3934,"Theft from Vehicle",0,1,0,2,1,0,1,4,2,2,1,0,14
 "Crafton Heights               ",2020,3934,"Theft from Vehicle",4,6,5,2,6,0,0,1,2,3,4,0,33
 "Crafton Heights               ",2021,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",0,0,0,2,0,0,0,0,0,0,0,0,2
@@ -1441,7 +1441,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,2702,"Aggravated Assault.",2,0,0,2,0,3,0,0,0,0,0,0,7
 "Elliott                       ",2021,2702,"Aggravated Assault.",2,0,0,1,0,0,0,0,2,0,2,0,7
 "Elliott                       ",2020,2702,"Aggravated Assault.",0,0,0,0,1,1,0,3,2,3,1,0,11
-"Elliott                       ",2022,9497,"Aided Case",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2022,9497,"Aided Case",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Elliott                       ",2021,9497,"Aided Case",0,1,0,2,1,0,1,0,0,1,0,2,8
 "Elliott                       ",2020,9497,"Aided Case",1,0,1,0,1,0,1,0,0,0,2,1,7
 "Elliott                       ",2022,7122,"Altered, Forged or Counterfeit Documents and Plates",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -1701,7 +1701,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,0,0,1,2,0,0,0,0,0,0,4
 "Elliott                       ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,2,1,0,2,4,1,0,2,1,1,15
 "Elliott                       ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,2,0,1,0,2,0,0,2,0,0,1,11
-"Elliott                       ",2022,3921,"Theft by Unlawful Taking or Disposition.",0,3,0,0,1,0,0,0,0,0,0,0,4
+"Elliott                       ",2022,3921,"Theft by Unlawful Taking or Disposition.",0,3,0,0,1,1,0,0,0,0,0,0,5
 "Elliott                       ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,1,0,4,2,3,1,1,0,0,1,1,16
 "Elliott                       ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,0,3,3,0,0,2,1,1,1,12
 "Elliott                       ",2021,3934,"Theft from Vehicle",1,0,0,0,0,0,0,0,0,1,1,0,3
@@ -1946,7 +1946,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2020,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Fairywood                     ",2022,3744,"Duty to Give Information and Render Aid",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2020,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,0,0,0,0,0,2,0,0,2
-"Fairywood                     ",2022,9015,"Failure To Appear/Arrest on Attachment Order",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Fairywood                     ",2022,9015,"Failure To Appear/Arrest on Attachment Order",0,1,0,0,0,1,0,0,0,0,0,0,2
 "Fairywood                     ",2022,4914(A),"False Identification to Law Enforcement",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Fairywood                     ",2022,4906,"False Reports to Law Enforcement Authorities.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Fairywood                     ",2021,6106,"Firearms not to be Carried without a License.",0,0,0,0,0,0,2,2,0,0,0,0,4
@@ -1962,6 +1962,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2021,2709(a),Harassment.,0,0,0,0,1,0,0,2,0,0,0,0,3
 "Fairywood                     ",2020,2709(a),Harassment.,0,1,0,0,0,1,0,0,0,0,0,0,2
 "Fairywood                     ",2020,633.09(a),"Harboring a Nuisance; Any animal to create offensive odor, excessive noise or unsanitary condition",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Fairywood                     ",2022,4120,"Identity Theft",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Fairywood                     ",2021,4120,"Identity Theft",0,0,0,0,0,2,1,0,0,0,0,1,4
 "Fairywood                     ",2020,4120,"Identity Theft",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2022,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,0,2,0,0,0,0,0,0,2
@@ -2567,7 +2568,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,0,1,0,0,0,1,1,0,0,0,0,5
 "West End                      ",2020,3732.1,"Aggravated Assault by Vehicle",0,0,0,2,0,0,0,0,0,0,0,0,2
 "West End                      ",2020,3735.1,"Aggravated Assault While DUI",0,0,0,2,0,0,0,0,0,0,0,0,2
-"West End                      ",2022,2702,"Aggravated Assault.",0,1,0,0,0,1,0,0,0,0,0,0,2
+"West End                      ",2022,2702,"Aggravated Assault.",0,1,0,0,0,2,0,0,0,0,0,0,3
 "West End                      ",2021,2702,"Aggravated Assault.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "West End                      ",2022,9497,"Aided Case",0,1,0,0,1,0,0,0,0,0,0,0,2
 "West End                      ",2021,9497,"Aided Case",0,0,0,0,0,0,1,0,0,1,0,0,2
@@ -2588,7 +2589,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2022,3304,"Criminal Mischief.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2021,3304,"Criminal Mischief.",0,0,0,1,0,0,0,1,0,1,0,0,3
 "West End                      ",2020,3304,"Criminal Mischief.",0,1,0,0,1,0,1,0,1,0,1,0,5
-"West End                      ",2022,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,0,1,0,0,0,0,0,0,1
+"West End                      ",2022,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,0,2,0,0,0,0,0,0,2
 "West End                      ",2021,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",0,0,0,0,0,0,0,0,1,0,0,0,1
 "West End                      ",2021,5503,"Disorderly Conduct.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "West End                      ",2021,9492,"Dog Bite",0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -2622,7 +2623,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2020,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,2,0,0,0,2,0,0,0,4
 "West End                      ",2022,9015,"Failure To Appear/Arrest on Attachment Order",0,2,0,0,0,1,0,0,0,0,0,0,3
 "West End                      ",2020,4905,"False Alarms to Agencies of Public Safety.",0,0,0,0,0,0,0,0,0,1,0,0,1
-"West End                      ",2022,6106,"Firearms not to be Carried without a License.",0,0,0,0,0,1,0,0,0,0,0,0,1
+"West End                      ",2022,6106,"Firearms not to be Carried without a License.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "West End                      ",2021,6106,"Firearms not to be Carried without a License.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "West End                      ",2022,9493,"Fires (Self-Starting)",0,0,0,1,0,0,0,0,0,0,0,0,1
 "West End                      ",2021,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -2695,7 +2696,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2022,3925,"Receiving Stolen Property.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "West End                      ",2022,3736,"Reckless Driving",0,2,0,1,0,0,0,0,0,0,0,0,3
 "West End                      ",2021,3736,"Reckless Driving",0,0,0,1,0,0,0,0,0,0,2,2,5
-"West End                      ",2022,2705,"Recklessly Endangering Another Person.",0,2,0,0,0,1,0,0,0,0,0,0,3
+"West End                      ",2022,2705,"Recklessly Endangering Another Person.",0,2,0,0,0,2,0,0,0,0,0,0,4
 "West End                      ",2021,2705,"Recklessly Endangering Another Person.",0,0,0,2,0,0,0,1,0,0,0,0,3
 "West End                      ",2020,2705,"Recklessly Endangering Another Person.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "West End                      ",2021,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -2746,7 +2747,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2022,9999,"9999 - (Misc. Incident):",0,1,3,1,1,1,0,0,0,0,0,0,7
 "Westwood                      ",2021,9999,"9999 - (Misc. Incident):",2,7,7,2,1,3,2,1,1,1,1,1,29
 "Westwood                      ",2020,9999,"9999 - (Misc. Incident):",4,3,1,0,0,0,0,3,0,4,0,3,18
-"Westwood                      ",2022,4106,"Access Device Fraud",0,0,2,0,1,0,0,0,0,0,0,0,3
+"Westwood                      ",2022,4106,"Access Device Fraud",0,0,2,0,1,1,0,0,0,0,0,0,4
 "Westwood                      ",2021,4106,"Access Device Fraud",0,0,2,0,0,0,1,0,0,0,0,1,4
 "Westwood                      ",2020,4106,"Access Device Fraud",0,1,0,1,0,0,0,1,0,0,1,0,4
 "Westwood                      ",2021,7728,"Accidents and Accident Reports.",2,0,0,0,0,0,0,0,0,0,0,0,2
