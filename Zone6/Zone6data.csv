@@ -622,7 +622,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,3301,Arson,0,4,2,0,0,0,2,0,1,0,0,0,9
 "Brookline                     ",2022,4105(a)(1),"Bad Checks",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,4105(a)(1),"Bad Checks",0,1,1,0,0,0,0,0,1,0,0,0,3
-"Brookline                     ",2022,9501,"Bench Warrant",2,0,4,0,3,3,0,0,0,0,0,0,12
+"Brookline                     ",2022,9501,"Bench Warrant",2,0,4,0,3,5,0,0,0,0,0,0,14
 "Brookline                     ",2021,9501,"Bench Warrant",4,2,0,6,0,0,2,2,0,0,0,0,16
 "Brookline                     ",2020,9501,"Bench Warrant",2,0,2,0,5,0,2,0,2,2,2,0,17
 "Brookline                     ",2022,3502,Burglary.,1,1,8,3,6,0,0,0,0,0,0,0,19
@@ -962,7 +962,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,2,2,3,3,2,0,0,0,0,0,14
 "Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,4,4,7,1,2,3,28
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
-"Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,3,6,5,2,1,0,0,0,0,0,23
+"Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,3,6,5,2,2,0,0,0,0,0,24
 "Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,4,2,3,1,3,43
 "Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",2,4,1,1,2,2,5,3,3,3,2,3,31
 "Brookline                     ",2022,3934,"Theft from Vehicle",0,0,2,2,7,1,0,0,0,0,0,0,12
@@ -1774,6 +1774,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2020,607.03,"Discharging Firearm or Airgun",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2020,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2022,5503(a)(3),"DISORDERLY CONDUCT - OBSCENE LANG/GEST",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Esplen                        ",2022,5503,"Disorderly Conduct.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Esplen                        ",2021,1332,"Display of Registration Plate.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2021,1501,"Drivers Required to be Licensed.",0,0,0,1,0,0,0,0,0,0,2,0,3
 "Esplen                        ",2020,1501,"Drivers Required to be Licensed.",2,2,0,0,2,2,2,1,0,0,0,0,11
@@ -1824,6 +1825,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2022,5506,"Loitering and Prowling at Night",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2020,9504,"Lost Property",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Esplen                        ",2020,1333,"Lost, Stolen, Damaged or Illegible Registration Plate.",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Esplen                        ",2022,13(a)(31),"Marijuana: Possession Small Amount",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Esplen                        ",2021,13(a)(31),"Marijuana: Possession Small Amount",0,0,2,0,0,0,0,0,0,0,4,0,6
 "Esplen                        ",2020,13(a)(31),"Marijuana: Possession Small Amount",2,2,0,0,0,0,2,0,0,2,0,0,8
 "Esplen                        ",2022,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,1,1,0,0,0,0,0,0,0,2
@@ -1860,6 +1862,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2020,3925,"Receiving Stolen Property.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2021,3736,"Reckless Driving",2,0,0,0,0,0,0,0,0,0,2,0,4
 "Esplen                        ",2020,3736,"Reckless Driving",0,0,0,0,0,2,2,3,0,0,0,0,7
+"Esplen                        ",2022,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Esplen                        ",2021,2705,"Recklessly Endangering Another Person.",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Esplen                        ",2020,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,0,0,0,1,0,1,2
 "Esplen                        ",2022,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -1884,17 +1887,17 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2022,8106,"Shots Fired",0,0,0,1,3,0,0,0,0,0,0,0,4
 "Esplen                        ",2021,8106,"Shots Fired",4,0,0,0,0,0,1,1,1,1,0,0,8
 "Esplen                        ",2020,8106,"Shots Fired",0,0,0,0,1,2,1,0,2,0,0,0,6
-"Esplen                        ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Esplen                        ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,1,0,2,0,0,0,0,0,3
 "Esplen                        ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,2,0,0,1,0,0,0,0,0,3
 "Esplen                        ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,1,1,0,0,0,0,0,0,0,2
-"Esplen                        ",2022,2701,"Simple Assault.",0,2,0,0,0,2,0,0,0,0,0,0,4
+"Esplen                        ",2022,2701,"Simple Assault.",0,2,0,0,0,2,4,0,0,0,0,0,8
 "Esplen                        ",2021,2701,"Simple Assault.",0,0,0,2,1,0,0,0,0,0,4,0,7
 "Esplen                        ",2020,2701,"Simple Assault.",0,2,0,0,0,2,2,2,0,0,2,0,10
 "Esplen                        ",2021,627.02(b)(ii),"Smoking a small amount of marijuana in any public space",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2021,3323,"Stop Signs and Yield Signs.",3,2,0,0,0,0,0,0,0,0,0,0,5
 "Esplen                        ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,2,0,0,0,0,0,0,2,0,4
 "Esplen                        ",2021,4910,"Tampering with or Fabricating Physical Evidence.",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Esplen                        ",2022,2706,"Terroristic Threats.",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Esplen                        ",2022,2706,"Terroristic Threats.",0,0,0,0,1,0,2,0,0,0,0,0,3
 "Esplen                        ",2021,2706,"Terroristic Threats.",0,0,0,0,0,0,1,0,0,0,2,2,5
 "Esplen                        ",2020,2706,"Terroristic Threats.",0,0,1,0,0,0,0,0,0,2,2,0,5
 "Esplen                        ",2021,3922,"Theft by Deception.",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -2128,7 +2131,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2021,2706,"Terroristic Threats.",0,0,0,0,0,0,0,4,0,0,0,2,6
 "Oakwood                       ",2020,2706,"Terroristic Threats.",0,0,0,0,1,1,0,0,0,0,0,0,2
 "Oakwood                       ",2020,3923,"Theft by Extortion.",0,0,0,1,0,0,0,0,0,0,0,1,2
-"Oakwood                       ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Oakwood                       ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Oakwood                       ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,1,0,0,0,0,1,0,2
 "Oakwood                       ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Oakwood                       ",2022,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,0,1,0,0,0,0,0,0,2
@@ -2330,6 +2333,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,4914,"False Identification to Law Enforcement Authorities",0,0,0,1,0,0,0,0,2,0,0,0,3
 "Sheraden                      ",2020,4914,"False Identification to Law Enforcement Authorities",1,0,0,0,0,0,0,0,2,0,0,0,3
 "Sheraden                      ",2021,2903,"False Imprisonment.",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2022,4906,"False Reports to Law Enforcement Authorities.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2020,4906,"False Reports to Law Enforcement Authorities.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,6106,"Firearms not to be Carried without a License.",0,0,0,0,2,0,2,0,0,0,0,0,4
 "Sheraden                      ",2021,6106,"Firearms not to be Carried without a License.",0,0,4,0,0,2,0,8,2,0,0,0,16
@@ -2433,7 +2437,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,2,0,0,0,0,2,0,0,0,0,0,4
 "Sheraden                      ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",4,0,0,0,0,0,2,3,0,0,0,1,10
 "Sheraden                      ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,0,2,0,0,2,0,0,0,0,0,6
-"Sheraden                      ",2022,9994,"PFA Service",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Sheraden                      ",2022,9994,"PFA Service",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Sheraden                      ",2020,9994,"PFA Service",0,0,0,0,1,0,1,0,0,0,0,0,2
 "Sheraden                      ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,3,1,6,0,0,0,0,0,0,12
 "Sheraden                      ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,0,0,1,0,0,1,3
@@ -2504,7 +2508,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,1,0,1,0,0,0,0,3
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
-"Sheraden                      ",2022,8106,"Shots Fired",11,7,10,16,9,5,1,0,0,0,0,0,59
+"Sheraden                      ",2022,8106,"Shots Fired",11,7,10,16,9,5,2,0,0,0,0,0,60
 "Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,9,8,14,5,11,10,113
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
 "Sheraden                      ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,1,0,2,0,0,0,2,0,0,5
@@ -2513,7 +2517,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,1,2,0,0,0,1,1,6,3,0,1,15
 "Sheraden                      ",2022,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",1,0,0,2,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2021,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,0,0,0,0,0,0,1,0,1
-"Sheraden                      ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,0,0,0,0,0,0,0,0,0,0,3
+"Sheraden                      ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,0,0,0,0,2,0,0,0,0,0,5
 "Sheraden                      ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,0,7,2,0,5,3,3,1,0,24
 "Sheraden                      ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,2,0,2,0,1,1,1,2,10
 "Sheraden                      ",2022,2701,"Simple Assault.",5,14,2,7,12,2,0,0,0,0,0,0,42
@@ -2566,6 +2570,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,3316(a),"use of interactive wireless communications devices for text-based communications while operating motor vehicles prohibited",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Sheraden                      ",2021,1501(A),"Valid Drivers License Required",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,4524,"Windshield Obstructions and Wipers.",0,0,2,0,0,0,1,2,0,0,0,0,5
+"West End                      ",2022,9498,"302 (Mental)",0,0,0,0,0,0,1,0,0,0,0,0,1
 "West End                      ",2021,9498,"302 (Mental)",0,1,2,2,0,0,0,0,0,1,0,0,6
 "West End                      ",2020,9498,"302 (Mental)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "West End                      ",2022,9999,"9999 - (Misc. Incident):",0,1,2,1,1,0,0,0,0,0,0,0,5
@@ -2805,7 +2810,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2021,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Westwood                      ",2020,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,3,0,0,0,0,0,3
 "Westwood                      ",2020,2709(a.1)(1)(i),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Disparaging Statement/Opinion",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Westwood                      ",2022,9496,"Dead on Arrival (DOA)",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Westwood                      ",2022,9496,"Dead on Arrival (DOA)",0,0,0,0,1,0,1,0,0,0,0,0,2
 "Westwood                      ",2021,9496,"Dead on Arrival (DOA)",1,0,1,0,0,0,0,0,1,0,0,1,4
 "Westwood                      ",2020,9496,"Dead on Arrival (DOA)",1,0,1,1,0,0,0,0,1,1,0,1,6
 "Westwood                      ",2022,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -2880,6 +2885,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2022,9998,Overdose,1,0,1,0,0,1,0,0,0,0,0,0,3
 "Westwood                      ",2021,9998,Overdose,0,2,1,0,0,1,1,0,1,1,0,0,7
 "Westwood                      ",2020,9998,Overdose,0,0,1,1,1,0,2,1,1,0,2,0,9
+"Westwood                      ",2022,9997,"Overdose Death",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Westwood                      ",2021,13(a)(32),"Paraphernalia - Use or Possession",2,0,2,0,0,0,2,0,0,2,0,2,10
 "Westwood                      ",2020,13(a)(32),"Paraphernalia - Use or Possession",4,0,0,0,2,0,0,0,0,2,2,0,10
 "Westwood                      ",2020,5902(e),"Patronizing a Prostitute",4,0,0,0,0,0,0,0,0,0,0,0,4
@@ -3009,12 +3015,14 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2022,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2022,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Windgap                       ",2021,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,2,0,0,0,0,0,0,0,0,0,2
+"Windgap                       ",2022,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Windgap                       ",2020,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Windgap                       ",2020,2903,"False Imprisonment.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Windgap                       ",2022,4906,"False Reports to Law Enforcement Authorities.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Windgap                       ",2022,9489,"Found Property",0,0,1,0,0,1,0,0,0,0,0,0,2
 "Windgap                       ",2022,4103,"Fraud. Destruct., Remov. or Conceal.of Record. Instr.",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Windgap                       ",2022,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Windgap                       ",2020,2709,"Harassment (Non-Specific)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Windgap                       ",2022,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Windgap                       ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,1,1,0,0,0,0,0,0,2
