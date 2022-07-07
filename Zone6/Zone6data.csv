@@ -230,7 +230,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2021,2702,"Aggravated Assault.",3,0,0,0,0,4,0,3,3,0,2,1,16
 "Beechview                     ",2020,2702,"Aggravated Assault.",4,3,0,0,1,0,0,0,3,0,0,1,12
 "Beechview                     ",2021,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,2,0,0,0,0,0,0,2
-"Beechview                     ",2022,9497,"Aided Case",2,0,0,3,1,3,0,0,0,0,0,0,9
+"Beechview                     ",2022,9497,"Aided Case",2,0,0,3,1,4,0,0,0,0,0,0,10
 "Beechview                     ",2021,9497,"Aided Case",1,3,1,0,1,2,0,0,1,0,1,2,12
 "Beechview                     ",2020,9497,"Aided Case",1,3,0,1,2,2,0,2,1,2,3,1,18
 "Beechview                     ",2020,7122,"Altered, Forged or Counterfeit Documents and Plates",0,0,0,0,0,0,0,0,0,0,2,0,2
@@ -603,7 +603,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",2,4,4,4,4,4,0,0,0,0,0,0,22
 "Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,1,3,1,3,0,1,1,0,17
 "Brookline                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",5,5,2,3,2,2,1,4,4,2,2,6,38
-"Brookline                     ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,3,4,7,3,3,1,0,0,0,0,0,25
+"Brookline                     ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,3,4,7,3,4,1,0,0,0,0,0,26
 "Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,5,3,3,8,7,3,1,5,5,4,51
 "Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,2,5,1,4,5,3,4,5,2,3,2,38
 "Brookline                     ",2022,3742,"Accidents Involving Death or Personal Injury",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -741,7 +741,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,4905,"False Alarms to Agencies of Public Safety.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Brookline                     ",2021,4914(A),"False Identification to Law Enforcement",0,2,0,0,0,0,0,0,0,2,0,0,4
 "Brookline                     ",2021,4914,"False Identification to Law Enforcement Authorities",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2022,6106,"Firearms not to be Carried without a License.",0,0,0,0,4,0,0,0,0,0,0,0,4
+"Brookline                     ",2022,6106,"Firearms not to be Carried without a License.",0,0,0,0,4,0,2,0,0,0,0,0,6
 "Brookline                     ",2021,6106,"Firearms not to be Carried without a License.",0,0,0,0,0,0,2,0,2,0,0,2,6
 "Brookline                     ",2020,6106,"Firearms not to be Carried without a License.",3,0,0,0,0,0,0,0,0,0,2,0,5
 "Brookline                     ",2022,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -853,13 +853,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,1,0,0,2,0,0,0,0,0,0,0,3
 "Brookline                     ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",1,0,0,1,0,0,0,1,0,0,0,0,3
 "Brookline                     ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,2,0,0,1,0,0,0,0,2,0,7
-"Brookline                     ",2022,9994,"PFA Service",0,0,0,0,0,2,0,0,0,0,0,0,2
+"Brookline                     ",2022,9994,"PFA Service",0,0,0,0,0,2,1,0,0,0,0,0,3
 "Brookline                     ",2021,9994,"PFA Service",0,0,0,0,0,1,0,2,1,0,0,0,4
 "Brookline                     ",2020,9994,"PFA Service",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Brookline                     ",2022,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,2,1,1,0,1,0,6
 "Brookline                     ",2020,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,1,1,0,1,0,0,4
-"Brookline                     ",2022,6110.1,"Possesion of Firearm by Minor",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2022,6110.1,"Possesion of Firearm by Minor",0,1,0,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2021,6110.1,"Possesion of Firearm by Minor",0,0,0,0,0,0,0,2,0,0,0,2,4
 "Brookline                     ",2020,6110.1,"Possesion of Firearm by Minor",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,6110.2,"Possesion of Firearm with Altered Mfg. Number",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -901,7 +901,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,1786,"Required Financial Responsibility.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Brookline                     ",2021,1786,"Required Financial Responsibility.",0,0,0,0,0,0,0,4,0,0,0,0,4
 "Brookline                     ",2020,1786,"Required Financial Responsibility.",0,0,0,0,0,2,0,0,1,0,0,5,8
-"Brookline                     ",2022,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,2,2,2,0,0,0,0,0,0,6
+"Brookline                     ",2022,5104,"Resisting Arrest or Other Law Enforcement.",0,0,0,2,2,2,2,0,0,0,0,0,8
 "Brookline                     ",2021,5104,"Resisting Arrest or Other Law Enforcement.",0,2,0,0,0,2,0,0,2,0,0,0,6
 "Brookline                     ",2020,5104,"Resisting Arrest or Other Law Enforcement.",2,0,2,0,0,0,0,0,0,0,0,2,6
 "Brookline                     ",2021,4581,"Restraint Systems.",0,0,0,0,0,0,0,2,0,0,0,0,2
@@ -934,7 +934,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,0,3,0,3,0,0,0,0,0,0,7
 "Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,2,0,0,3,1,4,0,0,13
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
-"Brookline                     ",2022,2701,"Simple Assault.",7,2,7,3,8,5,0,0,0,0,0,0,32
+"Brookline                     ",2022,2701,"Simple Assault.",7,2,7,3,8,5,2,0,0,0,0,0,34
 "Brookline                     ",2021,2701,"Simple Assault.",0,5,3,4,6,10,1,9,6,8,7,7,66
 "Brookline                     ",2020,2701,"Simple Assault.",11,4,6,7,5,3,6,6,3,9,4,6,70
 "Brookline                     ",2021,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,1,0,0,0,2
@@ -959,7 +959,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,3922,"Theft by Deception.",0,3,1,2,2,2,1,1,2,0,0,0,14
 "Brookline                     ",2020,3922,"Theft by Deception.",1,1,1,0,0,0,1,2,2,0,1,1,10
 "Brookline                     ",2020,3923,"Theft by Extortion.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Brookline                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,2,2,3,3,2,0,0,0,0,0,14
+"Brookline                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,2,2,3,4,2,0,0,0,0,0,15
 "Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,4,4,7,1,2,3,28
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
 "Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,3,6,5,2,2,0,0,0,0,0,24
@@ -1105,7 +1105,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,4105(a)(1),"Bad Checks",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,9501,"Bench Warrant",0,0,0,0,4,0,0,0,0,2,0,1,7
 "Crafton Heights               ",2020,9501,"Bench Warrant",0,0,0,0,0,0,0,2,0,0,2,0,4
-"Crafton Heights               ",2022,3502,Burglary.,3,0,5,0,0,1,0,0,0,0,0,0,9
+"Crafton Heights               ",2022,3502,Burglary.,3,0,5,0,0,1,1,0,0,0,0,0,10
 "Crafton Heights               ",2021,3502,Burglary.,0,2,0,0,0,3,0,2,3,1,0,0,11
 "Crafton Heights               ",2020,3502,Burglary.,2,1,0,1,0,0,0,3,0,0,2,1,10
 "Crafton Heights               ",2022,3714,"Careless Driving",0,2,0,0,2,1,0,0,0,0,0,0,5
@@ -1427,7 +1427,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,9498,"302 (Mental)",0,0,1,1,0,2,0,0,0,0,0,0,4
 "Elliott                       ",2021,9498,"302 (Mental)",3,1,2,0,3,2,0,0,0,0,0,0,11
 "Elliott                       ",2020,9498,"302 (Mental)",1,1,0,1,1,0,0,0,0,0,0,1,5
-"Elliott                       ",2022,9999,"9999 - (Misc. Incident):",1,3,2,3,2,4,0,0,0,0,0,0,15
+"Elliott                       ",2022,9999,"9999 - (Misc. Incident):",1,3,2,3,2,4,1,0,0,0,0,0,16
 "Elliott                       ",2021,9999,"9999 - (Misc. Incident):",4,1,0,3,2,5,2,2,4,3,0,1,27
 "Elliott                       ",2020,9999,"9999 - (Misc. Incident):",1,5,3,0,3,6,0,2,2,2,2,2,28
 "Elliott                       ",2021,2404(b)(5),"A person may not ignite fireworks within 150 feet of an occupied structure",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -1916,13 +1916,14 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2020,2707.2(A.1),"UNLAWFUL DISCHARGE OF PAINTBALL GUN/MARKER",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Esplen                        ",2020,2902,"Unlawful Restraint.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Esplen                        ",2021,4524,"Windshield Obstructions and Wipers.",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Fairywood                     ",2022,9498,"302 (Mental)",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Fairywood                     ",2022,9498,"302 (Mental)",0,0,0,0,1,0,1,0,0,0,0,0,2
 "Fairywood                     ",2021,9498,"302 (Mental)",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2020,9498,"302 (Mental)",1,1,0,1,0,0,0,0,0,1,0,0,4
-"Fairywood                     ",2022,9999,"9999 - (Misc. Incident):",0,0,2,0,1,1,0,0,0,0,0,0,4
+"Fairywood                     ",2022,9999,"9999 - (Misc. Incident):",0,0,2,0,1,2,0,0,0,0,0,0,5
 "Fairywood                     ",2021,9999,"9999 - (Misc. Incident):",1,1,1,1,0,2,1,1,3,1,0,0,12
 "Fairywood                     ",2020,9999,"9999 - (Misc. Incident):",2,1,1,4,1,0,1,0,1,2,0,1,14
 "Fairywood                     ",2021,2404(b)(5),"A person may not ignite fireworks within 150 feet of an occupied structure",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Fairywood                     ",2022,4106,"Access Device Fraud",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Fairywood                     ",2021,4106,"Access Device Fraud",0,0,0,0,0,1,0,0,0,0,0,1,2
 "Fairywood                     ",2020,4106,"Access Device Fraud",0,0,0,1,0,0,0,0,0,1,0,0,2
 "Fairywood                     ",2020,9018,"Accidental Fire",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -2190,7 +2191,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,9999,"9999 - (Misc. Incident):",4,3,4,5,5,5,1,0,0,0,0,0,27
 "Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,10,5,7,8,5,3,1,0,77
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,5,1,5,10,8,7,9,2,4,4,61
-"Sheraden                      ",2022,4106,"Access Device Fraud",1,0,4,2,0,3,1,0,0,0,0,0,11
+"Sheraden                      ",2022,4106,"Access Device Fraud",1,0,4,2,0,3,2,0,0,0,0,0,12
 "Sheraden                      ",2021,4106,"Access Device Fraud",2,0,2,2,0,0,2,0,3,1,1,0,13
 "Sheraden                      ",2020,4106,"Access Device Fraud",0,2,1,0,0,2,1,0,0,0,0,3,9
 "Sheraden                      ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,2,0,0,0,0,0,2
@@ -2370,7 +2371,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,2709(a),Harassment.,1,3,1,0,2,2,0,0,0,0,0,0,9
 "Sheraden                      ",2021,2709(a),Harassment.,2,1,3,2,1,2,1,1,0,2,1,0,16
 "Sheraden                      ",2020,2709(a),Harassment.,0,1,1,0,0,1,1,0,3,0,0,0,7
-"Sheraden                      ",2022,4120,"Identity Theft",1,2,4,0,3,1,0,0,0,0,0,0,11
+"Sheraden                      ",2022,4120,"Identity Theft",1,2,4,0,3,1,1,0,0,0,0,0,12
 "Sheraden                      ",2021,4120,"Identity Theft",0,0,0,3,0,0,4,0,5,1,0,1,14
 "Sheraden                      ",2020,4120,"Identity Theft",0,0,0,1,1,1,1,1,0,2,0,1,8
 "Sheraden                      ",2022,3746,"Immediate Notice of Accident to Police Department",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -2508,7 +2509,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,1,0,1,0,0,0,0,3
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
-"Sheraden                      ",2022,8106,"Shots Fired",11,7,10,16,9,5,2,0,0,0,0,0,60
+"Sheraden                      ",2022,8106,"Shots Fired",11,7,10,16,9,5,3,0,0,0,0,0,61
 "Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,9,8,14,5,11,10,113
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
 "Sheraden                      ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,1,0,2,0,0,0,2,0,0,5
