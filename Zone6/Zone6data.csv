@@ -119,7 +119,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2022,9129,"Miscellaneous Investigation",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2021,9129,"Miscellaneous Investigation",0,1,0,0,1,1,0,0,1,0,0,0,4
 "Banksville                    ",2020,9129,"Miscellaneous Investigation",0,0,0,0,0,0,0,0,1,1,0,0,2
-"Banksville                    ",2022,029,"Missing Juvenile",0,0,1,0,1,0,0,0,0,0,0,0,2
+"Banksville                    ",2022,029,"Missing Juvenile",0,0,1,0,1,0,1,0,0,0,0,0,3
 "Banksville                    ",2020,9490,"Missing Persons (18 and Over)",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Banksville                    ",2022,9012,"Non-Violent Domestic",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2020,13(a)(12),"Obtaining Cont. Subst. by Fraudulent Means",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -842,7 +842,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3308,"One-Way Roadways and Rotary Traffic Islands.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,1371,"Operation Following Suspension of Registration.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2022,4703,"Operation of Vehicle without Official Certif. of Inspection",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2022,9998,Overdose,0,2,6,6,2,2,1,0,0,0,0,0,19
+"Brookline                     ",2022,9998,Overdose,0,2,6,6,2,2,2,0,0,0,0,0,20
 "Brookline                     ",2021,9998,Overdose,1,3,5,2,2,3,1,0,5,2,0,1,25
 "Brookline                     ",2020,9998,Overdose,2,0,2,2,0,2,2,4,2,1,0,3,20
 "Brookline                     ",2022,9997,"Overdose Death",1,1,0,1,0,0,0,0,0,0,0,0,3
@@ -1430,7 +1430,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,1,0,0,0,0,0,1,2
 "East Carnegie                 ",2021,3934,"Theft from Vehicle",0,0,0,0,0,0,0,1,0,0,0,0,1
 "East Carnegie                 ",2020,3934,"Theft from Vehicle",0,1,0,0,0,4,0,0,0,0,0,0,5
-"Elliott                       ",2022,9498,"302 (Mental)",0,0,1,1,0,2,0,0,0,0,0,0,4
+"Elliott                       ",2022,9498,"302 (Mental)",0,0,1,1,0,2,1,0,0,0,0,0,5
 "Elliott                       ",2021,9498,"302 (Mental)",3,1,2,0,3,2,0,0,0,0,0,0,11
 "Elliott                       ",2020,9498,"302 (Mental)",1,1,0,1,1,0,0,0,0,0,0,1,5
 "Elliott                       ",2022,9999,"9999 - (Misc. Incident):",1,3,2,3,2,4,1,0,0,0,0,0,16
@@ -1774,6 +1774,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2021,3304,"Criminal Mischief.",0,1,0,0,1,0,1,1,1,1,3,0,9
 "Esplen                        ",2020,3304,"Criminal Mischief.",0,0,0,1,0,0,0,0,0,2,0,0,3
 "Esplen                        ",2022,3503,"Criminal Trespass",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Esplen                        ",2022,3503(a),"Criminal Trespass",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Esplen                        ",2020,3503,"Criminal Trespass",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Esplen                        ",2020,5511,"Cruelty to Animals.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2021,9496,"Dead on Arrival (DOA)",0,1,0,0,0,0,0,0,0,1,0,0,2
@@ -1987,6 +1988,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,1,1,0,1,0,0,0,0,0,0,3
 "Fairywood                     ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Fairywood                     ",2021,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Fairywood                     ",2022,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Fairywood                     ",2022,2709(a),Harassment.,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2021,2709(a),Harassment.,0,0,0,0,1,0,0,2,0,0,0,0,3
 "Fairywood                     ",2020,2709(a),Harassment.,0,1,0,0,0,1,0,0,0,0,0,0,2
