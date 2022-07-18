@@ -209,7 +209,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,9498,"302 (Mental)",1,0,2,0,3,0,1,0,0,0,0,0,7
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,2,1,0,0,2,13
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
-"Beechview                     ",2022,9999,"9999 - (Misc. Incident):",5,10,8,7,4,6,0,0,0,0,0,0,40
+"Beechview                     ",2022,9999,"9999 - (Misc. Incident):",5,10,8,7,4,6,1,0,0,0,0,0,41
 "Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,8,12,6,0,6,3,71
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",4,4,5,4,3,5,11,8,9,7,4,7,71
 "Beechview                     ",2020,2404(b)(1),"A person may not ignite fireworks on public or private property without the permission of the owner",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -224,7 +224,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,2,1,1,0,0,0,0,0,0,4
 "Beechview                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,4,1,5,1,3,6,2,1,2,2,1,31
 "Beechview                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",3,0,2,3,2,3,1,0,0,1,1,3,19
-"Beechview                     ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,4,3,5,2,1,0,0,0,0,0,22
+"Beechview                     ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,4,3,5,2,2,0,0,0,0,0,23
 "Beechview                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",5,6,5,11,2,2,3,3,4,3,4,4,52
 "Beechview                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,7,1,1,4,3,5,2,6,3,5,6,43
 "Beechview                     ",2021,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,0,0,0,0,2,0,0,0,2
@@ -445,7 +445,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,5507(a),"Obstructing highway, railroad or public passage",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2020,5901,"Open Lewdness.",0,0,0,0,0,0,1,0,0,2,0,0,3
 "Beechview                     ",2021,4703,"Operation of Vehicle without Official Certif. of Inspection",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Beechview                     ",2022,9998,Overdose,0,1,2,1,2,2,0,0,0,0,0,0,8
+"Beechview                     ",2022,9998,Overdose,0,1,2,1,2,2,1,0,0,0,0,0,9
 "Beechview                     ",2021,9998,Overdose,6,1,4,0,2,1,3,1,2,0,0,0,20
 "Beechview                     ",2020,9998,Overdose,2,3,3,4,1,5,6,1,0,0,3,2,30
 "Beechview                     ",2022,9997,"Overdose Death",2,0,0,1,0,0,0,0,0,0,0,0,3
@@ -966,7 +966,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,2,2,3,4,3,0,0,0,0,0,16
 "Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,4,4,7,1,2,3,28
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
-"Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,3,6,5,2,2,0,0,0,0,0,24
+"Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,3,6,5,2,3,0,0,0,0,0,25
 "Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,4,2,3,1,3,43
 "Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",2,4,1,1,2,2,5,3,3,3,2,3,31
 "Brookline                     ",2022,3934,"Theft from Vehicle",0,0,2,2,7,1,0,0,0,0,0,0,12
@@ -2199,7 +2199,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Ridgemont                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Ridgemont                     ",2020,7611,"Unlawful Use of Computer",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Sheraden                      ",2022,9498,"302 (Mental)",0,0,1,2,3,2,1,0,0,0,0,0,9
+"Sheraden                      ",2022,9498,"302 (Mental)",0,0,1,2,3,2,2,0,0,0,0,0,10
 "Sheraden                      ",2021,9498,"302 (Mental)",3,3,0,3,5,5,3,0,2,0,0,1,25
 "Sheraden                      ",2020,9498,"302 (Mental)",2,2,1,0,0,2,0,1,0,1,1,2,12
 "Sheraden                      ",2022,9999,"9999 - (Misc. Incident):",4,3,4,5,5,5,3,0,0,0,0,0,29
@@ -2218,7 +2218,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Sheraden                      ",2021,3732.1,"Aggravated Assault by Vehicle",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Sheraden                      ",2020,3732.1,"Aggravated Assault by Vehicle",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Sheraden                      ",2022,2702,"Aggravated Assault.",3,0,3,1,0,0,2,0,0,0,0,0,9
+"Sheraden                      ",2022,2702,"Aggravated Assault.",3,0,3,1,0,0,4,0,0,0,0,0,11
 "Sheraden                      ",2021,2702,"Aggravated Assault.",2,0,1,0,2,4,3,3,1,1,0,1,18
 "Sheraden                      ",2020,2702,"Aggravated Assault.",0,0,3,2,4,3,8,4,6,0,1,3,34
 "Sheraden                      ",2020,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -2379,7 +2379,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2021,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,1,0,0,0,0,0,0,1,2
 "Sheraden                      ",2020,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2022,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Sheraden                      ",2022,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,1,1,0,0,0,0,0,2
 "Sheraden                      ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,1,2,0,0,0,0,2,0,0,0,5
 "Sheraden                      ",2020,2709(a)(3),"Harassment No Legitimate Purpose",0,1,1,1,0,0,1,0,1,0,0,0,5
 "Sheraden                      ",2021,2709.A1,"HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -2402,6 +2402,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,0291,"Located Runaway - Outside City",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,5506,"Loitering and Prowling at Night",0,0,1,0,0,0,1,0,1,0,0,0,3
 "Sheraden                      ",2020,5506,"Loitering and Prowling at Night",0,1,0,0,0,0,0,0,0,1,1,0,3
+"Sheraden                      ",2022,9504,"Lost Property",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2021,9504,"Lost Property",2,0,0,0,0,0,0,0,1,0,0,0,3
 "Sheraden                      ",2022,13(a)(31),"Marijuana: Possession Small Amount",0,2,0,1,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2021,13(a)(31),"Marijuana: Possession Small Amount",0,2,4,0,0,1,0,0,2,0,0,0,9
@@ -2453,7 +2454,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,2,0,0,0,0,3,0,0,0,0,0,5
 "Sheraden                      ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",4,0,0,0,0,0,2,3,0,0,0,1,10
 "Sheraden                      ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,0,2,0,0,2,0,0,0,0,0,6
-"Sheraden                      ",2022,9994,"PFA Service",0,0,0,0,0,1,1,0,0,0,0,0,2
+"Sheraden                      ",2022,9994,"PFA Service",0,0,0,0,0,1,2,0,0,0,0,0,3
 "Sheraden                      ",2020,9994,"PFA Service",0,0,0,0,1,0,1,0,0,0,0,0,2
 "Sheraden                      ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,3,1,6,0,0,0,0,0,0,12
 "Sheraden                      ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,0,0,1,0,0,1,3
@@ -2524,7 +2525,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,1,0,1,0,0,0,0,3
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
-"Sheraden                      ",2022,8106,"Shots Fired",11,7,10,16,9,5,6,0,0,0,0,0,64
+"Sheraden                      ",2022,8106,"Shots Fired",11,7,10,16,9,5,9,0,0,0,0,0,67
 "Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,9,8,14,5,11,10,113
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
 "Sheraden                      ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,1,0,2,0,0,0,2,0,0,5
@@ -2536,7 +2537,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,0,0,0,0,4,0,0,0,0,0,7
 "Sheraden                      ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,0,7,2,0,5,3,3,1,0,24
 "Sheraden                      ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,2,0,2,0,1,1,1,2,10
-"Sheraden                      ",2022,2701,"Simple Assault.",5,14,2,7,12,2,2,0,0,0,0,0,44
+"Sheraden                      ",2022,2701,"Simple Assault.",5,14,2,7,12,2,4,0,0,0,0,0,46
 "Sheraden                      ",2021,2701,"Simple Assault.",2,6,3,7,1,14,6,9,8,6,6,2,70
 "Sheraden                      ",2020,2701,"Simple Assault.",7,5,8,4,9,9,9,10,17,1,4,6,89
 "Sheraden                      ",2021,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,0,0,0,0,0,2,2
@@ -2550,7 +2551,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,5,8,0,0,0,2,1,5,0,0,0,23
 "Sheraden                      ",2020,4910,"Tampering with or Fabricating Physical Evidence.",2,0,0,0,0,0,0,0,2,0,0,0,4
 "Sheraden                      ",2020,1928,"Temporary Registration Plates.",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Sheraden                      ",2022,2706,"Terroristic Threats.",2,3,1,0,4,0,4,0,0,0,0,0,14
+"Sheraden                      ",2022,2706,"Terroristic Threats.",2,3,1,0,4,0,6,0,0,0,0,0,16
 "Sheraden                      ",2021,2706,"Terroristic Threats.",2,3,5,7,7,5,6,2,1,5,2,7,52
 "Sheraden                      ",2020,2706,"Terroristic Threats.",0,3,1,0,4,0,5,1,11,3,7,6,41
 "Sheraden                      ",2022,3922,"Theft by Deception.",0,0,0,0,1,1,0,0,0,0,0,0,2
