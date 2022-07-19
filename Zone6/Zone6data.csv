@@ -95,7 +95,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,1,0,0,0,0,0,2,0,1,4
 "Banksville                    ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Banksville                    ",2020,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,1,0,0,0,0,0,0,0,1,2
-"Banksville                    ",2022,2709(a),Harassment.,0,1,1,1,0,0,0,0,0,0,0,0,3
+"Banksville                    ",2022,2709(a),Harassment.,0,1,1,1,0,0,1,0,0,0,0,0,4
 "Banksville                    ",2021,2709(a),Harassment.,1,0,0,1,1,1,0,1,0,3,0,0,8
 "Banksville                    ",2020,2709(a),Harassment.,1,0,1,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2020,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,2,0,0,0,0,0,0,0,0,0,2
@@ -593,7 +593,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,9498,"302 (Mental)",0,3,2,3,2,1,0,0,0,0,0,0,11
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,3,0,22
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,4,9,11,6,3,0,0,0,0,0,44
+"Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,4,9,11,6,4,0,0,0,0,0,45
 "Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,6,114
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2022,4106,"Access Device Fraud",1,3,2,18,1,3,0,0,0,0,0,0,28
@@ -938,7 +938,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,0,3,0,3,0,0,0,0,0,0,7
 "Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,2,0,0,3,1,4,0,0,13
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
-"Brookline                     ",2022,2701,"Simple Assault.",7,2,7,3,8,5,2,0,0,0,0,0,34
+"Brookline                     ",2022,2701,"Simple Assault.",7,2,7,3,8,5,4,0,0,0,0,0,36
 "Brookline                     ",2021,2701,"Simple Assault.",0,5,3,4,6,10,1,9,6,8,7,7,66
 "Brookline                     ",2020,2701,"Simple Assault.",11,4,6,7,5,3,6,6,3,9,4,6,70
 "Brookline                     ",2021,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,1,0,0,0,2
@@ -1126,7 +1126,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,2501,"Criminal Homicide.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2022,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2022,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",1,0,0,0,0,0,1,0,0,0,0,0,2
-"Crafton Heights               ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,0,1,0,3,0,0,0,0,0,0,5
+"Crafton Heights               ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,0,1,0,3,1,0,0,0,0,0,6
 "Crafton Heights               ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,1,0,3,0,2,0,0,0,0,6
 "Crafton Heights               ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,1,0,0,1,0,0,1,0,3
 "Crafton Heights               ",2022,3304,"Criminal Mischief.",2,0,2,3,0,2,2,0,0,0,0,0,11
@@ -1204,7 +1204,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,4303,"General Lighting Requirements.",0,2,1,0,0,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2021,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2020,2709.A3,"HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE",0,0,0,0,0,1,0,0,1,1,0,0,3
-"Crafton Heights               ",2022,2709,"Harassment (Non-Specific)",2,1,1,0,0,1,0,0,0,0,0,0,5
+"Crafton Heights               ",2022,2709,"Harassment (Non-Specific)",2,1,1,0,0,1,1,0,0,0,0,0,6
 "Crafton Heights               ",2021,2709,"Harassment (Non-Specific)",0,0,1,0,3,1,0,1,1,1,1,0,9
 "Crafton Heights               ",2020,2709,"Harassment (Non-Specific)",1,0,3,1,1,3,0,2,0,0,0,0,11
 "Crafton Heights               ",2021,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -1450,7 +1450,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,1,1,1,2,0,0,2,2,1,11
 "Elliott                       ",2022,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,3735.1,"Aggravated Assault While DUI",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Elliott                       ",2022,2702,"Aggravated Assault.",2,0,0,2,0,3,0,0,0,0,0,0,7
+"Elliott                       ",2022,2702,"Aggravated Assault.",2,0,0,2,0,3,1,0,0,0,0,0,8
 "Elliott                       ",2021,2702,"Aggravated Assault.",2,0,0,1,0,0,0,0,2,0,2,0,7
 "Elliott                       ",2020,2702,"Aggravated Assault.",0,0,0,0,1,1,0,3,2,3,1,0,11
 "Elliott                       ",2022,9497,"Aided Case",0,0,0,1,0,1,1,0,0,0,0,0,3
@@ -2416,7 +2416,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,9129,"Miscellaneous Investigation",2,2,0,2,1,1,2,1,2,0,0,0,13
 "Sheraden                      ",2020,9129,"Miscellaneous Investigation",0,1,1,0,0,2,0,0,0,0,0,0,4
 "Sheraden                      ",2022,2908,"Missing Children.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Sheraden                      ",2022,029,"Missing Juvenile",0,3,1,1,0,0,0,0,0,0,0,0,5
+"Sheraden                      ",2022,029,"Missing Juvenile",0,3,1,1,0,0,1,0,0,0,0,0,6
 "Sheraden                      ",2021,029,"Missing Juvenile",0,3,2,2,0,1,1,3,0,4,1,1,18
 "Sheraden                      ",2020,029,"Missing Juvenile",3,2,2,0,0,0,1,0,0,1,2,1,12
 "Sheraden                      ",2022,9490,"Missing Persons (18 and Over)",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -2842,9 +2842,11 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2021,1501,"Drivers Required to be Licensed.",0,3,1,2,0,0,0,0,0,0,0,0,6
 "Westwood                      ",2021,3309,"Driving on Roadways Laned for Traffic.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2021,1543,"Driving While Operating Privilege is Suspended or Revoked.",3,0,2,1,0,0,0,0,0,0,0,0,6
+"Westwood                      ",2022,3802(a)(1),"DUI - General Impairment",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Westwood                      ",2021,3802(a)(1),"DUI - General Impairment",0,0,4,1,0,1,2,0,0,0,0,2,10
 "Westwood                      ",2020,3802(a)(1),"DUI - General Impairment",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Westwood                      ",2021,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,2,0,0,0,0,0,0,0,0,0,2
+"Westwood                      ",2022,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Westwood                      ",2021,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,2,0,0,0,2,0,0,0,0,2,6
 "Westwood                      ",2020,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Westwood                      ",2021,3744,"Duty to Give Information and Render Aid",0,0,0,0,0,0,0,0,1,0,0,2,3

@@ -1835,13 +1835,13 @@
             "Apr": "1",
             "May": "0",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Banksville",
@@ -11240,13 +11240,13 @@
             "Apr": "9",
             "May": "11",
             "Jun": "6",
-            "Jul": "3",
+            "Jul": "4",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "44"
+            "Count": "45"
         },
         {
             "Neighborhood": "Brookline",
@@ -17756,8 +17756,8 @@
             "Mar": "3",
             "Apr": "2",
             "May": "4",
-            "Jun": "3",
-            "Jul": "1",
+            "Jun": "2",
+            "Jul": "2",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
@@ -21310,13 +21310,13 @@
             "Apr": "1",
             "May": "0",
             "Jun": "3",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -22792,13 +22792,13 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -27447,13 +27447,13 @@
             "Apr": "1",
             "May": "0",
             "Jun": "2",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Elliott",
@@ -45668,13 +45668,13 @@
             "Apr": "1",
             "May": "0",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
@@ -53677,6 +53677,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "3802(a)(1)",
+            "Description": "DUI - General Impairment",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2021",
             "Section": "3802(a)(1)",
             "Description": "DUI - General Impairment",
@@ -53725,6 +53744,25 @@
             "May": "0",
             "Jun": "0",
             "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "3802(c)",
+            "Description": "DUI - Highest Rate of Alcohol - BAC >= .16%",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
