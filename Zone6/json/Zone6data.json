@@ -7839,13 +7839,13 @@
             "Apr": "0",
             "May": "3",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -11259,13 +11259,13 @@
             "Apr": "9",
             "May": "11",
             "Jun": "6",
-            "Jul": "4",
+            "Jul": "6",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "45"
+            "Count": "47"
         },
         {
             "Neighborhood": "Brookline",
@@ -11468,13 +11468,13 @@
             "Apr": "4",
             "May": "4",
             "Jun": "3",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "20"
+            "Count": "21"
         },
         {
             "Neighborhood": "Brookline",
@@ -20165,12 +20165,12 @@
             "Section": "2701",
             "Description": "Simple Assault.",
             "Jan": "0",
-            "Feb": "2",
+            "Feb": "1",
             "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
@@ -33670,6 +33670,25 @@
         },
         {
             "Neighborhood": "Esplen",
+            "Year": "2022",
+            "Section": "9496",
+            "Description": "Dead on Arrival (DOA)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
             "Year": "2021",
             "Section": "9496",
             "Description": "Dead on Arrival (DOA)",
@@ -41716,13 +41735,13 @@
             "Apr": "5",
             "May": "5",
             "Jun": "5",
-            "Jul": "3",
+            "Jul": "4",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "29"
+            "Count": "30"
         },
         {
             "Neighborhood": "Sheraden",
@@ -48499,13 +48518,13 @@
             "Apr": "3",
             "May": "5",
             "Jun": "2",
-            "Jul": "1",
+            "Jul": "2",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "19"
+            "Count": "20"
         },
         {
             "Neighborhood": "Sheraden",
@@ -49050,13 +49069,13 @@
             "Apr": "1",
             "May": "1",
             "Jun": "0",
-            "Jul": "0",
+            "Jul": "1",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "West End",
