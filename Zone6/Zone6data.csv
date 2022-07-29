@@ -221,7 +221,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,2404(b)(1),"A person may not ignite fireworks on public or private property without the permission of the owner",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2020,2404(b)(3),"A person may not ignite fireworks or sparkling devices toward a motor vehicle or building",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2020,2404(b)(5),"A person may not ignite fireworks within 150 feet of an occupied structure",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Beechview                     ",2022,4106,"Access Device Fraud",0,3,0,2,2,1,0,0,0,0,0,0,8
+"Beechview                     ",2022,4106,"Access Device Fraud",0,3,0,2,2,1,1,0,0,0,0,0,9
 "Beechview                     ",2021,4106,"Access Device Fraud",0,0,2,1,0,0,2,1,0,0,0,0,6
 "Beechview                     ",2020,4106,"Access Device Fraud",2,1,0,5,1,1,1,0,0,2,2,2,17
 "Beechview                     ",2022,9018,"Accidental Fire",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -367,7 +367,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2021,4101,Forgery.,0,0,0,2,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,4101,Forgery.,0,0,0,0,0,1,0,0,0,0,0,0,1
 "Beechview                     ",2020,9017,"Found Drugs",0,0,0,0,0,0,0,1,1,0,0,0,2
-"Beechview                     ",2022,9489,"Found Property",0,0,1,0,0,1,0,0,0,0,0,0,2
+"Beechview                     ",2022,9489,"Found Property",0,0,1,0,0,1,1,0,0,0,0,0,3
 "Beechview                     ",2021,9489,"Found Property",0,1,1,0,0,1,1,2,1,0,0,0,7
 "Beechview                     ",2020,9489,"Found Property",0,1,0,0,0,1,1,1,1,1,1,1,8
 "Beechview                     ",2021,4303,"General Lighting Requirements.",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -467,7 +467,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Beechview                     ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,1,0,0,0,0,0,2,1,4
 "Beechview                     ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,1,0,0,2,0,0,0,2,0,0,0,5
-"Beechview                     ",2022,9994,"PFA Service",0,0,0,0,1,0,1,0,0,0,0,0,2
+"Beechview                     ",2022,9994,"PFA Service",0,0,0,0,1,0,2,0,0,0,0,0,3
 "Beechview                     ",2021,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,0,2,0,1,0,0,0,0,0,5
 "Beechview                     ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,1,0,2,0,0,2,0,0,0,5
@@ -599,7 +599,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,9498,"302 (Mental)",0,3,2,3,2,1,0,0,0,0,0,0,11
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,3,0,22
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,4,9,11,6,6,0,0,0,0,0,47
+"Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,4,9,11,6,7,0,0,0,0,0,48
 "Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,6,114
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2022,4106,"Access Device Fraud",1,3,2,18,1,3,1,0,0,0,0,0,29
@@ -854,7 +854,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,9997,"Overdose Death",1,1,0,1,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2021,9997,"Overdose Death",0,0,0,1,0,1,0,0,0,0,2,0,4
 "Brookline                     ",2020,9997,"Overdose Death",1,0,0,1,0,0,0,2,0,0,0,0,4
-"Brookline                     ",2022,13(a)(32),"Paraphernalia - Use or Possession",0,1,4,3,0,0,2,0,0,0,0,0,10
+"Brookline                     ",2022,13(a)(32),"Paraphernalia - Use or Possession",0,1,4,3,0,0,4,0,0,0,0,0,12
 "Brookline                     ",2021,13(a)(32),"Paraphernalia - Use or Possession",1,0,0,0,0,4,5,5,1,8,4,0,28
 "Brookline                     ",2020,13(a)(32),"Paraphernalia - Use or Possession",2,0,2,3,3,2,2,2,3,0,2,0,21
 "Brookline                     ",2021,9134,"Pedestrian Hit by Vehicle/Non-Reportable Accident",0,0,0,1,0,1,0,0,0,0,0,0,2
@@ -878,7 +878,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,907,"Possessing Instruments of Crime.",2,0,0,0,2,0,0,0,0,0,0,0,4
 "Brookline                     ",2021,907,"Possessing Instruments of Crime.",0,0,0,1,1,0,0,0,0,2,1,0,5
 "Brookline                     ",2020,907,"Possessing Instruments of Crime.",0,0,0,0,0,2,0,2,0,0,0,0,4
-"Brookline                     ",2022,13(a)(16),"Possession of Controlled Substance",0,4,4,2,0,0,0,0,0,0,0,0,10
+"Brookline                     ",2022,13(a)(16),"Possession of Controlled Substance",0,4,4,2,0,0,2,0,0,0,0,0,12
 "Brookline                     ",2021,13(a)(16),"Possession of Controlled Substance",2,0,2,0,4,8,5,4,0,4,2,0,31
 "Brookline                     ",2020,13(a)(16),"Possession of Controlled Substance",2,0,0,0,0,0,2,2,2,0,2,2,12
 "Brookline                     ",2022,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,2,0,0,0,0,0,0,0,0,0,2
@@ -1145,6 +1145,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,3503,"Criminal Trespass",0,0,0,0,0,0,0,0,4,0,4,0,8
 "Crafton Heights               ",2021,3503(a),"Criminal Trespass",0,0,0,0,0,2,0,0,2,0,0,0,4
 "Crafton Heights               ",2020,3503,"Criminal Trespass",0,0,0,0,1,1,2,0,0,0,1,0,5
+"Crafton Heights               ",2022,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2021,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,1,0,0,2,0,0,0,3
 "Crafton Heights               ",2020,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Crafton Heights               ",2020,5511,"Cruelty to Animals.",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -1230,7 +1231,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,2709(a)(3),"Harassment No Legitimate Purpose",2,0,1,0,1,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2020,2709(a)(3),"Harassment No Legitimate Purpose",1,0,0,1,2,0,0,1,0,1,0,0,6
 "Crafton Heights               ",2021,2709.A1,"HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2022,2709(a),Harassment.,0,1,1,3,0,0,1,0,0,0,0,0,6
+"Crafton Heights               ",2022,2709(a),Harassment.,0,1,1,3,0,0,2,0,0,0,0,0,7
 "Crafton Heights               ",2021,2709(a),Harassment.,0,0,0,0,0,0,0,0,0,0,1,0,1
 "Crafton Heights               ",2020,2709(a),Harassment.,1,0,1,1,1,2,0,0,1,1,2,0,10
 "Crafton Heights               ",2022,4120,"Identity Theft",0,1,2,0,1,1,0,0,0,0,0,0,5
@@ -1375,6 +1376,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",2,0,0,0,0,0,1,0,0,0,0,0,3
 "Crafton Heights               ",2021,3112,"Traffic-Control Signals.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2020,3334,"Turning Movements and Required Signals.",0,0,0,0,0,0,2,0,0,0,0,0,2
+"Crafton Heights               ",2022,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2021,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,2,2,1,0,0,2,0,0,0,1,8
 "Crafton Heights               ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,0,0,0,0,4,0,1,5
 "Crafton Heights               ",2020,2707.2(A.1),"UNLAWFUL DISCHARGE OF PAINTBALL GUN/MARKER",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -1561,7 +1563,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,4914,"False Identification to Law Enforcement Authorities",3,0,2,0,0,0,0,0,0,0,0,0,5
 "Elliott                       ",2021,2903,"False Imprisonment.",0,0,0,0,1,0,0,1,0,0,0,0,2
 "Elliott                       ",2020,2903,"False Imprisonment.",1,0,0,0,0,0,0,0,0,1,0,0,2
-"Elliott                       ",2022,4906,"False Reports to Law Enforcement Authorities.",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2022,4906,"False Reports to Law Enforcement Authorities.",0,0,1,0,0,0,1,0,0,0,0,0,2
 "Elliott                       ",2021,4906,"False Reports to Law Enforcement Authorities.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Elliott                       ",2020,4906,"False Reports to Law Enforcement Authorities.",0,0,0,0,0,1,1,0,1,0,0,0,3
 "Elliott                       ",2022,6106,"Firearms not to be Carried without a License.",0,2,0,0,0,4,0,0,0,0,0,0,6
@@ -1652,6 +1654,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Elliott                       ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Elliott                       ",2020,9993,"PFA Service with Weapons Supplement",1,0,0,0,0,1,1,0,0,0,1,0,4
+"Elliott                       ",2022,6110.1,"Possesion of Firearm by Minor",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Elliott                       ",2022,6110.2,"Possesion of Firearm with Altered Mfg. Number",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Elliott                       ",2021,6110.2,"Possesion of Firearm with Altered Mfg. Number",0,0,0,0,2,0,2,0,0,0,0,0,4
 "Elliott                       ",2022,627.02(b)(i),"Possessing a small amount of marijuana",0,0,0,2,1,0,0,0,0,0,0,0,3
@@ -2973,6 +2976,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2022,8106,"Shots Fired",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2021,8106,"Shots Fired",1,1,0,1,0,0,0,0,0,0,0,0,3
 "Westwood                      ",2020,8106,"Shots Fired",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Westwood                      ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,1,2,0,0,0,0,0,3
 "Westwood                      ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Westwood                      ",2021,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -2985,11 +2989,11 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2022,2709(b),Stalking,0,0,1,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2020,2709.2,"Stalking Conduct or Repeatedly Communicates",0,0,0,0,0,0,1,0,0,1,0,0,2
 "Westwood                      ",2021,3323,"Stop Signs and Yield Signs.",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Westwood                      ",2022,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",1,2,0,0,0,0,0,0,0,0,0,0,3
+"Westwood                      ",2022,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",1,2,0,0,0,0,1,0,0,0,0,0,4
 "Westwood                      ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Westwood                      ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,2,0,0,0,0,2,0,0,0,0,0,4
 "Westwood                      ",2021,4910,"Tampering with or Fabricating Physical Evidence.",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Westwood                      ",2022,2706,"Terroristic Threats.",0,0,3,0,0,0,0,0,0,0,0,0,3
+"Westwood                      ",2022,2706,"Terroristic Threats.",0,0,3,0,0,0,1,0,0,0,0,0,4
 "Westwood                      ",2021,2706,"Terroristic Threats.",0,0,2,0,1,2,2,0,2,0,0,1,10
 "Westwood                      ",2020,2706,"Terroristic Threats.",0,0,0,0,0,0,1,0,0,3,0,0,4
 "Westwood                      ",2022,3922,"Theft by Deception.",0,0,0,1,1,0,1,0,0,0,0,0,3
