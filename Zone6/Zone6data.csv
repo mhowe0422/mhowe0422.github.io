@@ -232,11 +232,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,2,1,1,0,0,0,0,0,0,4
 "Beechview                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,4,1,5,1,3,6,2,1,2,2,1,31
 "Beechview                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",3,0,2,3,2,3,1,0,0,1,1,3,19
-"Beechview                     ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,4,3,5,2,3,2,0,0,0,0,26
+"Beechview                     ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,4,3,5,2,3,3,0,0,0,0,27
 "Beechview                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",5,6,5,11,2,2,3,3,4,3,4,4,52
 "Beechview                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,7,1,1,4,3,5,2,6,3,5,6,43
 "Beechview                     ",2021,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Beechview                     ",2020,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Beechview                     ",2022,3716,"Accidents Involving Overturned Vehicles",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2022,2702,"Aggravated Assault.",2,2,3,3,1,0,0,0,0,0,0,0,11
 "Beechview                     ",2021,2702,"Aggravated Assault.",3,0,0,0,0,4,0,3,3,0,2,1,16
 "Beechview                     ",2020,2702,"Aggravated Assault.",4,3,0,0,1,0,0,0,3,0,0,1,12
@@ -494,6 +495,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,3213,"Prohibited Acts.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2021,3353,"Prohibitions in Specified Places.",1,2,0,0,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2020,3353,"Prohibitions in Specified Places.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2022,1785,"Proof of Financial Responsibility Following Accident.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2021,1785,"Proof of Financial Responsibility Following Accident.",0,2,0,0,0,0,0,0,0,0,4,0,6
 "Beechview                     ",2022,2707,"Propulsion of Missiles",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2022,5505,"Public Drunkenness",0,0,0,0,2,2,0,0,0,0,0,0,4
@@ -1109,7 +1111,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2021,9018,"Accidental Fire",0,0,1,0,0,1,0,0,0,0,0,0,2
 "Crafton Heights               ",2021,7728,"Accidents and Accident Reports.",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,2,2,0,0,1,0,0,0,0,0,0,5
+"Crafton Heights               ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,2,2,0,0,1,0,1,0,0,0,0,6
 "Crafton Heights               ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,2,0,2,2,0,1,0,0,2,9
 "Crafton Heights               ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,2,0,1,0,0,0,1,0,0,5
 "Crafton Heights               ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,2,2,1,3,1,3,1,0,0,0,0,13
@@ -1462,7 +1464,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,9498,"302 (Mental)",0,0,1,1,0,2,2,0,0,0,0,0,6
 "Elliott                       ",2021,9498,"302 (Mental)",3,1,2,0,3,2,0,0,0,0,0,0,11
 "Elliott                       ",2020,9498,"302 (Mental)",1,1,0,1,1,0,0,0,0,0,0,1,5
-"Elliott                       ",2022,9999,"9999 - (Misc. Incident):",1,3,2,3,2,4,3,1,0,0,0,0,19
+"Elliott                       ",2022,9999,"9999 - (Misc. Incident):",1,3,2,3,2,4,3,2,0,0,0,0,20
 "Elliott                       ",2021,9999,"9999 - (Misc. Incident):",4,1,0,3,2,5,2,2,4,3,0,1,27
 "Elliott                       ",2020,9999,"9999 - (Misc. Incident):",1,5,3,0,3,6,0,2,2,2,2,2,28
 "Elliott                       ",2021,2404(b)(5),"A person may not ignite fireworks within 150 feet of an occupied structure",0,0,0,0,0,0,1,0,0,0,0,0,1
