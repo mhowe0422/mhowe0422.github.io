@@ -70,11 +70,11 @@
             "Jun": "1",
             "Jul": "4",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Banksville",
@@ -11926,11 +11926,11 @@
             "Jun": "4",
             "Jul": "4",
             "Aug": "7",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "34"
+            "Count": "35"
         },
         {
             "Neighborhood": "Brookline",
@@ -12287,11 +12287,11 @@
             "Jun": "3",
             "Jul": "0",
             "Aug": "2",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Brookline",
@@ -18253,11 +18253,11 @@
             "Jun": "2",
             "Jul": "3",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "19"
+            "Count": "20"
         },
         {
             "Neighborhood": "Brookline",
@@ -43618,11 +43618,11 @@
             "Jun": "2",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "3",
+            "Sep": "4",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "17"
+            "Count": "18"
         },
         {
             "Neighborhood": "Sheraden",
@@ -55816,11 +55816,11 @@
             "Jun": "0",
             "Jul": "1",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Westwood",
@@ -57249,6 +57249,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "4302",
+            "Description": "Periods for Requiring Lighted Lamps.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2020",
             "Section": "6105(a)(1)",
             "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
@@ -57569,6 +57588,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "3736",
+            "Description": "Reckless Driving",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
@@ -60320,6 +60358,25 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2022",
+            "Section": "9490",
+            "Description": "Missing Persons (18 and Over)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
