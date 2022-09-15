@@ -4193,11 +4193,11 @@
             "Jun": "0",
             "Jul": "2",
             "Aug": "3",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Beechview",
@@ -4250,11 +4250,11 @@
             "Jun": "6",
             "Jul": "3",
             "Aug": "4",
-            "Sep": "4",
+            "Sep": "6",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "51"
+            "Count": "53"
         },
         {
             "Neighborhood": "Beechview",
@@ -8644,6 +8644,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "8"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2022",
+            "Section": "9012",
+            "Description": "Non-Violent Domestic",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Beechview",
@@ -19838,6 +19857,25 @@
         },
         {
             "Neighborhood": "Chartiers City",
+            "Year": "2022",
+            "Section": "3502",
+            "Description": "Burglary.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Chartiers City",
             "Year": "2020",
             "Section": "3502",
             "Description": "Burglary.",
@@ -23839,11 +23877,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -33491,11 +33529,11 @@
             "Jun": "4",
             "Jul": "1",
             "Aug": "2",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Elliott",
@@ -43314,11 +43352,11 @@
             "Jun": "5",
             "Jul": "7",
             "Aug": "9",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "42"
+            "Count": "43"
         },
         {
             "Neighborhood": "Sheraden",
@@ -43466,11 +43504,11 @@
             "Jun": "2",
             "Jul": "1",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Sheraden",
@@ -44093,11 +44131,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
