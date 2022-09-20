@@ -2369,11 +2369,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -2768,11 +2768,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Banksville",
@@ -4934,11 +4934,11 @@
             "Jun": "1",
             "Jul": "1",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "10"
         },
         {
             "Neighborhood": "Beechview",
@@ -11147,11 +11147,11 @@
             "Jun": "1",
             "Jul": "2",
             "Aug": "3",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Neighborhood": "Beechview",
@@ -11736,11 +11736,11 @@
             "Jun": "1",
             "Jul": "2",
             "Aug": "1",
-            "Sep": "3",
+            "Sep": "4",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "17"
+            "Count": "18"
         },
         {
             "Neighborhood": "Brookline",
@@ -25929,11 +25929,11 @@
             "Jun": "0",
             "Jul": "2",
             "Aug": "3",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "41"
+            "Count": "42"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -30907,11 +30907,11 @@
             "Jun": "2",
             "Jul": "0",
             "Aug": "3",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Elliott",
@@ -34452,6 +34452,25 @@
             "Year": "2020",
             "Section": "9018",
             "Description": "Accidental Fire",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2022",
+            "Section": "3743",
+            "Description": "Accidents Involving Damage to Attended Veh. or Property",
             "Jan": "0",
             "Feb": "0",
             "Mar": "0",
@@ -38450,11 +38469,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Fairywood",
@@ -43960,11 +43979,11 @@
             "Jun": "2",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "5",
+            "Sep": "6",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "19"
+            "Count": "20"
         },
         {
             "Neighborhood": "Sheraden",
@@ -44644,11 +44663,11 @@
             "Jun": "0",
             "Jul": "1",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -44891,11 +44910,11 @@
             "Jun": "5",
             "Jul": "4",
             "Aug": "3",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "27"
+            "Count": "28"
         },
         {
             "Neighborhood": "Sheraden",
@@ -47836,11 +47855,11 @@
             "Jun": "0",
             "Jul": "1",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -49983,11 +50002,11 @@
             "Jun": "5",
             "Jul": "13",
             "Aug": "4",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "77"
+            "Count": "78"
         },
         {
             "Neighborhood": "Sheraden",
@@ -50667,11 +50686,11 @@
             "Jun": "3",
             "Jul": "5",
             "Aug": "2",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "25"
+            "Count": "26"
         },
         {
             "Neighborhood": "Sheraden",
@@ -50724,11 +50743,11 @@
             "Jun": "2",
             "Jul": "3",
             "Aug": "4",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "25"
+            "Count": "26"
         },
         {
             "Neighborhood": "Sheraden",
@@ -52006,6 +52025,25 @@
         {
             "Neighborhood": "West End",
             "Year": "2022",
+            "Section": "3503.B1I",
+            "Description": "DEF. TRESPASS ACTUAL COMMUNICATION",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2022",
             "Section": "2707.1",
             "Description": "Discharge of a Firearm into Occupied Structure",
             "Jan": "0",
@@ -52027,6 +52065,25 @@
             "Year": "2021",
             "Section": "5503(a)(4)",
             "Description": "DISORDERLY CONDUCT - HAZARDOUS\/PHYS. OFF",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2022",
+            "Section": "5503",
+            "Description": "Disorderly Conduct.",
             "Jan": "0",
             "Feb": "0",
             "Mar": "0",
@@ -53993,6 +54050,25 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2022",
+            "Section": "5505",
+            "Description": "Public Drunkenness",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
