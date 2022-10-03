@@ -284,6 +284,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2020,3304(a)(6),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Paintball Gun or Paintball Marker)",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Beechview                     ",2020,3304(a)(2),"CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property)",0,1,2,0,0,0,0,0,1,0,0,0,4
+"Beechview                     ",2022,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,4,0,0,0,0,1,2,1,0,0,10
 "Beechview                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,0,1,1,2,1,1,0,0,0,1,2,12
@@ -316,6 +317,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,2707.1,"Discharge of a Firearm into Occupied Structure",0,1,0,0,0,0,1,0,0,0,0,0,2
 "Beechview                     ",2021,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,0,0,1,0,0,1,0,0,2
 "Beechview                     ",2020,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,0,0,0,0,0,1,1,0,0,2
+"Beechview                     ",2022,607.03,"Discharging Firearm or Airgun",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2020,607.03,"Discharging Firearm or Airgun",0,2,0,0,0,0,0,0,1,0,0,0,3
 "Beechview                     ",2022,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Beechview                     ",2020,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",0,0,0,0,0,1,0,1,0,0,0,0,2
@@ -526,7 +528,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,3925,"Receiving Stolen Property.",1,0,0,0,0,0,3,4,3,2,1,0,14
 "Beechview                     ",2022,3736,"Reckless Driving",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,3736,"Reckless Driving",0,1,0,0,0,0,1,2,0,0,0,2,6
-"Beechview                     ",2022,2705,"Recklessly Endangering Another Person.",0,1,0,0,1,0,1,0,0,0,0,0,3
+"Beechview                     ",2022,2705,"Recklessly Endangering Another Person.",0,1,0,0,1,0,1,0,0,1,0,0,4
 "Beechview                     ",2021,2705,"Recklessly Endangering Another Person.",0,0,0,1,1,2,0,0,2,0,0,1,7
 "Beechview                     ",2020,2705,"Recklessly Endangering Another Person.",0,5,0,0,2,1,0,0,3,0,0,3,14
 "Beechview                     ",2022,9090,"Recovered Firearm",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -658,7 +660,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,3301,Arson,0,4,2,0,0,0,2,0,1,0,0,0,9
 "Brookline                     ",2022,4105(a)(1),"Bad Checks",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,4105(a)(1),"Bad Checks",0,1,1,0,0,0,0,0,1,0,0,0,3
-"Brookline                     ",2022,9501,"Bench Warrant",2,0,4,0,3,5,0,4,4,0,0,0,22
+"Brookline                     ",2022,9501,"Bench Warrant",2,0,4,0,3,5,0,4,4,2,0,0,24
 "Brookline                     ",2021,9501,"Bench Warrant",4,2,0,6,0,0,2,2,0,0,0,0,16
 "Brookline                     ",2020,9501,"Bench Warrant",2,0,2,0,5,0,2,0,2,2,2,0,17
 "Brookline                     ",2022,3502,Burglary.,1,1,8,3,6,0,3,2,2,0,0,0,26
@@ -894,7 +896,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,1,0,0,2,0,0,0,0,0,0,0,3
 "Brookline                     ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",1,0,0,1,0,0,0,1,0,0,0,0,3
 "Brookline                     ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,2,0,0,1,0,0,0,0,2,0,7
-"Brookline                     ",2022,9994,"PFA Service",0,0,0,0,0,2,2,2,3,0,0,0,9
+"Brookline                     ",2022,9994,"PFA Service",0,0,0,0,0,2,2,2,3,2,0,0,11
 "Brookline                     ",2021,9994,"PFA Service",0,0,0,0,0,1,0,2,1,0,0,0,4
 "Brookline                     ",2020,9994,"PFA Service",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Brookline                     ",2022,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -1717,7 +1719,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,6105(c)(9),"Persons Not To Possess Use Manuf, Control Firearm",0,0,0,0,0,2,0,0,0,1,0,0,3
 "Elliott                       ",2022,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,0,2,1,0,0,0,0,0,3
 "Elliott                       ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,2,0,2,0,0,0,0,0,4
-"Elliott                       ",2022,9994,"PFA Service",0,0,0,0,0,0,1,1,0,0,0,0,2
+"Elliott                       ",2022,9994,"PFA Service",0,0,0,0,0,0,1,1,0,1,0,0,3
 "Elliott                       ",2020,9994,"PFA Service",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Elliott                       ",2022,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Elliott                       ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -2341,12 +2343,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3503(b)(1)(i),"Actual Communication",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2021,3732.1,"Aggravated Assault by Vehicle",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Sheraden                      ",2020,3732.1,"Aggravated Assault by Vehicle",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Sheraden                      ",2022,2702,"Aggravated Assault.",3,0,3,1,0,0,4,1,1,0,0,0,13
+"Sheraden                      ",2022,2702,"Aggravated Assault.",3,0,3,1,0,0,4,1,2,0,0,0,14
 "Sheraden                      ",2021,2702,"Aggravated Assault.",2,0,1,0,2,4,3,3,1,1,0,1,18
 "Sheraden                      ",2020,2702,"Aggravated Assault.",0,0,3,2,4,3,8,4,6,0,1,3,34
 "Sheraden                      ",2020,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2020,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Sheraden                      ",2022,9497,"Aided Case",1,3,1,5,2,2,0,0,7,0,0,0,21
+"Sheraden                      ",2022,9497,"Aided Case",1,3,1,5,2,2,0,0,8,0,0,0,22
 "Sheraden                      ",2021,9497,"Aided Case",1,2,2,1,2,2,6,1,3,2,1,2,25
 "Sheraden                      ",2020,9497,"Aided Case",0,0,2,2,3,1,1,1,2,1,3,1,17
 "Sheraden                      ",2020,5107,"Aiding Consummation of Crime.",0,0,0,0,0,0,0,1,0,0,0,0,1
