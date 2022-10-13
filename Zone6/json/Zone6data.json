@@ -5961,10 +5961,10 @@
             "Jul": "1",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -10008,10 +10008,10 @@
             "Jul": "1",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -11889,10 +11889,10 @@
             "Jul": "10",
             "Aug": "10",
             "Sep": "8",
-            "Oct": "2",
+            "Oct": "3",
             "Nov": "0",
             "Dec": "0",
-            "Count": "71"
+            "Count": "72"
         },
         {
             "Neighborhood": "Brookline",
@@ -12098,10 +12098,10 @@
             "Jul": "2",
             "Aug": "2",
             "Sep": "3",
-            "Oct": "2",
+            "Oct": "3",
             "Nov": "0",
             "Dec": "0",
-            "Count": "29"
+            "Count": "30"
         },
         {
             "Neighborhood": "Brookline",
@@ -12155,10 +12155,10 @@
             "Jul": "4",
             "Aug": "7",
             "Sep": "3",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "37"
+            "Count": "38"
         },
         {
             "Neighborhood": "Brookline",
@@ -15176,10 +15176,10 @@
             "Jul": "3",
             "Aug": "0",
             "Sep": "3",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Brookline",
@@ -25170,10 +25170,10 @@
             "Jul": "2",
             "Aug": "2",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -28780,10 +28780,10 @@
             "Jul": "3",
             "Aug": "2",
             "Sep": "2",
-            "Oct": "2",
+            "Oct": "3",
             "Nov": "0",
             "Dec": "0",
-            "Count": "24"
+            "Count": "25"
         },
         {
             "Neighborhood": "Elliott",
@@ -29160,10 +29160,10 @@
             "Jul": "2",
             "Aug": "2",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Elliott",
@@ -30437,6 +30437,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "5"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2022",
+            "Section": "9124",
+            "Description": "Drug Investigation",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Elliott",
@@ -45709,10 +45728,10 @@
             "Jul": "4",
             "Aug": "3",
             "Sep": "3",
-            "Oct": "2",
+            "Oct": "3",
             "Nov": "0",
             "Dec": "0",
-            "Count": "32"
+            "Count": "33"
         },
         {
             "Neighborhood": "Sheraden",
@@ -51656,10 +51675,10 @@
             "Jul": "2",
             "Aug": "2",
             "Sep": "2",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "Sheraden",
@@ -52813,12 +52832,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "2",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "2"
         },
         {
             "Neighborhood": "West End",
@@ -52857,25 +52876,6 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "5"
-        },
-        {
-            "Neighborhood": "West End",
-            "Year": "2022",
-            "Section": "3503",
-            "Description": "Criminal Trespass",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "1",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
         },
         {
             "Neighborhood": "West End",
