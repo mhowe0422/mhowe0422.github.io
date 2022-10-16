@@ -688,11 +688,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,2501,"Criminal Homicide.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2021,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",1,0,1,0,0,2,1,0,0,0,0,0,5
 "Brookline                     ",2020,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,0,0,0,0,0,0,0,3,0,3
+"Brookline                     ",2022,3304(a)(6),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Paintball Gun or Paintball Marker)",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Brookline                     ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,2,0,1,1,3,1,2,0,0,0,12
+"Brookline                     ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,2,0,1,1,3,1,2,1,0,0,13
 "Brookline                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,0,0,2,2,2,0,5,2,0,0,0,15
 "Brookline                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,1,1,3,2,0,2,2,2,1,0,16
-"Brookline                     ",2022,3304,"Criminal Mischief.",4,3,12,3,7,0,1,8,3,1,0,0,42
+"Brookline                     ",2022,3304,"Criminal Mischief.",4,3,12,3,7,0,1,8,3,2,0,0,43
 "Brookline                     ",2021,3304,"Criminal Mischief.",2,3,3,1,3,4,4,12,1,2,0,2,37
 "Brookline                     ",2020,3304,"Criminal Mischief.",2,4,2,0,2,7,3,5,1,6,5,4,41
 "Brookline                     ",2020,902,"Criminal Solicitation.",2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -719,7 +720,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,2707.1,"Discharge of a Firearm into Occupied Structure",2,0,0,0,0,0,0,0,0,1,0,0,3
-"Brookline                     ",2022,607.03,"Discharging Firearm or Airgun",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2022,607.03,"Discharging Firearm or Airgun",1,0,0,0,0,0,0,0,0,1,0,0,2
 "Brookline                     ",2020,607.03,"Discharging Firearm or Airgun",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2022,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",0,0,0,0,0,0,0,0,3,0,0,0,3
 "Brookline                     ",2021,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -728,7 +729,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Brookline                     ",2021,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,1,2,0,0,0,3
 "Brookline                     ",2020,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2022,5503,"Disorderly Conduct.",2,0,0,2,1,1,0,1,1,0,0,0,8
+"Brookline                     ",2022,5503,"Disorderly Conduct.",2,0,0,2,1,1,0,1,1,2,0,0,10
 "Brookline                     ",2021,5503,"Disorderly Conduct.",2,0,0,1,1,3,1,6,2,2,2,0,20
 "Brookline                     ",2020,5503,"Disorderly Conduct.",3,0,0,0,0,0,2,0,0,0,2,0,7
 "Brookline                     ",2021,1332,"Display of Registration Plate.",0,0,0,0,0,1,0,3,0,0,0,0,4
@@ -970,7 +971,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,3701,Robbery.,2,0,1,0,0,1,0,4,1,0,0,0,9
 "Brookline                     ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2022,8106,"Shots Fired",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Brookline                     ",2022,8106,"Shots Fired",0,0,0,0,0,0,0,1,0,1,0,0,2
 "Brookline                     ",2021,8106,"Shots Fired",0,0,0,0,0,0,1,0,0,1,0,0,2
 "Brookline                     ",2020,8106,"Shots Fired",0,0,0,1,2,1,0,0,0,0,0,0,4
 "Brookline                     ",2022,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",1,1,0,0,0,0,0,0,0,0,0,0,2
@@ -978,7 +979,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,1,3,2,0,2,1,2,0,2,13
 "Brookline                     ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,1,0,0,3,2,1,0,0,0,0,0,7
 "Brookline                     ",2022,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,2,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,0,3,0,3,0,4,3,0,0,0,14
+"Brookline                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,0,3,0,3,0,4,3,1,0,0,15
 "Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,2,0,0,3,1,4,0,0,13
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
 "Brookline                     ",2022,2701,"Simple Assault.",7,2,7,3,8,5,6,2,6,4,0,0,50
@@ -1031,6 +1032,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,3928,"Unauthorized Use of Automobile and Other Vehicles.",1,0,1,0,1,1,0,0,3,1,1,0,9
 "Brookline                     ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,1,0,0,0,0,2,0,0,0,0,3
 "Brookline                     ",2020,6318,"Unlawful Contact/Communication w/ Minor",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2022,2707.2(A.1),"UNLAWFUL DISCHARGE OF PAINTBALL GUN/MARKER",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2022,3131(c)(1),"Unlawful dissemination of intimate image -- Person depicted IS a minor UNDER 18 (M1)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2022,3131(c)(2),"Unlawful dissemination of intimate image -- Person depicted is NOT a minor (M2)",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Brookline                     ",2022,2902,"Unlawful Restraint.",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -1107,9 +1109,10 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2022,1301,"Registration and Certificate of Title Required.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Chartiers City                ",2022,3702,"Robbery of Motor Vehicle.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Chartiers City                ",2020,3701,Robbery.,0,0,0,0,0,0,0,2,0,0,0,0,2
-"Chartiers City                ",2022,8106,"Shots Fired",0,0,1,1,0,1,0,0,1,0,0,0,4
+"Chartiers City                ",2022,8106,"Shots Fired",0,0,1,1,0,1,0,0,1,1,0,0,5
 "Chartiers City                ",2021,8106,"Shots Fired",0,1,2,2,0,0,1,1,0,0,1,2,10
 "Chartiers City                ",2020,8106,"Shots Fired",0,0,0,4,1,1,2,2,3,1,0,1,15
+"Chartiers City                ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Chartiers City                ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,2,0,1,0,0,0,3
 "Chartiers City                ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Chartiers City                ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,0,0,0,0,1,0,1
@@ -1118,8 +1121,9 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2020,2701,"Simple Assault.",0,0,0,0,2,0,4,0,0,0,0,0,6
 "Chartiers City                ",2020,2709.1,"Stalking Conduct or Repeatedly Acts Including Follows",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Chartiers City                ",2022,3323,"Stop Signs and Yield Signs.",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Chartiers City                ",2022,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Chartiers City                ",2020,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,2,0,0,0,0,0,0,0,0,2
-"Chartiers City                ",2022,2706,"Terroristic Threats.",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Chartiers City                ",2022,2706,"Terroristic Threats.",0,0,0,0,0,0,0,1,0,2,0,0,3
 "Chartiers City                ",2020,2706,"Terroristic Threats.",0,0,1,0,0,0,7,0,0,0,0,0,8
 "Chartiers City                ",2021,3923,"Theft by Extortion.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Chartiers City                ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -1455,6 +1459,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "East Carnegie                 ",2020,9018,"Accidental Fire",0,1,0,0,0,0,0,0,0,0,0,0,1
 "East Carnegie                 ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,1,0,0,0,1,0,0,1,0,0,3
 "East Carnegie                 ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,0,0,0,1,0,0,0,1,2,5
+"East Carnegie                 ",2022,9497,"Aided Case",0,0,0,0,0,0,0,0,0,1,0,0,1
 "East Carnegie                 ",2021,9497,"Aided Case",0,0,1,0,0,1,0,0,0,0,0,0,2
 "East Carnegie                 ",2020,9497,"Aided Case",0,2,0,0,0,0,0,0,1,1,0,0,4
 "East Carnegie                 ",2020,3301,Arson,0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -1597,7 +1602,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,5503(a)(1),"DISORDERLY CONDUCT - ENGAGE IN FIGHTING",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2021,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Elliott                       ",2020,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Elliott                       ",2022,5503,"Disorderly Conduct.",2,0,0,0,0,1,1,0,0,0,0,0,4
+"Elliott                       ",2022,5503,"Disorderly Conduct.",2,0,0,0,0,1,1,0,0,1,0,0,5
 "Elliott                       ",2021,5503,"Disorderly Conduct.",2,0,0,0,0,0,0,1,0,0,0,1,4
 "Elliott                       ",2020,5503,"Disorderly Conduct.",0,0,0,0,0,3,0,0,0,0,0,0,3
 "Elliott                       ",2021,1332,"Display of Registration Plate.",2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -2050,6 +2055,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,0,0,2,1,0,0,0,0,3
 "Esplen                        ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,3,2,1,0,0,0,2,2,0,11
 "Esplen                        ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,1,1,0,1,0,0,0,1,0,4
+"Esplen                        ",2022,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Esplen                        ",2021,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,1,0,1,1,0,0,1,0,0,5
 "Esplen                        ",2020,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Esplen                        ",2021,3934,"Theft from Vehicle",0,0,0,0,1,1,0,0,0,0,0,0,2
@@ -2427,7 +2433,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,0,0,3,0,2,0,0,0,0,0,8
 "Sheraden                      ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,0,0,0,2,2,2,5,0,0,2,15
 "Sheraden                      ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,1,1,0,1,0,1,0,2,1,1,11
-"Sheraden                      ",2022,3304,"Criminal Mischief.",2,1,2,4,7,5,4,3,3,3,0,0,34
+"Sheraden                      ",2022,3304,"Criminal Mischief.",2,1,2,4,7,5,4,3,3,4,0,0,35
 "Sheraden                      ",2021,3304,"Criminal Mischief.",2,2,3,5,3,7,2,6,8,5,4,0,47
 "Sheraden                      ",2020,3304,"Criminal Mischief.",2,3,3,2,2,5,2,3,3,4,6,3,38
 "Sheraden                      ",2022,3503,"Criminal Trespass",0,0,0,0,1,1,0,0,0,1,0,0,3
@@ -2525,6 +2531,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,9489,"Found Property",0,0,0,0,2,0,1,1,0,0,1,0,5
 "Sheraden                      ",2021,4303,"General Lighting Requirements.",1,1,0,0,0,1,1,0,0,0,2,0,6
 "Sheraden                      ",2020,4303,"General Lighting Requirements.",0,0,2,0,0,0,2,0,3,0,1,2,10
+"Sheraden                      ",2022,9130,"Graffiti Investigation",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2021,9130,"Graffiti Investigation",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2021,6503.1,"Habitual Offenders",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2020,6503.1,"Habitual Offenders",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -2699,7 +2706,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,1,0,1,0,0,0,0,3
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
-"Sheraden                      ",2022,8106,"Shots Fired",11,7,10,16,9,5,13,4,5,1,0,0,81
+"Sheraden                      ",2022,8106,"Shots Fired",11,7,10,16,9,5,13,4,5,2,0,0,82
 "Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,9,8,14,5,11,10,113
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
 "Sheraden                      ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,1,0,2,0,0,0,2,0,0,5
@@ -2708,7 +2715,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,1,2,0,0,0,1,1,6,3,0,1,15
 "Sheraden                      ",2022,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",1,0,0,2,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2021,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,0,0,0,0,0,0,1,0,1
-"Sheraden                      ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,0,0,0,0,4,1,0,0,0,0,8
+"Sheraden                      ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,0,0,0,0,4,1,0,1,0,0,9
 "Sheraden                      ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,0,7,2,0,5,3,3,1,0,24
 "Sheraden                      ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,2,0,2,0,1,1,1,2,10
 "Sheraden                      ",2022,2701,"Simple Assault.",5,14,2,7,12,2,5,10,6,2,0,0,65
@@ -3196,7 +3203,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2022,9498,"302 (Mental)",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2021,9498,"302 (Mental)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,9498,"302 (Mental)",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Windgap                       ",2022,9999,"9999 - (Misc. Incident):",1,0,1,2,2,2,1,0,0,0,0,0,9
+"Windgap                       ",2022,9999,"9999 - (Misc. Incident):",1,0,1,2,2,2,1,0,0,1,0,0,10
 "Windgap                       ",2021,9999,"9999 - (Misc. Incident):",0,0,0,1,1,0,4,2,0,0,0,0,8
 "Windgap                       ",2020,9999,"9999 - (Misc. Incident):",0,1,0,1,0,0,0,0,0,1,1,0,4
 "Windgap                       ",2022,2404(b)(2),"A person may not ignite fireworks or sparkling devices from a motor vehicle or building",0,0,0,0,0,0,1,0,0,0,0,0,1
