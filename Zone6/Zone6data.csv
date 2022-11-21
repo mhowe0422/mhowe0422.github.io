@@ -993,7 +993,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,1,3,2,0,2,1,2,0,2,13
 "Brookline                     ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,1,0,0,3,2,1,0,0,0,0,0,7
 "Brookline                     ",2022,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,2,0,0,0,0,0,0,0,1,0,0,3
-"Brookline                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,0,3,0,3,0,4,3,2,0,0,16
+"Brookline                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,0,3,0,3,0,4,3,2,2,0,18
 "Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,2,0,0,3,1,4,0,0,13
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
 "Brookline                     ",2022,2701,"Simple Assault.",7,2,7,3,8,5,6,2,6,4,3,0,53
@@ -1424,7 +1424,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,1,0,0,0,0,0,0,0,1,1,0,4
 "Crafton Heights               ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,1,1,2,0,2,0,0,1,0,10
 "Crafton Heights               ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Crafton Heights               ",2022,2701,"Simple Assault.",2,0,0,2,9,1,1,4,3,2,3,0,27
+"Crafton Heights               ",2022,2701,"Simple Assault.",2,0,0,2,9,1,1,4,3,2,4,0,28
 "Crafton Heights               ",2021,2701,"Simple Assault.",4,2,3,3,4,2,3,2,1,1,3,0,28
 "Crafton Heights               ",2020,2701,"Simple Assault.",4,3,0,3,4,4,12,5,4,1,3,3,46
 "Crafton Heights               ",2020,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -1911,6 +1911,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2021,9501,"Bench Warrant",0,0,1,0,2,0,0,0,0,2,0,2,7
 "Esplen                        ",2020,9501,"Bench Warrant",0,2,0,0,0,2,2,0,0,2,0,2,10
 "Esplen                        ",2021,3502,Burglary.,0,0,0,1,0,0,0,0,0,0,0,2,3
+"Esplen                        ",2022,3714,"Careless Driving",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Esplen                        ",2021,3714,"Careless Driving",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Esplen                        ",2020,607.07,"Carrying Fascimiles of Firearms Prohibited",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Esplen                        ",2022,901,"Criminal Attempt",0,0,0,0,0,0,0,0,2,0,0,0,2
@@ -1940,6 +1941,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2020,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2022,5503(a)(3),"DISORDERLY CONDUCT - OBSCENE LANG/GEST",0,0,0,0,0,1,1,0,2,0,0,0,4
 "Esplen                        ",2022,5503,"Disorderly Conduct.",0,0,0,0,0,0,2,0,0,0,0,0,2
+"Esplen                        ",2022,4728,"Display of Certificate of Inspection.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Esplen                        ",2021,1332,"Display of Registration Plate.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2021,1501,"Drivers Required to be Licensed.",0,0,0,1,0,0,0,0,0,0,2,0,3
 "Esplen                        ",2020,1501,"Drivers Required to be Licensed.",2,2,0,0,2,2,2,1,0,0,0,0,11
@@ -1949,9 +1951,10 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2021,1543,"Driving While Operating Privilege is Suspended or Revoked.",5,0,0,0,0,1,2,2,3,1,2,2,18
 "Esplen                        ",2020,1543,"Driving While Operating Privilege is Suspended or Revoked.",2,2,0,0,0,0,2,0,0,4,0,3,13
 "Esplen                        ",2022,9124,"Drug Investigation",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Esplen                        ",2022,3802(a)(1),"DUI - General Impairment",0,2,0,0,0,0,0,0,0,0,0,0,2
+"Esplen                        ",2022,3802(a)(1),"DUI - General Impairment",0,2,0,0,0,0,0,0,0,0,2,0,4
 "Esplen                        ",2021,3802(a)(1),"DUI - General Impairment",2,0,0,0,0,0,0,2,1,0,2,0,7
 "Esplen                        ",2020,3802(a)(1),"DUI - General Impairment",0,2,0,0,2,0,2,0,0,2,0,0,8
+"Esplen                        ",2022,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Esplen                        ",2021,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",1,0,0,0,0,0,0,0,0,0,2,0,3
 "Esplen                        ",2021,3744,"Duty to Give Information and Render Aid",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Esplen                        ",2022,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -2038,7 +2041,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2020,3925,"Receiving Stolen Property.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2021,3736,"Reckless Driving",2,0,0,0,0,0,0,0,0,0,2,0,4
 "Esplen                        ",2020,3736,"Reckless Driving",0,0,0,0,0,2,2,3,0,0,0,0,7
-"Esplen                        ",2022,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,2,1,3,0,0,0,6
+"Esplen                        ",2022,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,2,1,3,0,2,0,8
 "Esplen                        ",2021,2705,"Recklessly Endangering Another Person.",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Esplen                        ",2020,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,0,0,0,1,0,1,2
 "Esplen                        ",2022,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -2097,6 +2100,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Esplen                        ",2020,2707.2(A.1),"UNLAWFUL DISCHARGE OF PAINTBALL GUN/MARKER",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Esplen                        ",2020,2902,"Unlawful Restraint.",0,0,0,0,0,0,0,0,0,0,0,1,1
+"Esplen                        ",2022,3316(a),"use of interactive wireless communications devices for text-based communications while operating motor vehicles prohibited",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Esplen                        ",2021,4524,"Windshield Obstructions and Wipers.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Fairywood                     ",2022,9498,"302 (Mental)",0,0,0,0,1,0,1,1,0,0,0,0,3
 "Fairywood                     ",2021,9498,"302 (Mental)",0,0,1,0,0,0,0,0,0,0,0,0,1
