@@ -73,8 +73,8 @@
             "Sep": "2",
             "Oct": "1",
             "Nov": "3",
-            "Dec": "0",
-            "Count": "15"
+            "Dec": "1",
+            "Count": "16"
         },
         {
             "Neighborhood": "Banksville",
@@ -130,8 +130,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "5"
+            "Dec": "1",
+            "Count": "6"
         },
         {
             "Neighborhood": "Banksville",
@@ -2087,8 +2087,8 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "8"
+            "Dec": "1",
+            "Count": "9"
         },
         {
             "Neighborhood": "Banksville",
@@ -4366,9 +4366,9 @@
             "Aug": "4",
             "Sep": "8",
             "Oct": "4",
-            "Nov": "7",
+            "Nov": "8",
             "Dec": "0",
-            "Count": "66"
+            "Count": "67"
         },
         {
             "Neighborhood": "Beechview",
@@ -12404,8 +12404,8 @@
             "Sep": "3",
             "Oct": "6",
             "Nov": "5",
-            "Dec": "1",
-            "Count": "49"
+            "Dec": "2",
+            "Count": "50"
         },
         {
             "Neighborhood": "Brookline",
@@ -16602,9 +16602,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -17078,8 +17078,8 @@
             "Sep": "4",
             "Oct": "0",
             "Nov": "2",
-            "Dec": "0",
-            "Count": "28"
+            "Dec": "1",
+            "Count": "29"
         },
         {
             "Neighborhood": "Brookline",
@@ -19529,8 +19529,8 @@
             "Sep": "3",
             "Oct": "3",
             "Nov": "1",
-            "Dec": "0",
-            "Count": "33"
+            "Dec": "1",
+            "Count": "34"
         },
         {
             "Neighborhood": "Brookline",
@@ -28974,6 +28974,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "East Carnegie",
+            "Year": "2022",
+            "Section": "9998",
+            "Description": "Overdose",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "East Carnegie",
@@ -58366,6 +58385,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "473.02 (b)",
+            "Description": "Deposit or Dump Trash",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
             "Count": "1"
         },
         {
