@@ -2,7 +2,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2022,9498,"302 (Mental)",0,0,0,2,1,0,0,0,2,1,1,0,7
 "Banksville                    ",2021,9498,"302 (Mental)",1,1,0,0,1,2,0,0,2,0,0,1,8
 "Banksville                    ",2020,9498,"302 (Mental)",0,0,2,0,0,0,0,0,0,0,1,1,4
-"Banksville                    ",2022,9999,"9999 - (Misc. Incident):",0,1,2,0,0,1,4,1,2,1,3,1,16
+"Banksville                    ",2022,9999,"9999 - (Misc. Incident):",0,1,2,0,0,1,4,1,2,1,3,2,17
 "Banksville                    ",2021,9999,"9999 - (Misc. Incident):",4,7,1,3,2,2,4,2,3,0,1,1,30
 "Banksville                    ",2020,9999,"9999 - (Misc. Incident):",2,4,1,2,3,6,2,4,2,1,3,1,31
 "Banksville                    ",2022,4106,"Access Device Fraud",0,0,1,1,0,0,2,1,0,0,0,1,6
@@ -21,7 +21,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,3354,"Additional Parking Regulations.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2021,2702,"Aggravated Assault.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2020,2702,"Aggravated Assault.",0,0,0,0,0,0,0,0,0,2,0,0,2
-"Banksville                    ",2022,9497,"Aided Case",0,0,0,0,0,0,1,0,1,0,0,0,2
+"Banksville                    ",2022,9497,"Aided Case",0,0,0,0,0,0,1,0,1,0,0,1,3
 "Banksville                    ",2021,9497,"Aided Case",2,1,1,2,0,1,2,0,1,0,0,0,10
 "Banksville                    ",2020,9497,"Aided Case",1,0,1,0,0,0,0,1,0,1,0,0,4
 "Banksville                    ",2020,3301,Arson,0,0,0,0,0,0,0,2,0,0,0,0,2
@@ -243,7 +243,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,9018,"Accidental Fire",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,9018,"Accidental Fire",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Beechview                     ",2020,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Beechview                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,2,1,1,0,0,0,3,5,1,13
+"Beechview                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,2,1,1,0,0,0,3,5,2,14
 "Beechview                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,4,1,5,1,3,6,2,1,2,2,1,31
 "Beechview                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",3,0,2,3,2,3,1,0,0,1,1,3,19
 "Beechview                     ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,4,3,5,2,3,3,6,4,6,1,44
@@ -312,7 +312,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,9496,"Dead on Arrival (DOA)",1,3,3,1,0,2,1,1,1,1,4,0,18
 "Beechview                     ",2021,9496,"Dead on Arrival (DOA)",4,2,0,2,1,0,1,0,3,1,1,1,16
 "Beechview                     ",2020,9496,"Dead on Arrival (DOA)",0,0,1,1,0,3,0,2,1,1,1,0,10
-"Beechview                     ",2022,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,0,0,0,0,0,2,0,2
+"Beechview                     ",2022,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,0,0,0,0,0,2,2,4
 "Beechview                     ",2021,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,2,0,0,0,2,0,0,0,4
 "Beechview                     ",2020,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2022,3503(b)(1)(iii),"Defiant Trespass - Fencing or Other Enclosure",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -330,7 +330,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,5503(a)(4),"DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Beechview                     ",2022,5503(a)(3),"DISORDERLY CONDUCT - OBSCENE LANG/GEST",0,0,0,1,0,2,0,0,0,0,0,0,3
 "Beechview                     ",2021,5503(a)(3),"DISORDERLY CONDUCT - OBSCENE LANG/GEST",0,0,0,0,0,0,0,0,2,0,0,0,2
-"Beechview                     ",2022,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,1,0,2,0,0,0,0,0,0,0,0,3
+"Beechview                     ",2022,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,1,0,2,0,0,0,0,0,0,0,2,5
 "Beechview                     ",2021,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,3,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2022,5503,"Disorderly Conduct.",0,0,0,2,2,2,0,0,0,0,0,0,6
 "Beechview                     ",2021,5503,"Disorderly Conduct.",0,0,0,1,0,0,0,0,2,0,0,0,3
@@ -408,7 +408,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,2,3,0,1,0,0,4,3,0,0,0,15
 "Beechview                     ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,1,1,5,0,3,0,1,0,3,0,15
 "Beechview                     ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",2,3,1,3,3,0,2,0,5,3,2,1,25
-"Beechview                     ",2022,2709(a)(4),"Harassment Communicates Prohibited Acts",1,0,0,1,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2022,2709(a)(4),"Harassment Communicates Prohibited Acts",1,0,0,1,0,0,0,0,0,0,0,2,4
 "Beechview                     ",2021,2709(a)(4),"Harassment Communicates Prohibited Acts",2,0,1,0,0,1,1,0,0,0,0,0,5
 "Beechview                     ",2020,2709(a)(4),"Harassment Communicates Prohibited Acts",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2021,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -1037,7 +1037,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,2,2,3,4,5,7,14,8,6,2,55
 "Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,4,4,7,1,2,3,28
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
-"Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,3,6,5,2,4,2,3,3,1,2,37
+"Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,3,6,5,2,4,2,3,3,1,3,38
 "Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,4,2,3,1,3,43
 "Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",2,4,1,1,2,2,5,3,3,3,2,3,31
 "Brookline                     ",2022,3934,"Theft from Vehicle",0,0,2,2,7,1,0,4,4,9,16,16,61
