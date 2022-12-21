@@ -12195,8 +12195,8 @@
             "Sep": "8",
             "Oct": "5",
             "Nov": "3",
-            "Dec": "0",
-            "Count": "30"
+            "Dec": "1",
+            "Count": "31"
         },
         {
             "Neighborhood": "Brookline",
@@ -12461,8 +12461,8 @@
             "Sep": "2",
             "Oct": "6",
             "Nov": "2",
-            "Dec": "1",
-            "Count": "35"
+            "Dec": "2",
+            "Count": "36"
         },
         {
             "Neighborhood": "Brookline",
@@ -19605,8 +19605,8 @@
             "Sep": "14",
             "Oct": "8",
             "Nov": "5",
-            "Dec": "3",
-            "Count": "51"
+            "Dec": "4",
+            "Count": "52"
         },
         {
             "Neighborhood": "Brookline",
@@ -19719,8 +19719,8 @@
             "Sep": "4",
             "Oct": "9",
             "Nov": "16",
-            "Dec": "18",
-            "Count": "63"
+            "Dec": "21",
+            "Count": "66"
         },
         {
             "Neighborhood": "Brookline",
@@ -20497,8 +20497,8 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "1",
-            "Dec": "0",
+            "Nov": "0",
+            "Dec": "1",
             "Count": "2"
         },
         {
@@ -21067,8 +21067,8 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "1",
-            "Nov": "1",
-            "Dec": "0",
+            "Nov": "0",
+            "Dec": "1",
             "Count": "2"
         },
         {
@@ -21770,8 +21770,8 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "1",
-            "Dec": "0",
+            "Nov": "0",
+            "Dec": "1",
             "Count": "4"
         },
         {
@@ -23139,8 +23139,8 @@
             "Sep": "4",
             "Oct": "1",
             "Nov": "3",
-            "Dec": "0",
-            "Count": "21"
+            "Dec": "1",
+            "Count": "22"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -27053,8 +27053,8 @@
             "Sep": "5",
             "Oct": "3",
             "Nov": "4",
-            "Dec": "2",
-            "Count": "53"
+            "Dec": "3",
+            "Count": "54"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -28631,6 +28631,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "East Carnegie",
+            "Year": "2022",
+            "Section": "459.502(a)",
+            "Description": "Dog Bites",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
             "Count": "1"
         },
         {
@@ -37959,8 +37978,8 @@
             "Sep": "2",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "2"
+            "Dec": "1",
+            "Count": "3"
         },
         {
             "Neighborhood": "Esplen",
@@ -45488,6 +45507,25 @@
         },
         {
             "Neighborhood": "Ridgemont",
+            "Year": "2022",
+            "Section": "9994",
+            "Description": "PFA Service",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Ridgemont",
             "Year": "2020",
             "Section": "907",
             "Description": "Possessing Instruments of Crime.",
@@ -45844,8 +45882,8 @@
             "Sep": "4",
             "Oct": "2",
             "Nov": "7",
-            "Dec": "2",
-            "Count": "57"
+            "Dec": "4",
+            "Count": "59"
         },
         {
             "Neighborhood": "Sheraden",
@@ -45901,8 +45939,8 @@
             "Sep": "1",
             "Oct": "1",
             "Nov": "0",
-            "Dec": "0",
-            "Count": "16"
+            "Dec": "1",
+            "Count": "17"
         },
         {
             "Neighborhood": "Sheraden",
@@ -49644,8 +49682,8 @@
             "Sep": "1",
             "Oct": "0",
             "Nov": "0",
-            "Dec": "1",
-            "Count": "14"
+            "Dec": "2",
+            "Count": "15"
         },
         {
             "Neighborhood": "Sheraden",
@@ -53311,8 +53349,8 @@
             "Sep": "2",
             "Oct": "1",
             "Nov": "2",
-            "Dec": "0",
-            "Count": "18"
+            "Dec": "1",
+            "Count": "19"
         },
         {
             "Neighborhood": "Sheraden",
@@ -61597,6 +61635,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2022",
+            "Section": "3923",
+            "Description": "Theft by Extortion.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "1",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
