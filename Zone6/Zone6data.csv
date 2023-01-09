@@ -245,6 +245,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,9498,"302 (Mental)",1,0,2,0,3,0,2,3,1,1,0,1,14
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,2,1,0,0,2,13
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
+"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2022,9999,"9999 - (Misc. Incident):",5,10,8,7,4,6,3,4,8,4,9,5,73
 "Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,8,12,6,0,6,3,71
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",4,4,5,4,3,5,11,8,9,7,4,7,71
@@ -687,7 +688,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",2,4,4,4,4,4,2,2,3,6,2,2,39
 "Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,1,3,1,3,0,1,1,0,17
 "Brookline                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",5,5,2,3,2,2,1,4,4,2,2,6,38
-"Brookline                     ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,0,0,0,0,0,0,0,0,0,0,0,4
+"Brookline                     ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",5,0,0,0,0,0,0,0,0,0,0,0,5
 "Brookline                     ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,3,4,7,3,4,4,7,3,6,7,7,59
 "Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,5,3,3,8,7,3,1,5,5,4,51
 "Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,2,5,1,4,5,3,4,5,2,3,2,38
@@ -740,6 +741,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",1,0,1,0,0,2,1,0,0,0,0,0,5
 "Brookline                     ",2020,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,0,0,0,0,0,0,0,3,0,3
 "Brookline                     ",2022,3304(a)(6),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Paintball Gun or Paintball Marker)",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Brookline                     ",2023,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Brookline                     ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,2,0,1,1,3,1,2,2,0,0,14
 "Brookline                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,0,0,2,2,2,0,5,2,0,0,0,15
@@ -1837,6 +1839,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,5101,"Obstructing Admin. of Law",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Elliott                       ",2020,5112,"Obstructing Emergency Services",0,0,0,0,0,2,0,0,0,2,0,0,4
 "Elliott                       ",2020,5507,"Obstructing Highways and Passages.",0,0,0,0,0,0,0,0,0,2,0,0,2
+"Elliott                       ",2023,9998,Overdose,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2022,9998,Overdose,0,1,1,0,1,0,0,0,0,0,0,0,3
 "Elliott                       ",2021,9998,Overdose,1,0,0,3,0,1,0,0,0,0,1,0,6
 "Elliott                       ",2020,9998,Overdose,0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -1932,6 +1935,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,0,0,1,2,2,0,0,0,0,7
 "Elliott                       ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Elliott                       ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,2,0,0,0,0,0,2
+"Elliott                       ",2023,2701,"Simple Assault.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2022,2701,"Simple Assault.",1,2,2,1,3,5,1,3,2,1,3,5,29
 "Elliott                       ",2021,2701,"Simple Assault.",4,1,2,4,1,2,9,3,2,0,1,0,29
 "Elliott                       ",2020,2701,"Simple Assault.",4,1,6,0,4,3,6,5,6,5,3,0,43
@@ -1939,6 +1943,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,2709(b),Stalking,0,0,0,0,0,1,0,2,0,0,0,0,3
 "Elliott                       ",2021,2709(b),Stalking,0,0,0,0,0,1,0,0,0,0,0,0,1
 "Elliott                       ",2022,3323,"Stop Signs and Yield Signs.",0,0,0,0,0,0,0,2,0,0,2,0,4
+"Elliott                       ",2023,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2022,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,0,0,0,0,0,1,5,1,7
 "Elliott                       ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,2,1,2,0,1,0,1,0,0,7
 "Elliott                       ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",3,0,4,0,0,0,2,3,0,4,0,0,16
@@ -1950,7 +1955,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,2706,"Terroristic Threats.",1,0,1,0,1,1,0,2,4,0,2,0,12
 "Elliott                       ",2022,3922,"Theft by Deception.",0,1,0,0,0,0,0,0,0,1,0,1,3
 "Elliott                       ",2021,3922,"Theft by Deception.",0,0,0,1,1,0,1,0,1,1,1,0,6
-"Elliott                       ",2023,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2023,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,0,0,1,3,2,5,1,3,3,1,20
 "Elliott                       ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,2,1,0,2,4,1,0,2,1,1,15
 "Elliott                       ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,2,0,1,0,2,0,0,2,0,0,1,11
@@ -2576,6 +2581,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,0,0,3,0,2,0,0,1,4,2,15
 "Sheraden                      ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,0,0,0,2,2,2,5,0,0,2,15
 "Sheraden                      ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,1,1,0,1,0,1,0,2,1,1,11
+"Sheraden                      ",2023,3304,"Criminal Mischief.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,3304,"Criminal Mischief.",2,1,2,4,7,5,4,3,3,11,2,4,48
 "Sheraden                      ",2021,3304,"Criminal Mischief.",2,2,3,5,3,7,2,6,8,5,4,0,47
 "Sheraden                      ",2020,3304,"Criminal Mischief.",2,3,3,2,2,5,2,3,3,4,6,3,38
@@ -2604,6 +2610,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,2707.1,"Discharge of a Firearm into Occupied Structure",1,0,0,0,0,0,1,0,0,1,0,0,3
 "Sheraden                      ",2021,2707.1,"Discharge of a Firearm into Occupied Structure",1,0,1,1,0,0,0,2,0,0,0,0,5
 "Sheraden                      ",2020,2707.1,"Discharge of a Firearm into Occupied Structure",0,0,0,1,0,0,2,0,0,0,0,0,3
+"Sheraden                      ",2023,607.03,"Discharging Firearm or Airgun",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,607.03,"Discharging Firearm or Airgun",0,0,0,0,0,0,0,2,0,1,1,0,4
 "Sheraden                      ",2021,607.03,"Discharging Firearm or Airgun",0,1,1,0,0,0,0,0,1,0,0,1,4
 "Sheraden                      ",2020,607.03,"Discharging Firearm or Airgun",1,0,2,1,0,0,0,1,0,0,0,0,5
@@ -2862,7 +2869,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,1,0,1,0,0,0,0,3
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
-"Sheraden                      ",2023,8106,"Shots Fired",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2023,8106,"Shots Fired",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2022,8106,"Shots Fired",11,7,10,16,9,5,13,4,5,7,3,6,96
 "Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,9,8,14,5,11,10,113
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
