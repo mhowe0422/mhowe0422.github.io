@@ -244,6 +244,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2022,2902,"Unlawful Restraint.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Banksville                    ",2021,2902,"Unlawful Restraint.",0,0,0,0,0,0,2,0,0,0,0,0,2
+"Beechview                     ",2023,9498,"302 (Mental)",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2022,9498,"302 (Mental)",1,0,2,0,3,0,2,3,1,1,0,1,14
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,2,1,0,0,2,13
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
@@ -648,6 +649,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,3922,"Theft by Deception.",0,1,2,2,1,1,0,3,0,2,0,1,13
 "Beechview                     ",2021,3923,"Theft by Extortion.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Beechview                     ",2020,3923,"Theft by Extortion.",0,0,0,0,0,0,1,1,0,0,0,0,2
+"Beechview                     ",2023,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,5,0,3,1,1,2,3,3,3,0,5,26
 "Beechview                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,2,0,3,3,2,2,0,0,1,0,1,15
 "Beechview                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,1,1,3,1,2,3,2,3,2,2,1,24
@@ -689,7 +691,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,9498,"302 (Mental)",0,3,2,3,2,1,2,1,8,5,3,3,33
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,3,0,22
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2023,9999,"9999 - (Misc. Incident):",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2023,9999,"9999 - (Misc. Incident):",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,4,9,11,6,10,10,8,13,9,4,95
 "Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,6,114
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
@@ -762,6 +764,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3304(a)(6),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Paintball Gun or Paintball Marker)",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Brookline                     ",2023,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,2,0,0,0,0,0,2
+"Brookline                     ",2023,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,2,0,1,1,3,1,2,2,0,0,14
 "Brookline                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,0,0,2,2,2,0,5,2,0,0,0,15
 "Brookline                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,1,1,3,2,0,2,2,2,1,0,16
@@ -852,6 +855,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3744,"Duty to Give Information and Render Aid",1,1,0,3,1,0,0,0,1,2,0,1,10
 "Brookline                     ",2021,3744,"Duty to Give Information and Render Aid",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2020,3744,"Duty to Give Information and Render Aid",0,5,0,1,0,0,0,0,2,0,1,3,12
+"Brookline                     ",2023,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2022,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,3,0,0,0,2,0,0,0,0,1,0,6
 "Brookline                     ",2021,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,2,0,0,0,0,1,0,0,0,0,1,4
 "Brookline                     ",2020,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,0,0,6,0,0,0,0,0,6
@@ -882,6 +886,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,4101,Forgery.,0,0,1,0,2,0,0,0,0,1,0,1,5
 "Brookline                     ",2021,9017,"Found Drugs",0,0,0,1,2,0,0,0,0,0,0,0,3
 "Brookline                     ",2020,9017,"Found Drugs",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2023,9489,"Found Property",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2022,9489,"Found Property",0,1,0,2,0,0,0,1,1,2,4,1,12
 "Brookline                     ",2021,9489,"Found Property",0,1,1,0,2,1,2,1,1,0,0,1,10
 "Brookline                     ",2020,9489,"Found Property",0,1,0,0,0,0,1,0,0,1,0,0,3
@@ -1092,7 +1097,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,0,3,0,3,0,4,3,2,2,2,20
 "Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,2,0,0,3,1,4,0,0,13
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
-"Brookline                     ",2023,2701,"Simple Assault.",8,0,0,0,0,0,0,0,0,0,0,0,8
+"Brookline                     ",2023,2701,"Simple Assault.",9,0,0,0,0,0,0,0,0,0,0,0,9
 "Brookline                     ",2022,2701,"Simple Assault.",7,2,7,3,8,5,6,2,6,4,6,6,62
 "Brookline                     ",2021,2701,"Simple Assault.",0,5,3,4,6,10,1,9,6,8,7,7,66
 "Brookline                     ",2020,2701,"Simple Assault.",11,4,6,7,5,3,6,6,3,9,4,6,70
@@ -1532,7 +1537,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,3701,Robbery.,1,0,0,0,0,0,2,1,1,1,1,1,8
 "Crafton Heights               ",2020,3701,Robbery.,0,2,0,0,3,0,0,0,1,1,0,0,7
 "Crafton Heights               ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2023,8106,"Shots Fired",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2023,8106,"Shots Fired",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2022,8106,"Shots Fired",7,6,11,8,2,0,2,3,5,3,4,4,55
 "Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,5,3,5,4,54
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,3,5,2,7,6,1,2,3,2,33
@@ -2418,6 +2423,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2020,3301,Arson,0,0,0,0,0,0,0,0,1,0,0,0,1
 "Oakwood                       ",2021,9501,"Bench Warrant",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Oakwood                       ",2020,9501,"Bench Warrant",0,0,0,0,0,0,0,0,0,2,0,0,2
+"Oakwood                       ",2023,3502,Burglary.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2022,3502,Burglary.,0,0,1,0,0,0,0,0,0,3,0,1,5
 "Oakwood                       ",2020,3502,Burglary.,0,0,0,0,0,0,0,0,0,1,0,0,1
 "Oakwood                       ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,1,0,2,0,0,0,0,3
@@ -2975,6 +2981,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,2706,"Terroristic Threats.",2,3,5,7,7,5,6,2,1,5,2,7,52
 "Sheraden                      ",2020,2706,"Terroristic Threats.",0,3,1,0,4,0,5,1,11,3,7,6,41
 "Sheraden                      ",2022,633.23(a),"Tethering Of Dogs - Tether Fasten  Chain  Tie  Restrain To Stationary Or Immobile Object",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Sheraden                      ",2023,3922,"Theft by Deception.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,3922,"Theft by Deception.",0,0,0,0,1,1,1,1,0,1,0,2,7
 "Sheraden                      ",2021,3922,"Theft by Deception.",1,1,1,2,1,1,0,2,0,0,0,0,9
 "Sheraden                      ",2020,3922,"Theft by Deception.",0,0,0,0,0,0,0,1,0,1,0,0,2
@@ -3210,7 +3217,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2022,2706,"Terroristic Threats.",0,0,0,1,0,0,1,0,0,0,0,0,2
 "West End                      ",2021,2706,"Terroristic Threats.",0,2,0,0,1,0,1,1,1,0,0,0,6
 "West End                      ",2020,2706,"Terroristic Threats.",0,1,0,0,0,0,0,0,0,0,0,0,1
-"West End                      ",2023,3922,"Theft by Deception.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"West End                      ",2023,3922,"Theft by Deception.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "West End                      ",2022,3922,"Theft by Deception.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,0,0,0,0,0,0,0,0,1,0,2
 "West End                      ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,2,0,0,1,0,1,0,0,1,0,5
@@ -3352,6 +3359,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2022,633.02(a),"License Required; 3 Months or Older",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Westwood                      ",2022,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Westwood                      ",2021,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",1,0,1,0,0,0,0,0,0,0,0,0,2
+"Westwood                      ",2023,5506,"Loitering and Prowling at Night",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Westwood                      ",2022,5506,"Loitering and Prowling at Night",0,0,1,0,1,0,1,0,0,0,2,0,5
 "Westwood                      ",2021,5506,"Loitering and Prowling at Night",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Westwood                      ",2020,5506,"Loitering and Prowling at Night",0,0,0,0,0,0,0,1,0,1,0,0,2
@@ -3451,7 +3459,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,0,1,2,0,1,0,1,0,0,6
 "Westwood                      ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,0,0,0,0,1,0,0,0,2,0,4
 "Westwood                      ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,1,0,2,0,0,2,0,1,6
-"Westwood                      ",2023,3921,"Theft by Unlawful Taking or Disposition.",3,0,0,0,0,0,0,0,0,0,0,0,3
+"Westwood                      ",2023,3921,"Theft by Unlawful Taking or Disposition.",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Westwood                      ",2022,3921,"Theft by Unlawful Taking or Disposition.",0,0,2,0,0,1,0,0,0,0,1,0,4
 "Westwood                      ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,0,2,0,0,0,1,0,0,0,0,1,6
 "Westwood                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",0,3,0,0,0,0,3,2,0,1,0,1,10
