@@ -248,7 +248,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,9498,"302 (Mental)",1,0,2,0,3,0,2,3,1,1,0,1,14
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,2,1,0,0,2,13
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
-"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",4,0,0,0,0,0,0,0,0,0,0,0,4
+"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",5,0,0,0,0,0,0,0,0,0,0,0,5
 "Beechview                     ",2022,9999,"9999 - (Misc. Incident):",5,10,8,7,4,6,3,4,8,4,9,5,73
 "Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,8,12,6,0,6,3,71
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",4,4,5,4,3,5,11,8,9,7,4,7,71
@@ -397,6 +397,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,3744,"Duty to Give Information and Render Aid",0,0,1,0,0,0,0,0,2,0,0,2,5
 "Beechview                     ",2021,3744,"Duty to Give Information and Render Aid",0,0,0,0,1,0,0,0,2,0,0,0,3
 "Beechview                     ",2020,3744,"Duty to Give Information and Render Aid",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2023,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2022,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",2,0,1,2,0,0,0,2,0,1,0,1,9
 "Beechview                     ",2021,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",1,1,2,0,0,2,0,0,0,0,0,0,6
 "Beechview                     ",2020,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,1,0,0,0,0,0,2,0,1,0,1,5
@@ -928,7 +929,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,3746,"Immediate Notice of Accident to Police Department",2,0,0,0,0,0,0,0,0,2,0,0,4
 "Brookline                     ",2020,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Brookline                     ",2021,4912,"Impersonating a Public Servant.",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2023,9093,"Indirect Criminal Contempt",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2023,9093,"Indirect Criminal Contempt",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2022,9093,"Indirect Criminal Contempt",0,0,2,1,2,1,0,0,2,6,1,2,17
 "Brookline                     ",2021,9093,"Indirect Criminal Contempt",0,1,0,0,0,1,0,2,0,0,2,0,6
 "Brookline                     ",2020,9093,"Indirect Criminal Contempt",0,2,6,2,2,0,1,0,0,0,0,2,15
@@ -1129,7 +1130,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,2,2,3,4,5,7,14,8,6,4,57
 "Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,4,4,7,1,2,3,28
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
-"Brookline                     ",2023,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2023,3921,"Theft by Unlawful Taking or Disposition.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,3,6,5,2,4,2,3,3,1,6,41
 "Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,4,2,3,1,3,43
 "Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",2,4,1,1,2,2,5,3,3,3,2,3,31
@@ -1695,6 +1696,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,1,0,1,1,0,1,1,0,0,2,8
 "Elliott                       ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,1,1,0,1,0,0,0,1,0,5
 "Elliott                       ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,0,0,1,0,0,0,1,2,0,1,7
+"Elliott                       ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,3,0,1,1,1,4,2,0,3,2,17
 "Elliott                       ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,2,3,3,1,1,1,1,1,2,16
 "Elliott                       ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,1,1,1,2,0,0,2,2,1,11
@@ -1880,6 +1882,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,029,"Missing Juvenile",1,1,1,0,0,1,2,0,0,0,3,1,10
 "Elliott                       ",2021,029,"Missing Juvenile",2,0,0,0,0,1,1,0,0,1,1,0,6
 "Elliott                       ",2020,029,"Missing Juvenile",0,1,1,0,0,0,0,0,0,0,1,2,5
+"Elliott                       ",2023,9490,"Missing Persons (18 and Over)",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2022,9490,"Missing Persons (18 and Over)",0,0,0,1,0,0,1,0,0,0,0,0,2
 "Elliott                       ",2021,9490,"Missing Persons (18 and Over)",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2020,9490,"Missing Persons (18 and Over)",0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -2019,6 +2022,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,3921,"Theft by Unlawful Taking or Disposition.",0,3,0,0,1,1,1,2,2,0,2,1,13
 "Elliott                       ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,1,0,4,2,3,1,1,0,0,1,1,16
 "Elliott                       ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,0,3,3,0,0,2,1,1,1,12
+"Elliott                       ",2023,3934,"Theft from Vehicle",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2022,3934,"Theft from Vehicle",0,0,0,0,0,0,1,0,3,0,0,0,4
 "Elliott                       ",2021,3934,"Theft from Vehicle",1,0,0,0,0,0,0,0,0,1,1,0,3
 "Elliott                       ",2020,3934,"Theft from Vehicle",0,0,0,0,2,0,1,0,0,1,0,1,5
@@ -2250,6 +2254,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2022,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Esplen                        ",2021,3921,"Theft by Unlawful Taking or Disposition.",1,0,0,1,0,1,1,0,0,1,0,0,5
 "Esplen                        ",2020,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Esplen                        ",2023,3934,"Theft from Vehicle",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2021,3934,"Theft from Vehicle",0,0,0,0,1,1,0,0,0,0,0,0,2
 "Esplen                        ",2021,3924,"Theft of Property Lost, Mislaid or Delivered by Mistake.",1,0,0,0,0,0,0,0,1,0,0,0,2
 "Esplen                        ",2020,3926(a)(1),"Theft of Services; Cable, Gas, Taxi, Bill, Tab, etc.",0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -2570,7 +2575,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,9498,"302 (Mental)",0,0,1,2,3,2,2,2,0,0,1,1,14
 "Sheraden                      ",2021,9498,"302 (Mental)",3,3,0,3,5,5,3,0,2,0,0,1,25
 "Sheraden                      ",2020,9498,"302 (Mental)",2,2,1,0,0,2,0,1,0,1,1,2,12
-"Sheraden                      ",2023,9999,"9999 - (Misc. Incident):",4,0,0,0,0,0,0,0,0,0,0,0,4
+"Sheraden                      ",2023,9999,"9999 - (Misc. Incident):",6,0,0,0,0,0,0,0,0,0,0,0,6
 "Sheraden                      ",2022,9999,"9999 - (Misc. Incident):",4,3,4,5,5,5,7,9,4,2,7,6,61
 "Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,10,5,7,8,5,3,1,0,77
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,6,1,5,10,8,7,9,2,4,4,62
@@ -3029,7 +3034,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2021,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,0,0,0,1,0,0,1
 "West End                      ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,2,0,0,0,0,0,0,0,0,2
 "West End                      ",2020,9018,"Accidental Fire",0,0,0,0,0,1,0,0,0,0,0,0,1
-"West End                      ",2023,3743,"Accidents Involving Damage to Attended Veh. or Property",1,0,0,0,0,0,0,0,0,0,0,0,1
+"West End                      ",2023,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,0,0,0,0,0,0,0,0,0,0,2
 "West End                      ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",1,4,0,0,3,0,0,1,4,3,4,1,21
 "West End                      ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,0,2,0,3,0,1,2,2,0,3,14
 "West End                      ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",1,2,0,0,2,0,0,2,1,0,0,2,10
