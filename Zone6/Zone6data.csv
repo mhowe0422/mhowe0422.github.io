@@ -307,6 +307,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,901,"Criminal Attempt",0,0,0,0,0,0,1,2,0,0,0,1,4
 "Beechview                     ",2021,901,"Criminal Attempt",0,0,0,0,0,0,0,1,0,0,0,1,2
 "Beechview                     ",2020,901,"Criminal Attempt",0,0,0,1,2,0,0,0,1,0,0,0,4
+"Beechview                     ",2023,903,"Criminal Conspiracy.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2022,903,"Criminal Conspiracy.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Beechview                     ",2021,903,"Criminal Conspiracy.",1,2,0,0,0,0,2,0,0,0,0,0,5
 "Beechview                     ",2020,903,"Criminal Conspiracy.",0,0,0,0,2,0,7,0,0,0,0,2,11
@@ -541,6 +542,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,0,2,0,0,0,0,0,3,5
 "Beechview                     ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,1,0,0,0,0,0,2,1,4
 "Beechview                     ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,1,0,0,2,0,0,0,2,0,0,0,5
+"Beechview                     ",2023,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2022,9994,"PFA Service",0,0,0,0,1,0,2,1,2,2,0,3,11
 "Beechview                     ",2021,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,0,2,0,1,0,1,0,1,0,7
@@ -558,6 +560,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,13(a)(16),"Possession of Controlled Substance",0,5,0,2,0,4,0,2,0,0,0,2,15
 "Beechview                     ",2021,13(a)(16),"Possession of Controlled Substance",1,0,0,0,4,0,2,2,2,2,2,0,15
 "Beechview                     ",2020,13(a)(16),"Possession of Controlled Substance",0,0,2,0,5,3,5,5,1,3,0,3,27
+"Beechview                     ",2023,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2022,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,1,0,0,0,4,0,2,0,0,0,0,7
 "Beechview                     ",2021,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,2,0,0,0,0,2,0,0,4
 "Beechview                     ",2020,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,2,2,4,2,0,2,0,3,15
@@ -753,7 +756,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,5123,Contraband.,0,0,0,0,0,0,0,0,0,0,0,2,2
 "Brookline                     ",2022,9500,"Conversion - Field Contact Report",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,6301,"Corruption of Minors.",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2023,901,"Criminal Attempt",3,0,0,0,0,0,0,0,0,0,0,0,3
+"Brookline                     ",2023,901,"Criminal Attempt",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2022,901,"Criminal Attempt",0,0,0,0,3,0,0,0,0,0,1,2,6
 "Brookline                     ",2021,901,"Criminal Attempt",0,0,0,0,0,2,0,2,0,0,0,1,5
 "Brookline                     ",2020,901,"Criminal Attempt",2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -813,7 +816,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Brookline                     ",2021,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",0,0,0,0,0,0,0,1,2,0,0,0,3
 "Brookline                     ",2020,5503(a)(2),"DISORDERLY CONDUCT - UNREASONABLE NOISE",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2023,5503,"Disorderly Conduct.",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2023,5503,"Disorderly Conduct.",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2022,5503,"Disorderly Conduct.",2,0,0,2,1,1,0,1,1,2,0,2,12
 "Brookline                     ",2021,5503,"Disorderly Conduct.",2,0,0,1,1,3,1,6,2,2,2,0,20
 "Brookline                     ",2020,5503,"Disorderly Conduct.",3,0,0,0,0,0,2,0,0,0,2,0,7
@@ -1859,6 +1862,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Elliott                       ",2021,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Elliott                       ",2021,4912,"Impersonating a Public Servant.",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Elliott                       ",2023,9093,"Indirect Criminal Contempt",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2022,9093,"Indirect Criminal Contempt",2,1,0,0,1,0,0,0,0,0,0,0,4
 "Elliott                       ",2021,9093,"Indirect Criminal Contempt",0,0,2,1,2,4,0,0,0,0,0,0,9
 "Elliott                       ",2020,9093,"Indirect Criminal Contempt",0,0,0,0,2,0,0,0,0,0,0,1,3
@@ -1998,7 +2002,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,0,0,1,2,2,0,0,0,0,7
 "Elliott                       ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Elliott                       ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Elliott                       ",2023,2701,"Simple Assault.",6,0,0,0,0,0,0,0,0,0,0,0,6
+"Elliott                       ",2023,2701,"Simple Assault.",8,0,0,0,0,0,0,0,0,0,0,0,8
 "Elliott                       ",2022,2701,"Simple Assault.",1,2,2,1,3,5,1,3,2,1,3,5,29
 "Elliott                       ",2021,2701,"Simple Assault.",4,1,2,4,1,2,9,3,2,0,1,0,29
 "Elliott                       ",2020,2701,"Simple Assault.",4,1,6,0,4,3,6,5,6,5,3,0,43
@@ -2361,7 +2365,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2021,9490,"Missing Persons (18 and Over)",1,0,0,0,1,0,0,0,0,0,0,0,2
 "Fairywood                     ",2020,9012,"Non-Violent Domestic",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2021,9997,"Overdose Death",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Fairywood                     ",2023,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Fairywood                     ",2023,9994,"PFA Service",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Fairywood                     ",2022,9994,"PFA Service",0,0,0,0,0,0,1,0,0,1,0,0,2
 "Fairywood                     ",2023,9993,"PFA Service with Weapons Supplement",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2022,9993,"PFA Service with Weapons Supplement",1,1,2,0,0,0,0,0,0,0,0,1,5
@@ -3251,7 +3255,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2022,9498,"302 (Mental)",0,1,0,0,0,0,1,2,0,0,1,0,5
 "Westwood                      ",2021,9498,"302 (Mental)",1,1,1,1,0,0,0,0,0,1,0,0,5
 "Westwood                      ",2020,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,1,1,0,4
-"Westwood                      ",2023,9999,"9999 - (Misc. Incident):",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2023,9999,"9999 - (Misc. Incident):",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2022,9999,"9999 - (Misc. Incident):",0,1,3,1,1,1,0,0,1,3,1,1,13
 "Westwood                      ",2021,9999,"9999 - (Misc. Incident):",2,7,7,2,1,3,2,1,1,1,1,1,29
 "Westwood                      ",2020,9999,"9999 - (Misc. Incident):",4,3,1,0,0,0,0,3,0,4,0,3,18
