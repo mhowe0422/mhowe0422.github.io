@@ -892,7 +892,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,4101,Forgery.,0,0,1,0,2,0,0,0,0,1,0,1,5
 "Brookline                     ",2021,9017,"Found Drugs",0,0,0,1,2,0,0,0,0,0,0,0,3
 "Brookline                     ",2020,9017,"Found Drugs",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2023,9489,"Found Property",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2023,9489,"Found Property",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2022,9489,"Found Property",0,1,0,2,0,0,0,1,1,2,4,1,12
 "Brookline                     ",2021,9489,"Found Property",0,1,1,0,2,1,2,1,1,0,0,1,10
 "Brookline                     ",2020,9489,"Found Property",0,1,0,0,0,0,1,0,0,1,0,0,3
@@ -1008,11 +1008,11 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,1,0,0,2,0,0,0,0,0,0,2,5
 "Brookline                     ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",1,0,0,1,0,0,0,1,0,0,0,0,3
 "Brookline                     ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,2,0,0,1,0,0,0,0,2,0,7
-"Brookline                     ",2023,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2023,9994,"PFA Service",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2022,9994,"PFA Service",0,0,0,0,0,2,2,2,3,5,2,1,17
 "Brookline                     ",2021,9994,"PFA Service",0,0,0,0,0,1,0,2,1,0,0,0,4
 "Brookline                     ",2020,9994,"PFA Service",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Brookline                     ",2023,9993,"PFA Service with Weapons Supplement",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2023,9993,"PFA Service with Weapons Supplement",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2022,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,2,1,1,0,1,0,6
 "Brookline                     ",2020,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,1,1,0,1,0,0,4
@@ -1274,7 +1274,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,9498,"302 (Mental)",1,1,2,1,0,1,0,0,3,1,0,1,11
 "Crafton Heights               ",2021,9498,"302 (Mental)",0,3,2,1,0,2,1,2,1,1,0,2,15
 "Crafton Heights               ",2020,9498,"302 (Mental)",1,1,2,0,3,0,0,0,0,1,0,2,10
-"Crafton Heights               ",2023,9999,"9999 - (Misc. Incident):",3,0,0,0,0,0,0,0,0,0,0,0,3
+"Crafton Heights               ",2023,9999,"9999 - (Misc. Incident):",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2022,9999,"9999 - (Misc. Incident):",0,1,5,4,1,5,1,3,8,3,2,1,34
 "Crafton Heights               ",2021,9999,"9999 - (Misc. Incident):",3,7,2,2,2,4,2,3,4,4,1,5,39
 "Crafton Heights               ",2020,9999,"9999 - (Misc. Incident):",4,5,6,1,1,3,3,1,3,8,4,6,45
@@ -1543,11 +1543,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,3701,Robbery.,1,0,0,0,0,0,2,1,1,1,1,1,8
 "Crafton Heights               ",2020,3701,Robbery.,0,2,0,0,3,0,0,0,1,1,0,0,7
 "Crafton Heights               ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2023,8106,"Shots Fired",4,0,0,0,0,0,0,0,0,0,0,0,4
+"Crafton Heights               ",2023,8106,"Shots Fired",5,0,0,0,0,0,0,0,0,0,0,0,5
 "Crafton Heights               ",2022,8106,"Shots Fired",7,6,11,8,2,0,2,3,5,3,4,4,55
 "Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,5,3,5,4,54
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,3,5,2,7,6,1,2,3,2,33
 "Crafton Heights               ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,2,0,0,0,0,0,0,2
+"Crafton Heights               ",2023,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,2,0,1,2,2,0,2,0,0,9
 "Crafton Heights               ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,5,0,0,1,1,2,2,0,0,0,3,16
 "Crafton Heights               ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,1,3,1,1,0,0,0,6
@@ -1574,6 +1575,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,1,0,1,2,4,1,1,0,1,0,11
 "Crafton Heights               ",2021,2718(a)(2),"Strangulation - Blocking the Nose and Mouth of the Person",0,0,0,0,0,0,1,1,0,0,0,0,2
 "Crafton Heights               ",2021,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,2,0,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2023,2706,"Terroristic Threats.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2022,2706,"Terroristic Threats.",0,0,0,2,0,1,3,2,2,1,1,0,12
 "Crafton Heights               ",2021,2706,"Terroristic Threats.",0,4,3,2,0,1,3,6,3,1,3,2,28
 "Crafton Heights               ",2020,2706,"Terroristic Threats.",1,1,0,1,0,2,6,4,3,2,1,0,21
@@ -2662,6 +2664,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,1,0,2
 "Sheraden                      ",2021,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,3,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2023,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,0,0,3,0,2,0,0,1,4,2,15
 "Sheraden                      ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,0,0,0,2,2,2,5,0,0,2,15
 "Sheraden                      ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,1,1,0,1,0,1,0,2,1,1,11
@@ -2796,6 +2799,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,2709(a),Harassment.,2,1,3,2,1,2,1,1,0,2,1,0,16
 "Sheraden                      ",2020,2709(a),Harassment.,0,1,1,0,0,1,1,0,3,0,0,0,7
 "Sheraden                      ",2022,633.09(a),"Harboring a Nuisance; Any animal to create offensive odor, excessive noise or unsanitary condition",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Sheraden                      ",2023,4120,"Identity Theft",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,4120,"Identity Theft",1,2,4,0,3,1,1,0,1,0,0,3,16
 "Sheraden                      ",2021,4120,"Identity Theft",0,0,0,3,0,0,4,0,5,1,0,1,14
 "Sheraden                      ",2020,4120,"Identity Theft",0,0,0,1,1,1,1,1,0,2,0,1,8
@@ -3173,6 +3177,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2022,4302,"Periods for Requiring Lighted Lamps.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "West End                      ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,0,1,0,0,0,0,0,0,1
 "West End                      ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,2,0,0,0,0,0,0,0,2
+"West End                      ",2023,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2022,9994,"PFA Service",0,0,0,0,0,4,4,5,6,2,1,1,23
 "West End                      ",2022,9993,"PFA Service with Weapons Supplement",0,0,0,1,0,3,0,2,3,3,0,0,12
 "West End                      ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,2,0,1,0,0,0,1,0,1,5
@@ -3460,7 +3465,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Westwood                      ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,2,0,0,0,0,2,0,0,0,0,0,4
 "Westwood                      ",2021,4910,"Tampering with or Fabricating Physical Evidence.",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Westwood                      ",2023,2706,"Terroristic Threats.",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Westwood                      ",2023,2706,"Terroristic Threats.",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Westwood                      ",2022,2706,"Terroristic Threats.",0,0,3,0,0,0,1,0,5,0,0,0,9
 "Westwood                      ",2021,2706,"Terroristic Threats.",0,0,2,0,1,2,2,0,2,0,0,1,10
 "Westwood                      ",2020,2706,"Terroristic Threats.",0,0,0,0,0,0,1,0,0,3,0,0,4
