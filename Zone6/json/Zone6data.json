@@ -1808,25 +1808,6 @@
         {
             "Neighborhood": "Banksville",
             "Year": "2022",
-            "Section": "5126",
-            "Description": "Flight to Avoid Apprehension, Trial or Punishment.",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Banksville",
-            "Year": "2022",
             "Section": "4101",
             "Description": "Forgery.",
             "Jan": "0",
@@ -2939,11 +2920,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "2",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -13362,7 +13343,7 @@
             "Year": "2023",
             "Section": "4106",
             "Description": "Access Device Fraud",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -13374,7 +13355,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -13609,7 +13590,7 @@
             "Year": "2023",
             "Section": "3745",
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
-            "Jan": "6",
+            "Jan": "7",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -13621,7 +13602,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -14078,6 +14059,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "9501",
+            "Description": "Bench Warrant",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -18622,6 +18622,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "2713",
+            "Description": "Neglect of Care-Dependent Person",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2022",
             "Section": "9012",
             "Description": "Non-Violent Domestic",
@@ -20962,7 +20981,7 @@
             "Year": "2023",
             "Section": "2701",
             "Description": "Simple Assault.",
-            "Jan": "6",
+            "Jan": "7",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -20974,7 +20993,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -24249,7 +24268,7 @@
             "Year": "2023",
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
-            "Jan": "4",
+            "Jan": "5",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -24261,7 +24280,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -35421,7 +35440,7 @@
             "Year": "2023",
             "Section": "9093",
             "Description": "Indirect Criminal Contempt",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -35433,7 +35452,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -38480,7 +38499,7 @@
             "Year": "2023",
             "Section": "3921(a)",
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
-            "Jan": "3",
+            "Jan": "4",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -38492,7 +38511,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -49063,7 +49082,7 @@
             "Year": "2023",
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
-            "Jan": "9",
+            "Jan": "10",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -49075,7 +49094,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Sheraden",
@@ -57189,6 +57208,25 @@
             "Nov": "6",
             "Dec": "1",
             "Count": "27"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "3924",
+            "Description": "Theft of Property Lost, Mislaid or Delivered by Mistake.",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
