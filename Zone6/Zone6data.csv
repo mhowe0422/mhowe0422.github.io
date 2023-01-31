@@ -116,7 +116,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2022,2709(a),Harassment.,0,1,1,1,0,0,2,1,0,1,0,0,7
 "Banksville                    ",2021,2709(a),Harassment.,1,0,0,1,1,1,0,1,0,3,0,0,8
 "Banksville                    ",2020,2709(a),Harassment.,1,0,1,0,0,0,0,0,0,0,0,0,2
-"Banksville                    ",2023,517.8,"Home Improvement Fraud",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Banksville                    ",2023,517.8,"Home Improvement Fraud",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2020,"473.07 (a)","Hours of Parks 0600-2300 hrs.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2022,4120,"Identity Theft",0,6,1,0,0,0,0,1,0,0,0,1,9
 "Banksville                    ",2021,4120,"Identity Theft",0,1,1,0,1,1,6,1,0,0,0,0,11
@@ -220,7 +220,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2022,2706,"Terroristic Threats.",2,0,0,0,1,0,1,1,0,0,0,0,5
 "Banksville                    ",2021,2706,"Terroristic Threats.",1,0,0,0,3,0,0,1,1,0,0,2,8
 "Banksville                    ",2020,2706,"Terroristic Threats.",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Banksville                    ",2023,3922,"Theft by Deception.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Banksville                    ",2023,3922,"Theft by Deception.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2022,3922,"Theft by Deception.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2021,3922,"Theft by Deception.",0,0,1,0,0,0,0,0,0,0,0,1,2
 "Banksville                    ",2020,3922,"Theft by Deception.",1,2,0,0,0,0,0,0,0,1,0,3,7
@@ -252,7 +252,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,9498,"302 (Mental)",1,0,2,0,3,0,2,3,1,1,0,1,14
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,2,1,0,0,2,13
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
-"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",5,0,0,0,0,0,0,0,0,0,0,0,5
+"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",6,0,0,0,0,0,0,0,0,0,0,0,6
 "Beechview                     ",2022,9999,"9999 - (Misc. Incident):",5,10,8,7,4,6,3,4,8,4,9,5,73
 "Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,8,12,6,0,6,3,71
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",4,4,5,4,3,5,11,8,9,7,4,7,71
@@ -2609,6 +2609,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,10,5,7,8,5,3,1,0,77
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,6,1,5,10,8,7,9,2,4,4,62
 "Sheraden                      ",2023,3712,"Abandonment and Stripping of Vehicles",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2023,4106,"Access Device Fraud",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,4106,"Access Device Fraud",1,0,4,2,0,3,2,3,1,1,0,2,19
 "Sheraden                      ",2021,4106,"Access Device Fraud",2,0,2,2,0,0,2,0,3,1,1,0,13
 "Sheraden                      ",2020,4106,"Access Device Fraud",0,2,1,0,0,2,1,0,0,0,0,3,9
@@ -2897,7 +2898,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,2,0,0,0,0,3,0,0,1,0,3,9
 "Sheraden                      ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",4,0,0,0,0,0,2,3,0,0,0,1,10
 "Sheraden                      ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,0,2,0,0,2,0,0,0,0,0,6
-"Sheraden                      ",2023,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2023,9994,"PFA Service",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2022,9994,"PFA Service",0,0,0,0,0,1,2,3,3,3,5,1,18
 "Sheraden                      ",2020,9994,"PFA Service",0,0,0,0,1,0,1,0,0,0,0,0,2
 "Sheraden                      ",2023,9993,"PFA Service with Weapons Supplement",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -3146,6 +3147,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2021,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,0,0,0,0,1,0,0,0,1
 "West End                      ",2021,3310,"Following Too Closely.",0,0,0,1,0,0,0,2,0,1,0,0,4
 "West End                      ",2021,4101,Forgery.,0,0,0,0,0,0,0,0,0,0,1,0,1
+"West End                      ",2023,9489,"Found Property",1,0,0,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2022,9489,"Found Property",0,0,1,1,1,0,2,0,1,2,0,0,8
 "West End                      ",2021,9489,"Found Property",0,1,0,0,1,1,0,0,1,0,0,0,4
 "West End                      ",2020,9489,"Found Property",0,0,0,0,1,0,1,0,1,1,0,0,4
