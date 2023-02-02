@@ -21,7 +21,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2021,3742,"Accidents Involving Death or Personal Injury",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2020,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Banksville                    ",2020,3354,"Additional Parking Regulations.",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Banksville                    ",2023,2702,"Aggravated Assault.",3,0,0,0,0,0,0,0,0,0,0,0,3
+"Banksville                    ",2023,2702,"Aggravated Assault.",3,1,0,0,0,0,0,0,0,0,0,0,4
 "Banksville                    ",2021,2702,"Aggravated Assault.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2020,2702,"Aggravated Assault.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Banksville                    ",2023,9497,"Aided Case",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -206,7 +206,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",4,2,0,0,0,0,0,0,0,0,0,0,6
 "Banksville                    ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,2,2,0,0,0,0,2,0,0,6
 "Banksville                    ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Banksville                    ",2023,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Banksville                    ",2023,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,1,0,0,0,0,0,0,0,0,0,0,3
 "Banksville                    ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Banksville                    ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Banksville                    ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,2,0,0,0,0,0,2
@@ -218,7 +218,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,1,0,2,0,0,0,0,2,0,5
 "Banksville                    ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,2,0,0,2,0,0,0,0,4
 "Banksville                    ",2021,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,0,0,0,0,0,2,0,0,0,2
-"Banksville                    ",2023,2706,"Terroristic Threats.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Banksville                    ",2023,2706,"Terroristic Threats.",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2022,2706,"Terroristic Threats.",2,0,0,0,1,0,1,1,0,0,0,0,5
 "Banksville                    ",2021,2706,"Terroristic Threats.",1,0,0,0,3,0,0,1,1,0,0,2,8
 "Banksville                    ",2020,2706,"Terroristic Threats.",0,0,0,0,2,0,0,0,0,0,0,0,2
@@ -2607,7 +2607,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,9498,"302 (Mental)",0,0,1,2,3,2,2,2,0,0,1,1,14
 "Sheraden                      ",2021,9498,"302 (Mental)",3,3,0,3,5,5,3,0,2,0,0,1,25
 "Sheraden                      ",2020,9498,"302 (Mental)",2,2,1,0,0,2,0,1,0,1,1,2,12
-"Sheraden                      ",2023,9999,"9999 - (Misc. Incident):",10,0,0,0,0,0,0,0,0,0,0,0,10
+"Sheraden                      ",2023,9999,"9999 - (Misc. Incident):",10,1,0,0,0,0,0,0,0,0,0,0,11
 "Sheraden                      ",2022,9999,"9999 - (Misc. Incident):",4,3,4,5,5,5,7,9,4,2,7,6,61
 "Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,10,5,7,8,5,3,1,0,77
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,6,1,5,10,8,7,9,2,4,4,62
