@@ -382,6 +382,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2023",
+            "Section": "3742",
+            "Description": "Accidents Involving Death or Personal Injury",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2021",
             "Section": "3742",
             "Description": "Accidents Involving Death or Personal Injury",
@@ -440,9 +459,9 @@
         {
             "Neighborhood": "Banksville",
             "Year": "2023",
-            "Section": "2702",
-            "Description": "Aggravated Assault.",
-            "Jan": "1",
+            "Section": "3732.1",
+            "Description": "Aggravated Assault by Vehicle",
+            "Jan": "0",
             "Feb": "1",
             "Mar": "0",
             "Apr": "0",
@@ -454,7 +473,26 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2023",
+            "Section": "2702",
+            "Description": "Aggravated Assault.",
+            "Jan": "1",
+            "Feb": "2",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -702,6 +740,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "5"
+        },
+        {
+            "Neighborhood": "Banksville",
+            "Year": "2023",
+            "Section": "3714",
+            "Description": "Careless Driving",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Banksville",
@@ -1621,7 +1678,7 @@
             "Section": "3744",
             "Description": "Duty to Give Information and Render Aid",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -1632,7 +1689,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -3612,6 +3669,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2023",
+            "Section": "2705",
+            "Description": "Recklessly Endangering Another Person.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2022",
             "Section": "2705",
             "Description": "Recklessly Endangering Another Person.",
@@ -5306,7 +5382,7 @@
             "Year": "2023",
             "Section": "3745",
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -5318,7 +5394,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -8992,7 +9068,7 @@
             "Year": "2023",
             "Section": "4120",
             "Description": "Identity Theft",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -9004,7 +9080,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -10284,7 +10360,7 @@
             "Year": "2023",
             "Section": "9998",
             "Description": "Overdose",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -10296,7 +10372,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -12697,7 +12773,7 @@
             "Year": "2023",
             "Section": "3922",
             "Description": "Theft by Deception.",
-            "Jan": "2",
+            "Jan": "3",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -12709,7 +12785,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -13533,8 +13609,8 @@
             "Year": "2023",
             "Section": "9498",
             "Description": "302 (Mental)",
-            "Jan": "1",
-            "Feb": "0",
+            "Jan": "2",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -13545,7 +13621,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -13609,7 +13685,7 @@
             "Year": "2023",
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
-            "Jan": "5",
+            "Jan": "6",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -13621,7 +13697,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -13951,7 +14027,7 @@
             "Year": "2023",
             "Section": "3745",
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
-            "Jan": "8",
+            "Jan": "9",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -13963,7 +14039,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Brookline",
@@ -22083,7 +22159,7 @@
             "Year": "2023",
             "Section": "3934",
             "Description": "Theft from Vehicle",
-            "Jan": "1",
+            "Jan": "2",
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
@@ -22095,7 +22171,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -26184,6 +26260,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2023",
+            "Section": "5503(a)(1)",
+            "Description": "DISORDERLY CONDUCT - ENGAGE IN FIGHTING",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2020",
             "Section": "5503(a)(1)",
             "Description": "DISORDERLY CONDUCT - ENGAGE IN FIGHTING",
@@ -27746,7 +27841,7 @@
             "Section": "2709(a)",
             "Description": "Harassment.",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -27757,7 +27852,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -29931,7 +30026,7 @@
             "Section": "8106",
             "Description": "Shots Fired",
             "Jan": "6",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -29942,7 +30037,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -50432,7 +50527,7 @@
             "Section": "9501",
             "Description": "Bench Warrant",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -50443,7 +50538,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -52857,6 +52952,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "4915",
+            "Description": "Failure to Comply with Megans Law",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -56695,6 +56809,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "3929(a)(1)",
+            "Description": "Retail Theft; takes possession of, carries away, or transfers displayed merchandise",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -63101,6 +63234,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "3301",
+            "Description": "Arson",
+            "Jan": "1",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2022",
             "Section": "9501",
             "Description": "Bench Warrant",
@@ -63291,6 +63443,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "901",
+            "Description": "Criminal Attempt",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2022",
             "Section": "901",
             "Description": "Criminal Attempt",
@@ -63437,6 +63608,25 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "3304",
+            "Description": "Criminal Mischief.",
+            "Jan": "1",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
@@ -66943,7 +67133,7 @@
             "Section": "3934",
             "Description": "Theft from Vehicle",
             "Jan": "2",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -66954,7 +67144,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Westwood",
