@@ -743,7 +743,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,9018,"Accidental Fire",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Brookline                     ",2020,9018,"Accidental Fire",0,1,0,1,0,0,1,0,0,0,0,0,3
 "Brookline                     ",2020,7728,"Accidents and Accident Reports.",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2023,3743,"Accidents Involving Damage to Attended Veh. or Property",4,1,0,0,0,0,0,0,0,0,0,0,5
+"Brookline                     ",2023,3743,"Accidents Involving Damage to Attended Veh. or Property",4,2,0,0,0,0,0,0,0,0,0,0,6
 "Brookline                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",2,4,4,4,4,4,2,2,3,6,2,2,39
 "Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,1,3,1,3,0,1,1,0,17
 "Brookline                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",5,5,2,3,2,2,1,4,4,2,2,6,38
@@ -1075,7 +1075,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,908,"Prohibited Offensive Weapons.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2022,3353,"Prohibitions in Specified Places.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Brookline                     ",2020,3353,"Prohibitions in Specified Places.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2023,1785,"Proof of Financial Responsibility Following Accident.",3,0,0,0,0,0,0,0,0,0,0,0,3
+"Brookline                     ",2023,1785,"Proof of Financial Responsibility Following Accident.",3,1,0,0,0,0,0,0,0,0,0,0,4
 "Brookline                     ",2022,1785,"Proof of Financial Responsibility Following Accident.",1,3,0,1,0,0,0,0,0,0,0,0,5
 "Brookline                     ",2020,1785,"Proof of Financial Responsibility Following Accident.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Brookline                     ",2020,2707,"Propulsion of Missiles",0,0,0,0,0,1,0,1,0,1,1,0,4
@@ -2431,6 +2431,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2020,9123,"Miscellaneous Fire Other Investigation to Continue",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Fairywood                     ",2020,9122,"Miscellaneous Fire Vehicle Investigation to Continue",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2022,9129,"Miscellaneous Investigation",0,0,0,0,0,0,1,0,0,1,0,1,3
+"Fairywood                     ",2023,029,"Missing Juvenile",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2022,029,"Missing Juvenile",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2021,9490,"Missing Persons (18 and Over)",1,0,0,0,1,0,0,0,0,0,0,0,2
 "Fairywood                     ",2020,9012,"Non-Violent Domestic",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -2517,6 +2518,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2020,3304,"Criminal Mischief.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Oakwood                       ",2021,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Oakwood                       ",2022,2709(a.1)(1)(ii),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Threat To Inflict Harm",0,0,2,1,0,0,0,0,0,0,0,0,3
+"Oakwood                       ",2023,9496,"Dead on Arrival (DOA)",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Oakwood                       ",2022,9496,"Dead on Arrival (DOA)",1,0,0,0,0,0,0,1,1,0,1,0,4
 "Oakwood                       ",2021,9496,"Dead on Arrival (DOA)",2,1,0,0,1,0,1,0,0,0,0,1,6
 "Oakwood                       ",2020,9496,"Dead on Arrival (DOA)",0,0,0,1,1,0,0,1,0,1,1,0,5
@@ -2843,6 +2845,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,5126,"Flight to Avoid Apprehension, Trial or Punishment.",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2020,5126,"Flight to Avoid Apprehension, Trial or Punishment.",0,0,0,2,0,0,0,2,0,0,0,0,4
 "Sheraden                      ",2021,9017,"Found Drugs",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2023,9489,"Found Property",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,9489,"Found Property",2,0,1,0,0,0,0,1,0,1,1,1,7
 "Sheraden                      ",2021,9489,"Found Property",1,0,2,0,0,0,0,1,0,0,1,0,5
 "Sheraden                      ",2020,9489,"Found Property",0,0,0,0,2,0,1,1,0,0,1,0,5
@@ -3216,7 +3219,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2021,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,0,0,0,0,1,0,0,0,1
 "West End                      ",2021,3310,"Following Too Closely.",0,0,0,1,0,0,0,2,0,1,0,0,4
 "West End                      ",2021,4101,Forgery.,0,0,0,0,0,0,0,0,0,0,1,0,1
-"West End                      ",2023,9489,"Found Property",1,0,0,0,0,0,0,0,0,0,0,0,1
+"West End                      ",2023,9489,"Found Property",1,1,0,0,0,0,0,0,0,0,0,0,2
 "West End                      ",2022,9489,"Found Property",0,0,1,1,1,0,2,0,1,2,0,0,8
 "West End                      ",2021,9489,"Found Property",0,1,0,0,1,1,0,0,1,0,0,0,4
 "West End                      ",2020,9489,"Found Property",0,0,0,0,1,0,1,0,1,1,0,0,4
@@ -3571,7 +3574,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2022,3923,"Theft by Extortion.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Westwood                      ",2021,3923,"Theft by Extortion.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Westwood                      ",2022,3927,"Theft by Failure to Make Required Disp. of Funds",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Westwood                      ",2023,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Westwood                      ",2023,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Westwood                      ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,1,0,1,2,0,1,0,1,0,0,6
 "Westwood                      ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,0,0,0,0,1,0,0,0,2,0,4
 "Westwood                      ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,0,0,0,1,0,2,0,0,2,0,1,6
