@@ -482,7 +482,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,2709(a),Harassment.,1,1,0,2,2,0,2,0,1,0,3,1,13
 "Beechview                     ",2021,633.09(a),"Harboring a Nuisance; Any animal to create offensive odor, excessive noise or unsanitary condition",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2022,517.8,"Home Improvement Fraud",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Beechview                     ",2023,4120,"Identity Theft",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2023,4120,"Identity Theft",2,1,0,0,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2022,4120,"Identity Theft",1,1,1,1,1,1,2,1,0,0,1,2,12
 "Beechview                     ",2021,4120,"Identity Theft",1,3,13,5,1,4,7,3,3,0,1,1,42
 "Beechview                     ",2020,4120,"Identity Theft",0,0,0,2,0,0,1,0,1,1,0,0,5
@@ -729,7 +729,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,9498,"302 (Mental)",0,3,2,3,2,1,2,1,8,5,3,3,33
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,3,0,22
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2023,9999,"9999 - (Misc. Incident):",6,1,0,0,0,0,0,0,0,0,0,0,7
+"Brookline                     ",2023,9999,"9999 - (Misc. Incident):",6,2,0,0,0,0,0,0,0,0,0,0,8
 "Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,4,9,11,6,10,10,8,13,9,4,95
 "Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,6,114
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
@@ -810,7 +810,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,2,0,1,1,3,1,2,2,0,0,14
 "Brookline                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,0,0,2,2,2,0,5,2,0,0,0,15
 "Brookline                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,1,1,3,2,0,2,2,2,1,0,16
-"Brookline                     ",2023,3304,"Criminal Mischief.",4,0,0,0,0,0,0,0,0,0,0,0,4
+"Brookline                     ",2023,3304,"Criminal Mischief.",4,1,0,0,0,0,0,0,0,0,0,0,5
 "Brookline                     ",2022,3304,"Criminal Mischief.",4,3,12,3,7,0,1,8,3,2,0,1,44
 "Brookline                     ",2021,3304,"Criminal Mischief.",2,3,3,1,3,4,4,12,1,2,0,2,37
 "Brookline                     ",2020,3304,"Criminal Mischief.",2,4,2,0,2,7,3,5,1,6,5,4,41
@@ -1143,7 +1143,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,0,3,0,3,0,4,3,2,2,2,20
 "Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,2,0,0,3,1,4,0,0,13
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
-"Brookline                     ",2023,2701,"Simple Assault.",14,2,0,0,0,0,0,0,0,0,0,0,16
+"Brookline                     ",2023,2701,"Simple Assault.",14,4,0,0,0,0,0,0,0,0,0,0,18
 "Brookline                     ",2022,2701,"Simple Assault.",7,2,7,3,8,5,6,2,6,4,6,6,62
 "Brookline                     ",2021,2701,"Simple Assault.",0,5,3,4,6,10,1,9,6,8,7,7,66
 "Brookline                     ",2020,2701,"Simple Assault.",11,4,6,7,5,3,6,6,3,9,4,6,70
@@ -1598,7 +1598,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,3701,Robbery.,1,0,0,0,0,0,2,1,1,1,1,1,8
 "Crafton Heights               ",2020,3701,Robbery.,0,2,0,0,3,0,0,0,1,1,0,0,7
 "Crafton Heights               ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2023,8106,"Shots Fired",6,1,0,0,0,0,0,0,0,0,0,0,7
+"Crafton Heights               ",2023,8106,"Shots Fired",6,2,0,0,0,0,0,0,0,0,0,0,8
 "Crafton Heights               ",2022,8106,"Shots Fired",7,6,11,8,2,0,2,3,5,3,4,4,55
 "Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,5,3,5,4,54
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,3,5,2,7,6,1,2,3,2,33
@@ -1612,7 +1612,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,1,0,0,0,0,0,0,0,1,1,0,4
 "Crafton Heights               ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,1,1,2,0,2,0,0,1,0,10
 "Crafton Heights               ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Crafton Heights               ",2023,2701,"Simple Assault.",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2023,2701,"Simple Assault.",2,1,0,0,0,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2022,2701,"Simple Assault.",2,0,0,2,9,1,1,4,3,2,5,2,31
 "Crafton Heights               ",2021,2701,"Simple Assault.",4,2,3,3,4,2,3,2,1,1,3,0,28
 "Crafton Heights               ",2020,2701,"Simple Assault.",4,3,0,3,4,4,12,5,4,1,3,3,46
@@ -1758,6 +1758,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,4106,"Access Device Fraud",0,0,0,0,0,1,1,0,1,0,0,0,3
 "Elliott                       ",2021,9018,"Accidental Fire",1,1,0,0,0,0,0,0,0,1,0,0,3
 "Elliott                       ",2020,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Elliott                       ",2023,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,1,0,1,1,0,1,1,0,0,2,8
 "Elliott                       ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,1,1,0,1,0,0,0,1,0,5
 "Elliott                       ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,0,0,1,0,0,0,1,2,0,1,7
@@ -1765,6 +1766,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,3,0,1,1,1,4,2,0,3,2,17
 "Elliott                       ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,2,3,3,1,1,1,1,1,2,16
 "Elliott                       ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,1,1,1,2,0,0,2,2,1,11
+"Elliott                       ",2023,3742,"Accidents Involving Death or Personal Injury",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2022,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,1,0,0,1,0,0,0,0,2
 "Elliott                       ",2021,3735.1,"Aggravated Assault While DUI",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2023,2702,"Aggravated Assault.",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -1861,6 +1863,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,2,1,2,0,0,0,0,0,0,2,7
 "Elliott                       ",2020,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Elliott                       ",2021,3802(e),"DUI - Minors - BAC >=.02%",0,0,0,0,0,0,0,0,0,2,0,0,2
+"Elliott                       ",2023,3744,"Duty to Give Information and Render Aid",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2022,3744,"Duty to Give Information and Render Aid",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Elliott                       ",2022,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,2,0,0,0,1,0,1,0,3,0,0,7
 "Elliott                       ",2021,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,1,0,1,0,0,2,0,0,0,0,0,4
@@ -2055,7 +2058,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,3701,Robbery.,0,1,2,0,0,1,0,1,2,0,0,0,7
 "Elliott                       ",2022,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Elliott                       ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Elliott                       ",2023,8106,"Shots Fired",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2023,8106,"Shots Fired",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2022,8106,"Shots Fired",1,0,4,4,6,2,1,1,0,1,3,0,23
 "Elliott                       ",2021,8106,"Shots Fired",1,0,2,0,5,4,2,5,0,2,1,1,23
 "Elliott                       ",2020,8106,"Shots Fired",0,0,3,0,3,4,3,3,1,3,1,1,22
@@ -2364,6 +2367,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2022,2702,"Aggravated Assault.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Fairywood                     ",2021,2702,"Aggravated Assault.",1,0,0,0,0,0,0,2,3,2,0,0,8
 "Fairywood                     ",2020,2702,"Aggravated Assault.",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Fairywood                     ",2023,9497,"Aided Case",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2022,9497,"Aided Case",0,1,0,0,0,0,0,1,1,0,0,0,3
 "Fairywood                     ",2021,9497,"Aided Case",0,0,0,0,0,2,1,1,0,1,0,0,5
 "Fairywood                     ",2020,9497,"Aided Case",0,0,0,0,0,0,1,0,1,0,0,0,2
@@ -2686,6 +2690,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,2702,"Aggravated Assault.",0,0,3,2,4,3,8,4,6,0,1,3,34
 "Sheraden                      ",2020,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2020,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,0,0,0,0,0,0,0,0,1,0,0,1
+"Sheraden                      ",2023,9497,"Aided Case",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,9497,"Aided Case",1,3,1,5,2,2,0,0,8,2,0,1,25
 "Sheraden                      ",2021,9497,"Aided Case",1,2,2,1,2,2,6,1,3,2,1,2,25
 "Sheraden                      ",2020,9497,"Aided Case",0,0,2,2,3,1,1,1,2,1,3,1,17
@@ -3315,6 +3320,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2022,3702,"Robbery of Motor Vehicle.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "West End                      ",2022,3701,Robbery.,0,1,0,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2021,3701,Robbery.,0,0,0,0,0,0,0,0,0,1,0,0,1
+"West End                      ",2023,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,1,0,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,1,0,0,0,0,0,0,0,1
 "West End                      ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,0,0,0,0,0,0,0,0,0,3
 "West End                      ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -3329,6 +3335,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,0,0,0,0,0,0,0,1,1
 "West End                      ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,0,0,2,0,0,0,0,0,2
 "West End                      ",2021,1310,"Temporary Registration Cards.",0,0,0,0,0,0,0,0,0,0,1,0,1
+"West End                      ",2023,2706,"Terroristic Threats.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2022,2706,"Terroristic Threats.",0,0,0,1,0,0,1,0,0,0,0,0,2
 "West End                      ",2021,2706,"Terroristic Threats.",0,2,0,0,1,0,1,1,1,0,0,0,6
 "West End                      ",2020,2706,"Terroristic Threats.",0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -3661,6 +3668,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2021,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Windgap                       ",2022,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Windgap                       ",2020,9015,"Failure To Appear/Arrest on Attachment Order",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Windgap                       ",2023,4915,"Failure to Comply with Megans Law",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2022,4915,"Failure to Comply with Megans Law",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Windgap                       ",2022,2903,"False Imprisonment.",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Windgap                       ",2020,2903,"False Imprisonment.",0,0,0,0,2,0,0,0,0,0,0,0,2

@@ -9107,7 +9107,7 @@
             "Section": "4120",
             "Description": "Identity Theft",
             "Jan": "2",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -9118,7 +9118,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -13800,7 +13800,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "6",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -13811,7 +13811,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Brookline",
@@ -15339,7 +15339,7 @@
             "Section": "3304",
             "Description": "Criminal Mischief.",
             "Jan": "4",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -15350,7 +15350,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -21609,7 +21609,7 @@
             "Section": "2701",
             "Description": "Simple Assault.",
             "Jan": "8",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -21620,7 +21620,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -30216,7 +30216,7 @@
             "Section": "8106",
             "Description": "Shots Fired",
             "Jan": "6",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -30227,7 +30227,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -30463,7 +30463,7 @@
             "Section": "2701",
             "Description": "Simple Assault.",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -30474,7 +30474,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -33195,6 +33195,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "3743",
+            "Description": "Accidents Involving Damage to Attended Veh. or Property",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2022",
             "Section": "3743",
             "Description": "Accidents Involving Damage to Attended Veh. or Property",
@@ -33325,6 +33344,25 @@
             "Nov": "2",
             "Dec": "1",
             "Count": "10"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "3742",
+            "Description": "Accidents Involving Death or Personal Injury",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Elliott",
@@ -35127,6 +35165,25 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "3744",
+            "Description": "Duty to Give Information and Render Aid",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -38747,7 +38804,7 @@
             "Section": "8106",
             "Description": "Shots Fired",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -38758,7 +38815,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -44573,6 +44630,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "5"
+        },
+        {
+            "Neighborhood": "Fairywood",
+            "Year": "2023",
+            "Section": "9497",
+            "Description": "Aided Case",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Fairywood",
@@ -50631,6 +50707,25 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "9497",
+            "Description": "Aided Case",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -62493,6 +62588,25 @@
         },
         {
             "Neighborhood": "West End",
+            "Year": "2023",
+            "Section": "2701(a)(3)",
+            "Description": "Simple Assault - Attempts by Physical Menace",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
             "Year": "2021",
             "Section": "2701(a)(3)",
             "Description": "Simple Assault - Attempts by Physical Menace",
@@ -62754,6 +62868,25 @@
             "Sep": "0",
             "Oct": "0",
             "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2023",
+            "Section": "2706",
+            "Description": "Terroristic Threats.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
             "Dec": "0",
             "Count": "1"
         },
@@ -69039,6 +69172,25 @@
             "May": "0",
             "Jun": "0",
             "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2023",
+            "Section": "4915",
+            "Description": "Failure to Comply with Megans Law",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
