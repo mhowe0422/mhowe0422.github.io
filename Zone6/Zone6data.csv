@@ -263,7 +263,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,3928,"Unauthorized Use of Automobile and Other Vehicles.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2022,2902,"Unlawful Restraint.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Banksville                    ",2021,2902,"Unlawful Restraint.",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Beechview                     ",2023,9498,"302 (Mental)",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Beechview                     ",2023,9498,"302 (Mental)",2,1,0,0,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2022,9498,"302 (Mental)",1,0,2,0,3,0,2,3,1,1,0,1,14
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,2,1,0,0,2,13
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
@@ -570,7 +570,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,0,2,0,0,0,0,0,3,5
 "Beechview                     ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,0,0,0,1,0,0,0,0,0,2,1,4
 "Beechview                     ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,1,0,0,2,0,0,0,2,0,0,0,5
-"Beechview                     ",2023,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2023,9994,"PFA Service",1,2,0,0,0,0,0,0,0,0,0,0,3
 "Beechview                     ",2022,9994,"PFA Service",0,0,0,0,1,0,2,1,2,2,0,3,11
 "Beechview                     ",2021,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,0,2,0,1,0,1,0,1,0,7
@@ -925,6 +925,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2023,3733,"Fleeing or Attempting to Elude Police Officer",3,0,0,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2022,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,1,0,0,0,0,0,1,1,3
 "Brookline                     ",2021,3733,"Fleeing or Attempting to Elude Police Officer",2,0,0,0,0,1,0,0,0,0,0,0,3
+"Brookline                     ",2023,5126,"Flight to Avoid Apprehension, Trial or Punishment.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2022,5126,"Flight to Avoid Apprehension, Trial or Punishment.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Brookline                     ",2021,5126,"Flight to Avoid Apprehension, Trial or Punishment.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Brookline                     ",2021,3310,"Following Too Closely.",0,0,0,0,0,0,0,2,0,0,0,0,2
@@ -953,6 +954,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Brookline                     ",2021,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Brookline                     ",2020,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Brookline                     ",2023,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2022,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,1,0,1,1,0,0,1,0,0,0,4
 "Brookline                     ",2021,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",1,0,0,0,0,0,0,0,1,0,0,0,2
 "Brookline                     ",2020,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,1,0,0,0,2,0,0,0,3
@@ -1034,6 +1036,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3308,"One-Way Roadways and Rotary Traffic Islands.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,1371,"Operation Following Suspension of Registration.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2022,4703,"Operation of Vehicle without Official Certif. of Inspection",0,2,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2023,9998,Overdose,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2022,9998,Overdose,0,2,6,6,2,2,3,1,4,0,2,3,31
 "Brookline                     ",2021,9998,Overdose,1,3,5,2,2,3,1,0,5,2,0,1,25
 "Brookline                     ",2020,9998,Overdose,2,0,2,2,0,2,2,4,2,1,0,3,20
@@ -1151,6 +1154,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2701,"Simple Assault.",11,4,6,7,5,3,6,6,3,9,4,6,70
 "Brookline                     ",2021,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,1,0,0,0,2
 "Brookline                     ",2020,3503(b.1)(i),"Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Brookline                     ",2023,2709(b),Stalking,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2022,2709(b),Stalking,0,0,0,0,0,2,1,0,0,0,0,0,3
 "Brookline                     ",2021,2709(b),Stalking,0,0,0,0,0,0,0,3,0,0,0,0,3
 "Brookline                     ",2020,2709(b),Stalking,0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -1636,6 +1640,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,2706,"Terroristic Threats.",0,0,0,2,0,1,3,2,2,1,1,0,12
 "Crafton Heights               ",2021,2706,"Terroristic Threats.",0,4,3,2,0,1,3,6,3,1,3,2,28
 "Crafton Heights               ",2020,2706,"Terroristic Threats.",1,1,0,1,0,2,6,4,3,2,1,0,21
+"Crafton Heights               ",2023,3922,"Theft by Deception.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2022,3922,"Theft by Deception.",0,0,0,1,0,0,0,0,0,0,1,0,2
 "Crafton Heights               ",2021,3922,"Theft by Deception.",0,0,0,1,0,1,1,0,0,0,0,0,3
 "Crafton Heights               ",2020,3922,"Theft by Deception.",0,1,0,1,3,0,0,0,1,1,0,0,7
@@ -2882,6 +2887,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,1,2,0,0,0,0,2,0,0,0,5
 "Sheraden                      ",2020,2709(a)(3),"Harassment No Legitimate Purpose",0,1,1,1,0,0,1,0,1,0,0,0,5
 "Sheraden                      ",2021,2709.A1,"HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Sheraden                      ",2023,2709(a),Harassment.,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,2709(a),Harassment.,1,3,1,0,2,2,0,2,0,1,2,1,15
 "Sheraden                      ",2021,2709(a),Harassment.,2,1,3,2,1,2,1,1,0,2,1,0,16
 "Sheraden                      ",2020,2709(a),Harassment.,0,1,1,0,0,1,1,0,3,0,0,0,7
@@ -3060,7 +3066,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
 "Sheraden                      ",2023,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,1,0,2,0,0,0,2,0,0,5
-"Sheraden                      ",2023,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,2,0,0,0,0,0,0,0,0,0,0,4
+"Sheraden                      ",2023,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,3,0,0,0,0,0,0,0,0,0,0,5
 "Sheraden                      ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,2,0,0,0,2,3,3,0,2,0,0,13
 "Sheraden                      ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,1,3,3,2,3,1,3,0,0,3,4,24
 "Sheraden                      ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,1,2,0,0,0,1,1,6,3,0,1,15
