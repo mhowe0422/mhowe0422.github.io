@@ -3,7 +3,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2022,9498,"302 (Mental)",0,0,0,2,1,0,0,0,2,1,1,0,7
 "Banksville                    ",2021,9498,"302 (Mental)",1,1,0,0,1,2,0,0,2,0,0,1,8
 "Banksville                    ",2020,9498,"302 (Mental)",0,0,2,0,0,0,0,0,0,0,1,1,4
-"Banksville                    ",2023,9999,"9999 - (Misc. Incident):",1,1,0,0,0,0,0,0,0,0,0,0,2
+"Banksville                    ",2023,9999,"9999 - (Misc. Incident):",1,2,0,0,0,0,0,0,0,0,0,0,3
 "Banksville                    ",2022,9999,"9999 - (Misc. Incident):",0,1,2,0,0,1,4,1,2,1,3,2,17
 "Banksville                    ",2021,9999,"9999 - (Misc. Incident):",4,7,1,3,2,2,4,2,3,0,1,1,30
 "Banksville                    ",2020,9999,"9999 - (Misc. Incident):",2,4,1,2,3,6,2,4,2,1,3,1,31
@@ -270,7 +270,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,9498,"302 (Mental)",1,0,2,0,3,0,2,3,1,1,0,1,14
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,2,1,0,0,2,13
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
-"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",7,4,0,0,0,0,0,0,0,0,0,0,11
+"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",7,5,0,0,0,0,0,0,0,0,0,0,12
 "Beechview                     ",2022,9999,"9999 - (Misc. Incident):",5,10,8,7,4,6,3,4,8,4,9,5,73
 "Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,8,12,6,0,6,3,71
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",4,4,5,4,3,5,11,8,9,7,4,7,71
@@ -426,7 +426,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,3744,"Duty to Give Information and Render Aid",0,0,1,0,0,0,0,0,2,0,0,2,5
 "Beechview                     ",2021,3744,"Duty to Give Information and Render Aid",0,0,0,0,1,0,0,0,2,0,0,0,3
 "Beechview                     ",2020,3744,"Duty to Give Information and Render Aid",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2023,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2023,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2022,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",2,0,1,2,0,0,0,2,0,1,0,1,9
 "Beechview                     ",2021,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",1,1,2,0,0,2,0,0,0,0,0,0,6
 "Beechview                     ",2020,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,1,0,0,0,0,0,2,0,1,0,1,5
@@ -660,7 +660,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,1,0,0,0,0,0,4,0,0,0,6
 "Beechview                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,0,0,0,3,1,1,2,2,1,0,0,12
 "Beechview                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,2,0,0,1,3,0,0,1,0,0,10
-"Beechview                     ",2023,2701,"Simple Assault.",3,2,0,0,0,0,0,0,0,0,0,0,5
+"Beechview                     ",2023,2701,"Simple Assault.",3,3,0,0,0,0,0,0,0,0,0,0,6
 "Beechview                     ",2022,2701,"Simple Assault.",6,4,5,5,2,1,0,3,3,2,4,4,39
 "Beechview                     ",2021,2701,"Simple Assault.",4,4,6,4,6,6,3,4,0,4,4,8,53
 "Beechview                     ",2020,2701,"Simple Assault.",7,6,5,0,6,4,11,4,9,8,7,6,73
@@ -737,12 +737,12 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,9498,"302 (Mental)",0,3,2,3,2,1,2,1,8,5,3,3,33
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,3,0,22
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2023,9999,"9999 - (Misc. Incident):",6,2,0,0,0,0,0,0,0,0,0,0,8
+"Brookline                     ",2023,9999,"9999 - (Misc. Incident):",6,4,0,0,0,0,0,0,0,0,0,0,10
 "Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,4,9,11,6,10,10,8,13,9,4,95
 "Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,6,114
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
 "Brookline                     ",2023,3712,"Abandonment and Stripping of Vehicles",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2023,4106,"Access Device Fraud",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2023,4106,"Access Device Fraud",2,1,0,0,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2022,4106,"Access Device Fraud",1,3,2,18,1,3,2,2,3,1,2,1,39
 "Brookline                     ",2021,4106,"Access Device Fraud",2,1,7,2,3,1,1,3,0,1,1,2,24
 "Brookline                     ",2020,4106,"Access Device Fraud",3,1,1,0,2,1,1,6,3,0,0,1,19
@@ -974,7 +974,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2709(a),Harassment.,4,0,0,2,0,2,1,2,2,1,3,3,20
 "Brookline                     ",2021,517.8,"Home Improvement Fraud",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,517.8,"Home Improvement Fraud",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Brookline                     ",2023,4120,"Identity Theft",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2023,4120,"Identity Theft",1,1,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2022,4120,"Identity Theft",5,5,2,6,3,1,2,2,3,0,0,0,29
 "Brookline                     ",2021,4120,"Identity Theft",0,2,39,7,7,3,18,6,3,1,2,1,89
 "Brookline                     ",2020,4120,"Identity Theft",1,1,2,0,2,4,0,0,2,2,0,1,15
@@ -1618,7 +1618,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,3701,Robbery.,1,0,0,0,0,0,2,1,1,1,1,1,8
 "Crafton Heights               ",2020,3701,Robbery.,0,2,0,0,3,0,0,0,1,1,0,0,7
 "Crafton Heights               ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2023,8106,"Shots Fired",6,3,0,0,0,0,0,0,0,0,0,0,9
+"Crafton Heights               ",2023,8106,"Shots Fired",6,4,0,0,0,0,0,0,0,0,0,0,10
 "Crafton Heights               ",2022,8106,"Shots Fired",7,6,11,8,2,0,2,3,5,3,4,4,55
 "Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,5,3,5,4,54
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,3,5,2,7,6,1,2,3,2,33
@@ -2171,6 +2171,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2020,9501,"Bench Warrant",0,2,0,0,0,2,2,0,0,2,0,2,10
 "Esplen                        ",2023,3502,Burglary.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2021,3502,Burglary.,0,0,0,1,0,0,0,0,0,0,0,2,3
+"Esplen                        ",2023,3714,"Careless Driving",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2022,3714,"Careless Driving",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Esplen                        ",2021,3714,"Careless Driving",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Esplen                        ",2020,607.07,"Carrying Fascimiles of Firearms Prohibited",0,0,0,0,0,0,0,0,0,0,2,0,2
@@ -2207,11 +2208,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2021,1501,"Drivers Required to be Licensed.",0,0,0,1,0,0,0,0,0,0,2,0,3
 "Esplen                        ",2020,1501,"Drivers Required to be Licensed.",2,2,0,0,2,2,2,1,0,0,0,0,11
 "Esplen                        ",2021,3731,"Driving Under Influence of Alcohol or Controlled Substance",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Esplen                        ",2023,3361,"Driving Vehicle at Safe Speed.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2020,3361,"Driving Vehicle at Safe Speed.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Esplen                        ",2022,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Esplen                        ",2021,1543,"Driving While Operating Privilege is Suspended or Revoked.",5,0,0,0,0,1,2,2,3,1,2,2,18
 "Esplen                        ",2020,1543,"Driving While Operating Privilege is Suspended or Revoked.",2,2,0,0,0,0,2,0,0,4,0,3,13
 "Esplen                        ",2022,9124,"Drug Investigation",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Esplen                        ",2023,3802(a)(1),"DUI - General Impairment",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2022,3802(a)(1),"DUI - General Impairment",0,2,0,0,0,0,0,0,0,0,2,2,6
 "Esplen                        ",2021,3802(a)(1),"DUI - General Impairment",2,0,0,0,0,0,0,2,1,0,2,0,7
 "Esplen                        ",2020,3802(a)(1),"DUI - General Impairment",0,2,0,0,2,0,2,0,0,2,0,0,8
@@ -2640,7 +2643,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2021,2902,"Unlawful Restraint.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Oakwood                       ",2020,"4304(a)(1) Enhanced","Welfare of Children - Course of Conduct",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Ridgemont                     ",2020,9498,"302 (Mental)",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Ridgemont                     ",2023,9999,"9999 - (Misc. Incident):",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Ridgemont                     ",2023,9999,"9999 - (Misc. Incident):",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Ridgemont                     ",2022,9999,"9999 - (Misc. Incident):",0,0,0,1,0,0,0,0,1,0,0,0,2
 "Ridgemont                     ",2021,9999,"9999 - (Misc. Incident):",0,1,1,0,1,0,0,0,1,0,0,0,4
 "Ridgemont                     ",2020,9999,"9999 - (Misc. Incident):",0,0,0,0,0,0,0,0,0,0,1,0,1
@@ -2690,7 +2693,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,9498,"302 (Mental)",0,0,1,2,3,2,2,2,0,0,1,1,14
 "Sheraden                      ",2021,9498,"302 (Mental)",3,3,0,3,5,5,3,0,2,0,0,1,25
 "Sheraden                      ",2020,9498,"302 (Mental)",2,2,1,0,0,2,0,1,0,1,1,2,12
-"Sheraden                      ",2023,9999,"9999 - (Misc. Incident):",10,4,0,0,0,0,0,0,0,0,0,0,14
+"Sheraden                      ",2023,9999,"9999 - (Misc. Incident):",10,6,0,0,0,0,0,0,0,0,0,0,16
 "Sheraden                      ",2022,9999,"9999 - (Misc. Incident):",4,3,4,5,5,5,7,9,4,2,7,6,61
 "Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,10,5,7,8,5,3,1,0,77
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,6,1,5,10,8,7,9,2,4,4,62
@@ -2701,6 +2704,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,4106,"Access Device Fraud",0,2,1,0,0,2,1,0,0,0,0,3,9
 "Sheraden                      ",2022,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,0,2,0,2,0,0,4
 "Sheraden                      ",2020,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,2,0,0,0,0,0,2
+"Sheraden                      ",2023,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,1,3,2,1,1,2,1,4,0,15
 "Sheraden                      ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,0,1,3,0,1,2,0,0,1,9
 "Sheraden                      ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,2,0,2,2,1,1,3,3,1,0,3,18
@@ -2842,6 +2846,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2020,3802(b),"DUI - High Rate of Alchol - BAC >=.10% <.16%",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Sheraden                      ",2022,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,2,0,0,0,0,0,4,0,0,6
+"Sheraden                      ",2023,3744,"Duty to Give Information and Render Aid",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,3744,"Duty to Give Information and Render Aid",2,0,1,0,0,1,0,2,0,0,0,0,6
 "Sheraden                      ",2021,3744,"Duty to Give Information and Render Aid",0,0,1,0,0,0,0,0,1,0,0,0,2
 "Sheraden                      ",2020,3744,"Duty to Give Information and Render Aid",0,0,0,0,0,0,0,0,2,0,0,0,2
@@ -3043,6 +3048,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3925,"Receiving Stolen Property.",2,2,1,0,2,2,2,0,2,0,0,1,14
 "Sheraden                      ",2021,3925,"Receiving Stolen Property.",6,0,2,0,1,1,0,0,0,1,1,0,12
 "Sheraden                      ",2020,3925,"Receiving Stolen Property.",2,0,0,2,1,0,0,2,2,0,0,0,9
+"Sheraden                      ",2023,3736,"Reckless Driving",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,3736,"Reckless Driving",1,1,0,3,0,0,0,3,0,4,0,0,12
 "Sheraden                      ",2021,3736,"Reckless Driving",0,3,1,0,0,0,0,1,0,0,0,0,5
 "Sheraden                      ",2020,3736,"Reckless Driving",0,0,0,4,0,0,1,0,2,0,0,0,7
@@ -3100,7 +3106,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,0,0,0,0,4,1,0,1,1,1,11
 "Sheraden                      ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,0,7,2,0,5,3,3,1,0,24
 "Sheraden                      ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,2,0,2,0,1,1,1,2,10
-"Sheraden                      ",2023,2701,"Simple Assault.",2,3,0,0,0,0,0,0,0,0,0,0,5
+"Sheraden                      ",2023,2701,"Simple Assault.",2,4,0,0,0,0,0,0,0,0,0,0,6
 "Sheraden                      ",2022,2701,"Simple Assault.",5,14,2,7,12,2,5,10,6,10,3,6,82
 "Sheraden                      ",2021,2701,"Simple Assault.",2,6,3,7,1,14,6,9,8,6,6,2,70
 "Sheraden                      ",2020,2701,"Simple Assault.",7,5,8,4,9,9,9,10,17,1,4,6,89
@@ -3112,6 +3118,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3323,"Stop Signs and Yield Signs.",1,1,0,0,0,0,0,0,0,0,0,2,4
 "Sheraden                      ",2021,3323,"Stop Signs and Yield Signs.",0,4,2,0,0,0,1,0,0,0,2,0,9
 "Sheraden                      ",2020,3323,"Stop Signs and Yield Signs.",1,2,1,1,0,0,3,0,0,4,0,0,12
+"Sheraden                      ",2023,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",1,7,1,1,1,2,0,2,0,0,2,0,17
 "Sheraden                      ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,1,0,2,4,7,0,4,0,1,0,0,19
 "Sheraden                      ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,5,8,0,0,0,2,1,5,0,0,0,23

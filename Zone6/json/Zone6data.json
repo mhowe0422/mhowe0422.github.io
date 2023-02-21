@@ -82,7 +82,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "1",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -93,7 +93,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -5117,7 +5117,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "7",
-            "Feb": "4",
+            "Feb": "5",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -5128,7 +5128,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Beechview",
@@ -8043,7 +8043,7 @@
             "Section": "4304(a)(1)",
             "Description": "Endangering Welfare of Children - Course of Conduct Enhanced",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -8054,7 +8054,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -12489,7 +12489,7 @@
             "Section": "2701",
             "Description": "Simple Assault.",
             "Jan": "2",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -12500,7 +12500,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -13952,7 +13952,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "6",
-            "Feb": "2",
+            "Feb": "4",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -13963,7 +13963,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -14047,7 +14047,7 @@
             "Section": "4106",
             "Description": "Access Device Fraud",
             "Jan": "2",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -14058,7 +14058,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -18417,7 +18417,7 @@
             "Section": "4120",
             "Description": "Identity Theft",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -18428,7 +18428,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -30596,7 +30596,7 @@
             "Section": "8106",
             "Description": "Shots Fired",
             "Jan": "6",
-            "Feb": "3",
+            "Feb": "4",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -30607,7 +30607,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -40947,6 +40947,25 @@
         },
         {
             "Neighborhood": "Esplen",
+            "Year": "2023",
+            "Section": "3714",
+            "Description": "Careless Driving",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
             "Year": "2022",
             "Section": "3714",
             "Description": "Careless Driving",
@@ -41631,6 +41650,25 @@
         },
         {
             "Neighborhood": "Esplen",
+            "Year": "2023",
+            "Section": "3361",
+            "Description": "Driving Vehicle at Safe Speed.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
             "Year": "2020",
             "Section": "3361",
             "Description": "Driving Vehicle at Safe Speed.",
@@ -41714,6 +41752,25 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2023",
+            "Section": "3802(a)(1)",
+            "Description": "DUI - General Impairment",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -49786,7 +49843,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -49797,7 +49854,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Ridgemont",
@@ -50717,7 +50774,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "10",
-            "Feb": "4",
+            "Feb": "6",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -50728,7 +50785,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "16"
         },
         {
             "Neighborhood": "Sheraden",
@@ -50913,6 +50970,25 @@
             "May": "0",
             "Jun": "0",
             "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "3743",
+            "Description": "Accidents Involving Damage to Attended Veh. or Property",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
@@ -53579,6 +53655,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "3744",
+            "Description": "Duty to Give Information and Render Aid",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -57401,6 +57496,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "3736",
+            "Description": "Reckless Driving",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2022",
             "Section": "3736",
             "Description": "Reckless Driving",
@@ -58469,7 +58583,7 @@
             "Section": "2701",
             "Description": "Simple Assault.",
             "Jan": "1",
-            "Feb": "2",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -58480,7 +58594,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -58690,6 +58804,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "8"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "2718(a)(1)",
+            "Description": "Strangulation - Applying Pressure to the Throat or Neck",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
