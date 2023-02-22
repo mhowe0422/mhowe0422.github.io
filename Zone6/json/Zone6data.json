@@ -230,6 +230,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2023",
+            "Section": "3742.1",
+            "Description": "Accident Involv. Death\/Inj. While not Licensed",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2020",
             "Section": "3742.1",
             "Description": "Accident Involv. Death\/Inj. While not Licensed",
@@ -1446,6 +1465,25 @@
         },
         {
             "Neighborhood": "Banksville",
+            "Year": "2023",
+            "Section": "1543",
+            "Description": "Driving While Operating Privilege is Suspended or Revoked.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Banksville",
             "Year": "2021",
             "Section": "1543",
             "Description": "Driving While Operating Privilege is Suspended or Revoked.",
@@ -1716,7 +1754,7 @@
             "Section": "3744",
             "Description": "Duty to Give Information and Render Aid",
             "Jan": "0",
-            "Feb": "3",
+            "Feb": "4",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -1727,7 +1765,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Banksville",
@@ -3692,7 +3730,7 @@
             "Section": "3736",
             "Description": "Reckless Driving",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -3703,7 +3741,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -4395,7 +4433,7 @@
             "Section": "2706",
             "Description": "Terroristic Threats.",
             "Jan": "0",
-            "Feb": "2",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -4406,7 +4444,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "1"
         },
         {
             "Neighborhood": "Banksville",
@@ -13287,7 +13325,7 @@
             "Section": "3934",
             "Description": "Theft from Vehicle",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -13298,7 +13336,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -17615,25 +17653,6 @@
         },
         {
             "Neighborhood": "Brookline",
-            "Year": "2023",
-            "Section": "5126",
-            "Description": "Flight to Avoid Apprehension, Trial or Punishment.",
-            "Jan": "0",
-            "Feb": "1",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Brookline",
             "Year": "2022",
             "Section": "5126",
             "Description": "Flight to Avoid Apprehension, Trial or Punishment.",
@@ -18923,6 +18942,25 @@
             "Nov": "0",
             "Dec": "2",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "9504",
+            "Description": "Lost Property",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -21928,25 +21966,6 @@
         },
         {
             "Neighborhood": "Brookline",
-            "Year": "2023",
-            "Section": "2709(b)",
-            "Description": "Stalking",
-            "Jan": "0",
-            "Feb": "1",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Brookline",
             "Year": "2022",
             "Section": "2709(b)",
             "Description": "Stalking",
@@ -24436,6 +24455,25 @@
         },
         {
             "Neighborhood": "Chartiers City",
+            "Year": "2023",
+            "Section": "9993",
+            "Description": "PFA Service with Weapons Supplement",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Chartiers City",
             "Year": "2020",
             "Section": "9993",
             "Description": "PFA Service with Weapons Supplement",
@@ -25200,7 +25238,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "5",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -25211,7 +25249,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -25808,7 +25846,7 @@
             "Section": "9501",
             "Description": "Bench Warrant",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -25819,7 +25857,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -33518,6 +33556,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "5510",
+            "Description": "Abuse of Corpse.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2022",
             "Section": "4106",
             "Description": "Access Device Fraud",
@@ -34376,8 +34433,8 @@
             "Year": "2023",
             "Section": "2501",
             "Description": "Criminal Homicide.",
-            "Jan": "1",
-            "Feb": "0",
+            "Jan": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -34567,7 +34624,7 @@
             "Section": "3304",
             "Description": "Criminal Mischief.",
             "Jan": "2",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -34578,7 +34635,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -37812,6 +37869,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "6105(a)(1)",
+            "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2022",
             "Section": "6105(a)(1)",
             "Description": "Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",
@@ -39690,6 +39766,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "8"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "4910",
+            "Description": "Tampering with or Fabricating Physical Evidence.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Elliott",
@@ -52313,7 +52408,7 @@
             "Section": "3304(a)(5)",
             "Description": "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -52324,7 +52419,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -52389,7 +52484,7 @@
             "Section": "3304",
             "Description": "Criminal Mischief.",
             "Jan": "3",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -52400,7 +52495,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -58279,7 +58374,7 @@
             "Section": "8106",
             "Description": "Shots Fired",
             "Jan": "3",
-            "Feb": "2",
+            "Feb": "3",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -58290,7 +58385,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
@@ -59856,7 +59951,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "1",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -59867,7 +59962,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "West End",
@@ -70606,6 +70701,25 @@
         },
         {
             "Neighborhood": "Windgap",
+            "Year": "2023",
+            "Section": "9122",
+            "Description": "Miscellaneous Fire Vehicle Investigation to Continue",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
             "Year": "2022",
             "Section": "9129",
             "Description": "Miscellaneous Investigation",
@@ -71883,7 +71997,7 @@
             "Section": "3921",
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -71894,7 +72008,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Windgap",
