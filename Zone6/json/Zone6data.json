@@ -5440,7 +5440,7 @@
             "Section": "3743",
             "Description": "Accidents Involving Damage to Attended Veh. or Property",
             "Jan": "1",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -5451,7 +5451,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -6827,7 +6827,7 @@
             "Section": "9496",
             "Description": "Dead on Arrival (DOA)",
             "Jan": "0",
-            "Feb": "3",
+            "Feb": "4",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -6838,7 +6838,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -14351,7 +14351,7 @@
             "Section": "3745",
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "9",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -14362,7 +14362,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -25238,7 +25238,7 @@
             "Section": "9498",
             "Description": "302 (Mental)",
             "Jan": "0",
-            "Feb": "3",
+            "Feb": "4",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -25249,7 +25249,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -25725,6 +25725,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2023",
+            "Section": "2702",
+            "Description": "Aggravated Assault.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -27324,6 +27343,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2023",
+            "Section": "3802(a)(1)",
+            "Description": "DUI - General Impairment",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2022",
             "Section": "3802(a)(1)",
             "Description": "DUI - General Impairment",
@@ -27384,6 +27422,25 @@
             "Year": "2022",
             "Section": "3802(b)",
             "Description": "DUI - High Rate of Alchol - BAC >=.10% <.16%",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2023",
+            "Section": "3802(c)",
+            "Description": "DUI - Highest Rate of Alcohol - BAC >= .16%",
             "Jan": "0",
             "Feb": "1",
             "Mar": "0",
@@ -30767,7 +30824,7 @@
             "Section": "8106",
             "Description": "Shots Fired",
             "Jan": "6",
-            "Feb": "5",
+            "Feb": "6",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -30778,7 +30835,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -30941,6 +30998,25 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2023",
+            "Section": "2701(a)(1)",
+            "Description": "Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -49174,6 +49250,25 @@
         },
         {
             "Neighborhood": "Oakwood",
+            "Year": "2023",
+            "Section": "029",
+            "Description": "Missing Juvenile",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Oakwood",
             "Year": "2020",
             "Section": "029",
             "Description": "Missing Juvenile",
@@ -51021,7 +51116,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "10",
-            "Feb": "6",
+            "Feb": "7",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -51032,7 +51127,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Neighborhood": "Sheraden",
@@ -51299,6 +51394,25 @@
             "Nov": "0",
             "Dec": "2",
             "Count": "15"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "3745",
+            "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -53772,6 +53886,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "3802(d)(1)(ii)",
+            "Description": "DUI - Controlled Substance - Schedule II or III",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2022",
             "Section": "3802(d)(2)",
             "Description": "DUI - Drug - Impaired Ability",
@@ -53807,6 +53940,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "3802(a)(1)",
+            "Description": "DUI - General Impairment",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -55220,7 +55372,7 @@
             "Section": "2709(a)",
             "Description": "Harassment.",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -55231,7 +55383,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -56702,7 +56854,7 @@
             "Section": "13(a)(32)",
             "Description": "Paraphernalia - Use or Possession",
             "Jan": "2",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -56713,7 +56865,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -57215,7 +57367,7 @@
             "Section": "13(a)(16)",
             "Description": "Possession of Controlled Substance",
             "Jan": "2",
-            "Feb": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -57226,7 +57378,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -57766,7 +57918,7 @@
             "Section": "3736",
             "Description": "Reckless Driving",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -57777,7 +57929,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -62820,7 +62972,7 @@
             "Section": "9994",
             "Description": "PFA Service",
             "Jan": "1",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -62831,7 +62983,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "West End",
@@ -71093,6 +71245,25 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2023",
+            "Section": "9994",
+            "Description": "PFA Service",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
