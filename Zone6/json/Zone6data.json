@@ -13345,7 +13345,7 @@
             "Description": "Theft from Vehicle",
             "Jan": "1",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -13355,7 +13355,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -22152,6 +22152,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "2709.1",
+            "Description": "Stalking Conduct or Repeatedly Acts Including Follows",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
             "Count": "1"
         },
         {
@@ -35342,6 +35361,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "5503(a)(1)",
+            "Description": "DISORDERLY CONDUCT - ENGAGE IN FIGHTING",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2022",
             "Section": "5503(a)(1)",
             "Description": "DISORDERLY CONDUCT - ENGAGE IN FIGHTING",
@@ -38900,6 +38938,25 @@
             "Description": "Propulsion of Missiles",
             "Jan": "1",
             "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "5505",
+            "Description": "Public Drunkenness",
+            "Jan": "0",
+            "Feb": "1",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -47768,6 +47825,25 @@
         },
         {
             "Neighborhood": "Fairywood",
+            "Year": "2023",
+            "Section": "3921(a)",
+            "Description": "Theft by Unlawful Taking or Disposition - Movable item",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
             "Year": "2022",
             "Section": "3921(a)",
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
@@ -51268,7 +51344,7 @@
             "Section": "9999",
             "Description": "9999 - (Misc. Incident):",
             "Jan": "10",
-            "Feb": "7",
+            "Feb": "8",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -51279,7 +51355,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "17"
+            "Count": "18"
         },
         {
             "Neighborhood": "Sheraden",
@@ -59514,7 +59590,7 @@
             "Section": "2706",
             "Description": "Terroristic Threats.",
             "Jan": "2",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -59525,7 +59601,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
