@@ -5441,7 +5441,7 @@
             "Description": "Accidents Involving Damage to Attended Veh. or Property",
             "Jan": "1",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -5451,7 +5451,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -5882,6 +5882,25 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2023",
+            "Section": "4105(a)(1)",
+            "Description": "Bad Checks",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -8533,6 +8552,25 @@
         },
         {
             "Neighborhood": "Beechview",
+            "Year": "2023",
+            "Section": "4101",
+            "Description": "Forgery.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Beechview",
             "Year": "2022",
             "Section": "4101",
             "Description": "Forgery.",
@@ -8841,7 +8879,7 @@
             "Section": "2709(a)(1)",
             "Description": "Harassment by Physical Contact, or Attempts or Threats",
             "Jan": "1",
-            "Feb": "0",
+            "Feb": "2",
             "Mar": "0",
             "Apr": "0",
             "May": "0",
@@ -8852,7 +8890,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -9241,7 +9279,7 @@
             "Description": "Identity Theft",
             "Jan": "2",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -9251,7 +9289,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -11882,7 +11920,7 @@
             "Description": "Registration and Certificate of Title Required.",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -11892,7 +11930,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -11958,7 +11996,7 @@
             "Description": "Required Financial Responsibility.",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -11968,7 +12006,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -13934,7 +13972,7 @@
             "Description": "302 (Mental)",
             "Jan": "2",
             "Feb": "4",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -13944,7 +13982,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -14105,7 +14143,7 @@
             "Description": "Access Device Fraud",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -14115,7 +14153,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -15764,6 +15802,25 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "3503(b.1)",
+            "Description": "Criminal Trespass - Simple Trespasser",
+            "Jan": "0",
+            "Feb": "1",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
@@ -17957,6 +18014,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "2709",
+            "Description": "Harassment (Non-Specific)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2022",
             "Section": "2709",
             "Description": "Harassment (Non-Specific)",
@@ -18494,7 +18570,7 @@
             "Description": "Identity Theft",
             "Jan": "1",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -18504,7 +18580,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -31205,7 +31281,7 @@
             "Description": "Simple Assault.",
             "Jan": "1",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -31215,7 +31291,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -31437,6 +31513,25 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2023",
+            "Section": "2718(a)(1)",
+            "Description": "Strangulation - Applying Pressure to the Throat or Neck",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -35171,6 +35266,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "9496",
+            "Description": "Dead on Arrival (DOA)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2022",
             "Section": "9496",
             "Description": "Dead on Arrival (DOA)",
@@ -36954,6 +37068,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "2709(a)",
+            "Description": "Harassment.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Elliott",
@@ -51648,7 +51781,7 @@
             "Section": "3745",
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "0",
-            "Feb": "1",
+            "Feb": "2",
             "Mar": "1",
             "Apr": "0",
             "May": "0",
@@ -51659,7 +51792,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -52162,7 +52295,7 @@
             "Description": "Bench Warrant",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -52172,7 +52305,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -58945,7 +59078,7 @@
             "Description": "Shots Fired",
             "Jan": "3",
             "Feb": "5",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -58955,7 +59088,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Sheraden",
