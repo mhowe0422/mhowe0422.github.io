@@ -253,6 +253,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2022,3921,"Theft by Unlawful Taking or Disposition.",0,3,2,2,1,1,0,3,0,0,1,2,15
 "Banksville                    ",2021,3921,"Theft by Unlawful Taking or Disposition.",4,0,1,0,0,0,0,0,1,0,0,1,7
 "Banksville                    ",2020,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,0,0,1,0,1,0,0,1,2,5
+"Banksville                    ",2023,3934,"Theft from Vehicle",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2022,3934,"Theft from Vehicle",0,0,0,1,0,1,0,0,0,0,0,2,4
 "Banksville                    ",2021,3934,"Theft from Vehicle",1,0,0,1,2,0,0,0,0,0,0,0,4
 "Banksville                    ",2020,3934,"Theft from Vehicle",0,0,0,0,0,0,5,0,0,0,1,1,7
@@ -1142,6 +1143,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3809(a),"Restriction on Alcoholic Beverages in Vehicle",0,0,2,0,0,0,0,0,0,0,2,0,4
 "Brookline                     ",2021,3809(a),"Restriction on Alcoholic Beverages in Vehicle",0,0,0,0,0,2,0,0,0,1,0,0,3
 "Brookline                     ",2020,3809(a),"Restriction on Alcoholic Beverages in Vehicle",0,0,0,0,0,0,0,0,0,0,0,2,2
+"Brookline                     ",2023,3929,"Retail Theft.",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2022,3929,"Retail Theft.",0,0,0,1,0,0,2,0,0,2,1,0,6
 "Brookline                     ",2021,3929,"Retail Theft.",1,0,0,0,0,1,1,1,1,0,0,2,7
 "Brookline                     ",2020,3929,"Retail Theft.",1,1,0,0,0,0,0,0,0,0,0,0,2
@@ -1511,7 +1513,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,2709,"Harassment (Non-Specific)",0,0,1,0,3,1,0,1,1,1,1,0,9
 "Crafton Heights               ",2020,2709,"Harassment (Non-Specific)",1,0,3,1,1,3,0,2,0,0,0,0,11
 "Crafton Heights               ",2021,2709(a)(2),"Harassment by Following Person in Public Place(s)",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2023,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2023,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,1,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2022,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,3,0,0,0,0,0,0,1,0,4
 "Crafton Heights               ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,0,2,2,1,1,2,1,0,0,0,10
 "Crafton Heights               ",2020,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",1,0,2,2,0,3,2,1,1,0,1,0,13
@@ -1655,7 +1657,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,5,3,5,4,54
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,3,5,2,7,6,1,2,3,2,33
 "Crafton Heights               ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,2,0,0,0,0,0,0,2
-"Crafton Heights               ",2023,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,0,1,0,0,0,0,0,0,0,0,0,2
+"Crafton Heights               ",2023,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,0,2,0,0,0,0,0,0,0,0,0,3
 "Crafton Heights               ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,2,0,1,2,2,0,2,0,0,9
 "Crafton Heights               ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,5,0,0,1,1,2,2,0,0,0,3,16
 "Crafton Heights               ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,1,3,1,1,0,0,0,6
@@ -1697,7 +1699,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,1,2,0,1,0,5,1,2,2,2,0,18
 "Crafton Heights               ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,3,1,1,2,1,3,2,0,0,4,1,18
 "Crafton Heights               ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,6,1,2,2,1,3,1,2,2,2,1,27
-"Crafton Heights               ",2023,3921,"Theft by Unlawful Taking or Disposition.",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2023,3921,"Theft by Unlawful Taking or Disposition.",0,1,1,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2022,3921,"Theft by Unlawful Taking or Disposition.",1,0,2,0,2,1,1,3,3,2,0,0,15
 "Crafton Heights               ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,4,2,2,3,1,1,2,0,16
 "Crafton Heights               ",2020,3921,"Theft by Unlawful Taking or Disposition.",1,2,1,2,2,0,1,3,3,0,1,0,16
@@ -2136,7 +2138,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,2,0,0,1,2,2,0,0,0,0,7
 "Elliott                       ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",4,0,0,0,0,0,0,0,0,0,0,0,4
 "Elliott                       ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,2,0,0,0,0,0,2
-"Elliott                       ",2023,2701,"Simple Assault.",9,3,0,0,0,0,0,0,0,0,0,0,12
+"Elliott                       ",2023,2701,"Simple Assault.",9,3,2,0,0,0,0,0,0,0,0,0,14
 "Elliott                       ",2022,2701,"Simple Assault.",1,2,2,1,3,5,1,3,2,1,3,5,29
 "Elliott                       ",2021,2701,"Simple Assault.",4,1,2,4,1,2,9,3,2,0,1,0,29
 "Elliott                       ",2020,2701,"Simple Assault.",4,1,6,0,4,3,6,5,6,5,3,0,43
@@ -2934,6 +2936,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,4914,"False Identification to Law Enforcement Authorities",0,0,0,1,0,0,0,0,2,0,0,0,3
 "Sheraden                      ",2020,4914,"False Identification to Law Enforcement Authorities",1,0,0,0,0,0,0,0,2,0,0,0,3
 "Sheraden                      ",2021,2903,"False Imprisonment.",0,1,0,0,0,0,0,0,0,0,0,0,1
+"Sheraden                      ",2023,4906,"False Reports to Law Enforcement Authorities.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,4906,"False Reports to Law Enforcement Authorities.",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Sheraden                      ",2020,4906,"False Reports to Law Enforcement Authorities.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Sheraden                      ",2023,6106,"Firearms not to be Carried without a License.",0,2,0,0,0,0,0,0,0,0,0,0,2
@@ -3264,6 +3267,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2020,9497,"Aided Case",0,1,0,0,0,0,1,1,0,0,0,0,3
 "West End                      ",2022,9501,"Bench Warrant",0,0,2,0,0,0,2,0,0,0,0,0,4
 "West End                      ",2020,9501,"Bench Warrant",0,2,2,0,2,0,4,2,0,0,2,0,14
+"West End                      ",2023,3502,Burglary.,0,0,1,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2021,3502,Burglary.,1,0,0,0,0,1,0,0,0,0,0,0,2
 "West End                      ",2020,3502,Burglary.,1,0,0,0,0,0,0,0,0,0,0,0,1
 "West End                      ",2022,3714,"Careless Driving",0,0,0,0,2,0,0,0,0,0,0,0,2
