@@ -13991,7 +13991,7 @@
             "Description": "302 (Mental)",
             "Jan": "2",
             "Feb": "4",
-            "Mar": "3",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -14001,7 +14001,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -14333,7 +14333,7 @@
             "Description": "Accidents Involving Damage to Attended Veh. or Property",
             "Jan": "4",
             "Feb": "6",
-            "Mar": "0",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -14343,7 +14343,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -15322,6 +15322,25 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "903",
+            "Description": "Criminal Conspiracy.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -21909,6 +21928,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "8106",
+            "Description": "Shots Fired",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2022",
             "Section": "8106",
             "Description": "Shots Fired",
@@ -22693,7 +22731,7 @@
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
             "Jan": "4",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -22703,7 +22741,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -24638,6 +24676,25 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Chartiers City",
+            "Year": "2023",
+            "Section": "9129",
+            "Description": "Miscellaneous Investigation",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
@@ -34112,7 +34169,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -34122,7 +34179,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -38729,7 +38786,7 @@
             "Description": "PFA Service with Weapons Supplement",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -38739,7 +38796,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -40762,7 +40819,7 @@
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
             "Jan": "4",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -40772,7 +40829,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Elliott",
@@ -42619,6 +42676,25 @@
         },
         {
             "Neighborhood": "Esplen",
+            "Year": "2023",
+            "Section": "1543",
+            "Description": "Driving While Operating Privilege is Suspended or Revoked.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
             "Year": "2022",
             "Section": "1543",
             "Description": "Driving While Operating Privilege is Suspended or Revoked.",
@@ -44269,6 +44345,25 @@
             "Nov": "2",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2023",
+            "Section": "13(a)(16)",
+            "Description": "Possession of Controlled Substance",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Esplen",
@@ -46063,7 +46158,7 @@
             "Description": "Accidents Involving Damage to Unattended Veh.or Prop.",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -46073,7 +46168,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Fairywood",
@@ -55924,7 +56019,7 @@
             "Description": "Harassment by Physical Contact, or Attempts or Threats",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -55934,7 +56029,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Sheraden",
@@ -56399,7 +56494,7 @@
             "Description": "Indirect Criminal Contempt",
             "Jan": "0",
             "Feb": "2",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -56409,7 +56504,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -61103,6 +61198,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2023",
+            "Section": "9498",
+            "Description": "302 (Mental)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "West End",
@@ -69329,6 +69443,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "2701",
+            "Description": "Simple Assault.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
             "Count": "1"
         },
         {
