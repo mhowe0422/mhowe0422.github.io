@@ -588,6 +588,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,0,2,0,1,0,1,0,1,0,7
 "Beechview                     ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,1,0,2,0,0,2,0,0,0,5
 "Beechview                     ",2020,9993,"PFA Service with Weapons Supplement",0,0,1,0,1,0,0,0,0,1,0,1,4
+"Beechview                     ",2023,6110.1,"Possesion of Firearm by Minor",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2022,6110.1,"Possesion of Firearm by Minor",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Beechview                     ",2021,6110.1,"Possesion of Firearm by Minor",0,0,0,2,0,0,0,0,0,2,0,0,4
 "Beechview                     ",2022,6110.2,"Possesion of Firearm with Altered Mfg. Number",0,0,0,0,0,2,0,0,0,0,0,0,2
@@ -626,7 +627,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2023,3736,"Reckless Driving",1,4,0,0,0,0,0,0,0,0,0,0,5
 "Beechview                     ",2022,3736,"Reckless Driving",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,3736,"Reckless Driving",0,1,0,0,0,0,1,2,0,0,0,2,6
-"Beechview                     ",2023,2705,"Recklessly Endangering Another Person.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2023,2705,"Recklessly Endangering Another Person.",1,0,1,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2022,2705,"Recklessly Endangering Another Person.",0,1,0,0,1,0,1,0,0,2,2,0,7
 "Beechview                     ",2021,2705,"Recklessly Endangering Another Person.",0,0,0,1,1,2,0,0,2,0,0,1,7
 "Beechview                     ",2020,2705,"Recklessly Endangering Another Person.",0,5,0,0,2,1,0,0,3,0,0,3,14
@@ -1208,11 +1209,11 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,3922,"Theft by Deception.",0,3,1,2,2,2,1,1,2,0,0,0,14
 "Brookline                     ",2020,3922,"Theft by Deception.",1,1,1,0,0,0,1,2,2,0,1,1,10
 "Brookline                     ",2020,3923,"Theft by Extortion.",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Brookline                     ",2023,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,2,1,0,0,0,0,0,0,0,0,0,7
+"Brookline                     ",2023,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",4,2,2,0,0,0,0,0,0,0,0,0,8
 "Brookline                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,2,2,3,4,5,7,14,8,6,4,57
 "Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,4,4,7,1,2,3,28
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
-"Brookline                     ",2023,3921,"Theft by Unlawful Taking or Disposition.",4,1,0,0,0,0,0,0,0,0,0,0,5
+"Brookline                     ",2023,3921,"Theft by Unlawful Taking or Disposition.",4,1,1,0,0,0,0,0,0,0,0,0,6
 "Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,3,6,5,2,4,2,3,3,1,6,41
 "Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,4,2,3,1,3,43
 "Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",2,4,1,1,2,2,5,3,3,3,2,3,31
@@ -1446,6 +1447,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2020,4107,"Deceptive Business Practices.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2022,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2021,3503.B1I,"DEF. TRESPASS ACTUAL COMMUNICATION",0,0,3,0,1,0,0,0,0,0,0,0,4
+"Crafton Heights               ",2023,3503(b)(1)(iii),"Defiant Trespass - Fencing or Other Enclosure",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2020,13(a)(30)*,"Delivery of Controlled Substance",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2023,607.03,"Discharging Firearm or Airgun",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2022,607.03,"Discharging Firearm or Airgun",0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -1660,15 +1662,16 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2021,3701,Robbery.,1,0,0,0,0,0,2,1,1,1,1,1,8
 "Crafton Heights               ",2020,3701,Robbery.,0,2,0,0,3,0,0,0,1,1,0,0,7
 "Crafton Heights               ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Crafton Heights               ",2023,8106,"Shots Fired",6,7,1,0,0,0,0,0,0,0,0,0,14
+"Crafton Heights               ",2023,8106,"Shots Fired",6,7,2,0,0,0,0,0,0,0,0,0,15
 "Crafton Heights               ",2022,8106,"Shots Fired",7,6,11,8,2,0,2,3,5,3,4,4,55
 "Crafton Heights               ",2021,8106,"Shots Fired",7,5,0,3,4,5,8,5,5,3,5,4,54
 "Crafton Heights               ",2020,8106,"Shots Fired",0,0,2,3,5,2,7,6,1,2,3,2,33
 "Crafton Heights               ",2021,2701(b)(2),"Simple Assault -  Child Under 12 / Adult 21 Or Older",0,0,0,0,0,2,0,0,0,0,0,0,2
-"Crafton Heights               ",2023,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,0,2,0,0,0,0,0,0,0,0,0,3
+"Crafton Heights               ",2023,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,0,3,0,0,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,2,0,1,2,2,0,2,0,0,9
 "Crafton Heights               ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,5,0,0,1,1,2,2,0,0,0,3,16
 "Crafton Heights               ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",0,0,0,0,0,1,3,1,1,0,0,0,6
+"Crafton Heights               ",2023,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2022,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Crafton Heights               ",2021,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2023,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,0,0,0,0,0,0,0,0,0,2
@@ -1816,7 +1819,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,9498,"302 (Mental)",0,0,1,1,0,2,2,0,1,0,2,1,10
 "Elliott                       ",2021,9498,"302 (Mental)",3,1,2,0,3,2,0,0,0,0,0,0,11
 "Elliott                       ",2020,9498,"302 (Mental)",1,1,0,1,1,0,0,0,0,0,0,1,5
-"Elliott                       ",2023,9999,"9999 - (Misc. Incident):",2,1,2,0,0,0,0,0,0,0,0,0,5
+"Elliott                       ",2023,9999,"9999 - (Misc. Incident):",2,1,3,0,0,0,0,0,0,0,0,0,6
 "Elliott                       ",2022,9999,"9999 - (Misc. Incident):",1,3,2,3,2,4,3,2,2,6,0,4,32
 "Elliott                       ",2021,9999,"9999 - (Misc. Incident):",4,1,0,3,2,5,2,2,4,3,0,1,27
 "Elliott                       ",2020,9999,"9999 - (Misc. Incident):",1,5,3,0,3,6,0,2,2,2,2,2,28
@@ -1985,6 +1988,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,2709(a)(4),"Harassment Communicates Prohibited Acts",1,0,0,0,1,0,0,0,0,0,0,0,2
 "Elliott                       ",2022,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,1,1,0,0,0,0,0,0,2
+"Elliott                       ",2023,2709(a)(3),"Harassment No Legitimate Purpose",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2022,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Elliott                       ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Elliott                       ",2020,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,1,0,0,0,1,2
@@ -2801,7 +2805,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2020,2702,"Aggravated Assault.",0,0,3,2,4,3,8,4,6,0,1,3,34
 "Sheraden                      ",2020,5534(a)(1),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly tortured an animal ",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2020,5534(a)(2),"Aggrevated Cruelty to Animals - Intentionally or Knowlingly violated 5532 or 5533 causing injury or death",0,0,0,0,0,0,0,0,0,1,0,0,1
-"Sheraden                      ",2023,9497,"Aided Case",0,5,1,0,0,0,0,0,0,0,0,0,6
+"Sheraden                      ",2023,9497,"Aided Case",0,5,2,0,0,0,0,0,0,0,0,0,7
 "Sheraden                      ",2022,9497,"Aided Case",1,3,1,5,2,2,0,0,8,2,0,1,25
 "Sheraden                      ",2021,9497,"Aided Case",1,2,2,1,2,2,6,1,3,2,1,2,25
 "Sheraden                      ",2020,9497,"Aided Case",0,0,2,2,3,1,1,1,2,1,3,1,17
@@ -2993,7 +2997,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,2709(a)(6),"Harassment Communicates Repeatedly at Extreme Hours",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2021,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,0,1,0,0,0,0,0,0,1,2
 "Sheraden                      ",2020,2709(a)(5),"Harassment Communicates Repeatedly in Anonymous Manner",0,0,0,1,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2023,2709(a)(3),"Harassment No Legitimate Purpose",0,2,0,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2023,2709(a)(3),"Harassment No Legitimate Purpose",0,2,1,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2022,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,1,1,2,0,0,0,0,4
 "Sheraden                      ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,1,2,0,0,0,0,2,0,0,0,5
 "Sheraden                      ",2020,2709(a)(3),"Harassment No Legitimate Purpose",0,1,1,1,0,0,1,0,1,0,0,0,5
@@ -3008,7 +3012,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,4120,"Identity Theft",0,0,0,3,0,0,4,0,5,1,0,1,14
 "Sheraden                      ",2020,4120,"Identity Theft",0,0,0,1,1,1,1,1,0,2,0,1,8
 "Sheraden                      ",2022,3746,"Immediate Notice of Accident to Police Department",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2023,9093,"Indirect Criminal Contempt",0,2,1,0,0,0,0,0,0,0,0,0,3
+"Sheraden                      ",2023,9093,"Indirect Criminal Contempt",0,2,2,0,0,0,0,0,0,0,0,0,4
 "Sheraden                      ",2022,9093,"Indirect Criminal Contempt",2,0,1,2,0,0,1,3,1,0,2,2,14
 "Sheraden                      ",2021,9093,"Indirect Criminal Contempt",1,0,2,3,0,2,5,3,2,0,0,0,18
 "Sheraden                      ",2020,9093,"Indirect Criminal Contempt",0,1,2,0,0,1,1,4,3,2,2,0,16
@@ -3167,6 +3171,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,3929,"Retail Theft.",0,0,0,0,0,0,0,1,1,0,0,0,2
 "Sheraden                      ",2023,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,3929(a)(1),"Retail Theft; takes possession of, carries away, or transfers displayed merchandise",0,0,0,0,0,1,0,0,0,0,0,0,1
+"Sheraden                      ",2023,4953,"Retaliation Against Witness,Victim or Party.",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2022,3702,"Robbery of Motor Vehicle.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2021,3702,"Robbery of Motor Vehicle.",1,1,0,0,0,0,1,2,1,0,0,0,6
 "Sheraden                      ",2020,3702,"Robbery of Motor Vehicle.",0,0,0,2,0,0,0,1,0,0,0,0,3
@@ -3178,7 +3183,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,1,0,1,0,0,0,0,3
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
-"Sheraden                      ",2023,8106,"Shots Fired",3,6,4,0,0,0,0,0,0,0,0,0,13
+"Sheraden                      ",2023,8106,"Shots Fired",3,6,5,0,0,0,0,0,0,0,0,0,14
 "Sheraden                      ",2022,8106,"Shots Fired",11,7,10,16,9,5,13,4,5,7,3,6,96
 "Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,9,8,14,5,11,10,113
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
@@ -3228,7 +3233,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",8,3,6,1,0,3,5,2,2,3,2,4,39
 "Sheraden                      ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,1,3,5,4,3,6,3,1,1,3,2,34
 "Sheraden                      ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,3,2,2,1,2,3,3,2,1,0,1,22
-"Sheraden                      ",2023,3921,"Theft by Unlawful Taking or Disposition.",5,1,0,0,0,0,0,0,0,0,0,0,6
+"Sheraden                      ",2023,3921,"Theft by Unlawful Taking or Disposition.",5,1,1,0,0,0,0,0,0,0,0,0,7
 "Sheraden                      ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,4,3,5,2,3,4,5,4,0,3,39
 "Sheraden                      ",2021,3921,"Theft by Unlawful Taking or Disposition.",3,1,1,1,3,1,1,6,3,2,2,1,25
 "Sheraden                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",5,3,3,3,4,4,3,3,0,3,2,4,37
