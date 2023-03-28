@@ -3332,7 +3332,7 @@
             "Description": "PFA Service",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -3342,7 +3342,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -6600,7 +6600,7 @@
             "Description": "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -6610,7 +6610,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -10818,7 +10818,7 @@
             "Description": "Overdose",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -10828,7 +10828,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -11160,7 +11160,7 @@
             "Description": "PFA Service",
             "Jan": "1",
             "Feb": "3",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -11170,7 +11170,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -14276,7 +14276,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "6",
             "Feb": "5",
-            "Mar": "5",
+            "Mar": "7",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -14286,7 +14286,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "18"
         },
         {
             "Neighborhood": "Brookline",
@@ -18874,7 +18874,7 @@
             "Description": "Identity Theft",
             "Jan": "1",
             "Feb": "2",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -18884,7 +18884,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -30440,6 +30440,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2023",
+            "Section": "9993",
+            "Description": "PFA Service with Weapons Supplement",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2022",
             "Section": "9993",
             "Description": "PFA Service with Weapons Supplement",
@@ -37836,7 +37855,7 @@
             "Description": "Harassment.",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -37846,7 +37865,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -48034,6 +48053,25 @@
         },
         {
             "Neighborhood": "Fairywood",
+            "Year": "2023",
+            "Section": "9123",
+            "Description": "Miscellaneous Fire Other Investigation to Continue",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
             "Year": "2020",
             "Section": "9123",
             "Description": "Miscellaneous Fire Other Investigation to Continue",
@@ -48167,9 +48205,47 @@
         },
         {
             "Neighborhood": "Fairywood",
+            "Year": "2023",
+            "Section": "5101",
+            "Description": "Obstructing Admin. of Law",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
             "Year": "2021",
             "Section": "9997",
             "Description": "Overdose Death",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Fairywood",
+            "Year": "2023",
+            "Section": "13(a)(32)",
+            "Description": "Paraphernalia - Use or Possession",
             "Jan": "0",
             "Feb": "0",
             "Mar": "1",
@@ -48829,6 +48905,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Fairywood",
+            "Year": "2023",
+            "Section": "4910",
+            "Description": "Tampering with or Fabricating Physical Evidence.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Fairywood",
@@ -52637,7 +52732,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "10",
             "Feb": "8",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -52647,7 +52742,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "20"
+            "Count": "21"
         },
         {
             "Neighborhood": "Sheraden",
@@ -53511,7 +53606,7 @@
             "Description": "Burglary.",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -53521,7 +53616,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Sheraden",
@@ -54271,7 +54366,7 @@
             "Description": "Criminal Mischief.",
             "Jan": "3",
             "Feb": "3",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -54281,7 +54376,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Sheraden",
@@ -60370,7 +60465,7 @@
             "Description": "Shots Fired",
             "Jan": "3",
             "Feb": "6",
-            "Mar": "5",
+            "Mar": "6",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -60380,7 +60475,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Sheraden",
@@ -71860,6 +71955,25 @@
         },
         {
             "Neighborhood": "Windgap",
+            "Year": "2023",
+            "Section": "3503",
+            "Description": "Criminal Trespass",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
             "Year": "2022",
             "Section": "3503",
             "Description": "Criminal Trespass",
@@ -73993,7 +74107,7 @@
             "Description": "Simple Assault.",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -74003,7 +74117,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Windgap",
