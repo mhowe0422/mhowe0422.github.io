@@ -4472,7 +4472,7 @@
             "Description": "Terroristic Threats.",
             "Jan": "0",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -4482,7 +4482,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -14276,7 +14276,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "6",
             "Feb": "5",
-            "Mar": "7",
+            "Mar": "8",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -14286,7 +14286,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "18"
+            "Count": "19"
         },
         {
             "Neighborhood": "Brookline",
@@ -14903,7 +14903,7 @@
             "Description": "Aided Case",
             "Jan": "2",
             "Feb": "3",
-            "Mar": "4",
+            "Mar": "5",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -14913,7 +14913,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -15188,7 +15188,7 @@
             "Description": "Burglary.",
             "Jan": "2",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -15198,7 +15198,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -15853,7 +15853,7 @@
             "Description": "Criminal Mischief.",
             "Jan": "4",
             "Feb": "4",
-            "Mar": "3",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -15863,7 +15863,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -15948,7 +15948,7 @@
             "Description": "Criminal Trespass",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -15958,7 +15958,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -23035,7 +23035,7 @@
             "Description": "Theft by Unlawful Taking or Disposition - Movable item",
             "Jan": "4",
             "Feb": "2",
-            "Mar": "2",
+            "Mar": "3",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -23045,7 +23045,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Brookline",
@@ -28341,6 +28341,25 @@
             "May": "0",
             "Jun": "0",
             "Jul": "1",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2023",
+            "Section": "9015",
+            "Description": "Failure To Appear\/Arrest on Attachment Order",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
@@ -34587,7 +34606,7 @@
             "Description": "9999 - (Misc. Incident):",
             "Jan": "2",
             "Feb": "1",
-            "Mar": "3",
+            "Mar": "5",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -34597,7 +34616,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "8"
         },
         {
             "Neighborhood": "Elliott",
@@ -60465,7 +60484,7 @@
             "Description": "Shots Fired",
             "Jan": "3",
             "Feb": "6",
-            "Mar": "6",
+            "Mar": "7",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -60475,7 +60494,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "Sheraden",
@@ -66431,7 +66450,7 @@
             "Description": "302 (Mental)",
             "Jan": "1",
             "Feb": "1",
-            "Mar": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -66441,7 +66460,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Westwood",
@@ -66660,6 +66679,25 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "3743",
+            "Description": "Accidents Involving Damage to Attended Veh. or Property",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -67501,6 +67539,25 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "9496",
+            "Description": "Dead on Arrival (DOA)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
@@ -71651,6 +71708,25 @@
         },
         {
             "Neighborhood": "Windgap",
+            "Year": "2023",
+            "Section": "9501",
+            "Description": "Bench Warrant",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
             "Year": "2022",
             "Section": "9501",
             "Description": "Bench Warrant",
@@ -73535,6 +73611,25 @@
             "Year": "2021",
             "Section": "627.02(b)(i)",
             "Description": "Possessing a small amount of marijuana",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2023",
+            "Section": "13(a)(16)",
+            "Description": "Possession of Controlled Substance",
             "Jan": "0",
             "Feb": "0",
             "Mar": "1",
