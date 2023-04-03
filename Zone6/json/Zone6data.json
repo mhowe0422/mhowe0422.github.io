@@ -293,7 +293,7 @@
             "Jan": "0",
             "Feb": "1",
             "Mar": "3",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -302,7 +302,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Banksville",
@@ -1775,7 +1775,7 @@
             "Jan": "0",
             "Feb": "3",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -1784,7 +1784,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Banksville",
@@ -11218,7 +11218,7 @@
             "Jan": "1",
             "Feb": "3",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -11227,7 +11227,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -13403,7 +13403,7 @@
             "Jan": "1",
             "Feb": "2",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -13412,7 +13412,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -14733,7 +14733,7 @@
             "Jan": "9",
             "Feb": "1",
             "Mar": "3",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -14742,7 +14742,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Brookline",
@@ -18438,7 +18438,7 @@
             "Jan": "0",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -18447,7 +18447,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -20338,7 +20338,7 @@
             "Jan": "0",
             "Feb": "3",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -20347,7 +20347,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -27188,6 +27188,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
+            "Year": "2023",
+            "Section": "3304(a)(5)",
+            "Description": "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "2",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -51150,6 +51169,25 @@
         },
         {
             "Neighborhood": "Oakwood",
+            "Year": "2023",
+            "Section": "9998",
+            "Description": "Overdose",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Oakwood",
             "Year": "2021",
             "Section": "9998",
             "Description": "Overdose",
@@ -54670,7 +54708,7 @@
             "Description": "Criminal Mischief.",
             "Jan": "3",
             "Feb": "3",
-            "Mar": "3",
+            "Mar": "4",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -54680,7 +54718,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Sheraden",
@@ -61112,7 +61150,7 @@
             "Jan": "1",
             "Feb": "3",
             "Mar": "4",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -61121,7 +61159,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Sheraden",
@@ -61738,7 +61776,7 @@
             "Description": "Theft by Unlawful Taking or Disposition.",
             "Jan": "5",
             "Feb": "1",
-            "Mar": "1",
+            "Mar": "2",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
@@ -61748,7 +61786,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Sheraden",
@@ -67563,6 +67601,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "3304(a)(2)",
+            "Description": "CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "1",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
