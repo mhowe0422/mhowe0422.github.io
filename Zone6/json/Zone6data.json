@@ -5214,7 +5214,7 @@
             "Jan": "2",
             "Feb": "1",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -5223,7 +5223,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -10110,6 +10110,25 @@
         },
         {
             "Neighborhood": "Beechview",
+            "Year": "2023",
+            "Section": "5506",
+            "Description": "Loitering and Prowling at Night",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Beechview",
             "Year": "2022",
             "Section": "5506",
             "Description": "Loitering and Prowling at Night",
@@ -14619,7 +14638,7 @@
             "Jan": "6",
             "Feb": "5",
             "Mar": "10",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -14628,7 +14647,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "21"
+            "Count": "22"
         },
         {
             "Neighborhood": "Brookline",
@@ -42492,7 +42511,7 @@
             "Jan": "2",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -42501,7 +42520,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Esplen",
@@ -49750,7 +49769,7 @@
             "Jan": "0",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -49759,7 +49778,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Fairywood",
@@ -53360,7 +53379,7 @@
             "Jan": "0",
             "Feb": "0",
             "Mar": "4",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -53369,7 +53388,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -63291,6 +63310,25 @@
         },
         {
             "Neighborhood": "West End",
+            "Year": "2023",
+            "Section": "9501",
+            "Description": "Bench Warrant",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
             "Year": "2022",
             "Section": "9501",
             "Description": "Bench Warrant",
@@ -68855,6 +68893,25 @@
             "Nov": "0",
             "Dec": "1",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "4304(a)(1)",
+            "Description": "Endangering Welfare of Children - Course of Conduct Enhanced",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
