@@ -6424,6 +6424,25 @@
         },
         {
             "Neighborhood": "Beechview",
+            "Year": "2023",
+            "Section": "901",
+            "Description": "Criminal Attempt",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Beechview",
             "Year": "2022",
             "Section": "901",
             "Description": "Criminal Attempt",
@@ -12358,7 +12377,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -12367,7 +12386,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -19236,7 +19255,7 @@
             "Jan": "1",
             "Feb": "2",
             "Mar": "2",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -19245,7 +19264,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Brookline",
@@ -23530,7 +23549,7 @@
             "Jan": "4",
             "Feb": "1",
             "Mar": "5",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -23539,7 +23558,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -23932,6 +23951,25 @@
             "Apr": "0",
             "May": "0",
             "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "1372",
+            "Description": "Unauthorized Transfer or Use of Registration.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -26703,7 +26741,7 @@
             "Jan": "0",
             "Feb": "2",
             "Mar": "0",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -26712,7 +26750,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -37112,10 +37150,10 @@
             "Year": "2023",
             "Section": "1543",
             "Description": "Driving While Operating Privilege is Suspended or Revoked.",
-            "Jan": "1",
+            "Jan": "0",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -41805,10 +41843,10 @@
             "Year": "2023",
             "Section": "2706",
             "Description": "Terroristic Threats.",
-            "Jan": "2",
+            "Jan": "1",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -65691,7 +65729,7 @@
             "Jan": "1",
             "Feb": "2",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -65700,7 +65738,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "West End",
@@ -65729,7 +65767,7 @@
             "Jan": "0",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -65738,7 +65776,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "West End",
