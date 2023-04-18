@@ -293,7 +293,7 @@
             "Jan": "0",
             "Feb": "1",
             "Mar": "3",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -302,7 +302,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Banksville",
@@ -5689,7 +5689,7 @@
             "Jan": "2",
             "Feb": "1",
             "Mar": "3",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -5698,7 +5698,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Beechview",
@@ -14619,7 +14619,7 @@
             "Jan": "2",
             "Feb": "4",
             "Mar": "5",
-            "Apr": "2",
+            "Apr": "3",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -14628,7 +14628,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Brookline",
@@ -15227,7 +15227,7 @@
             "Jan": "1",
             "Feb": "3",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -15236,7 +15236,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Brookline",
@@ -21896,7 +21896,7 @@
             "Jan": "1",
             "Feb": "2",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -21905,7 +21905,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -23454,7 +23454,7 @@
             "Jan": "0",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -23463,7 +23463,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -24480,7 +24480,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -24489,7 +24489,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Chartiers City",
@@ -25342,6 +25342,25 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Chartiers City",
+            "Year": "2023",
+            "Section": "2709(a)",
+            "Description": "Harassment.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -38344,6 +38363,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "2709",
+            "Description": "Harassment (Non-Specific)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2022",
             "Section": "2709",
             "Description": "Harassment (Non-Specific)",
@@ -47945,7 +47983,7 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -47954,7 +47992,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Fairywood",
@@ -49730,8 +49768,8 @@
             "Description": "Simple Assault.",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "1",
-            "Apr": "1",
+            "Mar": "0",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -49882,8 +49920,8 @@
             "Description": "Terroristic Threats.",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
-            "Apr": "0",
+            "Mar": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -66090,7 +66128,7 @@
             "Jan": "1",
             "Feb": "2",
             "Mar": "0",
-            "Apr": "1",
+            "Apr": "2",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -66099,7 +66137,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "West End",
@@ -68592,6 +68630,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "3304(a)(5)",
+            "Description": "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2022",
             "Section": "3304(a)(5)",
             "Description": "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",
@@ -69995,6 +70052,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "2709(a)",
+            "Description": "Harassment.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "1",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
@@ -72265,7 +72341,7 @@
             "Jan": "3",
             "Feb": "2",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -72274,7 +72350,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Westwood",
@@ -72341,7 +72417,7 @@
             "Jan": "2",
             "Feb": "1",
             "Mar": "0",
-            "Apr": "0",
+            "Apr": "1",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
@@ -72350,7 +72426,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Westwood",
