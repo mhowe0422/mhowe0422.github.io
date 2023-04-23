@@ -296,7 +296,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,9018,"Accidental Fire",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,9018,"Accidental Fire",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Beechview                     ",2020,9018,"Accidental Fire",0,0,0,0,0,0,1,0,0,0,0,0,1
-"Beechview                     ",2023,3743,"Accidents Involving Damage to Attended Veh. or Property",1,2,2,0,0,0,0,0,0,0,0,0,5
+"Beechview                     ",2023,3743,"Accidents Involving Damage to Attended Veh. or Property",1,2,2,1,0,0,0,0,0,0,0,0,6
 "Beechview                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,2,1,1,0,0,0,3,5,4,16
 "Beechview                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,4,1,5,1,3,6,2,1,2,2,1,31
 "Beechview                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",3,0,2,3,2,3,1,0,0,1,1,3,19
@@ -697,7 +697,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,0,0,2,1,0,0,0,1,0,0,1,6
 "Beechview                     ",2021,2701(a)(3),"Simple Assault - Attempts by Physical Menace",2,2,2,1,2,0,1,0,0,0,3,0,13
 "Beechview                     ",2020,2701(a)(3),"Simple Assault - Attempts by Physical Menace",1,7,0,2,0,0,2,0,2,0,0,1,15
-"Beechview                     ",2023,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,4,0,0,0,0,0,0,0,0,4
+"Beechview                     ",2023,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,5,0,0,0,0,0,0,0,0,5
 "Beechview                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,1,0,0,0,0,0,4,0,0,0,6
 "Beechview                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,0,0,0,3,1,1,2,2,1,0,0,12
 "Beechview                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,2,0,0,1,3,0,0,1,0,0,10
@@ -807,7 +807,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2023,3503(b)(1)(i),"Actual Communication",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2023,3732.1,"Aggravated Assault by Vehicle",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2023,3735.1,"Aggravated Assault While DUI",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2023,2702,"Aggravated Assault.",2,4,0,1,0,0,0,0,0,0,0,0,7
+"Brookline                     ",2023,2702,"Aggravated Assault.",2,4,0,4,0,0,0,0,0,0,0,0,10
 "Brookline                     ",2022,2702,"Aggravated Assault.",0,0,0,2,4,0,0,0,0,2,4,0,12
 "Brookline                     ",2021,2702,"Aggravated Assault.",2,0,0,2,2,0,1,2,1,3,0,0,13
 "Brookline                     ",2020,2702,"Aggravated Assault.",4,2,0,0,0,0,0,0,3,2,0,2,13
@@ -847,7 +847,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,901,"Criminal Attempt",0,0,0,0,3,0,0,0,0,0,1,2,6
 "Brookline                     ",2021,901,"Criminal Attempt",0,0,0,0,0,2,0,2,0,0,0,1,5
 "Brookline                     ",2020,901,"Criminal Attempt",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2023,903,"Criminal Conspiracy.",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2023,903,"Criminal Conspiracy.",0,0,1,2,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2022,903,"Criminal Conspiracy.",0,0,1,0,2,0,0,0,0,0,0,0,3
 "Brookline                     ",2021,903,"Criminal Conspiracy.",0,0,0,0,0,0,0,0,1,1,1,0,3
 "Brookline                     ",2020,903,"Criminal Conspiracy.",2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -1043,6 +1043,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,3307,"Institutional Vandalism.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2021,601.12,"Interference with Official Duties",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Brookline                     ",2021,4952,"Intimidation of Witnesses or Victims",0,0,0,0,0,0,0,2,0,0,0,1,3
+"Brookline                     ",2023,2901,Kidnapping.,0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,719.01,"License Required for Vendor or Peddler",0,0,0,0,0,0,0,3,0,0,0,0,3
 "Brookline                     ",2022,3332,"Limitations on Turning Around.",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -1131,7 +1132,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,6110.2,"Possesion of Firearm with Altered Mfg. Number",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,627.02(b)(i),"Possessing a small amount of marijuana",0,0,1,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2020,627.02(b)(i),"Possessing a small amount of marijuana",0,0,1,1,1,0,0,0,0,0,0,0,3
-"Brookline                     ",2023,907,"Possessing Instruments of Crime.",2,2,2,0,0,0,0,0,0,0,0,0,6
+"Brookline                     ",2023,907,"Possessing Instruments of Crime.",2,2,2,1,0,0,0,0,0,0,0,0,7
 "Brookline                     ",2022,907,"Possessing Instruments of Crime.",2,0,0,0,2,0,0,0,0,0,0,0,4
 "Brookline                     ",2021,907,"Possessing Instruments of Crime.",0,0,0,1,1,0,0,0,0,2,1,0,5
 "Brookline                     ",2020,907,"Possessing Instruments of Crime.",0,0,0,0,0,2,0,2,0,0,0,0,4
@@ -1161,7 +1162,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3736,"Reckless Driving",5,2,0,0,0,0,0,1,0,0,2,3,13
 "Brookline                     ",2021,3736,"Reckless Driving",0,1,1,0,1,2,2,1,0,2,0,0,10
 "Brookline                     ",2020,3736,"Reckless Driving",0,4,0,2,2,3,3,2,0,1,0,1,18
-"Brookline                     ",2023,2705,"Recklessly Endangering Another Person.",2,4,0,2,0,0,0,0,0,0,0,0,8
+"Brookline                     ",2023,2705,"Recklessly Endangering Another Person.",2,4,0,3,0,0,0,0,0,0,0,0,9
 "Brookline                     ",2022,2705,"Recklessly Endangering Another Person.",4,0,0,1,2,0,0,0,1,1,1,2,12
 "Brookline                     ",2021,2705,"Recklessly Endangering Another Person.",1,0,0,2,1,1,2,2,1,2,0,0,12
 "Brookline                     ",2020,2705,"Recklessly Endangering Another Person.",4,2,3,1,1,2,2,0,0,1,0,1,17
@@ -1196,7 +1197,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,3542,"Right-Of-Way of Pedestrians in Crosswalks.",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2022,3702,"Robbery of Motor Vehicle.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,3702,"Robbery of Motor Vehicle.",0,0,1,1,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2023,3701,Robbery.,0,0,1,0,0,0,0,0,0,0,0,0,1
+"Brookline                     ",2023,3701,Robbery.,0,0,1,2,0,0,0,0,0,0,0,0,3
 "Brookline                     ",2022,3701,Robbery.,0,0,0,0,2,0,0,4,1,0,2,0,9
 "Brookline                     ",2021,3701,Robbery.,0,2,1,0,2,0,2,2,0,0,1,0,10
 "Brookline                     ",2020,3701,Robbery.,2,0,1,0,0,1,0,4,1,0,0,0,9
@@ -1217,7 +1218,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,0,3,0,3,0,4,3,2,2,2,20
 "Brookline                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,2,0,1,2,0,0,3,1,4,0,0,13
 "Brookline                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,1,1,0,2,0,1,1,0,7
-"Brookline                     ",2023,2701,"Simple Assault.",14,7,6,2,0,0,0,0,0,0,0,0,29
+"Brookline                     ",2023,2701,"Simple Assault.",14,7,6,4,0,0,0,0,0,0,0,0,31
 "Brookline                     ",2022,2701,"Simple Assault.",7,2,7,3,8,5,6,2,6,4,6,6,62
 "Brookline                     ",2021,2701,"Simple Assault.",0,5,3,4,6,10,1,9,6,8,7,7,66
 "Brookline                     ",2020,2701,"Simple Assault.",11,4,6,7,5,3,6,6,3,9,4,6,70
@@ -1240,7 +1241,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,0,1,0,0,1,4,2,0,1,3,0,14
 "Brookline                     ",2021,4910,"Tampering with or Fabricating Physical Evidence.",1,0,0,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2020,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,1,0,1,2,0,0,0,0,0,4
-"Brookline                     ",2023,2706,"Terroristic Threats.",2,4,0,2,0,0,0,0,0,0,0,0,8
+"Brookline                     ",2023,2706,"Terroristic Threats.",2,4,0,5,0,0,0,0,0,0,0,0,11
 "Brookline                     ",2022,2706,"Terroristic Threats.",5,2,2,1,7,4,0,2,4,0,5,1,33
 "Brookline                     ",2021,2706,"Terroristic Threats.",4,2,1,3,3,4,3,1,1,6,1,0,29
 "Brookline                     ",2020,2706,"Terroristic Threats.",4,2,2,0,1,5,4,3,3,0,2,0,26
@@ -1253,7 +1254,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,2,2,3,4,5,7,14,8,6,4,57
 "Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,4,4,7,1,2,3,28
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
-"Brookline                     ",2023,3921,"Theft by Unlawful Taking or Disposition.",4,1,6,2,0,0,0,0,0,0,0,0,13
+"Brookline                     ",2023,3921,"Theft by Unlawful Taking or Disposition.",4,1,6,3,0,0,0,0,0,0,0,0,14
 "Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,3,6,5,2,4,2,3,3,1,6,41
 "Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,4,2,3,1,3,43
 "Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",2,4,1,1,2,2,5,3,3,3,2,3,31
@@ -1466,7 +1467,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,3304(a)(4),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2022,3304(a)(2),"CRIMINAL MISCHIEF- Tamper With Property (So As To Endanger Person or Property)",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2022,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",1,0,0,0,0,0,2,0,0,0,0,0,3
-"Crafton Heights               ",2023,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,3,0,0,0,0,0,0,0,0,3
+"Crafton Heights               ",2023,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,4,0,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,0,1,0,3,2,0,1,1,0,0,9
 "Crafton Heights               ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,1,0,3,0,2,0,0,0,0,6
 "Crafton Heights               ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,1,0,0,1,0,0,1,0,3
@@ -2192,7 +2193,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,7513,"Restriction on Alcoholic Beverages - Open Container",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2020,7513,"Restriction on Alcoholic Beverages - Open Container",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2022,3809(a),"Restriction on Alcoholic Beverages in Vehicle",0,0,0,0,2,0,0,0,0,0,0,0,2
-"Elliott                       ",2023,3929,"Retail Theft.",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2023,3929,"Retail Theft.",0,0,1,1,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2022,3929,"Retail Theft.",0,0,1,0,1,0,0,0,0,0,0,0,2
 "Elliott                       ",2020,3929,"Retail Theft.",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2023,3702,"Robbery of Motor Vehicle.",0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -2876,7 +2877,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,1,3,2,1,1,2,1,4,0,15
 "Sheraden                      ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,0,1,3,0,1,2,0,0,1,9
 "Sheraden                      ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,2,0,2,2,1,1,3,3,1,0,3,18
-"Sheraden                      ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,2,3,1,0,0,0,0,0,0,0,0,6
+"Sheraden                      ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,2,3,2,0,0,0,0,0,0,0,0,7
 "Sheraden                      ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,1,8,1,2,1,2,5,0,6,0,2,31
 "Sheraden                      ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,3,2,3,3,3,5,0,2,0,3,25
 "Sheraden                      ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,2,2,0,2,7,8,2,9,1,4,1,41
@@ -4014,7 +4015,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2020,3701,Robbery.,0,0,0,0,0,0,0,0,1,0,0,0,1
 "Windgap                       ",2023,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Windgap                       ",2023,8106,"Shots Fired",1,2,1,1,0,0,0,0,0,0,0,0,5
+"Windgap                       ",2023,8106,"Shots Fired",1,2,1,2,0,0,0,0,0,0,0,0,6
 "Windgap                       ",2022,8106,"Shots Fired",0,5,3,5,1,2,0,2,0,2,3,1,24
 "Windgap                       ",2021,8106,"Shots Fired",1,1,1,2,3,0,2,4,0,1,0,2,17
 "Windgap                       ",2020,8106,"Shots Fired",1,0,0,0,3,0,0,2,0,1,2,1,10
