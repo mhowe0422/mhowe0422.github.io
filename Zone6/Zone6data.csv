@@ -161,6 +161,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,9129,"Miscellaneous Investigation",0,0,0,0,0,0,0,0,1,1,0,0,2
 "Banksville                    ",2023,029,"Missing Juvenile",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Banksville                    ",2022,029,"Missing Juvenile",0,0,1,0,1,0,1,0,0,0,0,0,3
+"Banksville                    ",2023,9490,"Missing Persons (18 and Over)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Banksville                    ",2020,9490,"Missing Persons (18 and Over)",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Banksville                    ",2023,9012,"Non-Violent Domestic",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Banksville                    ",2022,9012,"Non-Violent Domestic",1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -282,7 +283,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,9498,"302 (Mental)",1,0,2,0,3,0,2,3,1,1,0,1,14
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,2,1,0,0,2,13
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
-"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",7,5,2,5,0,0,0,0,0,0,0,0,19
+"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",7,5,2,5,1,0,0,0,0,0,0,0,20
 "Beechview                     ",2022,9999,"9999 - (Misc. Incident):",5,10,8,7,4,6,3,4,8,4,9,5,73
 "Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,8,12,6,0,6,3,71
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",4,4,5,4,3,5,11,8,9,7,4,7,71
@@ -617,7 +618,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2023,9994,"PFA Service",1,3,2,3,0,0,0,0,0,0,0,0,9
 "Beechview                     ",2022,9994,"PFA Service",0,0,0,0,1,0,2,1,2,2,0,3,11
 "Beechview                     ",2021,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2023,9993,"PFA Service with Weapons Supplement",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Beechview                     ",2023,9993,"PFA Service with Weapons Supplement",0,0,1,0,1,0,0,0,0,0,0,0,2
 "Beechview                     ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,0,2,0,1,0,1,0,1,0,7
 "Beechview                     ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,1,0,2,0,0,2,0,0,0,5
 "Beechview                     ",2020,9993,"PFA Service with Weapons Supplement",0,0,1,0,1,0,0,0,0,1,0,1,4
@@ -1898,7 +1899,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,1,0,1,1,0,1,1,0,0,2,8
 "Elliott                       ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,1,1,0,1,0,0,0,1,0,5
 "Elliott                       ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,0,0,1,0,0,0,1,2,0,1,7
-"Elliott                       ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,4,3,0,0,0,0,0,0,0,0,8
+"Elliott                       ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,4,3,1,0,0,0,0,0,0,0,9
 "Elliott                       ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,3,0,1,1,1,4,2,0,3,2,17
 "Elliott                       ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,0,2,3,3,1,1,1,1,1,2,16
 "Elliott                       ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,1,1,1,2,0,0,2,2,1,11
@@ -2716,6 +2717,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2022,3502,Burglary.,0,0,1,0,0,0,0,0,0,3,0,1,5
 "Oakwood                       ",2020,3502,Burglary.,0,0,0,0,0,0,0,0,0,1,0,0,1
 "Oakwood                       ",2023,1511,"Carrying and Exhibiting Drivers License on Demand.",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Oakwood                       ",2023,9016,"Check on Elderly Person",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Oakwood                       ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,0,0,1,0,2,0,0,0,0,3
 "Oakwood                       ",2022,3304,"Criminal Mischief.",0,0,0,3,0,0,0,0,0,0,0,1,4
 "Oakwood                       ",2021,3304,"Criminal Mischief.",0,0,0,1,0,1,0,0,0,0,1,0,3
@@ -3389,6 +3391,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2022,9999,"9999 - (Misc. Incident):",0,1,2,1,1,0,1,1,0,0,1,0,8
 "West End                      ",2021,9999,"9999 - (Misc. Incident):",1,0,0,2,1,2,0,0,2,0,1,1,10
 "West End                      ",2020,9999,"9999 - (Misc. Incident):",1,0,1,0,1,1,3,0,2,2,0,0,11
+"West End                      ",2023,4106,"Access Device Fraud",0,0,0,0,1,0,0,0,0,0,0,0,1
 "West End                      ",2022,4106,"Access Device Fraud",0,0,1,0,0,0,0,0,1,0,0,1,3
 "West End                      ",2021,4106,"Access Device Fraud",0,0,0,0,1,0,0,0,0,0,0,1,2
 "West End                      ",2021,3742.1,"Accident Involv. Death/Inj. While not Licensed",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -3893,7 +3896,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Windgap                       ",2022,9498,"302 (Mental)",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Windgap                       ",2021,9498,"302 (Mental)",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Windgap                       ",2020,9498,"302 (Mental)",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Windgap                       ",2023,9999,"9999 - (Misc. Incident):",2,1,0,3,0,0,0,0,0,0,0,0,6
+"Windgap                       ",2023,9999,"9999 - (Misc. Incident):",2,1,0,3,1,0,0,0,0,0,0,0,7
 "Windgap                       ",2022,9999,"9999 - (Misc. Incident):",1,0,1,2,2,2,1,0,0,2,1,0,12
 "Windgap                       ",2021,9999,"9999 - (Misc. Incident):",0,0,0,1,1,0,4,2,0,0,0,0,8
 "Windgap                       ",2020,9999,"9999 - (Misc. Incident):",0,1,0,1,0,0,0,0,0,1,1,0,4
