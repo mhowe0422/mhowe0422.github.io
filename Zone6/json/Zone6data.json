@@ -1111,7 +1111,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "2",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -1119,7 +1119,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Banksville",
@@ -6887,7 +6887,7 @@
             "Feb": "2",
             "Mar": "1",
             "Apr": "4",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -6895,7 +6895,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Beechview",
@@ -7952,6 +7952,25 @@
             "Mar": "0",
             "Apr": "1",
             "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Beechview",
+            "Year": "2023",
+            "Section": "1501",
+            "Description": "Drivers Required to be Licensed.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -15038,7 +15057,7 @@
             "Feb": "5",
             "Mar": "10",
             "Apr": "10",
-            "May": "4",
+            "May": "5",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -15046,7 +15065,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "35"
+            "Count": "36"
         },
         {
             "Neighborhood": "Brookline",
@@ -23113,7 +23132,7 @@
             "Feb": "1",
             "Mar": "0",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -23121,7 +23140,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -24481,7 +24500,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "3",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -24489,7 +24508,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Brookline",
@@ -27559,7 +27578,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "2",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -27567,7 +27586,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -28642,7 +28661,7 @@
             "Feb": "1",
             "Mar": "0",
             "Apr": "2",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -28650,7 +28669,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -43329,7 +43348,7 @@
             "Feb": "1",
             "Mar": "2",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -43337,7 +43356,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Elliott",
@@ -50511,7 +50530,7 @@
             "Feb": "1",
             "Mar": "0",
             "Apr": "3",
-            "May": "1",
+            "May": "3",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -50519,7 +50538,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "9"
         },
         {
             "Neighborhood": "Fairywood",
@@ -60023,6 +60042,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "0292",
+            "Description": "Located Runaway - not Reported Missing",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2021",
             "Section": "0291",
             "Description": "Located Runaway - Outside City",
@@ -64279,6 +64317,25 @@
         },
         {
             "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "3934",
+            "Description": "Theft from Vehicle",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "2",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "2"
+        },
+        {
+            "Neighborhood": "Sheraden",
             "Year": "2022",
             "Section": "3934",
             "Description": "Theft from Vehicle",
@@ -66737,7 +66794,7 @@
             "Feb": "1",
             "Mar": "0",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -66745,7 +66802,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "West End",
@@ -76599,6 +76656,25 @@
             "Mar": "0",
             "Apr": "0",
             "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2023",
+            "Section": "9490",
+            "Description": "Missing Persons (18 and Over)",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
