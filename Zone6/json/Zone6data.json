@@ -294,7 +294,7 @@
             "Feb": "1",
             "Mar": "3",
             "Apr": "2",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -302,7 +302,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Banksville",
@@ -12827,6 +12827,25 @@
         },
         {
             "Neighborhood": "Beechview",
+            "Year": "2023",
+            "Section": "9090",
+            "Description": "Recovered Firearm",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Beechview",
             "Year": "2022",
             "Section": "9090",
             "Description": "Recovered Firearm",
@@ -14335,7 +14354,7 @@
             "Feb": "3",
             "Mar": "1",
             "Apr": "4",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -14343,7 +14362,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Beechview",
@@ -15095,7 +15114,7 @@
             "Feb": "5",
             "Mar": "10",
             "Apr": "10",
-            "May": "5",
+            "May": "6",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -15103,7 +15122,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "36"
+            "Count": "37"
         },
         {
             "Neighborhood": "Brookline",
@@ -15722,7 +15741,7 @@
             "Feb": "3",
             "Mar": "6",
             "Apr": "4",
-            "May": "2",
+            "May": "3",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -15730,7 +15749,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "17"
+            "Count": "18"
         },
         {
             "Neighborhood": "Brookline",
@@ -28262,7 +28281,7 @@
             "Feb": "0",
             "Mar": "2",
             "Apr": "2",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -28270,7 +28289,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -53304,7 +53323,7 @@
             "Feb": "0",
             "Mar": "5",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -53312,7 +53331,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Oakwood",
@@ -53332,6 +53351,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Oakwood",
+            "Year": "2023",
+            "Section": "9993",
+            "Description": "PFA Service with Weapons Supplement",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Oakwood",
@@ -56856,8 +56894,8 @@
             "Jan": "3",
             "Feb": "3",
             "Mar": "4",
-            "Apr": "3",
-            "May": "1",
+            "Apr": "2",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -59384,7 +59422,7 @@
             "Feb": "0",
             "Mar": "2",
             "Apr": "0",
-            "May": "2",
+            "May": "3",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -59392,7 +59430,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
@@ -63355,7 +63393,7 @@
             "Feb": "6",
             "Mar": "9",
             "Apr": "4",
-            "May": "5",
+            "May": "6",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -63363,7 +63401,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "27"
+            "Count": "28"
         },
         {
             "Neighborhood": "Sheraden",
@@ -64646,8 +64684,8 @@
             "Jan": "1",
             "Feb": "0",
             "Mar": "1",
-            "Apr": "1",
-            "May": "0",
+            "Apr": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
