@@ -318,7 +318,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2021,2702,"Aggravated Assault.",3,0,0,0,0,4,0,3,3,0,2,1,16
 "Beechview                     ",2020,2702,"Aggravated Assault.",4,3,0,0,1,0,0,0,3,0,0,1,12
 "Beechview                     ",2021,2703.1,"Aggravated Harassment by Prisoner",0,0,0,0,0,2,0,0,0,0,0,0,2
-"Beechview                     ",2023,9497,"Aided Case",1,1,1,2,0,0,0,0,0,0,0,0,5
+"Beechview                     ",2023,9497,"Aided Case",1,1,1,2,1,0,0,0,0,0,0,0,6
 "Beechview                     ",2022,9497,"Aided Case",2,0,0,3,1,4,0,2,1,1,1,1,16
 "Beechview                     ",2021,9497,"Aided Case",1,3,1,0,1,2,0,0,1,0,1,2,12
 "Beechview                     ",2020,9497,"Aided Case",1,3,0,1,2,2,0,2,1,2,3,1,18
@@ -580,7 +580,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,9123,"Miscellaneous Fire Other Investigation to Continue",0,2,0,2,0,0,0,0,0,0,1,0,5
 "Beechview                     ",2022,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Beechview                     ",2020,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2023,9129,"Miscellaneous Investigation",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Beechview                     ",2023,9129,"Miscellaneous Investigation",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Beechview                     ",2022,9129,"Miscellaneous Investigation",1,1,2,1,1,0,0,2,0,0,2,1,11
 "Beechview                     ",2021,9129,"Miscellaneous Investigation",0,0,1,1,0,2,0,2,1,0,0,0,7
 "Beechview                     ",2020,9129,"Miscellaneous Investigation",0,0,0,0,0,0,1,5,1,0,1,1,9
@@ -1027,7 +1027,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2023,9017,"Found Drugs",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2021,9017,"Found Drugs",0,0,0,1,2,0,0,0,0,0,0,0,3
 "Brookline                     ",2020,9017,"Found Drugs",0,1,0,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2023,9489,"Found Property",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Brookline                     ",2023,9489,"Found Property",2,0,0,0,1,0,0,0,0,0,0,0,3
 "Brookline                     ",2022,9489,"Found Property",0,1,0,2,0,0,0,1,1,2,4,1,12
 "Brookline                     ",2021,9489,"Found Property",0,1,1,0,2,1,2,1,1,0,0,1,10
 "Brookline                     ",2020,9489,"Found Property",0,1,0,0,0,0,1,0,0,1,0,0,3
@@ -1976,6 +1976,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,7122,"Altered, Forged or Counterfeit Documents and Plates",0,0,0,0,1,0,1,0,0,0,0,0,2
 "Elliott                       ",2022,3301,Arson,2,0,0,0,0,0,2,0,0,0,0,0,4
 "Elliott                       ",2021,3301,Arson,0,0,0,1,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2023,4105(a)(1),"Bad Checks",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2023,9501,"Bench Warrant",2,0,2,0,0,0,0,0,0,0,0,0,4
 "Elliott                       ",2022,9501,"Bench Warrant",0,3,2,2,0,2,0,2,0,0,2,0,13
 "Elliott                       ",2021,9501,"Bench Warrant",0,2,0,0,4,2,0,0,0,0,0,0,8
@@ -2100,6 +2101,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Elliott                       ",2021,3733,"Fleeing or Attempting to Elude Police Officer",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Elliott                       ",2022,3310,"Following Too Closely.",0,0,0,0,0,0,0,1,0,0,0,0,1
+"Elliott                       ",2023,4101,Forgery.,0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,4101,Forgery.,0,0,0,1,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2020,4101,Forgery.,0,1,0,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,9017,"Found Drugs",0,0,0,0,0,0,0,0,1,1,0,0,2
@@ -2132,6 +2134,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2021,2709(a),Harassment.,0,0,0,1,1,0,1,0,0,0,0,0,3
 "Elliott                       ",2020,2709(a),Harassment.,0,0,0,0,1,1,2,0,0,1,1,0,6
 "Elliott                       ",2021,7741,"Head Lamps and Tail Lamps",0,0,1,0,0,0,0,0,0,0,0,0,1
+"Elliott                       ",2023,4120,"Identity Theft",0,0,0,0,1,0,0,0,0,0,0,0,1
 "Elliott                       ",2022,4120,"Identity Theft",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Elliott                       ",2021,4120,"Identity Theft",0,0,2,0,0,0,0,2,1,0,0,0,5
 "Elliott                       ",2020,4120,"Identity Theft",0,1,0,0,0,0,0,1,0,0,0,0,2
