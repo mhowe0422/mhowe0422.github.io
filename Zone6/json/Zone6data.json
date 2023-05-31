@@ -5614,7 +5614,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "1",
-            "May": "2",
+            "May": "3",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -5622,7 +5622,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -9319,7 +9319,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -9327,7 +9327,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Beechview",
@@ -10060,7 +10060,7 @@
             "Feb": "2",
             "Mar": "4",
             "Apr": "1",
-            "May": "2",
+            "May": "3",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -10068,7 +10068,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Beechview",
@@ -15114,7 +15114,7 @@
             "Feb": "4",
             "Mar": "5",
             "Apr": "3",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -15122,7 +15122,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "Brookline",
@@ -16121,7 +16121,7 @@
             "Feb": "0",
             "Mar": "2",
             "Apr": "2",
-            "May": "2",
+            "May": "3",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -16129,7 +16129,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Brookline",
@@ -23926,11 +23926,11 @@
             "Year": "2023",
             "Section": "2701",
             "Description": "Simple Assault.",
-            "Jan": "8",
+            "Jan": "7",
             "Feb": "4",
             "Mar": "4",
             "Apr": "2",
-            "May": "3",
+            "May": "4",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -24268,11 +24268,11 @@
             "Year": "2023",
             "Section": "2718(a)(1)",
             "Description": "Strangulation - Applying Pressure to the Throat or Neck",
-            "Jan": "2",
+            "Jan": "1",
             "Feb": "1",
             "Mar": "0",
             "Apr": "0",
-            "May": "2",
+            "May": "3",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -36717,7 +36717,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "2",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -36725,7 +36725,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -40251,7 +40251,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -40259,7 +40259,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -41600,7 +41600,7 @@
             "Feb": "1",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -41608,7 +41608,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -64343,7 +64343,7 @@
             "Feb": "3",
             "Mar": "3",
             "Apr": "5",
-            "May": "3",
+            "May": "4",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -64351,7 +64351,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "Sheraden",
@@ -70626,25 +70626,6 @@
         {
             "Neighborhood": "Westwood",
             "Year": "2023",
-            "Section": "3742",
-            "Description": "Accidents Involving Death or Personal Injury",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "1",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Westwood",
-            "Year": "2023",
             "Section": "2702",
             "Description": "Aggravated Assault.",
             "Jan": "1",
@@ -71857,25 +71838,6 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "4"
-        },
-        {
-            "Neighborhood": "Westwood",
-            "Year": "2023",
-            "Section": "3802(a)(1)",
-            "Description": "DUI - General Impairment",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "1",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "0",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
@@ -73995,7 +73957,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "0",
-            "May": "1",
+            "May": "0",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -74003,7 +73965,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
