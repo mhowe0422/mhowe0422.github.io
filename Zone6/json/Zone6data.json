@@ -2137,7 +2137,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -2145,7 +2145,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Banksville",
@@ -5463,14 +5463,14 @@
             "Mar": "2",
             "Apr": "5",
             "May": "5",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "24"
+            "Count": "25"
         },
         {
             "Neighborhood": "Beechview",
@@ -12549,7 +12549,7 @@
             "Feb": "1",
             "Mar": "1",
             "Apr": "1",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -12557,7 +12557,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -15115,14 +15115,14 @@
             "Mar": "5",
             "Apr": "3",
             "May": "2",
-            "Jun": "0",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "18"
         },
         {
             "Neighborhood": "Brookline",
@@ -15457,14 +15457,14 @@
             "Mar": "4",
             "Apr": "0",
             "May": "1",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "Brookline",
@@ -15817,7 +15817,7 @@
             "Feb": "3",
             "Mar": "6",
             "Apr": "4",
-            "May": "5",
+            "May": "6",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -15825,7 +15825,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "20"
+            "Count": "21"
         },
         {
             "Neighborhood": "Brookline",
@@ -24786,14 +24786,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -31713,6 +31713,25 @@
         },
         {
             "Neighborhood": "Crafton Heights",
+            "Year": "2023",
+            "Section": "9129",
+            "Description": "Miscellaneous Investigation",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Crafton Heights",
             "Year": "2022",
             "Section": "9129",
             "Description": "Miscellaneous Investigation",
@@ -37641,6 +37660,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "5123",
+            "Description": "Contraband.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2022",
             "Section": "901",
             "Description": "Criminal Attempt",
@@ -39636,6 +39674,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "5126",
+            "Description": "Flight to Avoid Apprehension, Trial or Punishment.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2022",
             "Section": "3310",
             "Description": "Following Too Closely.",
@@ -39728,6 +39785,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "9489",
+            "Description": "Found Property",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Elliott",
@@ -40690,6 +40766,25 @@
             "Apr": "0",
             "May": "0",
             "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "13(a)(31)(i)",
+            "Description": "Marijuana - Possess Small Amt for Personal Use",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
@@ -43349,14 +43444,14 @@
             "Mar": "2",
             "Apr": "1",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Elliott",
@@ -55680,14 +55775,14 @@
             "Mar": "4",
             "Apr": "1",
             "May": "2",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Sheraden",
@@ -55755,7 +55850,7 @@
             "Feb": "8",
             "Mar": "4",
             "Apr": "5",
-            "May": "5",
+            "May": "6",
             "Jun": "1",
             "Jul": "0",
             "Aug": "0",
@@ -55763,7 +55858,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "33"
+            "Count": "34"
         },
         {
             "Neighborhood": "Sheraden",
@@ -57465,7 +57560,7 @@
             "Feb": "3",
             "Mar": "4",
             "Apr": "2",
-            "May": "4",
+            "May": "5",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -57473,7 +57568,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "17"
         },
         {
             "Neighborhood": "Sheraden",
@@ -66464,6 +66559,25 @@
         },
         {
             "Neighborhood": "West End",
+            "Year": "2023",
+            "Section": "903",
+            "Description": "Criminal Conspiracy.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "1",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
             "Year": "2021",
             "Section": "3304(a)(4)",
             "Description": "CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)",
@@ -69587,7 +69701,7 @@
             "Feb": "0",
             "Mar": "1",
             "Apr": "0",
-            "May": "0",
+            "May": "1",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -69595,7 +69709,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "West End",
@@ -69910,7 +70024,7 @@
             "Feb": "0",
             "Mar": "0",
             "Apr": "0",
-            "May": "1",
+            "May": "2",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
@@ -69918,7 +70032,7 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "West End",
