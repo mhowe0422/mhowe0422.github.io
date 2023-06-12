@@ -5444,14 +5444,14 @@
             "Mar": "1",
             "Apr": "1",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -14564,14 +14564,14 @@
             "Mar": "2",
             "Apr": "1",
             "May": "1",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Beechview",
@@ -22995,6 +22995,25 @@
             "Year": "2021",
             "Section": "9090",
             "Description": "Recovered Firearm",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "1",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "9094",
+            "Description": "Recovered Stolen Vehicle (OUTSIDE CITY)",
             "Jan": "0",
             "Feb": "0",
             "Mar": "0",
@@ -32424,14 +32443,14 @@
             "Mar": "4",
             "Apr": "0",
             "May": "3",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -34590,14 +34609,14 @@
             "Mar": "1",
             "Apr": "2",
             "May": "0",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -57808,14 +57827,14 @@
             "Mar": "4",
             "Apr": "2",
             "May": "5",
-            "Jun": "1",
+            "Jun": "2",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "18"
+            "Count": "19"
         },
         {
             "Neighborhood": "Sheraden",
@@ -66757,14 +66776,14 @@
             "Mar": "0",
             "Apr": "1",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "West End",
@@ -67574,14 +67593,14 @@
             "Mar": "0",
             "Apr": "1",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "West End",
@@ -69892,14 +69911,14 @@
             "Mar": "0",
             "Apr": "0",
             "May": "0",
-            "Jun": "0",
+            "Jun": "1",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "West End",
