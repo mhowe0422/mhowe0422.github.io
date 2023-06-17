@@ -319,7 +319,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2021,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Beechview                     ",2020,3742,"Accidents Involving Death or Personal Injury",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Beechview                     ",2022,3716,"Accidents Involving Overturned Vehicles",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Beechview                     ",2023,2702,"Aggravated Assault.",2,0,0,3,0,0,0,0,0,0,0,0,5
+"Beechview                     ",2023,2702,"Aggravated Assault.",2,0,0,3,0,2,0,0,0,0,0,0,7
 "Beechview                     ",2022,2702,"Aggravated Assault.",2,2,3,3,1,0,0,1,0,2,0,3,17
 "Beechview                     ",2021,2702,"Aggravated Assault.",3,0,0,0,0,4,0,3,3,0,2,1,16
 "Beechview                     ",2020,2702,"Aggravated Assault.",4,3,0,0,1,0,0,0,3,0,0,1,12
@@ -373,7 +373,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,4,0,0,0,0,1,2,1,1,0,11
 "Beechview                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,0,1,1,2,1,1,0,0,0,1,2,12
 "Beechview                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,2,0,0,0,1,0,0,3,1,2,0,10
-"Beechview                     ",2023,3304,"Criminal Mischief.",5,2,1,4,2,0,0,0,0,0,0,0,14
+"Beechview                     ",2023,3304,"Criminal Mischief.",5,2,1,4,2,2,0,0,0,0,0,0,16
 "Beechview                     ",2022,3304,"Criminal Mischief.",2,1,3,8,2,3,5,2,1,0,1,2,30
 "Beechview                     ",2021,3304,"Criminal Mischief.",5,0,3,1,4,4,2,3,5,2,1,2,32
 "Beechview                     ",2020,3304,"Criminal Mischief.",3,1,1,1,3,1,4,4,10,0,2,2,32
@@ -638,7 +638,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2023,9994,"PFA Service",1,3,2,4,0,2,0,0,0,0,0,0,12
 "Beechview                     ",2022,9994,"PFA Service",0,0,0,0,1,0,2,1,2,2,0,3,11
 "Beechview                     ",2021,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2023,9993,"PFA Service with Weapons Supplement",0,0,1,0,1,0,0,0,0,0,0,0,2
+"Beechview                     ",2023,9993,"PFA Service with Weapons Supplement",0,0,1,0,1,1,0,0,0,0,0,0,3
 "Beechview                     ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,0,2,0,1,0,1,0,1,0,7
 "Beechview                     ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,1,0,2,0,0,2,0,0,0,5
 "Beechview                     ",2020,9993,"PFA Service with Weapons Supplement",0,0,1,0,1,0,0,0,0,1,0,1,4
@@ -685,7 +685,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2023,3736,"Reckless Driving",1,4,0,2,0,0,0,0,0,0,0,0,7
 "Beechview                     ",2022,3736,"Reckless Driving",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,3736,"Reckless Driving",0,1,0,0,0,0,1,2,0,0,0,2,6
-"Beechview                     ",2023,2705,"Recklessly Endangering Another Person.",1,0,1,1,0,0,0,0,0,0,0,0,3
+"Beechview                     ",2023,2705,"Recklessly Endangering Another Person.",1,0,1,1,0,2,0,0,0,0,0,0,5
 "Beechview                     ",2022,2705,"Recklessly Endangering Another Person.",0,1,0,0,1,0,1,0,0,2,2,0,7
 "Beechview                     ",2021,2705,"Recklessly Endangering Another Person.",0,0,0,1,1,2,0,0,2,0,0,1,7
 "Beechview                     ",2020,2705,"Recklessly Endangering Another Person.",0,5,0,0,2,1,0,0,3,0,0,3,14
@@ -855,7 +855,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,3301,Arson,0,4,2,0,0,0,2,0,1,0,0,0,9
 "Brookline                     ",2022,4105(a)(1),"Bad Checks",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2020,4105(a)(1),"Bad Checks",0,1,1,0,0,0,0,0,1,0,0,0,3
-"Brookline                     ",2023,9501,"Bench Warrant",2,1,2,2,0,2,0,0,0,0,0,0,9
+"Brookline                     ",2023,9501,"Bench Warrant",2,1,2,2,0,4,0,0,0,0,0,0,11
 "Brookline                     ",2022,9501,"Bench Warrant",2,0,4,0,3,5,0,4,4,6,0,2,30
 "Brookline                     ",2021,9501,"Bench Warrant",4,2,0,6,0,0,2,2,0,0,0,0,16
 "Brookline                     ",2020,9501,"Bench Warrant",2,0,2,0,5,0,2,0,2,2,2,0,17
@@ -1414,6 +1414,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Chartiers City                ",2020,9489,"Found Property",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Chartiers City                ",2021,2709,"Harassment (Non-Specific)",0,0,1,0,0,1,0,0,0,0,0,0,2
 "Chartiers City                ",2020,2709,"Harassment (Non-Specific)",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Chartiers City                ",2023,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Chartiers City                ",2022,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,0,0,0,0,0,0,0,1,1,1,3
 "Chartiers City                ",2021,2709(a)(1),"Harassment by Physical Contact, or Attempts or Threats",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Chartiers City                ",2022,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,0,0,1,0,0,1
@@ -1587,6 +1588,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,1332,"Display of Registration Plate.",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Crafton Heights               ",2021,1332,"Display of Registration Plate.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Crafton Heights               ",2020,1332,"Display of Registration Plate.",1,0,0,0,0,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2023,9492,"Dog Bite",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Crafton Heights               ",2022,9492,"Dog Bite",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Crafton Heights               ",2023,1501,"Drivers Required to be Licensed.",1,0,0,0,1,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2022,1501,"Drivers Required to be Licensed.",0,0,0,1,1,1,0,0,0,2,0,0,5
@@ -1779,7 +1781,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,2705,"Recklessly Endangering Another Person.",0,0,0,0,0,0,0,0,0,1,1,0,2
 "Crafton Heights               ",2021,2705,"Recklessly Endangering Another Person.",2,0,0,0,2,0,0,0,0,0,0,0,4
 "Crafton Heights               ",2020,2705,"Recklessly Endangering Another Person.",1,1,0,0,0,0,0,1,2,3,2,0,10
-"Crafton Heights               ",2023,9090,"Recovered Firearm",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Crafton Heights               ",2023,9090,"Recovered Firearm",0,0,0,0,1,1,0,0,0,0,0,0,2
 "Crafton Heights               ",2022,9090,"Recovered Firearm",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Crafton Heights               ",2022,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Crafton Heights               ",2020,9094,"Recovered Stolen Vehicle (OUTSIDE CITY)",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -2035,7 +2037,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,3304(a)(6),"CRIMINAL MISCHIEF- Intentionally Damage Property (By Paintball Gun or Paintball Marker)",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Elliott                       ",2023,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2021,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Elliott                       ",2023,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,4,1,1,0,0,0,0,0,0,0,7
+"Elliott                       ",2023,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,1,4,1,1,1,0,0,0,0,0,0,8
 "Elliott                       ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,0,0,0,0,2,0,1,1,0,0,5
 "Elliott                       ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Elliott                       ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,2,1,0,0,0,0,1,0,0,0,1,6
@@ -2996,7 +2998,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,9498,"302 (Mental)",0,0,1,2,3,2,2,2,0,0,1,1,14
 "Sheraden                      ",2021,9498,"302 (Mental)",3,3,0,3,5,5,3,0,2,0,0,1,25
 "Sheraden                      ",2020,9498,"302 (Mental)",2,2,1,0,0,2,0,1,0,1,1,2,12
-"Sheraden                      ",2023,9999,"9999 - (Misc. Incident):",10,8,4,5,6,4,0,0,0,0,0,0,37
+"Sheraden                      ",2023,9999,"9999 - (Misc. Incident):",10,8,4,5,6,6,0,0,0,0,0,0,39
 "Sheraden                      ",2022,9999,"9999 - (Misc. Incident):",4,3,4,5,5,5,7,9,4,2,7,6,61
 "Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,10,5,7,8,5,3,1,0,77
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,6,1,5,10,8,7,9,2,4,4,62
@@ -3495,7 +3497,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,4,3,5,2,3,4,5,4,0,3,39
 "Sheraden                      ",2021,3921,"Theft by Unlawful Taking or Disposition.",3,1,1,1,3,1,1,6,3,2,2,1,25
 "Sheraden                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",5,3,3,3,4,4,3,3,0,3,2,4,37
-"Sheraden                      ",2023,3934,"Theft from Vehicle",0,0,0,0,3,1,0,0,0,0,0,0,4
+"Sheraden                      ",2023,3934,"Theft from Vehicle",0,0,0,0,3,2,0,0,0,0,0,0,5
 "Sheraden                      ",2022,3934,"Theft from Vehicle",2,1,1,0,1,4,2,2,2,1,3,1,20
 "Sheraden                      ",2021,3934,"Theft from Vehicle",3,1,1,0,6,3,2,6,2,1,2,0,27
 "Sheraden                      ",2020,3934,"Theft from Vehicle",1,6,2,0,0,0,4,2,1,4,6,1,27
