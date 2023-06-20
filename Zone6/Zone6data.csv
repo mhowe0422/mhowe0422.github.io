@@ -63,7 +63,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2020,3304,"Criminal Mischief.",0,0,0,0,0,2,0,1,0,1,1,1,6
 "Banksville                    ",2022,3503(a),"Criminal Trespass",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Banksville                    ",2021,3503,"Criminal Trespass",0,0,0,0,0,0,0,0,0,2,0,0,2
-"Banksville                    ",2023,9496,"Dead on Arrival (DOA)",0,0,0,1,0,0,0,0,0,0,0,0,1
+"Banksville                    ",2023,9496,"Dead on Arrival (DOA)",0,0,0,1,0,1,0,0,0,0,0,0,2
 "Banksville                    ",2022,9496,"Dead on Arrival (DOA)",0,1,1,1,2,1,1,0,0,0,1,1,9
 "Banksville                    ",2021,9496,"Dead on Arrival (DOA)",1,0,1,2,2,1,0,0,0,1,2,0,10
 "Banksville                    ",2020,9496,"Dead on Arrival (DOA)",0,0,1,2,1,0,0,0,1,0,0,2,7
@@ -336,7 +336,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,3301,Arson,0,2,0,0,0,0,0,0,0,0,0,2,4
 "Beechview                     ",2020,94951,"Attempted Suicide",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Beechview                     ",2023,4105(a)(1),"Bad Checks",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2023,9501,"Bench Warrant",0,0,2,2,0,0,0,0,0,0,0,0,4
+"Beechview                     ",2023,9501,"Bench Warrant",0,0,2,2,0,2,0,0,0,0,0,0,6
 "Beechview                     ",2022,9501,"Bench Warrant",0,2,0,1,0,0,0,0,0,0,0,4,7
 "Beechview                     ",2021,9501,"Bench Warrant",6,0,0,0,6,0,3,0,0,2,3,2,22
 "Beechview                     ",2020,9501,"Bench Warrant",0,2,0,0,0,0,3,0,3,2,0,0,10
@@ -549,7 +549,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,0,0,0,0,2,0,0,1,3
 "Beechview                     ",2021,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Beechview                     ",2022,4912,"Impersonating a Public Servant.",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Beechview                     ",2023,9093,"Indirect Criminal Contempt",0,2,0,1,0,0,0,0,0,0,0,0,3
+"Beechview                     ",2023,9093,"Indirect Criminal Contempt",0,2,0,1,0,2,0,0,0,0,0,0,5
 "Beechview                     ",2022,9093,"Indirect Criminal Contempt",1,0,0,1,2,0,0,0,1,2,0,0,7
 "Beechview                     ",2021,9093,"Indirect Criminal Contempt",4,2,0,0,1,0,1,2,2,2,0,0,14
 "Beechview                     ",2020,9093,"Indirect Criminal Contempt",4,0,0,0,0,0,1,0,3,0,0,4,12
@@ -831,7 +831,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",2,4,4,4,4,4,2,2,3,6,2,2,39
 "Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,1,3,1,3,0,1,1,0,17
 "Brookline                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",5,5,2,3,2,2,1,4,4,2,2,6,38
-"Brookline                     ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",10,1,3,2,1,2,0,0,0,0,0,0,19
+"Brookline                     ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",10,1,3,2,1,3,0,0,0,0,0,0,20
 "Brookline                     ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,3,4,7,3,4,4,7,3,6,7,7,59
 "Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,5,3,3,8,7,3,1,5,5,4,51
 "Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,2,5,1,4,5,3,4,5,2,3,2,38
@@ -1310,7 +1310,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",2,0,1,0,0,1,4,2,0,1,3,0,14
 "Brookline                     ",2021,4910,"Tampering with or Fabricating Physical Evidence.",1,0,0,0,0,0,2,0,0,0,0,0,3
 "Brookline                     ",2020,4910,"Tampering with or Fabricating Physical Evidence.",0,0,0,1,0,1,2,0,0,0,0,0,4
-"Brookline                     ",2023,2706,"Terroristic Threats.",2,4,0,5,6,2,0,0,0,0,0,0,19
+"Brookline                     ",2023,2706,"Terroristic Threats.",2,4,0,5,6,3,0,0,0,0,0,0,20
 "Brookline                     ",2022,2706,"Terroristic Threats.",5,2,2,1,7,4,0,2,4,0,5,1,33
 "Brookline                     ",2021,2706,"Terroristic Threats.",4,2,1,3,3,4,3,1,1,6,1,0,29
 "Brookline                     ",2020,2706,"Terroristic Threats.",4,2,2,0,1,5,4,3,3,0,2,0,26
@@ -1711,7 +1711,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,9129,"Miscellaneous Investigation",0,1,1,1,0,1,1,0,1,1,0,0,7
 "Crafton Heights               ",2021,9129,"Miscellaneous Investigation",0,1,0,0,2,0,0,1,2,0,0,0,6
 "Crafton Heights               ",2020,9129,"Miscellaneous Investigation",1,0,0,0,0,2,0,0,0,2,0,0,5
-"Crafton Heights               ",2023,029,"Missing Juvenile",2,0,1,1,0,0,0,0,0,0,0,0,4
+"Crafton Heights               ",2023,029,"Missing Juvenile",2,0,1,1,0,1,0,0,0,0,0,0,5
 "Crafton Heights               ",2022,029,"Missing Juvenile",0,0,0,0,2,0,0,3,1,2,0,0,8
 "Crafton Heights               ",2021,029,"Missing Juvenile",0,0,0,1,2,1,1,0,0,1,0,1,7
 "Crafton Heights               ",2020,029,"Missing Juvenile",0,0,0,1,0,0,1,0,0,0,0,0,2
@@ -3437,7 +3437,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3702,"Robbery of Motor Vehicle.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2021,3702,"Robbery of Motor Vehicle.",1,1,0,0,0,0,1,2,1,0,0,0,6
 "Sheraden                      ",2020,3702,"Robbery of Motor Vehicle.",0,0,0,2,0,0,0,1,0,0,0,0,3
-"Sheraden                      ",2023,3701,Robbery.,1,0,0,1,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2023,3701,Robbery.,1,0,0,1,0,1,0,0,0,0,0,0,3
 "Sheraden                      ",2022,3701,Robbery.,1,3,1,0,1,0,1,0,0,2,0,0,9
 "Sheraden                      ",2021,3701,Robbery.,2,2,1,0,3,1,2,3,0,0,0,1,15
 "Sheraden                      ",2020,3701,Robbery.,2,1,0,3,1,1,0,1,2,1,1,0,13
@@ -3462,7 +3462,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,0,0,0,0,4,1,0,1,1,1,11
 "Sheraden                      ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,3,0,0,7,2,0,5,3,3,1,0,24
 "Sheraden                      ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,1,0,2,0,2,0,1,1,1,2,10
-"Sheraden                      ",2023,2701,"Simple Assault.",2,4,6,8,8,5,0,0,0,0,0,0,33
+"Sheraden                      ",2023,2701,"Simple Assault.",2,4,6,8,8,6,0,0,0,0,0,0,34
 "Sheraden                      ",2022,2701,"Simple Assault.",5,14,2,7,12,2,5,10,6,10,3,6,82
 "Sheraden                      ",2021,2701,"Simple Assault.",2,6,3,7,1,14,6,9,8,6,6,2,70
 "Sheraden                      ",2020,2701,"Simple Assault.",7,5,8,4,9,9,9,10,17,1,4,6,89
