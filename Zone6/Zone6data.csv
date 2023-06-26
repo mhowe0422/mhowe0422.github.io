@@ -3,7 +3,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2022,9498,"302 (Mental)",0,0,0,2,1,0,0,0,2,1,1,0,7
 "Banksville                    ",2021,9498,"302 (Mental)",1,1,0,0,1,2,0,0,2,0,0,1,8
 "Banksville                    ",2020,9498,"302 (Mental)",0,0,2,0,0,0,0,0,0,0,1,1,4
-"Banksville                    ",2023,9999,"9999 - (Misc. Incident):",1,2,2,4,2,2,0,0,0,0,0,0,13
+"Banksville                    ",2023,9999,"9999 - (Misc. Incident):",1,2,2,4,2,3,0,0,0,0,0,0,14
 "Banksville                    ",2022,9999,"9999 - (Misc. Incident):",0,1,2,0,0,1,4,1,2,1,3,2,17
 "Banksville                    ",2021,9999,"9999 - (Misc. Incident):",4,7,1,3,2,2,4,2,3,0,1,1,30
 "Banksville                    ",2020,9999,"9999 - (Misc. Incident):",2,4,1,2,3,6,2,4,2,1,3,1,31
@@ -18,7 +18,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,1,1,0,0,1,0,2,1,2,0,2,10
 "Banksville                    ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",2,1,1,4,0,0,0,1,0,1,1,0,11
 "Banksville                    ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",2,0,0,0,2,1,1,4,0,0,3,4,17
-"Banksville                    ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,3,1,0,2,0,0,0,0,0,0,0,6
+"Banksville                    ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,3,1,0,2,1,0,0,0,0,0,0,7
 "Banksville                    ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,1,1,0,1,1,1,2,1,0,1,10
 "Banksville                    ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,1,1,1,3,0,2,1,2,0,0,0,13
 "Banksville                    ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",1,0,0,1,2,1,1,1,0,0,0,2,9
@@ -57,7 +57,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2023,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,0,1,0,0,0,0,0,0,0,0,0,3
 "Banksville                    ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,0,1,0,0,0,0,0,1,0,0,0,2
 "Banksville                    ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Banksville                    ",2023,3304,"Criminal Mischief.",1,0,1,2,2,1,0,0,0,0,0,0,7
+"Banksville                    ",2023,3304,"Criminal Mischief.",1,0,1,2,2,2,0,0,0,0,0,0,8
 "Banksville                    ",2022,3304,"Criminal Mischief.",0,0,0,0,0,0,3,0,0,0,2,1,6
 "Banksville                    ",2021,3304,"Criminal Mischief.",0,0,1,1,0,0,2,0,0,0,0,1,5
 "Banksville                    ",2020,3304,"Criminal Mischief.",0,0,0,0,0,2,0,1,0,1,1,1,6
@@ -295,7 +295,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,9498,"302 (Mental)",1,0,2,0,3,0,2,3,1,1,0,1,14
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,2,1,0,0,2,13
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
-"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",7,5,2,5,6,3,0,0,0,0,0,0,28
+"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",7,5,2,5,6,4,0,0,0,0,0,0,29
 "Beechview                     ",2022,9999,"9999 - (Misc. Incident):",5,10,8,7,4,6,3,4,8,4,9,5,73
 "Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,8,12,6,0,6,3,71
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",4,4,5,4,3,5,11,8,9,7,4,7,71
@@ -303,7 +303,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,2404(b)(3),"A person may not ignite fireworks or sparkling devices toward a motor vehicle or building",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2020,2404(b)(5),"A person may not ignite fireworks within 150 feet of an occupied structure",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2022,3712,"Abandonment and Stripping of Vehicles",0,0,0,0,0,0,0,0,2,0,0,0,2
-"Beechview                     ",2023,4106,"Access Device Fraud",1,0,1,1,3,1,0,0,0,0,0,0,7
+"Beechview                     ",2023,4106,"Access Device Fraud",1,0,1,1,3,2,0,0,0,0,0,0,8
 "Beechview                     ",2022,4106,"Access Device Fraud",0,3,0,2,2,1,1,0,1,0,0,3,13
 "Beechview                     ",2021,4106,"Access Device Fraud",0,0,2,1,0,0,2,1,0,0,0,0,6
 "Beechview                     ",2020,4106,"Access Device Fraud",2,1,0,5,1,1,1,0,0,2,2,2,17
@@ -376,7 +376,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",0,2,4,0,0,0,0,1,2,1,1,0,11
 "Beechview                     ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",3,0,1,1,2,1,1,0,0,0,1,2,12
 "Beechview                     ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,2,0,0,0,1,0,0,3,1,2,0,10
-"Beechview                     ",2023,3304,"Criminal Mischief.",5,2,1,4,2,3,0,0,0,0,0,0,17
+"Beechview                     ",2023,3304,"Criminal Mischief.",5,2,1,4,2,4,0,0,0,0,0,0,18
 "Beechview                     ",2022,3304,"Criminal Mischief.",2,1,3,8,2,3,5,2,1,0,1,2,30
 "Beechview                     ",2021,3304,"Criminal Mischief.",5,0,3,1,4,4,2,3,5,2,1,2,32
 "Beechview                     ",2020,3304,"Criminal Mischief.",3,1,1,1,3,1,4,4,10,0,2,2,32
@@ -395,7 +395,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2020,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Beechview                     ",2022,2709(a.1)(1)(i),"Cyber Harassment Of A Child Through An Electronic Social Media Service: Disparaging Statement/Opinion",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Beechview                     ",2021,3301(d.1),"Dangerous Burning",0,0,0,0,1,0,0,0,0,0,0,0,1
-"Beechview                     ",2023,9496,"Dead on Arrival (DOA)",0,4,2,0,2,1,0,0,0,0,0,0,9
+"Beechview                     ",2023,9496,"Dead on Arrival (DOA)",0,4,2,0,2,2,0,0,0,0,0,0,10
 "Beechview                     ",2022,9496,"Dead on Arrival (DOA)",1,3,3,1,0,2,1,1,1,1,4,2,20
 "Beechview                     ",2021,9496,"Dead on Arrival (DOA)",4,2,0,2,1,0,1,0,3,1,1,1,16
 "Beechview                     ",2020,9496,"Dead on Arrival (DOA)",0,0,1,1,0,3,0,2,1,1,1,0,10
@@ -813,7 +813,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,9498,"302 (Mental)",0,3,2,3,2,1,2,1,8,5,3,3,33
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,3,0,22
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
-"Brookline                     ",2023,9999,"9999 - (Misc. Incident):",6,5,10,10,13,4,0,0,0,0,0,0,48
+"Brookline                     ",2023,9999,"9999 - (Misc. Incident):",6,5,10,10,13,5,0,0,0,0,0,0,49
 "Brookline                     ",2022,9999,"9999 - (Misc. Incident):",3,8,4,9,11,6,10,10,8,13,9,4,95
 "Brookline                     ",2021,9999,"9999 - (Misc. Incident):",9,5,12,10,9,15,10,12,7,9,10,6,114
 "Brookline                     ",2020,9999,"9999 - (Misc. Incident):",6,2,8,2,6,7,12,6,5,6,5,12,77
@@ -831,7 +831,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",2,4,4,4,4,4,2,2,3,6,2,2,39
 "Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,1,3,1,3,0,1,1,0,17
 "Brookline                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",5,5,2,3,2,2,1,4,4,2,2,6,38
-"Brookline                     ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",10,1,3,2,1,3,0,0,0,0,0,0,20
+"Brookline                     ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",10,1,3,2,1,4,0,0,0,0,0,0,21
 "Brookline                     ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",4,3,4,7,3,4,4,7,3,6,7,7,59
 "Brookline                     ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,4,5,3,3,8,7,3,1,5,5,4,51
 "Brookline                     ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,2,5,1,4,5,3,4,5,2,3,2,38
@@ -1327,7 +1327,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,2,2,3,4,5,7,14,8,6,4,57
 "Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,4,4,7,1,2,3,28
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
-"Brookline                     ",2023,3921,"Theft by Unlawful Taking or Disposition.",4,1,6,5,5,3,0,0,0,0,0,0,24
+"Brookline                     ",2023,3921,"Theft by Unlawful Taking or Disposition.",4,1,6,5,5,4,0,0,0,0,0,0,25
 "Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,3,6,5,2,4,2,3,3,1,6,41
 "Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,4,2,3,1,3,43
 "Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",2,4,1,1,2,2,5,3,3,3,2,3,31
@@ -2834,6 +2834,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",2,0,1,0,1,1,1,0,2,1,0,1,10
 "Oakwood                       ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,1,0,1,1,0,1,0,0,4
 "Oakwood                       ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,0,0,0,0,1,0,0,1,0,1,0,3
+"Oakwood                       ",2023,9497,"Aided Case",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Oakwood                       ",2022,9497,"Aided Case",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Oakwood                       ",2021,9497,"Aided Case",0,0,1,0,0,0,0,0,1,0,0,0,2
 "Oakwood                       ",2020,3301,Arson,0,0,0,0,0,0,0,0,1,0,0,0,1
