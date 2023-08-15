@@ -297,12 +297,12 @@
             "May": "2",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Banksville",
@@ -373,12 +373,12 @@
             "May": "2",
             "Jun": "1",
             "Jul": "1",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Banksville",
@@ -4857,12 +4857,12 @@
             "May": "1",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "1",
+            "Aug": "2",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Banksville",
@@ -12324,12 +12324,12 @@
             "May": "0",
             "Jun": "2",
             "Jul": "0",
-            "Aug": "2",
+            "Aug": "3",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Beechview",
@@ -14965,12 +14965,12 @@
             "May": "1",
             "Jun": "1",
             "Jul": "2",
-            "Aug": "2",
+            "Aug": "3",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Beechview",
@@ -20285,12 +20285,12 @@
             "May": "3",
             "Jun": "2",
             "Jul": "3",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -20361,12 +20361,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "1",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -25434,12 +25434,12 @@
             "May": "4",
             "Jun": "4",
             "Jul": "1",
-            "Aug": "2",
+            "Aug": "3",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "25"
+            "Count": "26"
         },
         {
             "Neighborhood": "Brookline",
@@ -25510,12 +25510,12 @@
             "May": "17",
             "Jun": "3",
             "Jul": "3",
-            "Aug": "6",
+            "Aug": "10",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "34"
+            "Count": "38"
         },
         {
             "Neighborhood": "Brookline",
@@ -28531,12 +28531,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -33471,12 +33471,12 @@
             "May": "3",
             "Jun": "1",
             "Jul": "2",
-            "Aug": "1",
+            "Aug": "2",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -38012,12 +38012,12 @@
             "May": "1",
             "Jun": "2",
             "Jul": "5",
-            "Aug": "3",
+            "Aug": "4",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "23"
+            "Count": "24"
         },
         {
             "Neighborhood": "Elliott",
@@ -42182,6 +42182,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "5506",
+            "Description": "Loitering and Prowling at Night",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2020",
             "Section": "5506",
             "Description": "Loitering and Prowling at Night",
@@ -45612,12 +45631,12 @@
             "May": "0",
             "Jun": "2",
             "Jul": "0",
-            "Aug": "1",
+            "Aug": "4",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "8"
         },
         {
             "Neighborhood": "Elliott",
@@ -67158,12 +67177,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "2",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Sheraden",
@@ -74992,6 +75011,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "5"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "2709(a)(4)",
+            "Description": "Harassment Communicates Prohibited Acts",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
