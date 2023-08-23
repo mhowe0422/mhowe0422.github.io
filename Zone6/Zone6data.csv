@@ -136,7 +136,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Banksville                    ",2022,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Banksville                    ",2021,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Banksville                    ",2020,2709(a)(3),"Harassment No Legitimate Purpose",0,0,0,1,0,0,0,0,0,0,0,1,2
-"Banksville                    ",2023,2709(a),Harassment.,0,0,1,0,0,0,1,0,0,0,0,0,2
+"Banksville                    ",2023,2709(a),Harassment.,0,0,1,0,0,0,1,1,0,0,0,0,3
 "Banksville                    ",2022,2709(a),Harassment.,0,1,1,1,0,0,2,1,0,1,0,0,7
 "Banksville                    ",2021,2709(a),Harassment.,1,0,0,1,1,1,0,1,0,3,0,0,8
 "Banksville                    ",2020,2709(a),Harassment.,1,0,1,0,0,0,0,0,0,0,0,0,2
@@ -662,7 +662,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2023,9994,"PFA Service",1,3,2,4,0,2,1,3,0,0,0,0,16
 "Beechview                     ",2022,9994,"PFA Service",0,0,0,0,1,0,2,1,2,2,0,3,11
 "Beechview                     ",2021,9994,"PFA Service",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Beechview                     ",2023,9993,"PFA Service with Weapons Supplement",0,0,1,0,1,1,0,0,0,0,0,0,3
+"Beechview                     ",2023,9993,"PFA Service with Weapons Supplement",0,0,1,0,1,1,0,1,0,0,0,0,4
 "Beechview                     ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,0,2,0,1,0,1,0,1,0,7
 "Beechview                     ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,1,0,2,0,0,2,0,0,0,5
 "Beechview                     ",2020,9993,"PFA Service with Weapons Supplement",0,0,1,0,1,0,0,0,0,1,0,1,4
@@ -755,7 +755,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,1,1,0,0,0,0,0,4,0,0,0,6
 "Beechview                     ",2021,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",2,0,0,0,3,1,1,2,2,1,0,0,12
 "Beechview                     ",2020,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",1,2,2,0,0,1,3,0,0,1,0,0,10
-"Beechview                     ",2023,2701,"Simple Assault.",3,4,4,4,2,4,4,0,0,0,0,0,25
+"Beechview                     ",2023,2701,"Simple Assault.",3,4,4,4,2,4,4,2,0,0,0,0,27
 "Beechview                     ",2022,2701,"Simple Assault.",6,4,5,5,2,1,0,3,3,2,4,4,39
 "Beechview                     ",2021,2701,"Simple Assault.",4,4,6,4,6,6,3,4,0,4,4,8,53
 "Beechview                     ",2020,2701,"Simple Assault.",7,6,5,0,6,4,11,4,9,8,7,6,73
@@ -780,7 +780,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,1373,"Suspension of Registration.",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Beechview                     ",2022,4910,"Tampering with or Fabricating Physical Evidence.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,4910,"Tampering with or Fabricating Physical Evidence.",2,0,0,0,1,1,0,0,0,0,0,0,4
-"Beechview                     ",2023,2706,"Terroristic Threats.",1,3,1,2,0,0,1,2,0,0,0,0,10
+"Beechview                     ",2023,2706,"Terroristic Threats.",1,3,1,2,0,0,1,3,0,0,0,0,11
 "Beechview                     ",2022,2706,"Terroristic Threats.",5,2,2,0,4,0,0,3,1,1,4,1,23
 "Beechview                     ",2021,2706,"Terroristic Threats.",4,2,1,1,4,2,0,5,2,0,8,0,29
 "Beechview                     ",2020,2706,"Terroristic Threats.",2,4,0,2,5,3,3,5,5,2,6,0,37
@@ -791,7 +791,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2023,3923,"Theft by Extortion.",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Beechview                     ",2021,3923,"Theft by Extortion.",0,0,0,0,0,0,0,0,1,0,0,0,1
 "Beechview                     ",2020,3923,"Theft by Extortion.",0,0,0,0,0,0,1,1,0,0,0,0,2
-"Beechview                     ",2023,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,1,1,3,1,5,4,0,0,0,0,16
+"Beechview                     ",2023,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,0,1,1,3,1,5,6,0,0,0,0,18
 "Beechview                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,5,0,3,1,1,2,3,3,3,0,5,26
 "Beechview                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,2,0,3,3,2,2,0,0,1,0,1,15
 "Beechview                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,1,1,3,1,2,3,2,3,2,2,1,24
@@ -1135,7 +1135,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,601.11(a),"Littering and Dumping; Any waste, dangerous or detrimental substance upon public property",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Brookline                     ",2022,0292,"Located Runaway - not Reported Missing",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Brookline                     ",2021,0291,"Located Runaway - Outside City",0,0,0,0,0,0,0,1,0,0,0,0,1
-"Brookline                     ",2023,5506,"Loitering and Prowling at Night",3,0,1,2,2,0,2,0,0,0,0,0,10
+"Brookline                     ",2023,5506,"Loitering and Prowling at Night",3,0,1,2,2,0,2,1,0,0,0,0,11
 "Brookline                     ",2022,5506,"Loitering and Prowling at Night",0,0,0,1,1,1,0,2,1,1,0,2,9
 "Brookline                     ",2021,5506,"Loitering and Prowling at Night",2,2,1,0,0,0,0,0,0,0,0,0,5
 "Brookline                     ",2020,5506,"Loitering and Prowling at Night",0,0,0,0,1,0,0,0,1,0,0,2,4
@@ -1818,6 +1818,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,0,0,0,0,0,0,2,0,0,2
 "Crafton Heights               ",2021,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",0,0,0,2,0,0,0,0,0,0,0,0,2
 "Crafton Heights               ",2020,13(a)(30),"Possession w/ Intent to Del. Controlled Substance",2,0,2,0,0,0,0,0,0,0,0,0,4
+"Crafton Heights               ",2023,9125,"Possible  Stolen Car Recovered",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Crafton Heights               ",2023,4706,"Prohib. on Expend. for Emission Insp Prog..",0,0,0,0,0,0,1,2,0,0,0,0,3
 "Crafton Heights               ",2020,4706,"Prohib. on Expend. for Emission Insp Prog..",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Crafton Heights               ",2022,3353,"Prohibitions in Specified Places.",0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -2442,7 +2443,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2023,3922,"Theft by Deception.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Elliott                       ",2022,3922,"Theft by Deception.",0,1,0,0,0,0,0,0,0,1,0,1,3
 "Elliott                       ",2021,3922,"Theft by Deception.",0,0,0,1,1,0,1,0,1,1,1,0,6
-"Elliott                       ",2023,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,1,2,1,2,3,4,2,0,0,0,0,20
+"Elliott                       ",2023,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",5,1,2,1,2,3,4,3,0,0,0,0,21
 "Elliott                       ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,0,0,1,3,2,5,1,3,3,1,20
 "Elliott                       ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",0,1,2,1,0,2,4,1,0,2,1,1,15
 "Elliott                       ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",3,2,0,1,0,2,0,0,2,0,0,1,11
@@ -2561,6 +2562,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2022,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Esplen                        ",2021,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",1,0,0,0,0,0,0,0,0,0,2,0,3
 "Esplen                        ",2021,3744,"Duty to Give Information and Render Aid",0,0,0,0,0,0,0,0,1,0,0,0,1
+"Esplen                        ",2023,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Esplen                        ",2022,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2021,4304(a)(1),"Endangering Welfare of Children - Course of Conduct Enhanced",0,0,0,0,0,1,0,0,1,0,0,0,2
 "Esplen                        ",2021,5121,Escape.,0,0,0,0,0,0,2,0,0,0,0,0,2
@@ -2701,11 +2703,13 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Esplen                        ",2023,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,0,2,0,0,0,0,0,0,2
 "Esplen                        ",2022,2701(b)(1),"Simple Assault - Fight or Scuffle Entered by Mutual Consent",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Esplen                        ",2022,2701(a)(1),"Simple Assault - Intent., Know., Reckless.Cause Bod. Injury",0,0,0,0,0,0,1,0,0,0,0,0,1
+"Esplen                        ",2023,2701,"Simple Assault.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Esplen                        ",2022,2701,"Simple Assault.",0,2,0,0,0,2,6,0,0,0,0,0,10
 "Esplen                        ",2021,2701,"Simple Assault.",0,0,0,2,1,0,0,0,0,0,4,0,7
 "Esplen                        ",2020,2701,"Simple Assault.",0,2,0,0,0,2,2,2,0,0,2,0,10
 "Esplen                        ",2021,627.02(b)(ii),"Smoking a small amount of marijuana in any public space",1,0,0,0,0,0,0,0,0,0,0,0,1
 "Esplen                        ",2021,3323,"Stop Signs and Yield Signs.",3,2,0,0,0,0,0,0,0,0,0,0,5
+"Esplen                        ",2023,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Esplen                        ",2021,2718(a)(1),"Strangulation - Applying Pressure to the Throat or Neck",0,0,0,2,0,0,0,0,0,0,2,0,4
 "Esplen                        ",2021,4910,"Tampering with or Fabricating Physical Evidence.",2,0,0,0,0,0,0,0,0,0,0,0,2
 "Esplen                        ",2022,2706,"Terroristic Threats.",0,0,0,0,1,0,3,0,2,0,0,0,6
@@ -2740,7 +2744,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Fairywood                     ",2022,9498,"302 (Mental)",0,0,0,0,1,0,1,1,0,0,0,0,3
 "Fairywood                     ",2021,9498,"302 (Mental)",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Fairywood                     ",2020,9498,"302 (Mental)",1,1,0,1,0,0,0,0,0,1,0,0,4
-"Fairywood                     ",2023,9999,"9999 - (Misc. Incident):",1,1,1,1,1,1,1,0,0,0,0,0,7
+"Fairywood                     ",2023,9999,"9999 - (Misc. Incident):",1,1,1,1,1,1,1,1,0,0,0,0,8
 "Fairywood                     ",2022,9999,"9999 - (Misc. Incident):",0,0,2,0,1,2,1,1,0,1,3,1,12
 "Fairywood                     ",2021,9999,"9999 - (Misc. Incident):",1,1,1,1,0,2,1,1,3,1,0,0,12
 "Fairywood                     ",2020,9999,"9999 - (Misc. Incident):",2,1,1,4,1,0,1,0,1,2,0,1,14
@@ -3453,10 +3457,10 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",0,2,0,0,0,0,3,0,0,1,0,3,9
 "Sheraden                      ",2021,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",4,0,0,0,0,0,2,3,0,0,0,1,10
 "Sheraden                      ",2020,6105(a)(1),"Persons not to possess, use, manufacture, control, sell or transfer firearms: Former convict enumerated in subsection (b)",2,0,0,2,0,0,2,0,0,0,0,0,6
-"Sheraden                      ",2023,9994,"PFA Service",3,3,4,3,4,7,4,5,0,0,0,0,33
+"Sheraden                      ",2023,9994,"PFA Service",3,3,4,3,4,7,4,6,0,0,0,0,34
 "Sheraden                      ",2022,9994,"PFA Service",0,0,0,0,0,1,2,3,3,3,5,1,18
 "Sheraden                      ",2020,9994,"PFA Service",0,0,0,0,1,0,1,0,0,0,0,0,2
-"Sheraden                      ",2023,9993,"PFA Service with Weapons Supplement",1,0,0,0,1,1,1,0,0,0,0,0,4
+"Sheraden                      ",2023,9993,"PFA Service with Weapons Supplement",1,0,0,0,1,1,1,1,0,0,0,0,5
 "Sheraden                      ",2022,9993,"PFA Service with Weapons Supplement",0,1,1,3,1,6,1,2,2,0,3,1,21
 "Sheraden                      ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,1,0,0,1,0,0,1,3
 "Sheraden                      ",2020,9993,"PFA Service with Weapons Supplement",1,1,0,1,0,1,0,0,0,0,0,0,4
@@ -3608,7 +3612,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",8,3,6,1,0,3,5,2,2,3,2,4,39
 "Sheraden                      ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,1,3,5,4,3,6,3,1,1,3,2,34
 "Sheraden                      ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,3,2,2,1,2,3,3,2,1,0,1,22
-"Sheraden                      ",2023,3921,"Theft by Unlawful Taking or Disposition.",5,1,3,2,7,5,7,3,0,0,0,0,33
+"Sheraden                      ",2023,3921,"Theft by Unlawful Taking or Disposition.",5,1,3,2,7,5,7,4,0,0,0,0,34
 "Sheraden                      ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,4,3,5,2,3,4,5,4,0,3,39
 "Sheraden                      ",2021,3921,"Theft by Unlawful Taking or Disposition.",3,1,1,1,3,1,1,6,3,2,2,1,25
 "Sheraden                      ",2020,3921,"Theft by Unlawful Taking or Disposition.",5,3,3,3,4,4,3,3,0,3,2,4,37
