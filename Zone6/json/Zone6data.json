@@ -5351,12 +5351,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "1",
+            "Aug": "2",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Banksville",
@@ -7042,12 +7042,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "1",
-            "Aug": "1",
+            "Aug": "2",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -7403,12 +7403,12 @@
             "May": "2",
             "Jun": "5",
             "Jul": "0",
-            "Aug": "2",
+            "Aug": "3",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "21"
+            "Count": "22"
         },
         {
             "Neighborhood": "Beechview",
@@ -35390,12 +35390,12 @@
             "May": "2",
             "Jun": "6",
             "Jul": "2",
-            "Aug": "2",
+            "Aug": "3",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "30"
+            "Count": "31"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -42325,12 +42325,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "1",
-            "Aug": "1",
+            "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "3"
         },
         {
             "Neighborhood": "Elliott",
@@ -44557,6 +44557,25 @@
         },
         {
             "Neighborhood": "Elliott",
+            "Year": "2023",
+            "Section": "631.02",
+            "Description": "Quarantine of Biting Animal",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "1",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Elliott",
             "Year": "2022",
             "Section": "3925",
             "Description": "Receiving Stolen Property.",
@@ -45754,25 +45773,6 @@
         },
         {
             "Neighborhood": "Elliott",
-            "Year": "2023",
-            "Section": "2709.2",
-            "Description": "Stalking Conduct or Repeatedly Communicates",
-            "Jan": "0",
-            "Feb": "0",
-            "Mar": "0",
-            "Apr": "0",
-            "May": "0",
-            "Jun": "0",
-            "Jul": "0",
-            "Aug": "1",
-            "Sep": "0",
-            "Oct": "0",
-            "Nov": "0",
-            "Dec": "0",
-            "Count": "1"
-        },
-        {
-            "Neighborhood": "Elliott",
             "Year": "2022",
             "Section": "3323",
             "Description": "Stop Signs and Yield Signs.",
@@ -45954,12 +45954,12 @@
             "May": "0",
             "Jun": "1",
             "Jul": "0",
-            "Aug": "1",
+            "Aug": "0",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "4"
         },
         {
             "Neighborhood": "Elliott",
@@ -51806,12 +51806,12 @@
             "May": "1",
             "Jun": "1",
             "Jul": "1",
-            "Aug": "1",
+            "Aug": "2",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Fairywood",
@@ -59083,12 +59083,12 @@
             "May": "1",
             "Jun": "3",
             "Jul": "2",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Sheraden",
@@ -69457,12 +69457,12 @@
             "May": "0",
             "Jun": "0",
             "Jul": "1",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "West End",
