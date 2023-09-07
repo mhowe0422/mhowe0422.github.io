@@ -5143,11 +5143,11 @@
             "Jun": "0",
             "Jul": "1",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Banksville",
@@ -6739,11 +6739,11 @@
             "Jun": "1",
             "Jul": "2",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Beechview",
@@ -14909,11 +14909,11 @@
             "Jun": "1",
             "Jul": "5",
             "Aug": "8",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "20"
+            "Count": "21"
         },
         {
             "Neighborhood": "Beechview",
@@ -20779,12 +20779,12 @@
             "May": "0",
             "Jun": "2",
             "Jul": "1",
-            "Aug": "4",
+            "Aug": "5",
             "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Brookline",
@@ -21464,11 +21464,11 @@
             "Jun": "0",
             "Jul": "2",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -24960,11 +24960,11 @@
             "Jun": "6",
             "Jul": "3",
             "Aug": "6",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "38"
+            "Count": "39"
         },
         {
             "Neighborhood": "Brookline",
@@ -25435,11 +25435,11 @@
             "Jun": "3",
             "Jul": "3",
             "Aug": "5",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "20"
+            "Count": "21"
         },
         {
             "Neighborhood": "Brookline",
@@ -27639,11 +27639,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Chartiers City",
@@ -28968,12 +28968,12 @@
             "May": "1",
             "Jun": "6",
             "Jul": "1",
-            "Aug": "1",
+            "Aug": "2",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "25"
+            "Count": "26"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -58989,11 +58989,11 @@
             "Jun": "9",
             "Jul": "3",
             "Aug": "4",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "50"
+            "Count": "51"
         },
         {
             "Neighborhood": "Sheraden",
@@ -65582,11 +65582,11 @@
             "Jun": "7",
             "Jul": "4",
             "Aug": "7",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "37"
+            "Count": "38"
         },
         {
             "Neighborhood": "Sheraden",
@@ -67481,12 +67481,12 @@
             "May": "9",
             "Jun": "6",
             "Jul": "5",
-            "Aug": "3",
+            "Aug": "4",
             "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "46"
+            "Count": "47"
         },
         {
             "Neighborhood": "Sheraden",
@@ -68508,11 +68508,11 @@
             "Jun": "5",
             "Jul": "7",
             "Aug": "6",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "35"
+            "Count": "36"
         },
         {
             "Neighborhood": "Sheraden",
@@ -73200,12 +73200,12 @@
             "May": "1",
             "Jun": "0",
             "Jul": "0",
-            "Aug": "0",
+            "Aug": "1",
             "Sep": "0",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "West End",
@@ -81224,6 +81224,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "2"
+        },
+        {
+            "Neighborhood": "Windgap",
+            "Year": "2023",
+            "Section": "9491",
+            "Description": "Industrial Accident",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Windgap",
