@@ -13,11 +13,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "1",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Banksville",
@@ -5808,11 +5808,11 @@
             "Jun": "2",
             "Jul": "2",
             "Aug": "4",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Beechview",
@@ -7062,11 +7062,11 @@
             "Jun": "0",
             "Jul": "1",
             "Aug": "2",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Beechview",
@@ -7423,11 +7423,11 @@
             "Jun": "5",
             "Jul": "0",
             "Aug": "3",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "23"
+            "Count": "24"
         },
         {
             "Neighborhood": "Beechview",
@@ -15745,11 +15745,11 @@
             "Jun": "4",
             "Jul": "1",
             "Aug": "5",
-            "Sep": "3",
+            "Sep": "4",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "30"
+            "Count": "31"
         },
         {
             "Neighborhood": "Brookline",
@@ -15916,11 +15916,11 @@
             "Jun": "1",
             "Jul": "1",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "11"
+            "Count": "12"
         },
         {
             "Neighborhood": "Brookline",
@@ -25815,11 +25815,11 @@
             "Jun": "3",
             "Jul": "3",
             "Aug": "20",
-            "Sep": "0",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "48"
+            "Count": "51"
         },
         {
             "Neighborhood": "Brookline",
@@ -38773,11 +38773,11 @@
             "Jun": "2",
             "Jul": "5",
             "Aug": "5",
-            "Sep": "0",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "25"
+            "Count": "27"
         },
         {
             "Neighborhood": "Elliott",
@@ -40445,11 +40445,11 @@
             "Jun": "1",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Elliott",
@@ -67216,11 +67216,11 @@
             "Jun": "0",
             "Jul": "1",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Sheraden",
@@ -67862,11 +67862,11 @@
             "Jun": "4",
             "Jul": "4",
             "Aug": "3",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "28"
+            "Count": "29"
         },
         {
             "Neighborhood": "Sheraden",
@@ -68147,11 +68147,11 @@
             "Jun": "1",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Sheraden",
@@ -68565,11 +68565,11 @@
             "Jun": "5",
             "Jul": "7",
             "Aug": "6",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "36"
+            "Count": "37"
         },
         {
             "Neighborhood": "Sheraden",
@@ -72289,11 +72289,11 @@
             "Jun": "5",
             "Jul": "10",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "24"
+            "Count": "25"
         },
         {
             "Neighborhood": "West End",
@@ -76952,6 +76952,25 @@
         },
         {
             "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "9123",
+            "Description": "Miscellaneous Fire Other Investigation to Continue",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Westwood",
             "Year": "2021",
             "Section": "9123",
             "Description": "Miscellaneous Fire Other Investigation to Continue",
@@ -77006,6 +77025,25 @@
             "Nov": "1",
             "Dec": "1",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "029",
+            "Description": "Missing Juvenile",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
