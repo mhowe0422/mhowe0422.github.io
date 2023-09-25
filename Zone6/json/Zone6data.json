@@ -6055,11 +6055,11 @@
             "Jun": "2",
             "Jul": "0",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Beechview",
@@ -18709,11 +18709,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -18804,11 +18804,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -19241,11 +19241,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -22585,11 +22585,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -23535,11 +23535,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Brookline",
@@ -23806,6 +23806,25 @@
             "Nov": "1",
             "Dec": "1",
             "Count": "7"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "601.16",
+            "Description": "Public Urination And Defecation",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Brookline",
@@ -24181,11 +24200,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Brookline",
@@ -24238,11 +24257,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -24474,6 +24493,25 @@
         },
         {
             "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "7513",
+            "Description": "Restriction on Alcoholic Beverages - Open Container",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
             "Year": "2020",
             "Section": "7513",
             "Description": "Restriction on Alcoholic Beverages - Open Container",
@@ -24486,6 +24524,25 @@
             "Jul": "0",
             "Aug": "1",
             "Sep": "0",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "3809(a)",
+            "Description": "Restriction on Alcoholic Beverages in Vehicle",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
@@ -25188,11 +25245,11 @@
             "Jun": "6",
             "Jul": "3",
             "Aug": "6",
-            "Sep": "7",
+            "Sep": "8",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "42"
+            "Count": "43"
         },
         {
             "Neighborhood": "Brookline",
@@ -25520,6 +25577,44 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2023",
+            "Section": "3351",
+            "Description": "Stop, Stand and Park Outside Bus. and Res.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2023",
+            "Section": "3710",
+            "Description": "Stopping at Intersection or Crossing to Prevent Obstruction",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2023",
             "Section": "2718(a)(1)",
             "Description": "Strangulation - Applying Pressure to the Throat or Neck",
             "Jan": "1",
@@ -25663,11 +25758,11 @@
             "Jun": "3",
             "Jul": "3",
             "Aug": "5",
-            "Sep": "4",
+            "Sep": "5",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "24"
+            "Count": "25"
         },
         {
             "Neighborhood": "Brookline",
@@ -26261,6 +26356,25 @@
         {
             "Neighborhood": "Brookline",
             "Year": "2023",
+            "Section": "6321(c)(2)",
+            "Description": "TSEI(M2)trnsmit distrib pub dissem a visual depiction of any minor in a state of nudity w\/o knowledge\/consent of depicted minor",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Brookline",
+            "Year": "2023",
             "Section": "3334",
             "Description": "Turning Movements and Required Signals.",
             "Jan": "0",
@@ -26271,11 +26385,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -36816,11 +36930,11 @@
             "Jun": "2",
             "Jul": "1",
             "Aug": "2",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -59369,11 +59483,11 @@
             "Jun": "9",
             "Jul": "3",
             "Aug": "4",
-            "Sep": "7",
+            "Sep": "8",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "56"
+            "Count": "57"
         },
         {
             "Neighborhood": "Sheraden",
@@ -60319,11 +60433,11 @@
             "Jun": "1",
             "Jul": "2",
             "Aug": "2",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Sheraden",
@@ -64352,6 +64466,25 @@
             "Nov": "1",
             "Dec": "0",
             "Count": "13"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "3307",
+            "Description": "Institutional Vandalism.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -68850,11 +68983,11 @@
             "Jun": "5",
             "Jul": "6",
             "Aug": "6",
-            "Sep": "4",
+            "Sep": "5",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "28"
+            "Count": "29"
         },
         {
             "Neighborhood": "Sheraden",
@@ -72650,11 +72783,11 @@
             "Jun": "5",
             "Jul": "10",
             "Aug": "0",
-            "Sep": "3",
+            "Sep": "4",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "27"
+            "Count": "28"
         },
         {
             "Neighborhood": "West End",
