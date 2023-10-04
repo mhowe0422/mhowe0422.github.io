@@ -1267,11 +1267,11 @@
             "Jun": "1",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Banksville",
@@ -5865,11 +5865,11 @@
             "Jun": "2",
             "Jul": "2",
             "Aug": "4",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "Beechview",
@@ -5941,11 +5941,11 @@
             "Jun": "4",
             "Jul": "3",
             "Aug": "5",
-            "Sep": "7",
+            "Sep": "9",
             "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "45"
+            "Count": "47"
         },
         {
             "Neighborhood": "Beechview",
@@ -13986,6 +13986,25 @@
         },
         {
             "Neighborhood": "Beechview",
+            "Year": "2023",
+            "Section": "3929",
+            "Description": "Retail Theft.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Beechview",
             "Year": "2021",
             "Section": "3929",
             "Description": "Retail Theft.",
@@ -16923,11 +16942,11 @@
             "Jun": "3",
             "Jul": "3",
             "Aug": "3",
-            "Sep": "4",
+            "Sep": "5",
             "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "23"
+            "Count": "24"
         },
         {
             "Neighborhood": "Brookline",
@@ -22034,11 +22053,11 @@
             "Jun": "1",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -25302,8 +25321,8 @@
             "Jun": "6",
             "Jul": "3",
             "Aug": "6",
-            "Sep": "10",
-            "Oct": "0",
+            "Sep": "9",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "45"
@@ -26138,11 +26157,11 @@
             "Jun": "3",
             "Jul": "3",
             "Aug": "19",
-            "Sep": "6",
+            "Sep": "5",
             "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "54"
+            "Count": "53"
         },
         {
             "Neighborhood": "Brookline",
@@ -30717,11 +30736,11 @@
             "Jun": "1",
             "Jul": "3",
             "Aug": "6",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "19"
+            "Count": "20"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -32903,10 +32922,10 @@
             "Jul": "1",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -33225,11 +33244,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -36114,10 +36133,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -36684,10 +36703,10 @@
             "Jul": "0",
             "Aug": "2",
             "Sep": "3",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "12"
+            "Count": "13"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -39723,11 +39742,11 @@
             "Jun": "1",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Elliott",
@@ -46697,10 +46716,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Elliott",
@@ -61421,11 +61440,11 @@
             "Jun": "0",
             "Jul": "2",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Sheraden",
@@ -69857,11 +69876,11 @@
             "Jun": "0",
             "Jul": "1",
             "Aug": "0",
-            "Sep": "1",
+            "Sep": "2",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "West End",
@@ -69933,11 +69952,11 @@
             "Jun": "2",
             "Jul": "1",
             "Aug": "1",
-            "Sep": "2",
+            "Sep": "3",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "15"
+            "Count": "16"
         },
         {
             "Neighborhood": "West End",
@@ -70446,8 +70465,8 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
+            "Sep": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -71434,8 +71453,8 @@
             "Jun": "3",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
+            "Sep": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "7"
@@ -71814,8 +71833,8 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
+            "Sep": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -73524,8 +73543,8 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
+            "Sep": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "3"
@@ -73581,8 +73600,8 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
+            "Sep": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -74626,8 +74645,8 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
+            "Sep": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -74664,8 +74683,8 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "1",
-            "Oct": "0",
+            "Sep": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
