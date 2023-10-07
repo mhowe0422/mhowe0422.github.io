@@ -3262,11 +3262,11 @@
             "Jun": "0",
             "Jul": "2",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Banksville",
@@ -4947,14 +4947,14 @@
             "Description": "Simple Assault.",
             "Jan": "1",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "0",
             "Apr": "0",
             "May": "1",
             "Jun": "0",
             "Jul": "2",
             "Aug": "3",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "8"
@@ -5099,14 +5099,14 @@
             "Description": "Strangulation - Blocking the Nose and Mouth of the Person",
             "Jan": "0",
             "Feb": "0",
-            "Mar": "1",
+            "Mar": "0",
             "Apr": "0",
             "May": "0",
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -6303,10 +6303,10 @@
             "Jul": "4",
             "Aug": "3",
             "Sep": "3",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "28"
+            "Count": "29"
         },
         {
             "Neighborhood": "Beechview",
@@ -11546,11 +11546,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -15138,10 +15138,10 @@
             "Jul": "5",
             "Aug": "9",
             "Sep": "2",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "23"
+            "Count": "24"
         },
         {
             "Neighborhood": "Beechview",
@@ -15993,10 +15993,10 @@
             "Jul": "8",
             "Aug": "7",
             "Sep": "4",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "68"
+            "Count": "69"
         },
         {
             "Neighborhood": "Brookline",
@@ -18101,11 +18101,11 @@
             "Jun": "1",
             "Jul": "2",
             "Aug": "1",
-            "Sep": "4",
-            "Oct": "0",
+            "Sep": "5",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "16"
+            "Count": "18"
         },
         {
             "Neighborhood": "Brookline",
@@ -29539,11 +29539,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "0",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -32864,11 +32864,11 @@
             "Jun": "0",
             "Jul": "0",
             "Aug": "1",
-            "Sep": "0",
+            "Sep": "1",
             "Oct": "0",
             "Nov": "0",
             "Dec": "0",
-            "Count": "4"
+            "Count": "5"
         },
         {
             "Neighborhood": "Crafton Heights",
@@ -39248,11 +39248,11 @@
             "Jun": "2",
             "Jul": "5",
             "Aug": "5",
-            "Sep": "4",
-            "Oct": "2",
+            "Sep": "5",
+            "Oct": "3",
             "Nov": "0",
             "Dec": "0",
-            "Count": "31"
+            "Count": "33"
         },
         {
             "Neighborhood": "Elliott",
@@ -54392,10 +54392,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Fairywood",
@@ -56825,6 +56825,25 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Oakwood",
+            "Year": "2023",
+            "Section": "4101",
+            "Description": "Forgery.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -66362,10 +66381,10 @@
             "Jul": "4",
             "Aug": "7",
             "Sep": "7",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "42"
+            "Count": "43"
         },
         {
             "Neighborhood": "Sheraden",
@@ -68584,11 +68603,11 @@
             "Jun": "4",
             "Jul": "4",
             "Aug": "3",
-            "Sep": "4",
-            "Oct": "0",
+            "Sep": "5",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "31"
+            "Count": "33"
         },
         {
             "Neighborhood": "Sheraden",
@@ -68931,6 +68950,25 @@
             "Nov": "0",
             "Dec": "0",
             "Count": "12"
+        },
+        {
+            "Neighborhood": "Sheraden",
+            "Year": "2023",
+            "Section": "2718(a)(2)",
+            "Description": "Strangulation - Blocking the Nose and Mouth of the Person",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Sheraden",
@@ -73813,6 +73851,25 @@
             "Oct": "0",
             "Nov": "0",
             "Dec": "1",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "West End",
+            "Year": "2023",
+            "Section": "1786",
+            "Description": "Required Financial Responsibility.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "1",
+            "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
             "Count": "1"
         },
         {
