@@ -15062,10 +15062,10 @@
             "Jul": "0",
             "Aug": "1",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "8"
+            "Count": "9"
         },
         {
             "Neighborhood": "Beechview",
@@ -19736,10 +19736,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -20439,10 +20439,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Brookline",
@@ -20496,10 +20496,10 @@
             "Jul": "0",
             "Aug": "3",
             "Sep": "2",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "9"
+            "Count": "10"
         },
         {
             "Neighborhood": "Brookline",
@@ -25455,10 +25455,10 @@
             "Jul": "3",
             "Aug": "6",
             "Sep": "9",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "45"
+            "Count": "46"
         },
         {
             "Neighborhood": "Brookline",
@@ -25835,10 +25835,10 @@
             "Jul": "3",
             "Aug": "0",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Brookline",
@@ -25968,10 +25968,10 @@
             "Jul": "3",
             "Aug": "5",
             "Sep": "7",
-            "Oct": "2",
+            "Oct": "3",
             "Nov": "0",
             "Dec": "0",
-            "Count": "29"
+            "Count": "30"
         },
         {
             "Neighborhood": "Brookline",
@@ -48699,6 +48699,25 @@
         },
         {
             "Neighborhood": "Esplen",
+            "Year": "2023",
+            "Section": "3503(b.1)",
+            "Description": "Criminal Trespass - Simple Trespasser",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
             "Year": "2020",
             "Section": "5511",
             "Description": "Cruelty to Animals.",
@@ -50175,6 +50194,25 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Esplen",
+            "Year": "2023",
+            "Section": "5506",
+            "Description": "Loitering and Prowling at Night",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -56729,10 +56767,10 @@
             "Jul": "0",
             "Aug": "0",
             "Sep": "1",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Oakwood",
@@ -57623,6 +57661,25 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
+            "Nov": "0",
+            "Dec": "0",
+            "Count": "1"
+        },
+        {
+            "Neighborhood": "Oakwood",
+            "Year": "2023",
+            "Section": "5506",
+            "Description": "Loitering and Prowling at Night",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
             "Count": "1"
@@ -61707,10 +61764,10 @@
             "Jul": "1",
             "Aug": "2",
             "Sep": "4",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "14"
+            "Count": "15"
         },
         {
             "Neighborhood": "Sheraden",
@@ -61783,10 +61840,10 @@
             "Jul": "4",
             "Aug": "4",
             "Sep": "12",
-            "Oct": "5",
+            "Oct": "6",
             "Nov": "0",
             "Dec": "0",
-            "Count": "50"
+            "Count": "51"
         },
         {
             "Neighborhood": "Sheraden",
@@ -62144,10 +62201,10 @@
             "Jul": "0",
             "Aug": "1",
             "Sep": "1",
-            "Oct": "2",
+            "Oct": "3",
             "Nov": "0",
             "Dec": "0",
-            "Count": "6"
+            "Count": "7"
         },
         {
             "Neighborhood": "Sheraden",
@@ -69687,10 +69744,10 @@
             "Jul": "7",
             "Aug": "6",
             "Sep": "4",
-            "Oct": "1",
+            "Oct": "2",
             "Nov": "0",
             "Dec": "0",
-            "Count": "40"
+            "Count": "41"
         },
         {
             "Neighborhood": "Sheraden",
@@ -77686,10 +77743,10 @@
             "Jul": "0",
             "Aug": "1",
             "Sep": "0",
-            "Oct": "0",
+            "Oct": "1",
             "Nov": "0",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Westwood",
