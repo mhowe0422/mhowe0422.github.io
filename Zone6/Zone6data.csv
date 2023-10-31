@@ -1570,7 +1570,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,9498,"302 (Mental)",1,1,2,1,0,1,0,0,3,1,0,1,11
 "Crafton Heights               ",2021,9498,"302 (Mental)",0,3,2,1,0,2,1,2,1,1,0,2,15
 "Crafton Heights               ",2020,9498,"302 (Mental)",1,1,2,0,3,0,0,0,0,1,0,2,10
-"Crafton Heights               ",2023,9999,"9999 - (Misc. Incident):",5,3,6,2,1,6,1,2,3,3,0,0,32
+"Crafton Heights               ",2023,9999,"9999 - (Misc. Incident):",5,3,6,2,1,6,1,2,3,4,0,0,33
 "Crafton Heights               ",2022,9999,"9999 - (Misc. Incident):",0,1,5,4,1,5,1,3,8,3,2,1,34
 "Crafton Heights               ",2021,9999,"9999 - (Misc. Incident):",3,7,2,2,2,4,2,3,4,4,1,5,39
 "Crafton Heights               ",2020,9999,"9999 - (Misc. Incident):",4,5,6,1,1,3,3,1,3,8,4,6,45
@@ -2118,7 +2118,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2022,2702,"Aggravated Assault.",2,0,0,2,0,3,1,1,2,4,0,0,15
 "Elliott                       ",2021,2702,"Aggravated Assault.",2,0,0,1,0,0,0,0,2,0,2,0,7
 "Elliott                       ",2020,2702,"Aggravated Assault.",0,0,0,0,1,1,0,3,2,3,1,0,11
-"Elliott                       ",2023,9497,"Aided Case",0,0,1,1,2,1,0,0,3,1,0,0,9
+"Elliott                       ",2023,9497,"Aided Case",0,0,1,1,2,1,0,0,3,2,0,0,10
 "Elliott                       ",2022,9497,"Aided Case",0,0,0,1,0,1,2,2,0,1,0,0,7
 "Elliott                       ",2021,9497,"Aided Case",0,1,0,2,1,0,1,0,0,1,0,2,8
 "Elliott                       ",2020,9497,"Aided Case",1,0,1,0,1,0,1,0,0,0,2,1,7
@@ -3079,7 +3079,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Oakwood                       ",2020,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Oakwood                       ",2023,9994,"PFA Service",0,0,5,0,1,0,0,0,3,0,0,0,9
 "Oakwood                       ",2022,9994,"PFA Service",0,0,0,0,0,1,0,1,0,0,0,0,2
-"Oakwood                       ",2023,9993,"PFA Service with Weapons Supplement",0,0,0,0,1,0,0,0,0,0,0,0,1
+"Oakwood                       ",2023,9993,"PFA Service with Weapons Supplement",0,0,0,0,1,0,0,0,0,1,0,0,2
 "Oakwood                       ",2021,9993,"PFA Service with Weapons Supplement",0,0,0,0,0,0,1,1,0,1,0,0,3
 "Oakwood                       ",2021,13(a)(16),"Possession of Controlled Substance",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Oakwood                       ",2020,13(a)(16),"Possession of Controlled Substance",0,0,0,0,0,0,0,0,2,0,0,0,2
@@ -3185,7 +3185,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Ridgemont                     ",2023,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Ridgemont                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",0,0,0,1,0,0,0,0,0,0,0,0,1
 "Ridgemont                     ",2020,7611,"Unlawful Use of Computer",0,0,0,0,0,0,0,2,0,0,0,0,2
-"Sheraden                      ",2023,9498,"302 (Mental)",0,0,4,1,2,2,4,1,3,1,0,0,18
+"Sheraden                      ",2023,9498,"302 (Mental)",0,0,4,1,2,2,4,1,3,2,0,0,19
 "Sheraden                      ",2022,9498,"302 (Mental)",0,0,1,2,3,2,2,2,0,0,1,1,14
 "Sheraden                      ",2021,9498,"302 (Mental)",3,3,0,3,5,5,3,0,2,0,0,1,25
 "Sheraden                      ",2020,9498,"302 (Mental)",2,2,1,0,0,2,0,1,0,1,1,2,12
@@ -3278,7 +3278,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,0,0,0,0,1,0,0,0,1,0,2
 "Sheraden                      ",2021,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,3,0,0,0,0,0,0,0,0,0,3
 "Sheraden                      ",2020,3304(a)(1),"CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means",0,0,1,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2023,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,0,2,2,1,1,2,4,1,0,0,15
+"Sheraden                      ",2023,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,0,2,2,1,1,2,4,2,0,0,16
 "Sheraden                      ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,0,0,3,0,2,0,0,1,4,2,15
 "Sheraden                      ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,0,0,0,2,2,2,5,0,0,2,15
 "Sheraden                      ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,1,1,0,1,0,1,0,2,1,1,11
@@ -3450,7 +3450,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2021,4120,"Identity Theft",0,0,0,3,0,0,4,0,5,1,0,1,14
 "Sheraden                      ",2020,4120,"Identity Theft",0,0,0,1,1,1,1,1,0,2,0,1,8
 "Sheraden                      ",2022,3746,"Immediate Notice of Accident to Police Department",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Sheraden                      ",2023,9093,"Indirect Criminal Contempt",0,2,2,2,2,1,1,4,2,1,0,0,17
+"Sheraden                      ",2023,9093,"Indirect Criminal Contempt",0,2,2,2,2,1,1,4,2,2,0,0,18
 "Sheraden                      ",2022,9093,"Indirect Criminal Contempt",2,0,1,2,0,0,1,3,1,0,2,2,14
 "Sheraden                      ",2021,9093,"Indirect Criminal Contempt",1,0,2,3,0,2,5,3,2,0,0,0,18
 "Sheraden                      ",2020,9093,"Indirect Criminal Contempt",0,1,2,0,0,1,1,4,3,2,2,0,16
@@ -3489,7 +3489,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2023,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,0,0,0,0,0,0,0,1,0,0,1
 "Sheraden                      ",2022,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,1,0,0,0,0,0,0,0,0,0,0,1
 "Sheraden                      ",2021,9122,"Miscellaneous Fire Vehicle Investigation to Continue",0,0,1,0,0,1,0,0,0,0,0,0,2
-"Sheraden                      ",2023,9129,"Miscellaneous Investigation",0,0,0,1,0,0,1,2,0,1,0,0,5
+"Sheraden                      ",2023,9129,"Miscellaneous Investigation",0,0,0,1,0,0,1,2,0,2,0,0,6
 "Sheraden                      ",2022,9129,"Miscellaneous Investigation",0,0,2,0,1,0,1,3,0,2,1,0,10
 "Sheraden                      ",2021,9129,"Miscellaneous Investigation",2,2,0,2,1,1,2,1,2,0,0,0,13
 "Sheraden                      ",2020,9129,"Miscellaneous Investigation",0,1,1,0,0,2,0,0,0,0,0,0,4
@@ -3644,7 +3644,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Sheraden                      ",2021,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,0,1,1,0,1,0,0,0,0,3
 "Sheraden                      ",2020,6501(a)(1),"Scattering Rubbish; Any waste, dangerous or detrimental substance upon public property or waters",0,0,0,1,0,1,0,0,0,0,0,0,2
-"Sheraden                      ",2023,8106,"Shots Fired",3,6,9,4,9,6,5,4,2,2,0,0,50
+"Sheraden                      ",2023,8106,"Shots Fired",3,6,9,4,9,6,5,4,2,3,0,0,51
 "Sheraden                      ",2022,8106,"Shots Fired",11,7,10,16,9,5,13,4,5,7,3,6,96
 "Sheraden                      ",2021,8106,"Shots Fired",6,15,4,13,10,8,9,8,14,5,11,10,113
 "Sheraden                      ",2020,8106,"Shots Fired",1,2,6,3,7,3,10,12,4,3,4,8,63
