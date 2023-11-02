@@ -848,7 +848,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2023,4524,"Windshield Obstructions and Wipers.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Beechview                     ",2021,4524,"Windshield Obstructions and Wipers.",0,2,0,0,0,0,0,0,0,0,0,0,2
 "Beechview                     ",2020,4524,"Windshield Obstructions and Wipers.",0,0,0,0,1,1,0,2,0,0,0,0,4
-"Brookline                     ",2023,9498,"302 (Mental)",2,4,5,3,3,4,1,5,5,3,0,0,35
+"Brookline                     ",2023,9498,"302 (Mental)",2,4,5,3,3,4,1,5,5,3,1,0,36
 "Brookline                     ",2022,9498,"302 (Mental)",0,3,2,3,2,1,2,1,8,5,3,3,33
 "Brookline                     ",2021,9498,"302 (Mental)",0,0,3,2,3,3,2,3,0,3,3,0,22
 "Brookline                     ",2020,9498,"302 (Mental)",4,0,5,2,1,0,5,3,1,0,0,0,21
@@ -1391,7 +1391,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,2,2,3,4,5,7,14,8,6,4,57
 "Brookline                     ",2021,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",1,1,0,0,2,3,4,4,7,1,2,3,28
 "Brookline                     ",2020,3921(a),"Theft by Unlawful Taking or Disposition - Movable item",2,5,1,0,0,2,4,2,5,2,1,0,24
-"Brookline                     ",2023,3921,"Theft by Unlawful Taking or Disposition.",4,1,6,5,5,4,3,4,4,2,0,0,38
+"Brookline                     ",2023,3921,"Theft by Unlawful Taking or Disposition.",4,1,6,5,5,4,3,4,4,3,0,0,39
 "Brookline                     ",2022,3921,"Theft by Unlawful Taking or Disposition.",3,3,3,6,5,2,4,2,3,3,1,6,41
 "Brookline                     ",2021,3921,"Theft by Unlawful Taking or Disposition.",2,2,3,3,5,2,13,4,2,3,1,3,43
 "Brookline                     ",2020,3921,"Theft by Unlawful Taking or Disposition.",2,4,1,1,2,2,5,3,3,3,2,3,31
@@ -1570,7 +1570,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Crafton Heights               ",2022,9498,"302 (Mental)",1,1,2,1,0,1,0,0,3,1,0,1,11
 "Crafton Heights               ",2021,9498,"302 (Mental)",0,3,2,1,0,2,1,2,1,1,0,2,15
 "Crafton Heights               ",2020,9498,"302 (Mental)",1,1,2,0,3,0,0,0,0,1,0,2,10
-"Crafton Heights               ",2023,9999,"9999 - (Misc. Incident):",5,3,6,2,1,6,1,2,3,4,0,0,33
+"Crafton Heights               ",2023,9999,"9999 - (Misc. Incident):",5,3,6,2,1,6,1,2,3,5,0,0,34
 "Crafton Heights               ",2022,9999,"9999 - (Misc. Incident):",0,1,5,4,1,5,1,3,8,3,2,1,34
 "Crafton Heights               ",2021,9999,"9999 - (Misc. Incident):",3,7,2,2,2,4,2,3,4,4,1,5,39
 "Crafton Heights               ",2020,9999,"9999 - (Misc. Incident):",4,5,6,1,1,3,3,1,3,8,4,6,45
@@ -2179,7 +2179,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Elliott                       ",2020,3503(b.1),"Criminal Trespass - Simple Trespasser",0,0,1,0,0,0,0,0,0,0,0,0,1
 "Elliott                       ",2022,5533(a),"Cruelty to animals - Intentionally, knowingly or recklessly illtreats, overloads, beats, abandons or abuses an animal ",0,0,0,0,0,0,0,0,0,0,0,1,1
 "Elliott                       ",2021,5511,"Cruelty to Animals.",0,0,0,0,0,0,0,0,1,0,0,0,1
-"Elliott                       ",2023,9496,"Dead on Arrival (DOA)",0,0,2,1,0,1,0,0,1,1,0,0,6
+"Elliott                       ",2023,9496,"Dead on Arrival (DOA)",0,0,2,1,0,1,0,0,1,2,2,0,9
 "Elliott                       ",2022,9496,"Dead on Arrival (DOA)",1,1,0,0,0,0,0,1,0,0,0,0,3
 "Elliott                       ",2021,9496,"Dead on Arrival (DOA)",0,0,0,1,1,1,0,0,1,0,0,0,4
 "Elliott                       ",2020,9496,"Dead on Arrival (DOA)",0,0,0,1,0,0,1,0,0,1,0,0,3
@@ -3208,7 +3208,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,0,1,3,2,1,1,2,1,4,0,15
 "Sheraden                      ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",0,0,1,0,1,3,0,1,2,0,0,1,9
 "Sheraden                      ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",0,2,0,2,2,1,1,3,3,1,0,3,18
-"Sheraden                      ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,2,3,2,1,3,2,1,2,1,0,0,17
+"Sheraden                      ",2023,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,2,3,2,1,3,2,1,2,1,1,0,18
 "Sheraden                      ",2022,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,1,8,1,2,1,2,5,0,6,0,2,31
 "Sheraden                      ",2021,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",0,1,3,2,3,3,3,5,0,2,0,3,25
 "Sheraden                      ",2020,3745,"Accidents Involving Damage to Unattended Veh.or Prop.",3,2,2,0,2,7,8,2,9,1,4,1,41
