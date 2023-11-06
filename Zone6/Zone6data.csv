@@ -866,7 +866,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2021,9018,"Accidental Fire",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Brookline                     ",2020,9018,"Accidental Fire",0,1,0,1,0,0,1,0,0,0,0,0,3
 "Brookline                     ",2020,7728,"Accidents and Accident Reports.",1,0,0,0,0,0,0,0,0,0,0,0,1
-"Brookline                     ",2023,3743,"Accidents Involving Damage to Attended Veh. or Property",4,6,4,0,1,2,3,5,2,1,0,0,28
+"Brookline                     ",2023,3743,"Accidents Involving Damage to Attended Veh. or Property",4,6,4,0,1,2,3,5,2,1,1,0,29
 "Brookline                     ",2022,3743,"Accidents Involving Damage to Attended Veh. or Property",2,4,4,4,4,4,2,2,3,6,2,2,39
 "Brookline                     ",2021,3743,"Accidents Involving Damage to Attended Veh. or Property",3,1,1,2,1,3,1,3,0,1,1,0,17
 "Brookline                     ",2020,3743,"Accidents Involving Damage to Attended Veh. or Property",5,5,2,3,2,2,1,4,4,2,2,6,38
@@ -1043,7 +1043,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2020,3802(c),"DUI - Highest Rate of Alcohol - BAC >= .16%",0,0,0,0,0,0,0,0,0,0,0,2,2
 "Brookline                     ",2022,3325,"Duty of Driver on Approach of Emergency Vehicle.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Brookline                     ",2020,4701,"Duty to Comply with Inspection Laws",0,0,2,0,0,0,0,0,0,0,0,0,2
-"Brookline                     ",2023,3744,"Duty to Give Information and Render Aid",1,0,1,0,0,1,0,0,1,0,0,0,4
+"Brookline                     ",2023,3744,"Duty to Give Information and Render Aid",1,0,1,0,0,1,0,0,1,0,1,0,5
 "Brookline                     ",2022,3744,"Duty to Give Information and Render Aid",1,1,0,3,1,0,0,0,1,2,0,1,10
 "Brookline                     ",2021,3744,"Duty to Give Information and Render Aid",0,0,0,0,0,1,0,0,0,0,0,0,1
 "Brookline                     ",2020,3744,"Duty to Give Information and Render Aid",0,5,0,1,0,0,0,0,2,0,1,3,12
@@ -1133,7 +1133,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2022,4120,"Identity Theft",5,5,2,6,3,1,2,2,3,0,0,0,29
 "Brookline                     ",2021,4120,"Identity Theft",0,2,39,7,7,3,18,6,3,1,2,1,89
 "Brookline                     ",2020,4120,"Identity Theft",1,1,2,0,2,4,0,0,2,2,0,1,15
-"Brookline                     ",2023,3746,"Immediate Notice of Accident to Police Department",4,0,0,0,0,0,0,0,1,0,0,0,5
+"Brookline                     ",2023,3746,"Immediate Notice of Accident to Police Department",4,0,0,0,0,0,0,0,1,0,1,0,6
 "Brookline                     ",2022,3746,"Immediate Notice of Accident to Police Department",1,1,0,2,1,0,0,0,0,0,2,0,7
 "Brookline                     ",2021,3746,"Immediate Notice of Accident to Police Department",2,0,0,0,0,0,0,0,0,2,0,0,4
 "Brookline                     ",2020,3746,"Immediate Notice of Accident to Police Department",0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -1266,7 +1266,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Brookline                     ",2023,3353,"Prohibitions in Specified Places.",0,0,0,0,0,0,0,0,2,0,0,0,2
 "Brookline                     ",2022,3353,"Prohibitions in Specified Places.",0,0,0,0,0,0,0,0,0,0,2,0,2
 "Brookline                     ",2020,3353,"Prohibitions in Specified Places.",0,0,0,0,0,1,0,0,0,0,0,0,1
-"Brookline                     ",2023,1785,"Proof of Financial Responsibility Following Accident.",3,1,1,0,0,0,0,0,1,0,0,0,6
+"Brookline                     ",2023,1785,"Proof of Financial Responsibility Following Accident.",3,1,1,0,0,0,0,0,1,0,1,0,7
 "Brookline                     ",2022,1785,"Proof of Financial Responsibility Following Accident.",1,3,0,1,0,0,0,0,0,0,0,0,5
 "Brookline                     ",2020,1785,"Proof of Financial Responsibility Following Accident.",0,0,0,0,0,0,0,2,0,0,0,0,2
 "Brookline                     ",2023,1784,"Proof of Financial Responsibility Following Violation.",0,0,0,0,2,0,0,0,0,0,0,0,2
@@ -3191,7 +3191,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,9498,"302 (Mental)",0,0,1,2,3,2,2,2,0,0,1,1,14
 "Sheraden                      ",2021,9498,"302 (Mental)",3,3,0,3,5,5,3,0,2,0,0,1,25
 "Sheraden                      ",2020,9498,"302 (Mental)",2,2,1,0,0,2,0,1,0,1,1,2,12
-"Sheraden                      ",2023,9999,"9999 - (Misc. Incident):",10,8,4,5,6,9,3,4,13,7,0,0,69
+"Sheraden                      ",2023,9999,"9999 - (Misc. Incident):",10,8,4,5,6,9,3,4,13,8,0,0,70
 "Sheraden                      ",2022,9999,"9999 - (Misc. Incident):",4,3,4,5,5,5,7,9,4,2,7,6,61
 "Sheraden                      ",2021,9999,"9999 - (Misc. Incident):",3,13,5,17,10,5,7,8,5,3,1,0,77
 "Sheraden                      ",2020,9999,"9999 - (Misc. Incident):",1,5,6,1,5,10,8,7,9,2,4,4,62
@@ -3284,7 +3284,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2022,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,0,0,3,0,2,0,0,1,4,2,15
 "Sheraden                      ",2021,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",1,1,0,0,0,2,2,2,5,0,0,2,15
 "Sheraden                      ",2020,3304(a)(5),"CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another",2,1,1,1,0,1,0,1,0,2,1,1,11
-"Sheraden                      ",2023,3304,"Criminal Mischief.",3,3,5,3,6,9,4,4,13,8,0,0,58
+"Sheraden                      ",2023,3304,"Criminal Mischief.",3,3,5,3,6,9,4,4,13,8,1,0,59
 "Sheraden                      ",2022,3304,"Criminal Mischief.",2,1,2,4,7,5,4,3,3,11,2,4,48
 "Sheraden                      ",2021,3304,"Criminal Mischief.",2,2,3,5,3,7,2,6,8,5,4,0,47
 "Sheraden                      ",2020,3304,"Criminal Mischief.",2,3,3,2,2,5,2,3,3,4,6,3,38
@@ -3577,6 +3577,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Sheraden                      ",2023,9125,"Possible  Stolen Car Recovered",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Sheraden                      ",2020,9125,"Possible  Stolen Car Recovered",0,0,0,0,0,0,1,0,0,0,0,0,1
 "Sheraden                      ",2022,4706,"Prohib. on Expend. for Emission Insp Prog..",2,0,0,0,0,0,0,0,0,0,0,0,2
+"Sheraden                      ",2023,3213,"Prohibited Acts.",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Sheraden                      ",2022,908,"Prohibited Offensive Weapons.",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Sheraden                      ",2021,908,"Prohibited Offensive Weapons.",0,0,2,0,0,0,0,0,0,0,0,0,2
 "Sheraden                      ",2020,908,"Prohibited Offensive Weapons.",0,0,0,0,0,0,0,2,0,0,0,0,2
@@ -4096,7 +4097,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2023,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,0,0,2,0,0,1,0,0,0,0,3
 "Westwood                      ",2022,1543,"Driving While Operating Privilege is Suspended or Revoked.",0,0,0,0,0,0,0,1,0,0,0,0,1
 "Westwood                      ",2021,1543,"Driving While Operating Privilege is Suspended or Revoked.",3,0,2,1,0,0,0,0,0,0,0,0,6
-"Westwood                      ",2023,3802(a)(1),"DUI - General Impairment",0,0,0,0,1,2,0,1,0,0,0,0,4
+"Westwood                      ",2023,3802(a)(1),"DUI - General Impairment",0,0,0,0,1,2,0,1,0,0,2,0,6
 "Westwood                      ",2022,3802(a)(1),"DUI - General Impairment",0,0,0,0,0,0,2,0,2,0,0,0,4
 "Westwood                      ",2021,3802(a)(1),"DUI - General Impairment",0,0,4,1,0,1,2,0,0,0,0,2,10
 "Westwood                      ",2020,3802(a)(1),"DUI - General Impairment",0,0,0,0,0,0,0,0,0,2,0,0,2
