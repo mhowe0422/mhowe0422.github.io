@@ -6798,9 +6798,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "1",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "10"
+            "Count": "11"
         },
         {
             "Neighborhood": "Beechview",
@@ -9629,9 +9629,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "2"
+            "Count": "3"
         },
         {
             "Neighborhood": "Beechview",
@@ -12403,9 +12403,9 @@
             "Aug": "0",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "3"
+            "Count": "4"
         },
         {
             "Neighborhood": "Beechview",
@@ -12631,9 +12631,9 @@
             "Aug": "3",
             "Sep": "4",
             "Oct": "1",
-            "Nov": "2",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "23"
+            "Count": "24"
         },
         {
             "Neighborhood": "Beechview",
@@ -12973,9 +12973,9 @@
             "Aug": "1",
             "Sep": "2",
             "Oct": "0",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "7"
+            "Count": "8"
         },
         {
             "Neighborhood": "Beechview",
@@ -13296,9 +13296,9 @@
             "Aug": "0",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -14512,9 +14512,9 @@
             "Aug": "1",
             "Sep": "3",
             "Oct": "4",
-            "Nov": "2",
+            "Nov": "3",
             "Dec": "0",
-            "Count": "26"
+            "Count": "27"
         },
         {
             "Neighborhood": "Beechview",
@@ -14816,9 +14816,9 @@
             "Aug": "1",
             "Sep": "1",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "5"
+            "Count": "6"
         },
         {
             "Neighborhood": "Beechview",
@@ -14987,9 +14987,9 @@
             "Aug": "2",
             "Sep": "1",
             "Oct": "2",
-            "Nov": "1",
+            "Nov": "2",
             "Dec": "0",
-            "Count": "13"
+            "Count": "14"
         },
         {
             "Neighborhood": "Beechview",
@@ -16070,9 +16070,9 @@
             "Aug": "7",
             "Sep": "4",
             "Oct": "4",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "72"
+            "Count": "73"
         },
         {
             "Neighborhood": "Brookline",
@@ -16412,9 +16412,9 @@
             "Aug": "3",
             "Sep": "2",
             "Oct": "4",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "34"
+            "Count": "35"
         },
         {
             "Neighborhood": "Brookline",
@@ -17780,9 +17780,9 @@
             "Aug": "1",
             "Sep": "2",
             "Oct": "5",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "36"
+            "Count": "37"
         },
         {
             "Neighborhood": "Brookline",
@@ -26083,9 +26083,9 @@
             "Aug": "5",
             "Sep": "7",
             "Oct": "4",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "31"
+            "Count": "32"
         },
         {
             "Neighborhood": "Brookline",
@@ -40561,9 +40561,9 @@
             "Aug": "1",
             "Sep": "0",
             "Oct": "0",
-            "Nov": "0",
+            "Nov": "1",
             "Dec": "0",
-            "Count": "1"
+            "Count": "2"
         },
         {
             "Neighborhood": "Elliott",
@@ -76341,6 +76341,25 @@
             "Nov": "2",
             "Dec": "0",
             "Count": "4"
+        },
+        {
+            "Neighborhood": "Westwood",
+            "Year": "2023",
+            "Section": "3502",
+            "Description": "Burglary.",
+            "Jan": "0",
+            "Feb": "0",
+            "Mar": "0",
+            "Apr": "0",
+            "May": "0",
+            "Jun": "0",
+            "Jul": "0",
+            "Aug": "0",
+            "Sep": "0",
+            "Oct": "0",
+            "Nov": "1",
+            "Dec": "0",
+            "Count": "1"
         },
         {
             "Neighborhood": "Westwood",
