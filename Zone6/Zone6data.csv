@@ -315,7 +315,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Beechview                     ",2022,9498,"302 (Mental)",1,0,2,0,3,0,2,3,1,1,0,1,14
 "Beechview                     ",2021,9498,"302 (Mental)",0,2,1,0,3,1,1,2,1,0,0,2,13
 "Beechview                     ",2020,9498,"302 (Mental)",3,1,1,3,1,3,1,2,0,1,1,2,19
-"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",7,5,2,5,6,4,3,5,10,7,0,0,54
+"Beechview                     ",2023,9999,"9999 - (Misc. Incident):",7,5,2,5,6,4,3,5,10,7,1,0,55
 "Beechview                     ",2022,9999,"9999 - (Misc. Incident):",5,10,8,7,4,6,3,4,8,4,9,5,73
 "Beechview                     ",2021,9999,"9999 - (Misc. Incident):",6,6,5,1,7,11,8,12,6,0,6,3,71
 "Beechview                     ",2020,9999,"9999 - (Misc. Incident):",4,4,5,4,3,5,11,8,9,7,4,7,71
@@ -4020,7 +4020,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "West End                      ",2020,3334,"Turning Movements and Required Signals.",0,0,0,0,0,0,0,0,0,0,0,1,1
 "West End                      ",2020,2902,"Unlawful Restraint.",0,0,0,0,0,0,2,0,0,0,0,0,2
 "West End                      ",2023,4524,"Windshield Obstructions and Wipers.",2,0,0,0,0,0,0,0,0,0,0,0,2
-"Westwood                      ",2023,9498,"302 (Mental)",1,1,1,1,0,0,0,0,0,1,0,0,5
+"Westwood                      ",2023,9498,"302 (Mental)",1,1,1,1,0,0,0,0,0,1,1,0,6
 "Westwood                      ",2022,9498,"302 (Mental)",0,1,0,0,0,0,1,2,0,0,1,0,5
 "Westwood                      ",2021,9498,"302 (Mental)",1,1,1,1,0,0,0,0,0,1,0,0,5
 "Westwood                      ",2020,9498,"302 (Mental)",0,0,0,0,0,0,1,1,0,1,1,0,4
@@ -4200,6 +4200,7 @@ Neighborhood,Year,Section,Description,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,No
 "Westwood                      ",2022,9998,Overdose,1,0,1,0,0,1,0,0,0,0,0,0,3
 "Westwood                      ",2021,9998,Overdose,0,2,1,0,0,1,1,0,1,1,0,0,7
 "Westwood                      ",2020,9998,Overdose,0,0,1,1,1,0,2,1,1,0,2,0,9
+"Westwood                      ",2023,9997,"Overdose Death",0,0,0,0,0,0,0,0,0,0,1,0,1
 "Westwood                      ",2022,9997,"Overdose Death",0,0,0,0,0,0,2,0,0,0,0,0,2
 "Westwood                      ",2023,13(a)(32),"Paraphernalia - Use or Possession",0,0,0,0,2,0,0,0,0,0,0,0,2
 "Westwood                      ",2021,13(a)(32),"Paraphernalia - Use or Possession",2,0,2,0,0,0,2,0,0,2,0,2,10
