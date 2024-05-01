@@ -6,4 +6,5 @@ image: assets/images/Zone6Shield.jpg
 lead: Mark Howe
 url: 
 ---
-</Zone6>
+
+[**Valuable Links**](/Zone6) 
