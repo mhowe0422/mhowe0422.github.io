@@ -2,9 +2,8 @@
 layout: project
 title: Zone 6 Links
 description: 
-image: <img src="assets/images/Zone6Shield.jpg" width="200" height="100">
+image: assets/images/Zone6Shield.jpg
 lead: Mark Howe
-url: 
+url: Zone6/index.html 
 ---
 
-[**Valuable Links**](/Zone6) 
