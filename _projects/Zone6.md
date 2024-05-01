@@ -4,6 +4,6 @@ title: Zone 6 Links
 description: 
 image: assets/images/Zone6Shield.jpg
 lead: Mark Howe
-url: Zone6/index.html 
+url: 
 ---
-
+</Zone6>
